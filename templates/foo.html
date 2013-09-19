@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <title>Where's my GRT bus?</title>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js" ></script>
+    <script>
+      $(function() {
+        if (navigator.geolocation) {
+          var timeoutVal = 10 * 1000 * 1000;
+          navigator.geolocation.getCurrentPosition(
+          displayPosition, 
+          displayError,
+          { enableHighAccuracy: true, timeout: timeoutVal, maximumAge: 0 }
+          );
+        }
+        else {
+          alert("Geolocation is not supported by this browser");
+        }
+
+        function pad(n, width, z) {
+          z = z || '0';
+          n = n + '';
+          return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+        }
+
+        if (typeof(Number.prototype.toRad) === "undefined") {
+          Number.prototype.toRad = function() {
+            return this * Math.PI / 180;
+          }
+        }
+
+        function dist(lat1, lon1, lat2, lon2) {
+          var R = 6371; // km
+          var dLat = (lat2-lat1).toRad();
+          var dLon = (lon2-lon1).toRad();
+          var lat1 = parseFloat(lat1).toRad();
+          var lat2 = parseFloat(lat2).toRad();
+
+          var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+          Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2); 
+          var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
+          var d = R * c;
+          return d;
+        }
+
+        function displayPosition(position) {
+          var date = new Date();
+          $.post( "/nextbus", { lat: position.coords.latitude, lon: position.coords.longitude, time: (pad(date.getHours(), 2) + ":" + pad(date.getMinutes(), 2) + ":" + pad(date.getSeconds(), 2)), weekday: date.getDay() })
+          .done(function( data ) {
+            var json = $.parseJSON(data);
+            var a = $("#response");
+            a.empty();
+            $.each(json, function (index, stop_data) {
+              var d = dist(position.coords.latitude, position.coords.longitude, stop_data.lat, stop_data.lon);
+              a.append($("<h2>" + stop_data.stop_name + " (" + stop_data.stop_id + ") (" + d.toFixed(2) + " km away)</h2>"));
+              $.each(stop_data.upcoming, function (index, upcoming) {
+                a.append($("<div><span>" + upcoming.time + "</span> - <b>" + upcoming.route + "</b></div>"));
+              });
+            });
+            //$("#response").text();
+          })
+          .error(function( data) {
+            alert("error");
+          });
+        }
+
+        function displayError(error) {
+          var errors = { 
+            1: 'Permission denied',
+            2: 'Position unavailable',
+            3: 'Request timeout'
+          };
+          $("#response").text("Error: " + errors[error.code]);
+        }
+      });
+    </script>
+  </head>
+  <body>
+    <div id="response">Loading...</div>
+  </body>
+</html>
+
