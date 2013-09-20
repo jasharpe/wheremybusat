@@ -5,6 +5,7 @@ import json
 import csv
 import itertools
 import collections
+import os
 
 app = Flask(__name__)
 
@@ -19,10 +20,10 @@ def read_csv_file_with_header(name):
     output.append(labelled_row)
   return output
 
-trips = read_csv_file_with_header("GRT_GTFS/trips.txt")
+trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
 trip_map = {trip['trip_id'] : trip for trip in trips}
-stops = read_csv_file_with_header("GRT_GTFS/stops.txt")
-stop_times = read_csv_file_with_header("GRT_GTFS/stop_times.txt")
+stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
+stop_times = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stop_times.txt"))
 stop_time_map = collections.defaultdict(list)
 for stop_time in stop_times:
   stop_time_map[stop_time['stop_id']].append(stop_time)
