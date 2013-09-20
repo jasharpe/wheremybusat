@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Stops</title>
+  </head>
+  <body>
+    <div><a href="/">Closest stops</a></div>
+    {% for stop in stops %}
+    <div>
+      <a href="/stop/{{ stop.stop_id }}">{{ stop.stop_id }}</a> - {{ stop.stop_name }}
+    </div>
+    {% endfor %}
+  </body>
+</html>

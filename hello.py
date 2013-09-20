@@ -23,6 +23,10 @@ def read_csv_file_with_header(name):
 trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
 trip_map = {trip['trip_id'] : trip for trip in trips}
 stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
+stop_map = {}
+for stop in stops:
+  stop_map[stop['stop_id']] = stop
+sorted_stops = sorted(stops, key=lambda stop: stop['stop_id'])
 stop_times = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stop_times.txt"))
 stop_time_map = collections.defaultdict(list)
 for stop_time in stop_times:
@@ -35,24 +39,41 @@ print "Ready!"
 def main():
   return render_template("foo.html")
 
+@app.route("/stop/<int:stop_id>")
+def stop_handler(stop_id):
+  return render_template("foo.html", stop_id=stop_id)
+
+@app.route("/stops")
+def stops_handler():
+  return render_template("stops.html", stops=sorted_stops)
+
+@app.route("/nextbus_stop", methods=["POST"])
+def nextbus_stop():
+  time = request.form['time']
+  weekday = int(request.form['weekday'])
+  stop_id = request.form['stop_id']
+  return json.dumps(get_stop_data([stop_map[stop_id]], time, weekday))
+
 @app.route("/nextbus", methods=["POST"])
-def stop():
+def nextbus():
   lat = float(request.form['lat'])
   lon = float(request.form['lon'])
   time = request.form['time']
   weekday = int(request.form['weekday'])
+  dist_sorted_stops = sorted(stops, key=lambda stop: (float(stop["stop_lat"]) - lat) ** 2 + (float(stop["stop_lon"]) - lon) ** 2)
+
+  return json.dumps(get_stop_data(dist_sorted_stops[:5], time, weekday))
+
+def get_stop_data(stops, time, weekday):
   if weekday in [1, 2, 3, 4, 5]:
     schedule = "13FALL-All-Weekday-05"
   elif weekday == 6:
     schedule = "13FALL-All-Saturday-03"
   else:
     schedule = "13FALL-All-Sunday-03"
-  min_dist = -1
-  min_stop = "UNKNOWN"
-  min_stop_id = 0
-  sorted_stops = sorted(stops, key=lambda stop: (float(stop["stop_lat"]) - lat) ** 2 + (float(stop["stop_lon"]) - lon) ** 2)
-  closest_stop_data = []
-  for stop in sorted_stops[:5]:
+
+  stop_datas = []
+  for stop in stops:
     stop_name = stop["stop_name"]
     stop_id = stop["stop_id"]
 
@@ -71,9 +92,10 @@ def stop():
       upcomings.append(upcoming)
 
     stop_data = {'stop_name' : stop_name, 'stop_id' : stop_id, 'upcoming' : upcomings, 'lat' : stop['stop_lat'], 'lon' : stop['stop_lon']}
-    closest_stop_data.append(stop_data)
-
-  return json.dumps(closest_stop_data)
+    stop_datas.append(stop_data)
+  
+  return stop_datas
 
 if __name__ == "__main__":
-  app.run(debug=True, host="0.0.0.0")
+  #app.run(debug=True, host="0.0.0.0")
+  app.run(debug=True)
