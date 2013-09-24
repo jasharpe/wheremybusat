@@ -10,6 +10,8 @@ import heapq
 import math
 
 app = Flask(__name__)
+g = {}
+print g
 
 def read_csv_file_with_header(name):
   reader = csv.reader(open(name))
@@ -23,9 +25,9 @@ def read_csv_file_with_header(name):
   return output
 
 def initialize():
-  global trips, trip_map, stops, stop_map, sorted_stops, stop_times, stop_time_map
-  trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
-  trip_map = {trip['trip_id'] : trip for trip in trips}
+  global trip_map, stops, stop_map, sorted_stops, stop_times, stop_time_map
+  g['trips'] = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
+  trip_map = {trip['trip_id'] : trip for trip in g['trips']}
   stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
   stop_map = {}
   for stop in stops:
@@ -41,6 +43,7 @@ def initialize():
 
 @app.route("/")
 def main():
+  print len(g)
   return render_template("foo.html")
 
 @app.route("/stop/<int:stop_id>")
