@@ -10,13 +10,6 @@ import heapq
 import math
 
 app = Flask(__name__)
-try:
-  global g
-  print g
-except NameError:
-  global g
-  g = {}
-print g
 
 def read_csv_file_with_header(name):
   reader = csv.reader(open(name))
@@ -30,9 +23,9 @@ def read_csv_file_with_header(name):
   return output
 
 def initialize():
-  global trip_map, stops, stop_map, sorted_stops, stop_times, stop_time_map
-  g['trips'] = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
-  trip_map = {trip['trip_id'] : trip for trip in g['trips']}
+  global trips, trip_map, stops, stop_map, sorted_stops, stop_times, stop_time_map
+  trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
+  trip_map = {trip['trip_id'] : trip for trip in trips}
   stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
   stop_map = {}
   for stop in stops:
@@ -46,9 +39,10 @@ def initialize():
     value.sort(key=lambda stop_time: stop_time['arrival_time'])
   print "Ready!"
 
+initialize()
+
 @app.route("/")
 def main():
-  print len(g)
   return render_template("foo.html")
 
 @app.route("/stop/<int:stop_id>")
@@ -132,6 +126,5 @@ def get_stop_data(stops, time, weekday):
   return stop_datas
 
 if __name__ == "__main__":
-  initialize()
   #app.run(debug=True, host="0.0.0.0")
   app.run(debug=True)
