@@ -59,9 +59,15 @@
           $.each(json, function (index, stop_data) {
             if (position) {
               var d = dist(position.coords.latitude, position.coords.longitude, stop_data.lat, stop_data.lon);
-              a.append($("<h2>" + stop_data.stop_name + " (" +
-                stop_data.stop_id + ") (" + d.toFixed(2) +
-                " km away)</h2>"));
+              if (d < 1) {
+                a.append($("<h2>" + stop_data.stop_name + " (" +
+                  stop_data.stop_id + ") (" + (d * 1000).toFixed(0) +
+                  "m)</h2>"));
+              } else {
+                a.append($("<h2>" + stop_data.stop_name + " (" +
+                  stop_data.stop_id + ") (" + d.toFixed(2) +
+                  "km)</h2>"));
+              }
             } else {
               a.append($("<h2>" + stop_data.stop_name + " (" +
                 stop_data.stop_id + ")</h2>"));
@@ -76,7 +82,7 @@
           var date = new Date();
           $.post( "/nextbus", { lat: position.coords.latitude, lon: position.coords.longitude, time: (pad(date.getHours(), 2) + ":" + pad(date.getMinutes(), 2) + ":" + pad(date.getSeconds(), 2)), weekday: date.getDay() })
           .done(function( data ) {
-            populate(data);
+            populate(data, position);
           })
           .error(function( data) {
             alert("error");

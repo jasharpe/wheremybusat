@@ -6,6 +6,8 @@ import csv
 import itertools
 import collections
 import os
+import heapq
+import math
 
 app = Flask(__name__)
 
@@ -43,9 +45,14 @@ def main():
 def stop_handler(stop_id):
   return render_template("foo.html", stop_id=stop_id)
 
+precomputed_stops = None
+
 @app.route("/stops")
 def stops_handler():
-  return render_template("stops.html", stops=sorted_stops)
+  global precomputed_stops
+  if precomputed_stops is None:
+    precomputed_stops = render_template("stops.html", stops=sorted_stops)
+  return precomputed_stops
 
 @app.route("/nextbus_stop", methods=["POST"])
 def nextbus_stop():
@@ -54,15 +61,33 @@ def nextbus_stop():
   stop_id = request.form['stop_id']
   return json.dumps(get_stop_data([stop_map[stop_id]], time, weekday))
 
+# Returns distance between points on the earth in km.
+# From http://www.johndcook.com/python_longitude_latitude.html
+def distance_on_unit_sphere(lat1, long1, lat2, long2):
+    degrees_to_radians = math.pi / 180.0
+    phi1 = (90.0 - lat1) * degrees_to_radians
+    phi2 = (90.0 - lat2) * degrees_to_radians
+    theta1 = long1 * degrees_to_radians
+    theta2 = long2 * degrees_to_radians
+    cos = (math.sin(phi1) * math.sin(phi2) * math.cos(theta1 - theta2) + 
+           math.cos(phi1) * math.cos(phi2))
+    arc = math.acos(cos)
+    return arc * 6373
+
+def dist_func(lat, lon):
+  def func(stop):
+    return distance_on_unit_sphere(float(stop["stop_lat"]), float(stop["stop_lon"]), lat, lon)
+  return func
+
 @app.route("/nextbus", methods=["POST"])
 def nextbus():
   lat = float(request.form['lat'])
   lon = float(request.form['lon'])
   time = request.form['time']
   weekday = int(request.form['weekday'])
-  dist_sorted_stops = sorted(stops, key=lambda stop: (float(stop["stop_lat"]) - lat) ** 2 + (float(stop["stop_lon"]) - lon) ** 2)
+  closest_stops = heapq.nsmallest(5, stops, key=dist_func(lat, lon))
 
-  return json.dumps(get_stop_data(dist_sorted_stops[:5], time, weekday))
+  return json.dumps(get_stop_data(closest_stops, time, weekday))
 
 def get_stop_data(stops, time, weekday):
   if weekday in [1, 2, 3, 4, 5]:
@@ -97,5 +122,6 @@ def get_stop_data(stops, time, weekday):
   return stop_datas
 
 if __name__ == "__main__":
+  print "Running app!"
   #app.run(debug=True, host="0.0.0.0")
   app.run(debug=True)
