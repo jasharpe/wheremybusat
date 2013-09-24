@@ -10,7 +10,12 @@ import heapq
 import math
 
 app = Flask(__name__)
-g = {}
+try:
+  global g
+  print g
+except NameError:
+  global g
+  g = {}
 print g
 
 def read_csv_file_with_header(name):
