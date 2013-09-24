@@ -22,20 +22,22 @@ def read_csv_file_with_header(name):
     output.append(labelled_row)
   return output
 
-trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
-trip_map = {trip['trip_id'] : trip for trip in trips}
-stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
-stop_map = {}
-for stop in stops:
-  stop_map[stop['stop_id']] = stop
-sorted_stops = sorted(stops, key=lambda stop: stop['stop_id'])
-stop_times = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stop_times.txt"))
-stop_time_map = collections.defaultdict(list)
-for stop_time in stop_times:
-  stop_time_map[stop_time['stop_id']].append(stop_time)
-for key, value in stop_time_map.items():
-  value.sort(key=lambda stop_time: stop_time['arrival_time'])
-print "Ready!"
+def initialize():
+  global trips, trip_map, stops, stop_map, sorted_stops, stop_times, stop_time_map
+  trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
+  trip_map = {trip['trip_id'] : trip for trip in trips}
+  stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
+  stop_map = {}
+  for stop in stops:
+    stop_map[stop['stop_id']] = stop
+  sorted_stops = sorted(stops, key=lambda stop: stop['stop_id'])
+  stop_times = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stop_times.txt"))
+  stop_time_map = collections.defaultdict(list)
+  for stop_time in stop_times:
+    stop_time_map[stop_time['stop_id']].append(stop_time)
+  for key, value in stop_time_map.items():
+    value.sort(key=lambda stop_time: stop_time['arrival_time'])
+  print "Ready!"
 
 @app.route("/")
 def main():
@@ -122,6 +124,6 @@ def get_stop_data(stops, time, weekday):
   return stop_datas
 
 if __name__ == "__main__":
-  print "Running app!"
+  initialize()
   #app.run(debug=True, host="0.0.0.0")
   app.run(debug=True)
