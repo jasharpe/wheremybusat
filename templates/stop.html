@@ -1,0 +1,15 @@
+{% extends "stop_base.html" %}
+
+{% block title %}Stop {{ stop_id }}{% endblock %}
+
+{% block scripts %}
+<script>
+  var stop_id = "{{ stop_id }}";
+</script>
+<script src="/static/stop.js"></script>
+{% endblock %}
+
+{% block links %}
+<div><a href="/">Closest stops</a></div>
+<div><a href="/stops">All stops</a></div>
+{% endblock %}
