@@ -33,11 +33,12 @@ $(function() {
 
 function on_position_response(position) {
   var date = new Date();
-  $.post("/nextbus", {
+  $.post("/nextbus/distance", {
     lat: position.coords.latitude,
     lon: position.coords.longitude,
     time: string_time(date),
-    weekday: date.getDay()
+    weekday: date.getDay(),
+    number: number
   }).done(function(stops_data_json) {
     on_stop_response(stops_data_json, position);
   }).error(function(data) {

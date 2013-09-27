@@ -2,37 +2,30 @@ from flask import Flask
 from flask import render_template
 from flask import request
 from flask import jsonify
-import json
-import csv
-import itertools
+from flask import abort
 import collections
 import os
 import heapq
-import math
+import lib
 
 app = Flask(__name__)
 
-def read_csv_file_with_header(name):
-  reader = csv.reader(open(name))
-  labels = reader.next()
-  output = []
-  for row in reader:
-    labelled_row = {}
-    for label, data in itertools.izip(labels, row):
-      labelled_row[label] = data
-    output.append(labelled_row)
-  return output
-
 def initialize():
-  global trip_map, stop_map, sorted_stops, stop_time_map
-  trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
+  global trip_map, stop_map, sorted_stops, stop_time_map, route_names
+  trips = lib.read_csv_file_with_header(os.path.join(
+    os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
+  route_names = set()
+  for trip in trips:
+    route_names.add(trip['route_id'])
   trip_map = {trip['trip_id'] : trip for trip in trips}
-  stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
+  stops = lib.read_csv_file_with_header(os.path.join(
+    os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
   stop_map = {}
   for stop in stops:
     stop_map[stop['stop_id']] = stop
   sorted_stops = sorted(stops, key=lambda stop: stop['stop_id'])
-  stop_times = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stop_times.txt"))
+  stop_times = lib.read_csv_file_with_header(os.path.join(
+    os.path.dirname(__file__), "GRT_GTFS/stop_times.txt"))
   stop_time_map = collections.defaultdict(list)
   for stop_time in stop_times:
     stop_time_map[stop_time['stop_id']].append(stop_time)
@@ -42,66 +35,8 @@ def initialize():
 
 initialize()
 
-@app.route("/")
-def main():
-  return render_template("main.html")
-
-@app.route("/stop/<int:stop_id>")
-def stop_handler(stop_id):
-  return render_template("stop.html", stop_id=stop_id)
-
-precomputed_stops = None
-
-@app.route("/stops")
-def stops_handler():
-  global precomputed_stops
-  if precomputed_stops is None:
-    precomputed_stops = render_template("stops.html", stops=sorted_stops)
-  return precomputed_stops
-
-@app.route("/nextbus_stop", methods=["POST"])
-def nextbus_stop():
-  time = request.form['time']
-  weekday = int(request.form['weekday'])
-  stop_id = request.form['stop_id']
-  return jsonify(**get_stop_data([stop_map[stop_id]], time, weekday))
-
-# Returns distance between points on the earth in km.
-# From http://www.johndcook.com/python_longitude_latitude.html
-def distance_on_unit_sphere(lat1, long1, lat2, long2):
-    degrees_to_radians = math.pi / 180.0
-    phi1 = (90.0 - lat1) * degrees_to_radians
-    phi2 = (90.0 - lat2) * degrees_to_radians
-    theta1 = long1 * degrees_to_radians
-    theta2 = long2 * degrees_to_radians
-    cos = (math.sin(phi1) * math.sin(phi2) * math.cos(theta1 - theta2) + 
-           math.cos(phi1) * math.cos(phi2))
-    arc = math.acos(cos)
-    return arc * 6373
-
-def dist_func(lat, lon):
-  def func(stop):
-    return distance_on_unit_sphere(
-        float(stop["stop_lat"]), float(stop["stop_lon"]), lat, lon)
-  return func
-
-@app.route("/nextbus", methods=["POST"])
-def nextbus():
-  lat = float(request.form['lat'])
-  lon = float(request.form['lon'])
-  time = request.form['time']
-  weekday = int(request.form['weekday'])
-  closest_stops = heapq.nsmallest(5, sorted_stops, key=dist_func(lat, lon))
-
-  return jsonify(**get_stop_data(closest_stops, time, weekday))
-
-def get_stop_data(stops, time, weekday):
-  if weekday in [1, 2, 3, 4, 5]:
-    service = "13FALL-All-Weekday-05"
-  elif weekday == 6:
-    service = "13FALL-All-Saturday-03"
-  else:
-    service = "13FALL-All-Sunday-03"
+def get_stop_data(stops, routes, time, weekday):
+  service = lib.get_service(weekday)
 
   stop_datas = []
   for stop in stops:
@@ -109,8 +44,10 @@ def get_stop_data(stops, time, weekday):
     stop_id = stop["stop_id"]
 
     def stop_time_has_service(stop_time):
-      service_id = trip_map[stop_time['trip_id']]['service_id']
-      return service_id == service
+      trip = trip_map[stop_time['trip_id']]
+      service_id = trip['service_id']
+      return (service_id == service and
+        (not routes or trip['route_id'] in routes))
     
     stop_times = filter(stop_time_has_service, stop_time_map[stop_id])
     position = 0
@@ -136,6 +73,66 @@ def get_stop_data(stops, time, weekday):
   
   return { 'stops_data': stop_datas }
 
+@app.route("/")
+def closest_handler():
+  return render_template("main.html", number=5, more=10)
+
+@app.route("/<int:number>")
+def closest_number_handler(number):
+  more = number + 5
+  if number >= 30:
+    number = 30
+    more = number
+  return render_template("main.html", number=number, more=more)
+
+@app.route("/stop/<stop_ids_string>")
+def stop_handler(stop_ids_string):
+  stop_ids = stop_ids_string.split(",")
+  if not all(stop_id in stop_map for stop_id in stop_ids):
+    abort(404)
+  return render_template(
+    "stop.html", stop_ids=stop_ids, routes=[],
+    stop_ids_string=", ".join(stop_ids))
+
+@app.route("/stop/<stop_ids_string>/<routes_string>")
+def route_stop_handler(stop_ids_string, routes_string):
+  stop_ids = stop_ids_string.split(",")
+  if not all(stop_id in stop_map for stop_id in stop_ids):
+    abort(404)
+  routes = routes_string.split(",")
+  if not all(route in route_names for route in routes):
+    abort(404)
+  return render_template(
+    "stop.html", stop_ids=stop_ids, routes=routes,
+    stop_ids_string=", ".join(stop_ids),
+    routes_string = ", ".join(routes))
+
+precomputed_stops = None
+@app.route("/stops")
+def stops_handler():
+  global precomputed_stops
+  if precomputed_stops is None:
+    precomputed_stops = render_template("stops.html", stops=sorted_stops)
+  return precomputed_stops
+
+@app.route("/nextbus/ids", methods=["POST"])
+def nextbus_stop():
+  time = request.form['time']
+  weekday = int(request.form['weekday'])
+  stop_ids = request.form.getlist('stop_ids[]')
+  routes = request.form.getlist('routes[]')
+  return jsonify(**get_stop_data(
+    [stop_map[stop_id] for stop_id in stop_ids], routes, time, weekday))
+
+@app.route("/nextbus/distance", methods=["POST"])
+def nextbus():
+  lat = float(request.form['lat'])
+  lon = float(request.form['lon'])
+  time = request.form['time']
+  weekday = int(request.form['weekday'])
+  number = int(request.form['number'])
+  closest_stops = heapq.nsmallest(number, sorted_stops, key=lib.dist_func(lat, lon))
+  return jsonify(**get_stop_data(closest_stops, [], time, weekday))
+
 if __name__ == "__main__":
-  #app.run(debug=True, host="0.0.0.0")
   app.run(debug=True)
