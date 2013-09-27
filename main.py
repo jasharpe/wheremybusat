@@ -24,7 +24,7 @@ def read_csv_file_with_header(name):
   return output
 
 def initialize():
-  global trips, trip_map, stops, stop_map, sorted_stops, stop_times, stop_time_map
+  global trip_map, stop_map, sorted_stops, stop_time_map
   trips = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/trips.txt"))
   trip_map = {trip['trip_id'] : trip for trip in trips}
   stops = read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/stops.txt"))
@@ -91,7 +91,7 @@ def nextbus():
   lon = float(request.form['lon'])
   time = request.form['time']
   weekday = int(request.form['weekday'])
-  closest_stops = heapq.nsmallest(5, stops, key=dist_func(lat, lon))
+  closest_stops = heapq.nsmallest(5, sorted_stops, key=dist_func(lat, lon))
 
   return jsonify(**get_stop_data(closest_stops, time, weekday))
 
