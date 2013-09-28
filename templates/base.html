@@ -17,6 +17,10 @@
       ga('send', 'pageview');
 
     </script>
+    <div class="padded">
+      {% block closest_link %}<a href="/">Closest Stops</a>{% endblock %} |
+      {% block all_stops_link %}<a href="/allstops">All Stops</a>{% endblock %}
+    </div>
     {% block body %}{% endblock %}
   </body>
 </html>

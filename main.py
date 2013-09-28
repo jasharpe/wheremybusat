@@ -75,7 +75,7 @@ def get_stop_data(stops, routes, time, weekday):
 
 @app.route("/")
 def closest_handler():
-  return render_template("main.html", number=5, more=10)
+  return render_template("closest.html", number=5, more=10)
 
 @app.route("/<int:number>")
 def closest_number_handler(number):
@@ -83,18 +83,18 @@ def closest_number_handler(number):
   if number >= 30:
     number = 30
     more = number
-  return render_template("main.html", number=number, more=more)
+  return render_template("closest.html", number=number, more=more)
 
-@app.route("/stop/<stop_ids_string>")
+@app.route("/stops/<stop_ids_string>")
 def stop_handler(stop_ids_string):
   stop_ids = stop_ids_string.split(",")
   if not all(stop_id in stop_map for stop_id in stop_ids):
     abort(404)
   return render_template(
-    "stop.html", stop_ids=stop_ids, routes=[],
+    "stops.html", stop_ids=stop_ids, routes=[],
     stop_ids_string=", ".join(stop_ids))
 
-@app.route("/stop/<stop_ids_string>/<routes_string>")
+@app.route("/stops/<stop_ids_string>/<routes_string>")
 def route_stop_handler(stop_ids_string, routes_string):
   stop_ids = stop_ids_string.split(",")
   if not all(stop_id in stop_map for stop_id in stop_ids):
@@ -103,16 +103,16 @@ def route_stop_handler(stop_ids_string, routes_string):
   if not all(route in route_names for route in routes):
     abort(404)
   return render_template(
-    "stop.html", stop_ids=stop_ids, routes=routes,
+    "stops.html", stop_ids=stop_ids, routes=routes,
     stop_ids_string=", ".join(stop_ids),
     routes_string = ", ".join(routes))
 
 precomputed_stops = None
-@app.route("/stops")
+@app.route("/allstops")
 def stops_handler():
   global precomputed_stops
   if precomputed_stops is None:
-    precomputed_stops = render_template("stops.html", stops=sorted_stops)
+    precomputed_stops = render_template("all_stops.html", stops=sorted_stops)
   return precomputed_stops
 
 @app.route("/nextbus/ids", methods=["POST"])

@@ -49,3 +49,9 @@ function dist_string(position, lat, lon) {
     return d.toFixed(2) + "km";
   }
 }
+
+// Returns true if str contains a positive integer.
+function is_positive_int(str) {
+  var n = ~~Number(str);
+  return String(n) === str && n > 0;
+}
