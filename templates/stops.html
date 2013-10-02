@@ -18,16 +18,4 @@
 <script src="/static/stops.js"></script>
 {% endblock %}
 
-{% block summary %}
-<form class="padded" style="width:300px;" id="route_filter_form">
-  <div><label for="route_filter">Enter comma-separated route numbers to show only those routes. (e.g. "7", or "8,23")</label></div><input type="text" id="route_filter" /><span id="error"></span>
-  <div><input type="submit" value="Filter" /></div>
-</form>
-
-{% if routes %}
-<div class="padded">
-  <i>Showing stop times for routes {{ routes_string }}</i>
-  <a href="/stops/{{ ','.join(stop_ids) }}">X</a>
-</div>
-{% endif %}
-{% endblock %}
+{% block no_routes_link %}/stops/{{ ','.join(stop_ids) }}{% endblock %}

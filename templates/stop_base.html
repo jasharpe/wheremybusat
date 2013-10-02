@@ -7,7 +7,28 @@
 {% endblock %}
 
 {% block body %}
-{% block summary %}{% endblock %}
+
+{% block summary %}
+<form class="padded" style="width:300px;" id="route_filter_form">
+  <div>
+    <label for="route_filter">
+      Enter comma-separated route numbers to show only those
+      routes. (e.g. "7", or "8, 23")
+    </label>
+  </div>
+  <input type="text" id="route_filter" />
+  <span id="error"></span>
+  <div> <input type="submit" value="Filter" /></div>
+</form>
+
+{% if routes %}
+<div class="padded">
+  <i>Showing stop times for routes {{ ', '.join(routes) }}</i>
+  <a href="{% block no_routes_link %}{% endblock %}">X</a>
+</div>
+{% endif %}
+{% endblock %}
+
 <div id="response">Loading...</div>
 {% block footer %}{% endblock %}
 {% endblock %}

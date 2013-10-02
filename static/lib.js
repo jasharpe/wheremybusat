@@ -55,3 +55,22 @@ function is_positive_int(str) {
   var n = ~~Number(str);
   return String(n) === str && n > 0;
 }
+
+function route_filter_form(url_function) {
+  $("#route_filter_form").submit(function(event) {
+    event.preventDefault();
+    var route_filter = $("#route_filter").val();
+    var routes = route_filter.split(/\s*,\s*/);
+    var valid = true;
+    _.each(routes, function (route) {
+      if (!is_positive_int(route)) {
+        valid = false;
+      }
+    });
+    if (!valid) {
+      $("#error").text("Invalid route filter.");
+      return;
+    }
+    window.location = url_function(routes);
+  });
+}
