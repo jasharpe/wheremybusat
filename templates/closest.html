@@ -1,0 +1,30 @@
+{% extends "stop_base.html" %}
+
+{% block title %}Closest{% endblock %}
+
+{% block scripts %}
+<script>
+  var number = {{ number }};
+  var routes = [
+  {% for route in routes %}
+    "{{ route }}",
+  {% endfor %}
+  ];</script>
+<script src="/static/closest.js"></script>
+{% endblock %}
+
+{% block closest_link %}Closest Stops{% endblock %}
+
+{% block footer %}
+{% if more > number %}
+<div>
+  {% if routes %}
+  <a href="/closest/{{ more }}/{{ ','.join(routes) }}">More</a>
+  {% else %}
+  <a href="/closest/{{ more }}">More</a>
+  {% endif %}
+</div>
+{% endif %}
+{% endblock %}
+
+{% block no_routes_link %}/closest/{{ number }}{% endblock %}

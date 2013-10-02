@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}All Stops{% endblock %}
+
+{% block all_stops_link %}All Stops{% endblock %}
+
+{% block body %}
+{% for stop in stops %}
+<div>
+  <a href="/stops/{{ stop.stop_id }}">{{ stop.stop_id }}</a> -
+  {{ stop.stop_name }}
+  ({{ ', '.join(sorted(stop_id_to_route_ids_map[stop.stop_id], key=int)) }})
+</div>
+{% endfor %}
+{% endblock body %}
