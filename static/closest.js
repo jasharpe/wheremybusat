@@ -44,6 +44,7 @@ function on_position_response(position) {
     lon: position.coords.longitude,
     time: string_time(date),
     weekday: date.getDay(),
+    date: string_date(date),
     number: number,
     routes: routes,
   }).done(function(stops_data_json) {

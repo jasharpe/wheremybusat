@@ -32,10 +32,5 @@ def dist_func(lat, lon):
         float(stop["stop_lat"]), float(stop["stop_lon"]), lat, lon)
   return func
 
-def get_service(weekday):
-  if weekday in [1, 2, 3, 4, 5]:
-    return "13FALL-All-Weekday-05"
-  elif weekday == 6:
-    return "13FALL-All-Saturday-03"
-  else:
-    return "13FALL-All-Sunday-03"
+def get_service(weekday, date, weekday_to_schedules_map, date_to_schedules_map):
+  return (weekday_to_schedules_map[weekday] - date_to_schedules_map[date]['excluded']) | date_to_schedules_map[date]['included']

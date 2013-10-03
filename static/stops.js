@@ -11,6 +11,7 @@ $(function() {
   $.post("/nextbus/ids", {
     time: string_time(date),
     weekday: date.getDay(),
+    date: string_date(date),
     stop_ids: stop_ids,
     routes: routes
   }).done(

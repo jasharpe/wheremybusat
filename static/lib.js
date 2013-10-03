@@ -36,6 +36,12 @@ function string_time(date) {
           pad(date.getSeconds(), 2));
 }
 
+function string_date(date) {
+  return (date.getFullYear() +
+          pad(date.getMonth(), 2) +
+          pad(date.getDate(), 2));
+}
+
 // Returns the distance between position (a return value from
 // navigator.geolocation.getCurrentPosition) and (lat, lon) as a string. If the
 // distance is less than a kilometre, returns the distance in metres followed
