@@ -134,6 +134,10 @@ def stops_handler():
         stop_id_to_route_ids_map=stop_id_to_route_ids_map)
   return precomputed_stops
 
+@app.route("/about")
+def about_handler():
+  return render_template("about.html")
+
 @app.route("/nextbus/ids", methods=["POST"])
 def nextbus_stop():
   time = request.form['time']

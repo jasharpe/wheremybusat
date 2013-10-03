@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}About{% endblock %}
+
+{% block body %}
+<h2>Where My Bus At?</h2>
+
+<p>
+This site uses <a href="http://www.regionofwaterloo.ca/en/regionalGovernment/GRT_GTFSdata.asp">publicly available transit schedule data</a> to provide stop
+information for Grand River Transit, the transit provider for
+Kitchener-Waterloo. On the main page, it uses HTML5's geolocation APIs to find
+and display the schedules for the bus stops closest to you. This means instead
+of paying to text GRT and get stop times, or looking up large PDFs online, you
+can just go to <a href="http://wheremybusat.ca">wheremybusat.ca</a> on your
+phone while standing at a bus stop, and instantly see all the upcoming
+scheduled arrivals at your stop.
+
+<p>
+The source code for this website is available on
+<a href="https://github.com/jasharpe/wheremybusat">github</a>.
+
+<p>
+This site contains information provided by the Regional Municipality of
+Waterloo under licence.
+
+<p>
+Please send any suggestions, comments, or bug reports to
+<a href="mailto:mgmt@wheremybusat.ca">mgmt@wheremybusat.ca</a>.
+{% endblock %}
+
+{% block about_link %}
+{% endblock %}

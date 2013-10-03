@@ -9,16 +9,16 @@
 {% block body %}
 
 {% block summary %}
-<form class="padded" style="width:300px;" id="route_filter_form">
+<form class="padded" id="route_filter_form">
   <div>
     <label for="route_filter">
-      Enter comma-separated route numbers to show only those
-      routes. (e.g. "7", or "8, 23")
+      Enter comma-separated route numbers to show only those routes. (e.g. "7",
+      or "8, 23")
     </label>
   </div>
   <input type="text" id="route_filter" />
-  <span id="error"></span>
-  <div> <input type="submit" value="Filter" /></div>
+  <input type="submit" value="Filter" />
+  <div><span class="error" id="route_error"></span></div>
 </form>
 
 {% if routes %}
@@ -30,5 +30,18 @@
 {% endblock %}
 
 <div id="response">Loading...</div>
-{% block footer %}{% endblock %}
+{% block more %}{% endblock %}
+
+<form class="padded" id="stop_filter_form">
+  <div>
+    <label for="stop_filter">
+      Enter comma-separated stop numbers to show those stops. (e.g. "2456", or
+      "2456, 2457")
+    </label>
+  </div>
+  <input type="text" id="stop_filter" />
+  <input type="submit" value="Go" />
+  <div><span class="error" id="stop_error"></span></div>
+</form>
+
 {% endblock %}

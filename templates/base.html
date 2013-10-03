@@ -19,8 +19,13 @@
     </script>
     <div class="padded">
       {% block closest_link %}<a href="/">Closest Stops</a>{% endblock %} |
-      {% block all_stops_link %}<a href="/allstops">All Stops</a>{% endblock %}
+      {% block all_stops_link %}<a href="/allstops">All Stops</a>{% endblock %} 
     </div>
     {% block body %}{% endblock %}
+    {% block about_link %}
+    <div class="padded">
+      <a href="/about">About</a>
+    </div>
+    {% endblock %}
   </body>
 </html>

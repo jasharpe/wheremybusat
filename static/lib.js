@@ -68,9 +68,28 @@ function route_filter_form(url_function) {
       }
     });
     if (!valid) {
-      $("#error").text("Invalid route filter.");
+      $("#route_error").text("Invalid route filter.");
       return;
     }
     window.location = url_function(routes);
+  });
+}
+
+function stop_filter_form() {
+  $("#stop_filter_form").submit(function(event) {
+    event.preventDefault();
+    var stop_filter = $("#stop_filter").val();
+    var stops = stop_filter.split(/\s*,\s*/);
+    var valid = true;
+    _.each(stops, function (stop) {
+      if (!is_positive_int(stop)) {
+        valid = false;
+      }
+    });
+    if (!valid) {
+      $("#stop_error").text("Invalid stop filter.");
+      return;
+    }
+    window.location = "/stops/" + stops.join(",");
   });
 }

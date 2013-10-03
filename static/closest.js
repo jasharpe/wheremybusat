@@ -31,8 +31,10 @@ $(function() {
   }
 
   route_filter_form(function(routes) {
-    return "/closest/" + number + "/" + routes.join();
+    return "/closest/" + number + "/" + routes.join(",");
   });
+
+  stop_filter_form();
 });
 
 function on_position_response(position) {

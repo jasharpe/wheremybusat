@@ -21,8 +21,10 @@ $(function() {
     });
 
   route_filter_form(function(routes) {
-    return "/stops/" + stop_ids.join() + "/" + routes.join();
+    return "/stops/" + stop_ids.join(",") + "/" + routes.join(",");
   });
+
+  stop_filter_form();
 });
 
 function on_stop_response(stops_data) {
