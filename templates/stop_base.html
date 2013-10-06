@@ -21,17 +21,6 @@
   <div><span class="error" id="route_error"></span></div>
 </form>
 
-{% if routes %}
-<div class="padded">
-  <i>Showing stop times for routes {{ ', '.join(routes) }}</i>
-  <a href="{% block no_routes_link %}{% endblock %}">X</a>
-</div>
-{% endif %}
-{% endblock %}
-
-<div id="response">Loading...</div>
-{% block more %}{% endblock %}
-
 <form class="padded" id="stop_filter_form">
   <div>
     <label for="stop_filter">
@@ -43,5 +32,16 @@
   <input type="submit" value="Go" />
   <div><span class="error" id="stop_error"></span></div>
 </form>
+
+{% if routes %}
+<div class="padded">
+  <i>Showing stop times for routes {{ ', '.join(routes) }}</i>
+  <a href="{% block no_routes_link %}{% endblock %}">X</a>
+</div>
+{% endif %}
+{% endblock %}
+
+<div id="response">Loading...</div>
+{% block more %}{% endblock %}
 
 {% endblock %}

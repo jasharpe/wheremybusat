@@ -3,7 +3,11 @@ var STOPS_TEMPLATE = _.template(
     "<h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>) " +
     "(<%- dist_string(position, stop_data.lat, stop_data.lon) %>)</h2>" +
     "<% _.each(stop_data.upcoming, function(time) { %>" +
-    "<div><span><%- time.time %></span> - <b><%- time.route %></b></div>" +
+    "<div><span><%- time.time %></span> - <b><%- time.route %></b>" +
+    "</div>" +
+    "<% }); %>" +
+    "<% _.each(stop_data.annotations, function(annotation) { %>" +
+    "<div><i><%- annotation %></i></div>" +
     "<% }); %>" +
     "<% }); %>");
 

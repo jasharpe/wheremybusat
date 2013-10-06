@@ -24,12 +24,24 @@ def initialize():
 
   global weekday_to_schedules_map
   weekday_to_schedules_map = collections.defaultdict(set)
+  global service_id_to_days_map
+  service_id_to_days_map = collections.defaultdict(list)
   for calendar_entry in calendar:
     service_id = calendar_entry['service_id']
-    for day, key in enumerate(['sunday', 'monday', 'tuesday',
-      'wednesday', 'thursday', 'friday', 'saturday']):
-      if int(calendar_entry[key]):
+    for day, key in enumerate(['Sunday', 'Monday', 'Tuesday',
+      'Wednesday', 'Thursday', 'Friday', 'Saturday']):
+      if int(calendar_entry[key.lower()]):
+        service_id_to_days_map[service_id].append(key)
         weekday_to_schedules_map[day].add(service_id)
+
+  global special_service_id_to_days_map
+  special_service_id_to_days_map = {}
+  for (service_id, days) in service_id_to_days_map.items():
+    if set(days) not in [
+      set(['Saturday']),
+      set(['Sunday']),
+      set(['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'])]:
+      special_service_id_to_days_map[service_id] = days
 
   global date_to_schedules_map
   date_to_schedules_map = collections.defaultdict(lambda: collections.defaultdict(set))
@@ -82,7 +94,7 @@ def get_stop_data(stops, routes, time, weekday, date):
   for stop in stops:
     stop_name = stop["stop_name"]
     stop_id = stop["stop_id"]
-
+    
     def stop_time_has_service(stop_time):
       trip = trip_id_to_trip_map[stop_time['trip_id']]
       service_id = trip['service_id']
@@ -97,10 +109,23 @@ def get_stop_data(stops, routes, time, weekday, date):
         break
 
     upcomings = []
+    special_service_ids = set()
+    service_id_to_asterisks_map = {}
+    annotations = []
     for stop_time in stop_times[position:position + 5]:
+      service_id = trip_id_to_trip_map[stop_time['trip_id']]['service_id']
       upcoming = {}
       upcoming['time'] = stop_time['departure_time']
       upcoming['route'] = trip_id_to_trip_map[stop_time['trip_id']]['trip_headsign']
+      if service_id in special_service_id_to_days_map:
+        days = special_service_id_to_days_map[service_id]
+        if not service_id in service_id_to_asterisks_map:
+          asterisk = '*' * (len(service_id_to_asterisks_map) + 1)
+          service_id_to_asterisks_map[service_id] = asterisk
+          annotations.append(asterisk + ' ' + ', '.join(days) + " only")
+        upcoming['asterisk'] = service_id_to_asterisks_map[service_id]
+      else:
+        upcoming['asterisk'] = ''
       upcomings.append(upcoming)
 
     stop_datas.append({
@@ -108,6 +133,7 @@ def get_stop_data(stops, routes, time, weekday, date):
         'stop_id' : stop_id,
         'route_ids' : sorted(stop_id_to_route_ids_map[stop_id]),
         'upcoming' : upcomings,
+        'annotations' : annotations,
         'lat' : stop['stop_lat'],
         'lon' : stop['stop_lon'],
     })

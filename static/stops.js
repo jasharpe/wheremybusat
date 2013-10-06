@@ -2,11 +2,17 @@ var STOPS_TEMPLATE = _.template(
     "<% _.each(stops_data, function(stop_data) { %>" +
     "<h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>)</h2>" +
     "<% _.each(stop_data.upcoming, function(time) { %>" +
-    "<div><span><%- time.time %></span> - <b><%- time.route %></b></div>" +
+    "<div><span><%- time.time %></span> - <b><%- time.route %></b>" +
+    "<%- time.asterisk %>" +
+    "</div>" +
+    "<% }); %>" +
+    "<% _.each(stop_data.annotations, function(annotation) { %>" +
+    "<div><i><%- annotation %></i></div>" +
     "<% }); %>" +
     "<% }); %>");
 
 $(function() {
+  //var date = new Date(2013, 9, 4, 19, 24, 0);
   var date = new Date();
   $.post("/nextbus/ids", {
     time: string_time(date),
