@@ -1,16 +1,3 @@
-var STOPS_TEMPLATE = _.template(
-    "<% _.each(stops_data, function(stop_data) { %>" +
-    "<h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>) " +
-    "(<%- dist_string(position, stop_data.lat, stop_data.lon) %>)</h2>" +
-    "<% _.each(stop_data.upcoming, function(time) { %>" +
-    "<div><span><%- time.time %></span> - <b><%- time.route %></b>" +
-    "</div>" +
-    "<% }); %>" +
-    "<% _.each(stop_data.annotations, function(annotation) { %>" +
-    "<div><i><%- annotation %></i></div>" +
-    "<% }); %>" +
-    "<% }); %>");
-
 var GET_CURRENT_POSITION_ERRORS = { 
   1: 'Permission denied',
   2: 'Position unavailable',
@@ -60,8 +47,5 @@ function on_position_response(position) {
 
 function on_stop_response(stops_data, position) {
   $("#response").html(
-      STOPS_TEMPLATE({
-        stops_data: stops_data.stops_data,
-        position: position
-      }));
+      CLOSEST_TEMPLATE({ stops_data: stops_data, position: position }));
 }

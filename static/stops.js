@@ -22,5 +22,5 @@ $(function() {
 });
 
 function on_stop_response(stops_data) {
-  $("#response").html(STOPS_TEMPLATE({'stops_data' : stops_data}));
+  $("#response").html(STOPS_TEMPLATE({ stops_data: stops_data }));
 }
