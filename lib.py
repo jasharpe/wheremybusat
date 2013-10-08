@@ -34,3 +34,19 @@ def dist_func(lat, lon):
 
 def get_service(weekday, date, weekday_to_schedules_map, date_to_schedules_map):
   return (weekday_to_schedules_map[weekday] - date_to_schedules_map[date]['excluded']) | date_to_schedules_map[date]['included']
+
+def get_service_name(weekday, date, weekday_to_schedules_map,
+    date_to_schedules_map):
+  services = get_service(weekday, date, weekday_to_schedules_map, date_to_schedules_map)
+  for service in services:
+    if "Weekday" in service:
+      return "Weekday"
+    elif "Sunday" in service and weekday != 0:
+      return "Holiday (Sunday)"
+    elif "Saturday" in service and weekday != 6:
+      return "Holiday (Saturday)"
+    elif "Saturday" in service:
+      return "Saturday"
+    elif "Sunday" in service:
+      return "Sunday"
+  return "Unknown"

@@ -90,6 +90,9 @@ def get_stop_data(stops, routes, time, weekday, date):
   service_set = lib.get_service(weekday, date, weekday_to_schedules_map,
       date_to_schedules_map)
 
+  service_name = lib.get_service_name(weekday, date, weekday_to_schedules_map,
+      date_to_schedules_map)
+
   stop_datas = []
   for stop in stops:
     stop_name = stop["stop_name"]
@@ -100,7 +103,7 @@ def get_stop_data(stops, routes, time, weekday, date):
       service_id = trip['service_id']
       return (service_id in service_set and
         (not routes or trip['route_id'] in routes))
-    
+
     stop_times = filter(stop_time_has_service, stop_id_to_stop_times_map[stop_id])
     position = 0
     for i, stop_time in enumerate(stop_times):
@@ -138,7 +141,7 @@ def get_stop_data(stops, routes, time, weekday, date):
         'lon' : stop['stop_lon'],
     })
   
-  return { 'stops_data': stop_datas }
+  return { 'stops_data': stop_datas, 'service' : service_name }
 
 @app.route("/")
 def closest_handler():

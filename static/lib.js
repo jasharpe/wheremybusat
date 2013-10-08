@@ -38,7 +38,7 @@ function string_time(date) {
 
 function string_date(date) {
   return (date.getFullYear() +
-          pad(date.getMonth(), 2) +
+          pad(date.getMonth() + 1, 2) +
           pad(date.getDate(), 2));
 }
 
