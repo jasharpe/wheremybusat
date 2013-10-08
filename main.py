@@ -81,6 +81,10 @@ def initialize():
   # Sort each list of stop times by departure time.
   for key, value in stop_id_to_stop_times_map.items():
     value.sort(key=lambda stop_time: stop_time['departure_time'])
+
+  lib.compile_templates(
+      os.path.join(os.path.dirname(__file__), "templates/js"),
+      os.path.join(os.path.dirname(__file__), "static/compiled_templates.js"))
   
   print "Finished initialization."
 

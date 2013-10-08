@@ -1,6 +1,7 @@
 import csv
 import math
 import itertools
+import os
 
 def read_csv_file_with_header(name):
   reader = csv.reader(open(name))
@@ -50,3 +51,18 @@ def get_service_name(weekday, date, weekday_to_schedules_map,
     elif "Sunday" in service:
       return "Sunday"
   return "Unknown"
+
+def compile_templates(template_dir, output_file):
+  template_files = [f for f in os.listdir(template_dir)
+                    if os.path.isfile(os.path.join(template_dir, f))]
+  with open(output_file, 'w') as output_file:
+    for template_file in template_files:
+      if not template_file.endswith(".html"):
+        raise Exception('Unexpected non-html template file: ' + template_file)
+      template_name = "{}_TEMPLATE".format(template_file[0:-5].upper())
+      output_file.write("var {} = _.template(\n".format(template_name))
+      with open(os.path.join(template_dir, template_file)) as template:
+        for line in template.readlines():
+          output_file.write("\"{}\" + \n".format(
+            line.rstrip().replace('"', '\\"')))
+      output_file.write("\"\");\n")

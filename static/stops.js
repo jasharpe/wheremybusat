@@ -1,17 +1,3 @@
-var STOPS_TEMPLATE = _.template(
-    "<div><i>Service type: <%- stops_data.service %></i></div>" +
-    "<% _.each(stops_data.stops_data, function(stop_data) { %>" +
-    "<h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>)</h2>" +
-    "<% _.each(stop_data.upcoming, function(time) { %>" +
-    "<div><span><%- time.time %></span> - <b><%- time.route %></b>" +
-    "<%- time.asterisk %>" +
-    "</div>" +
-    "<% }); %>" +
-    "<% _.each(stop_data.annotations, function(annotation) { %>" +
-    "<div><i><%- annotation %></i></div>" +
-    "<% }); %>" +
-    "<% }); %>");
-
 $(function() {
   //var date = new Date(2013, 9, 14, 19, 24, 0);
   var date = new Date();
