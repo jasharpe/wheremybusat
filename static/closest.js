@@ -29,8 +29,8 @@ $(function() {
 });
 
 function on_position_response(position) {
-  var date = new Date(2013, 9, 15, 0, 3, 0);
-  //var date = new Date();
+  //var date = new Date(2013, 9, 15, 0, 3, 0);
+  var date = new Date();
   var tomorrow = new Date(date);
   tomorrow.setDate(tomorrow.getDate() + 1);
   $.post("/nextbus/distance", {
