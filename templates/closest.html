@@ -5,11 +5,7 @@
 {% block scripts %}
 <script>
   var number = {{ number }};
-  var routes = [
-  {% for route in routes %}
-    "{{ route }}",
-  {% endfor %}
-  ];</script>
+</script>
 <script src="/static/closest.js"></script>
 {% endblock %}
 

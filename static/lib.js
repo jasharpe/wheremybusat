@@ -28,18 +28,51 @@ function dist(lat1, lon1, lat2, lon2) {
   return d;
 }
 
-// Returns the time in format HH:MM:SS, where each section is padded to 2
-// digits if necessary.
-function string_time(date) {
-  return (pad(date.getHours(), 2) + ":" +
+function _string_time(date, hour_offset) {
+  return (pad(date.getHours() + hour_offset, 2) + ":" +
           pad(date.getMinutes(), 2) + ":" +
           pad(date.getSeconds(), 2));
 }
 
-function string_date(date) {
+function _string_date(date) {
   return (date.getFullYear() +
           pad(date.getMonth() + 1, 2) +
           pad(date.getDate(), 2));
+}
+
+function get_previous_day(date) {
+  var previous_day = new Date(date);
+  previous_day.setDate(previous_day.getDate() - 1);
+  return previous_day;
+}
+
+function is_previous_day(date) {
+  return _string_time(get_previous_day(date), 24) <= latest;
+}
+
+// Returns the time in format HH:MM:SS, where each section is padded to 2
+// digits if necessary.
+function string_time(date) {
+  if (is_previous_day(date)) {
+    return _string_time(get_previous_day(date), 24);
+  }
+  return _string_time(date, 0);
+}
+
+function get_weekday(date) {
+  if (is_previous_day(date)) {
+    return get_previous_day(date).getDay();
+  }
+  return date.getDay();
+}
+
+function string_date(date) {
+  var previous_day = new Date(date);
+  previous_day.setDate(previous_day.getDate() - 1);
+  if (is_previous_day(date)) {
+    return _string_date(get_previous_day(date));
+  }
+  return _string_date(date)
 }
 
 // Returns the distance between position (a return value from

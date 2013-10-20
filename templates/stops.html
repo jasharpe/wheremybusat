@@ -1,17 +1,12 @@
 {% extends "stop_base.html" %}
 
-{% block title %}Stop {{ stop_ids_string }}{% endblock %}
+{% block title %}Stop {{ ', '.join(stop_ids) }}{% endblock %}
 
 {% block scripts %}
 <script>
   var stop_ids = [
   {% for stop_id in stop_ids %}
     "{{ stop_id }}",
-  {% endfor %}
-  ];
-  var routes = [
-  {% for route in routes %}
-    "{{ route }}",
   {% endfor %}
   ];
 </script>

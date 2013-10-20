@@ -29,13 +29,18 @@ $(function() {
 });
 
 function on_position_response(position) {
-  var date = new Date();
+  var date = new Date(2013, 9, 15, 0, 3, 0);
+  //var date = new Date();
+  var tomorrow = new Date(date);
+  tomorrow.setDate(tomorrow.getDate() + 1);
   $.post("/nextbus/distance", {
     lat: position.coords.latitude,
     lon: position.coords.longitude,
     time: string_time(date),
-    weekday: date.getDay(),
+    weekday: get_weekday(date),
     date: string_date(date),
+    tomorrow_weekday: get_weekday(tomorrow),
+    tomorrow_date: string_date(tomorrow),
     number: number,
     routes: routes,
   }).done(function(stops_data_json) {

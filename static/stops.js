@@ -1,10 +1,14 @@
 $(function() {
-  //var date = new Date(2013, 9, 14, 19, 24, 0);
+  //var date = new Date(2013, 9, 12, 2, 10, 0);
   var date = new Date();
+  var tomorrow = new Date(date);
+  tomorrow.setDate(tomorrow.getDate() + 1);
   $.post("/nextbus/ids", {
     time: string_time(date),
-    weekday: date.getDay(),
+    weekday: get_weekday(date),
     date: string_date(date),
+    tomorrow_weekday: get_weekday(tomorrow),
+    tomorrow_date: string_date(tomorrow),
     stop_ids: stop_ids,
     routes: routes
   }).done(

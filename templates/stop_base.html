@@ -5,6 +5,14 @@
 <script src="/static/underscore.js"></script>
 <script src="/static/compiled_templates.js"></script>
 <script src="/static/lib.js"></script>
+<script>
+  var routes = [
+  {% for route in routes %}
+    "{{ route }}",
+  {% endfor %}
+  ];
+  var latest = "{{ latest }}";
+</script>
 {% endblock %}
 
 {% block body %}

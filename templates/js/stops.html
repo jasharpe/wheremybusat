@@ -1,12 +1,17 @@
 <div>
-  <i>Service type: <%- stops_data.service %></i>
+  <div><i>Today (<%- stops_data.weekday_name %>) - Service type: <%- stops_data.service %></i></div>
+  <% if (stops_data.tomorrow_used) { %>
+  <div>
+    <i class="tomorrow">Tomorrow (<%- stops_data.tomorrow_weekday_name %>) - Service type: <%- stops_data.tomorrow_service %></i>
+  </div>
+  <% } %>
 </div>
 
 <% _.each(stops_data.stops_data, function(stop_data) { %>
   <h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>)</h2>
 
   <% _.each(stop_data.upcoming, function(time) { %>
-    <div>
+    <div <% if (time.is_tomorrow) { %>class="tomorrow"<% } %>>
       <span><%- time.time %></span> - <b><%- time.route %></b>
       <%- time.asterisk %>
     </div>
