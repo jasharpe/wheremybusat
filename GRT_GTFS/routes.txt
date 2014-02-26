@@ -112,3 +112,4 @@ route_id,route_short_name,route_long_name,route_desc,route_type,route_url
 9976,9976,"ECI-F3 Express/SMH-Biehn Special",,3,
 9977,9977,"KCI-Downtown Special",,3,
 9983,9983,"Rt 32 and 7 Evening Special",,3,
+999,999,"INIT Test Route KWSA",,3,
