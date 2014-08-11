@@ -14,6 +14,7 @@
   <% _.each(stop_data.upcoming, function(time) { %>
   <div <% if (time.is_tomorrow) { %>class="tomorrow"<% } %>>
     <span><%- time.time %></span> - <b><%- time.route %></b>
+    <%- time.asterisk %>
   </div>
   <% }); %>
   

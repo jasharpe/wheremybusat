@@ -51,6 +51,7 @@ def initialize():
       set(['Saturday']),
       set(['Sunday']),
       set(['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'])]:
+      #set(['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'])]:
       special_service_id_to_days_map[service_id] = days
 
   global date_to_schedules_map
