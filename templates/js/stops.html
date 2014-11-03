@@ -7,17 +7,37 @@
   <% } %>
 </div>
 
+<% var first = true; %>
 <% _.each(stops_data.stops_data, function(stop_data) { %>
   <h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>)</h2>
-
-  <% _.each(stop_data.upcoming, function(time) { %>
-    <div <% if (time.is_tomorrow) { %>class="tomorrow"<% } %>>
-      <span><%- time.time %></span> - <b><%- time.route %></b>
-      <%- time.asterisk %>
+  <% if (first) { %>
+  <div class="realtime">
+    Realtime (updates every 30 seconds):
+    <% _.each(stop_data.route_ids, function(route_id) { %>
+    <div>
+      Next <%- route_id %> in
+      <span id="<%- stop_data.stop_id %>_<%- route_id %>">?</span>
     </div>
-  <% }); %>
+    <% }); %>
+  </div>
+  <% first = false; %>
+  <% } else { %>
+    <div class="realtime">
+      Realtime supported only for first stop.
+    </div>
+  <% } %>
 
-  <% _.each(stop_data.annotations, function(annotation) { %>
-    <div><i><%- annotation %></i></div>
-  <% }); %>
+  <div class="scheduled">
+    Scheduled:
+    <% _.each(stop_data.upcoming, function(time) { %>
+      <div <% if (time.is_tomorrow) { %>class="tomorrow"<% } %>>
+        <span><%- time.time %></span> - <b><%- time.route %></b>
+        <%- time.asterisk %>
+      </div>
+    <% }); %>
+
+    <% _.each(stop_data.annotations, function(annotation) { %>
+      <div><i><%- annotation %></i></div>
+    <% }); %>
+  </div>
 <% }); %>

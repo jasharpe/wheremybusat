@@ -2,6 +2,8 @@ import csv
 import math
 import itertools
 import os
+import requests
+import datetime
 
 def read_csv_file_with_header(name):
   reader = csv.reader(open(name))
@@ -66,3 +68,26 @@ def compile_templates(template_dir, output_file):
           output_file.write("\"{}\" + \n".format(
             line.rstrip().replace('"', '\\"')))
       output_file.write("\"\");\n")
+
+# TODO: periodically clear this cache.
+real_bus_time_cache = {}
+last_request = 0
+cache_seconds = 28
+def get_real_bus_times(stop_id, route):
+  url = "http://realtimemap.grt.ca/Stop/GetStopInfo?stopId=%d&routeId=%d" % (stop_id, route)
+  res = None
+  if url in real_bus_time_cache and real_bus_time_cache[url][0] > datetime.datetime.now() - datetime.timedelta(seconds=28):
+    print "Returning cached result for url %s" % (url,)
+    res = real_bus_time_cache[url][1]
+  else:
+    print "Fetching new result from url %s" % (url,)
+    res = requests.get(url)
+    real_bus_time_cache[url] = (datetime.datetime.now(), res)
+
+  if res.status_code != 200:
+    print res
+    return None
+  elif res.json()['status'] != "success":
+    print res.json()
+    return None
+  return res.json()

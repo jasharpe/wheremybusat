@@ -276,5 +276,20 @@ def nextbus():
   return jsonify(**get_stop_data(closest_stops, routes, time, weekday, date,
     tomorrow_weekday, tomorrow_date))
 
+@app.route("/realtime/ids", methods=["POST", "GET"])
+def realtime_ids():
+  stop_id = None
+  route = None
+  if request.method == "POST":
+    stop_id = int(request.form['stop_id'])
+    route = int(request.form['route'])
+  else:
+    stop_id = int(request.args.get('stop_id'))
+    route = int(request.args.get('route'))
+  times = lib.get_real_bus_times(stop_id, route)
+  if times is not None:
+    return jsonify(times)
+  # TODO: Handle errors better!
+
 if __name__ == "__main__":
   app.run(debug=True)

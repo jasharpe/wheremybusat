@@ -10,3 +10,15 @@
 .tomorrow {
   color: #888;
 }
+
+.realtime {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.scheduled {
+}
+
+.realtime_link {
+  font-size:small;
+}

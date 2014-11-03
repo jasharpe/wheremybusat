@@ -9,7 +9,9 @@
 
 <% _.each(stops_data.stops_data, function(stop_data) { %>
   <h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>) 
-  (<%- dist_string(position, stop_data.lat, stop_data.lon) %>)</h2>
+  (<%- dist_string(position, stop_data.lat, stop_data.lon) %>)
+  <div class="realtime_link"><a href="/stops/<%- stop_data.stop_id %>">Realtime</a></div>
+  </h2>
 
   <% _.each(stop_data.upcoming, function(time) { %>
   <div <% if (time.is_tomorrow) { %>class="tomorrow"<% } %>>
