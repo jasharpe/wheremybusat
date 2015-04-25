@@ -39,8 +39,13 @@ var delay = 30000;
 function update_realtime(stops_data, num_updates) {
   var wait = 0;
   var this_num_updates = 0;
-  _.each(stops_data.stops_data.slice(0, 1), function(stop_data) {
+  var num_stop_route_pairs = 0;
+  _.each(stops_data.stops_data, function(stop_data) {
+    if (num_stop_route_pairs >= 10) {
+      return;
+    }
     _.each(stop_data.route_ids, function(route_id) {
+      num_stop_route_pairs++;
       setTimeout(function() {
       $.post("/realtime/ids", {
         stop_id: stop_data.stop_id,

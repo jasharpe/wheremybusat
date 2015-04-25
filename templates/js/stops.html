@@ -7,10 +7,10 @@
   <% } %>
 </div>
 
-<% var first = true; %>
+<% var numUpdates = 0; %>
 <% _.each(stops_data.stops_data, function(stop_data) { %>
   <h2><%- stop_data.stop_name %> (<%- stop_data.stop_id %>)</h2>
-  <% if (first) { %>
+  <% if (numUpdates < 10) { %>
   <div class="realtime">
     Realtime (updates every 30 seconds):
     <% _.each(stop_data.route_ids, function(route_id) { %>
@@ -18,12 +18,12 @@
       Next <%- route_id %> in
       <span id="<%- stop_data.stop_id %>_<%- route_id %>">?</span>
     </div>
+    <% numUpdates++; %>
     <% }); %>
   </div>
-  <% first = false; %>
   <% } else { %>
     <div class="realtime">
-      Realtime supported only for first stop.
+      Realtime supported only for first 10 stop/route combinations.
     </div>
   <% } %>
 
