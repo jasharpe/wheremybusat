@@ -56,7 +56,7 @@ function update_realtime(stops_data, num_updates) {
           _.each(data["stopTimes"], function(stop_time) {
             var time = format_time(stop_time["Minutes"]);
             if (route_id == 7) {
-              time += " (" + stop_time["HeadSign"].split("  ")[0] + ")"
+              time += " (" + stop_time["HeadSign"].split(" ")[0] + ")"
             }
             times.push(time);
           });
