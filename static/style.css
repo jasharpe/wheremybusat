@@ -2,6 +2,10 @@ body {
   margin: 5px;
 }
 
+h2 {
+  font-size: 20px;
+}
+
 .padded {
   margin-top: 10px;
   margin-bottom: 10px;
