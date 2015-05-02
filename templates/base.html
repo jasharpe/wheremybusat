@@ -2,8 +2,11 @@
 <html>
   <head>
     <title>{% block title %}{% endblock %} - Where's My Bus At?</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
     <link rel="shortcut icon" href="{{ url_for('.static', filename='favicon.ico') }}" />
     <link rel="stylesheet" type="text/css" href="/static/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     {% block global_scripts %}{% endblock %}
     {% block scripts %}{% endblock %}
   </head>

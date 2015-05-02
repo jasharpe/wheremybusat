@@ -1,3 +1,7 @@
+body {
+  margin: 5px;
+}
+
 .padded {
   margin-top: 10px;
   margin-bottom: 10px;
