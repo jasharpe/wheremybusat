@@ -54,7 +54,11 @@ function update_realtime(stops_data, num_updates) {
         function(data) {
           var times = [];
           _.each(data["stopTimes"], function(stop_time) {
-            times.push(format_time(stop_time["Minutes"]));
+            var time = format_time(stop_time["Minutes"]);
+            if (route_id == 7) {
+              time += " (" + stop_time["HeadSign"].split("  ")[0] + ")"
+            }
+            times.push(time);
           });
           var el = $("#" + stop_data.stop_id + "_" + route_id);
           el.text(times.join(", "));
