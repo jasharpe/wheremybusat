@@ -1,29 +1,29 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
-203,16SPRI-All-Weekday-02,133146102,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,133146202,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,133146302,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,133146402,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,133146502,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,133146602,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,133146702,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,133146802,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,133146902,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,133147102,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,133147302,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,133147402,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,133147502,"203 iXpress Sportsworld",0,200670,2030001
+203,16SPRI-All-Weekday-02,133146102,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,133146202,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,133146302,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,133146402,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,133146502,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,133146602,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,133146702,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,133146802,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,133146902,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,133147102,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,133147302,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,133147402,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,133147502,"203 iXpress Sportsworld",0,200670,2030019
 203,16SPRI-All-Weekday-02,133147602,"203 iXpress Sportsworld",0,200671,2030019
 203,16SPRI-All-Weekday-02,133147702,"203 iXpress Sportsworld",0,200670,2030019
 203,16SPRI-All-Weekday-02,133147802,"203 iXpress Sportsworld",0,200670,2030019
 203,16SPRI-All-Weekday-02,133147902,"203 iXpress Sportsworld",0,200671,2030019
-203,16SPRI-All-Weekday-02,133149302,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,133149402,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,133149602,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,133149702,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,133149802,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,133149902,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,133150002,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,133150202,"203 iXpress Cambridge Ctr.",1,200670,2030003
+203,16SPRI-All-Weekday-02,133149302,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,133149402,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,133149602,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,133149702,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,133149802,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,133149902,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,133150002,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,133150202,"203 iXpress Cambridge Ctr.",1,200670,2030021
 203,16SPRI-All-Weekday-02,133151702,"203 iXpress Cambridge Ctr.",1,200671,2030020
 203,16SPRI-All-Weekday-02,133151802,"203 iXpress Cambridge Ctr.",1,200671,2030020
 203,16SPRI-All-Weekday-02,133151902,"203 iXpress Cambridge Ctr.",1,200671,2030020
@@ -31,26 +31,26 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 203,16SPRI-All-Weekday-02,133152102,"203 iXpress Cambridge Ctr.",1,200670,2030020
 203,16SPRI-All-Weekday-02,133152202,"203 iXpress Cambridge Ctr.",1,200670,2030020
 203,16SPRI-All-Weekday-02,133152302,"203 iXpress Cambridge Ctr.",1,200670,2030020
-7,16SPRI-All-Weekday-02,133152502,"7D UW via University",0,198366,70021
-7,16SPRI-All-Weekday-02,133152602,"7C Conestoga Mall",0,198367,70022
-7,16SPRI-All-Weekday-02,133152702,"7E UW via Columbia",0,198372,70023
-7,16SPRI-All-Weekday-02,133152802,"7C Conestoga Mall",0,198385,70024
-7,16SPRI-All-Weekday-02,133152902,"7C Conestoga Mall",0,198425,70025
-7,16SPRI-All-Weekday-02,133153002,"7D UW via University",0,198368,70021
+7,16SPRI-All-Weekday-02,133152502,"7D UW via University",0,198366,70225
+7,16SPRI-All-Weekday-02,133152602,"7C Conestoga Mall",0,198367,70226
+7,16SPRI-All-Weekday-02,133152702,"7E UW via Columbia",0,198372,70227
+7,16SPRI-All-Weekday-02,133152802,"7C Conestoga Mall",0,198385,70081
+7,16SPRI-All-Weekday-02,133152902,"7C Conestoga Mall",0,198425,70228
+7,16SPRI-All-Weekday-02,133153002,"7D UW via University",0,198368,70225
 7,16SPRI-All-Weekday-02,133153102,"7B Fairview via Weber",1,198385,70026
 7,16SPRI-All-Weekday-02,133153202,"7A  Fairview via Connaught",1,198358,70027
 7,16SPRI-All-Weekday-02,133153302,"7B Fairview via Weber",1,198369,70026
 7,16SPRI-All-Weekday-02,133153402,"7B Fairview via Weber",1,198371,70028
 7,16SPRI-All-Weekday-02,133153502,"7F  Fairview via Wilson",1,198373,70029
-7,16SPRI-All-Weekday-02,133153602,"7C Conestoga Mall",0,198358,70030
+7,16SPRI-All-Weekday-02,133153602,"7C Conestoga Mall",0,198358,70099
 7,16SPRI-All-Weekday-02,133153702,"7C Conestoga Mall",0,198379,70079
 7,16SPRI-All-Weekday-02,133153802,"7C Conestoga Mall",0,198372,70079
 7,16SPRI-All-Weekday-02,133153902,"7C Conestoga Mall",0,198374,70079
-7,16SPRI-All-Weekday-02,133154002,"7C Conestoga Mall",0,198366,70031
+7,16SPRI-All-Weekday-02,133154002,"7C Conestoga Mall",0,198366,70079
 7,16SPRI-All-Weekday-02,133154102,"7D UW via University",0,198376,70080
-7,16SPRI-All-Weekday-02,133154202,"7D UW via University",0,198364,70032
+7,16SPRI-All-Weekday-02,133154202,"7D UW via University",0,198364,70080
 7,16SPRI-All-Weekday-02,133154302,"7D UW via University",0,198384,70080
-7,16SPRI-All-Weekday-02,133154402,"7D UW via University",0,198373,70032
+7,16SPRI-All-Weekday-02,133154402,"7D UW via University",0,198373,70080
 7,16SPRI-All-Weekday-02,133154502,"7C Conestoga Mall",0,198368,70081
 7,16SPRI-All-Weekday-02,133154602,"7C Conestoga Mall",0,198369,70081
 7,16SPRI-All-Weekday-02,133154702,"7C Conestoga Mall",0,198375,70081
@@ -63,7 +63,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133155402,"7E UW via Columbia",0,198365,70087
 7,16SPRI-All-Weekday-02,133155502,"7E UW via Columbia",0,198385,70087
 7,16SPRI-All-Weekday-02,133155602,"7E UW via Columbia",0,198370,70087
-7,16SPRI-All-Weekday-02,133155702,"7E UW via Columbia",0,198371,70034
+7,16SPRI-All-Weekday-02,133155702,"7E UW via Columbia",0,198371,70087
 7,16SPRI-All-Weekday-02,133155802,"7D UW via University",0,198379,70088
 7,16SPRI-All-Weekday-02,133155902,"7D UW via University",0,198372,70088
 7,16SPRI-All-Weekday-02,133156002,"7D UW via University",0,198374,70088
@@ -94,7 +94,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133158502,"7A  Fairview via Connaught",1,198379,70208
 7,16SPRI-All-Weekday-02,133158602,"7A  Fairview via Connaught",1,198372,70208
 7,16SPRI-All-Weekday-02,133158702,"7A  Fairview via Connaught",1,198374,70208
-7,16SPRI-All-Weekday-02,133158802,"7A  Fairview via Connaught",1,198366,70033
+7,16SPRI-All-Weekday-02,133158802,"7A  Fairview via Connaught",1,198366,70208
 7,16SPRI-All-Weekday-02,133158902,"7A  Fairview via Connaught",1,198367,70208
 7,16SPRI-All-Weekday-02,133159002,"7C Conestoga Mall",0,198368,70099
 7,16SPRI-All-Weekday-02,133159102,"7C Conestoga Mall",0,198369,70099
@@ -104,7 +104,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133159502,"7C Conestoga Mall",0,198364,70099
 7,16SPRI-All-Weekday-02,133159602,"7C Conestoga Mall",0,198384,70099
 7,16SPRI-All-Weekday-02,133159702,"7C Conestoga Mall",0,198373,70099
-7,16SPRI-All-Weekday-02,133159802,"7C Conestoga Mall",0,198379,70030
+7,16SPRI-All-Weekday-02,133159802,"7C Conestoga Mall",0,198379,70099
 7,16SPRI-All-Weekday-02,133159902,"7C Conestoga Mall",0,198372,70099
 7,16SPRI-All-Weekday-02,133160002,"7C Conestoga Mall",0,198381,70079
 7,16SPRI-All-Weekday-02,133160102,"7C Conestoga Mall",0,198380,70079
@@ -112,7 +112,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133160302,"7C Conestoga Mall",0,198383,70079
 7,16SPRI-All-Weekday-02,133160402,"7C Conestoga Mall",0,198374,70079
 7,16SPRI-All-Weekday-02,133160502,"7C Conestoga Mall",0,198366,70079
-7,16SPRI-All-Weekday-02,133160602,"7C Conestoga Mall",0,198367,70031
+7,16SPRI-All-Weekday-02,133160602,"7C Conestoga Mall",0,198367,70079
 7,16SPRI-All-Weekday-02,133160702,"7D UW via University",0,198384,70080
 7,16SPRI-All-Weekday-02,133160802,"7D UW via University",0,198373,70080
 7,16SPRI-All-Weekday-02,133160902,"7D UW via University",0,198379,70080
@@ -125,31 +125,31 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133161602,"7C Conestoga Mall",0,198378,70081
 7,16SPRI-All-Weekday-02,133161702,"7C Conestoga Mall",0,198376,70081
 7,16SPRI-All-Weekday-02,133161802,"7C Conestoga Mall",0,198364,70081
-7,16SPRI-All-Weekday-02,133161902,"7C Conestoga Mall",0,198384,70024
+7,16SPRI-All-Weekday-02,133161902,"7C Conestoga Mall",0,198384,70081
 7,16SPRI-All-Weekday-02,133162002,"7C Conestoga Mall",0,198373,70081
 7,16SPRI-All-Weekday-02,133162102,"7A  Fairview via Connaught",1,198368,70208
 7,16SPRI-All-Weekday-02,133162202,"7A  Fairview via Connaught",1,198369,70208
 7,16SPRI-All-Weekday-02,133162302,"7A  Fairview via Connaught",1,198375,70208
 7,16SPRI-All-Weekday-02,133162402,"7A  Fairview via Connaught",1,198378,70208
 7,16SPRI-All-Weekday-02,133162502,"7A  Fairview via Connaught",1,198376,70208
-7,16SPRI-All-Weekday-02,133162602,"7A  Fairview via Connaught",1,198364,70033
-7,16SPRI-All-Weekday-02,133162702,"7A  Fairview via Connaught",1,198384,70033
+7,16SPRI-All-Weekday-02,133162602,"7A  Fairview via Connaught",1,198364,70208
+7,16SPRI-All-Weekday-02,133162702,"7A  Fairview via Connaught",1,198384,70208
 7,16SPRI-All-Weekday-02,133162802,"7E UW via Columbia",0,198374,70087
 7,16SPRI-All-Weekday-02,133162902,"7E UW via Columbia",0,198366,70087
 7,16SPRI-All-Weekday-02,133163002,"7E UW via Columbia",0,198367,70087
 7,16SPRI-All-Weekday-02,133163102,"7E UW via Columbia",0,198368,70087
 7,16SPRI-All-Weekday-02,133163202,"7E UW via Columbia",0,198369,70087
 7,16SPRI-All-Weekday-02,133163302,"7E UW via Columbia",0,198375,70087
-7,16SPRI-All-Weekday-02,133163402,"7E UW via Columbia",0,198378,70034
+7,16SPRI-All-Weekday-02,133163402,"7E UW via Columbia",0,198378,70087
 7,16SPRI-All-Weekday-02,133163502,"7C Conestoga Mall",0,198372,70079
 7,16SPRI-All-Weekday-02,133163602,"7D UW via University",0,198364,70080
 7,16SPRI-All-Weekday-02,133163702,"7C Conestoga Mall",0,198381,70079
 7,16SPRI-All-Weekday-02,133163802,"7D UW via University",0,198384,70080
-7,16SPRI-All-Weekday-02,133163902,"7C Conestoga Mall",0,198380,70031
+7,16SPRI-All-Weekday-02,133163902,"7C Conestoga Mall",0,198380,70079
 7,16SPRI-All-Weekday-02,133164002,"7D UW via University",0,198378,70080
-7,16SPRI-All-Weekday-02,133164102,"7C Conestoga Mall",0,198367,70031
+7,16SPRI-All-Weekday-02,133164102,"7C Conestoga Mall",0,198367,70079
 7,16SPRI-All-Weekday-02,133164202,"7D UW via University",0,198376,70080
-7,16SPRI-All-Weekday-02,133164302,"7C Conestoga Mall",0,198372,70031
+7,16SPRI-All-Weekday-02,133164302,"7C Conestoga Mall",0,198372,70079
 7,16SPRI-All-Weekday-02,133164402,"7D UW via University",0,198364,70080
 7,16SPRI-All-Weekday-02,133164502,"7C Conestoga Mall",0,198381,70079
 7,16SPRI-All-Weekday-02,133164602,"7D UW via University",0,198384,70080
@@ -164,7 +164,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133165502,"7C Conestoga Mall",0,198380,70079
 7,16SPRI-All-Weekday-02,133165602,"7D UW via University",0,198378,70080
 7,16SPRI-All-Weekday-02,133165702,"7C Conestoga Mall",0,198367,70079
-7,16SPRI-All-Weekday-02,133165802,"7D UW via University",0,198376,70032
+7,16SPRI-All-Weekday-02,133165802,"7D UW via University",0,198376,70080
 7,16SPRI-All-Weekday-02,133165902,"7B Fairview via Weber",1,198367,70209
 7,16SPRI-All-Weekday-02,133166002,"7A  Fairview via Connaught",1,198376,70210
 7,16SPRI-All-Weekday-02,133166102,"7B Fairview via Weber",1,198372,70209
@@ -185,7 +185,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133167602,"7A  Fairview via Connaught",1,198376,70210
 7,16SPRI-All-Weekday-02,133167702,"7B Fairview via Weber",1,198372,70209
 7,16SPRI-All-Weekday-02,133167802,"7A  Fairview via Connaught",1,198364,70210
-7,16SPRI-All-Weekday-02,133167902,"7B Fairview via Weber",1,198381,70036
+7,16SPRI-All-Weekday-02,133167902,"7B Fairview via Weber",1,198381,70209
 7,16SPRI-All-Weekday-02,133168002,"7C Conestoga Mall",0,198367,70099
 7,16SPRI-All-Weekday-02,133168102,"7A  Fairview via Connaught",1,198385,70208
 7,16SPRI-All-Weekday-02,133168202,"7E UW via Columbia",0,198365,70126
@@ -206,16 +206,16 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133169702,"7 Downtown",1,198385,70211
 7,16SPRI-All-Weekday-02,133169802,"7 Downtown",1,198370,70211
 7,16SPRI-All-Weekday-02,133169902,"7 Downtown",1,198371,70211
-7,16SPRI-All-Weekday-02,133170002,"7E UW via Columbia",0,198366,70034
-7,16SPRI-All-Weekday-02,133170102,"7C Conestoga Mall",0,198384,70031
+7,16SPRI-All-Weekday-02,133170002,"7E UW via Columbia",0,198366,70087
+7,16SPRI-All-Weekday-02,133170102,"7C Conestoga Mall",0,198384,70079
 7,16SPRI-All-Weekday-02,133170202,"7C Conestoga Mall",0,198373,70079
-7,16SPRI-All-Weekday-02,133170302,"7C Conestoga Mall",0,198371,70024
+7,16SPRI-All-Weekday-02,133170302,"7C Conestoga Mall",0,198371,70081
 7,16SPRI-All-Weekday-02,133170402,"7C Conestoga Mall",0,198367,70081
-7,16SPRI-All-Weekday-02,133170502,"7C Conestoga Mall",0,198370,70030
-7,16SPRI-All-Weekday-02,133170602,"7D UW via University",0,198375,70021
-7,16SPRI-All-Weekday-02,133170702,"7C Conestoga Mall",0,198291,70040
+7,16SPRI-All-Weekday-02,133170502,"7C Conestoga Mall",0,198370,70099
+7,16SPRI-All-Weekday-02,133170602,"7D UW via University",0,198375,70225
+7,16SPRI-All-Weekday-02,133170702,"7C Conestoga Mall",0,198291,70229
 7,16SPRI-All-Weekday-02,133170802,"7D UW via University",0,198378,70136
-7,16SPRI-All-Weekday-02,133170902,"7E UW via Columbia",0,198374,70042
+7,16SPRI-All-Weekday-02,133170902,"7E UW via Columbia",0,198374,70221
 7,16SPRI-All-Weekday-02,133171002,"7 Downtown",0,198364,70043
 7,16SPRI-All-Weekday-02,133171102,"7E UW via Columbia",0,198369,70126
 7,16SPRI-All-Weekday-02,133171202,"7E UW via Columbia",0,198366,70126
@@ -224,11 +224,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133171502,"7E UW via Columbia",0,198369,70126
 7,16SPRI-All-Weekday-02,133171602,"7E UW via Columbia",0,198366,70126
 7,16SPRI-All-Weekday-02,133171702,"7A  Fairview via Connaught",1,198365,70212
-7,16SPRI-All-Weekday-02,133171802,"7B Fairview via Weber",1,198367,70036
+7,16SPRI-All-Weekday-02,133171802,"7B Fairview via Weber",1,198367,70209
 7,16SPRI-All-Weekday-02,133171902,"7A  Fairview via Connaught",1,198366,70210
 7,16SPRI-All-Weekday-02,133172002,"7 Downtown",1,198369,70211
 7,16SPRI-All-Weekday-02,133172102,"7 Downtown",1,198375,70211
-7,16SPRI-All-Weekday-02,133172202,"7A  Fairview via Connaught",1,198378,70044
+7,16SPRI-All-Weekday-02,133172202,"7A  Fairview via Connaught",1,198378,70212
 7,16SPRI-All-Weekday-02,133172302,"7 Downtown",1,198366,70211
 7,16SPRI-All-Weekday-02,133172402,"7 Downtown",1,198369,70211
 7,16SPRI-All-Weekday-02,133172502,"7 Downtown",1,198366,70211
@@ -245,7 +245,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133173602,"7 Downtown",1,198385,70211
 7,16SPRI-All-Weekday-02,133173702,"7 Downtown",1,198332,70211
 7,16SPRI-All-Weekday-02,133173802,"7E UW via Columbia",0,198385,70126
-7,16SPRI-All-Weekday-02,133173902,"7 Downtown",1,198385,70039
+7,16SPRI-All-Weekday-02,133173902,"7 Downtown",1,198385,70211
 7,16SPRI-All-Weekday-02,133174002,"7F  Fairview via Wilson",1,198380,70213
 7,16SPRI-All-Weekday-02,133174102,"7F  Fairview via Wilson",1,198381,70213
 7,16SPRI-All-Weekday-02,133174202,"7F  Fairview via Wilson",1,198372,70213
@@ -254,9 +254,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133174502,"7B Fairview via Weber",1,198378,70214
 7,16SPRI-All-Weekday-02,133174602,"7B Fairview via Weber",1,198375,70214
 7,16SPRI-All-Weekday-02,133174702,"7B Fairview via Weber",1,198380,70214
-7,16SPRI-All-Weekday-02,133174802,"7B Fairview via Weber",1,198372,70047
+7,16SPRI-All-Weekday-02,133174802,"7B Fairview via Weber",1,198372,70214
 7,16SPRI-All-Weekday-02,133174902,"7B Fairview via Weber",1,198373,70214
-7,16SPRI-All-Weekday-02,133175002,"7B Fairview via Weber",1,198381,70047
+7,16SPRI-All-Weekday-02,133175002,"7B Fairview via Weber",1,198381,70214
 7,16SPRI-All-Weekday-02,133175102,"7B Fairview via Weber",1,198379,70214
 7,16SPRI-All-Weekday-02,133175202,"7B Fairview via Weber",1,198384,70214
 7,16SPRI-All-Weekday-02,133175302,"7B Fairview via Weber",1,198364,70214
@@ -266,7 +266,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133175702,"7B Fairview via Weber",1,198368,70214
 7,16SPRI-All-Weekday-02,133175802,"7B Fairview via Weber",1,198369,70214
 7,16SPRI-All-Weekday-02,133175902,"7F  Fairview via Wilson",1,198373,70213
-7,16SPRI-All-Weekday-02,133176002,"7F  Fairview via Wilson",1,198384,70046
+7,16SPRI-All-Weekday-02,133176002,"7F  Fairview via Wilson",1,198384,70213
 7,16SPRI-All-Weekday-02,133176102,"7F  Fairview via Wilson",1,198364,70213
 7,16SPRI-All-Weekday-02,133176202,"7F  Fairview via Wilson",1,198376,70213
 7,16SPRI-All-Weekday-02,133176302,"7F  Fairview via Wilson",1,198378,70213
@@ -287,20 +287,20 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133177802,"7B Fairview via Weber",1,198372,70214
 7,16SPRI-All-Weekday-02,133177902,"7B Fairview via Weber",1,198379,70214
 7,16SPRI-All-Weekday-02,133178002,"7B Fairview via Weber",1,198384,70214
-7,16SPRI-All-Weekday-02,133178102,"7F  Fairview via Wilson",1,198374,70046
+7,16SPRI-All-Weekday-02,133178102,"7F  Fairview via Wilson",1,198374,70213
 7,16SPRI-All-Weekday-02,133178202,"7B Fairview via Weber",1,198369,70214
 7,16SPRI-All-Weekday-02,133178302,"7B Fairview via Weber",1,198368,70214
 7,16SPRI-All-Weekday-02,133178402,"7F  Fairview via Wilson",1,198383,70213
-7,16SPRI-All-Weekday-02,133178502,"7B Fairview via Weber",1,198364,70047
+7,16SPRI-All-Weekday-02,133178502,"7B Fairview via Weber",1,198364,70214
 7,16SPRI-All-Weekday-02,133178602,"7F  Fairview via Wilson",1,198382,70213
-7,16SPRI-All-Weekday-02,133178702,"7B Fairview via Weber",1,198373,70047
+7,16SPRI-All-Weekday-02,133178702,"7B Fairview via Weber",1,198373,70214
 7,16SPRI-All-Weekday-02,133178802,"7F  Fairview via Wilson",1,198376,70048
 7,16SPRI-All-Weekday-02,133178902,"7B Fairview via Weber",1,198372,70215
 7,16SPRI-All-Weekday-02,133179002,"7B Fairview via Weber",1,198374,70215
 7,16SPRI-All-Weekday-02,133179102,"7B Fairview via Weber",1,198366,70215
 7,16SPRI-All-Weekday-02,133179202,"7B Fairview via Weber",1,198365,70215
 7,16SPRI-All-Weekday-02,133179302,"7B Fairview via Weber",1,198385,70215
-7,16SPRI-All-Weekday-02,133179402,"7B Fairview via Weber",1,198365,70049
+7,16SPRI-All-Weekday-02,133179402,"7B Fairview via Weber",1,198365,70215
 7,16SPRI-All-Weekday-02,133179502,"7B Fairview via Weber",1,198380,70215
 7,16SPRI-All-Weekday-02,133179602,"7B Fairview via Weber",1,198382,70215
 7,16SPRI-All-Weekday-02,133179702,"7B Fairview via Weber",1,198383,70215
@@ -312,11 +312,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Weekday-02,133180302,"7 Downtown",1,198384,70216
 7,16SPRI-All-Weekday-02,133180402,"7 Downtown",1,198380,70217
 7,16SPRI-All-Weekday-02,133180502,"7D UW via University",0,198369,70206
-7,16SPRI-All-Weekday-02,133180602,"7D UW via University",0,200373,70052
+7,16SPRI-All-Weekday-02,133180602,"7D UW via University",0,200373,70206
 7,16SPRI-All-Weekday-02,133180702,"7D UW via University",0,200342,70207
-7,16SPRI-All-Weekday-02,133180802,"7 Downtown",1,198369,70051
-7,16SPRI-All-Weekday-02,133180902,"7 Downtown",1,198373,70051
-7,16SPRI-All-Weekday-02,133181002,"7 Downtown",1,198366,70051
+7,16SPRI-All-Weekday-02,133180802,"7 Downtown",1,198369,70217
+7,16SPRI-All-Weekday-02,133180902,"7 Downtown",1,198373,70217
+7,16SPRI-All-Weekday-02,133181002,"7 Downtown",1,198366,70217
 7,16SPRI-All-Weekday-02,133183202,"7E UW via Columbia",0,198441,70045
 9903,16SPRI-All-Weekday-02,133184002,"St. Mary's Express",0,200374,99030007
 34,16SPRI-All-Weekday-02,133184202,"34 Bingemans",0,200251,340003
@@ -573,7 +573,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 1,16SPRI-All-Weekday-02,133209302,"1 Queen-River to The Boardwalk",1,198315,10455
 1,16SPRI-All-Weekday-02,133209402,"1 Queen-River to The Boardwalk",1,198315,10455
 1,16SPRI-All-Weekday-02,133209502,"1 Queen-River to The Boardwalk",1,198313,10455
-1,16SPRI-All-Weekday-02,133209602,"1 Queen-River to Fairview Park",0,198315,10010
+1,16SPRI-All-Weekday-02,133209602,"1 Queen-River to Fairview Park",0,198315,10024
 1,16SPRI-All-Weekday-02,133209702,"1 Queen-River to Fairview Park",0,198362,10141
 1,16SPRI-All-Weekday-02,133209802,"1 Queen-River to Fairview Park",0,198313,10142
 1,16SPRI-All-Weekday-02,133209902,"1 Queen-River to Fairview Park",0,198316,10143
@@ -615,10 +615,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 1,16SPRI-All-Weekday-02,133213502,"1 Queen-River to Fairview Park",0,198314,10179
 1,16SPRI-All-Weekday-02,133213602,"1 Queen-River to Fairview Park",0,198363,10180
 1,16SPRI-All-Weekday-02,133213702,"1 Queen-River to Fairview Park",0,198315,10181
-1,16SPRI-All-Weekday-02,133213802,"1 Queen-River to Fairview Park",0,198314,10010
+1,16SPRI-All-Weekday-02,133213802,"1 Queen-River to Fairview Park",0,198314,10024
 1,16SPRI-All-Weekday-02,133213902,"1 Queen-River to Fairview Park",0,198363,10182
 1,16SPRI-All-Weekday-02,133214002,"1 Queen-River to Fairview Park",0,198312,10183
-1,16SPRI-All-Weekday-02,133214102,"1 Queen-River to Fairview Park",0,198313,10022
+1,16SPRI-All-Weekday-02,133214102,"1 Queen-River to Fairview Park",0,198313,10457
 1,16SPRI-All-Weekday-02,133214202,"1 Queen-River to Fairview Park",0,198314,10184
 1,16SPRI-All-Weekday-02,133214302,"1 Queen-River to The Boardwalk",1,198312,10455
 1,16SPRI-All-Weekday-02,133214402,"1 Queen-River to The Boardwalk",1,198362,10018
@@ -805,11 +805,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Weekday-02,133240602,"12 Conestoga Mall",0,198335,120062
 12,16SPRI-All-Weekday-02,133240702,"12 Conestoga Mall",0,198338,120062
 12,16SPRI-All-Weekday-02,133240802,"12 Conestoga Mall",0,198340,120062
-12,16SPRI-All-Weekday-02,133240902,"12 Conestoga Mall",0,198339,120038
-12,16SPRI-All-Weekday-02,133241002,"12 Conestoga Mall",0,198334,120038
-12,16SPRI-All-Weekday-02,133241102,"12 Conestoga Mall",0,198333,120038
-12,16SPRI-All-Weekday-02,133241202,"12 Conestoga Mall",0,200617,120038
-12,16SPRI-All-Weekday-02,133241302,"12 Conestoga Mall",0,198340,120038
+12,16SPRI-All-Weekday-02,133240902,"12 Conestoga Mall",0,198339,120062
+12,16SPRI-All-Weekday-02,133241002,"12 Conestoga Mall",0,198334,120062
+12,16SPRI-All-Weekday-02,133241102,"12 Conestoga Mall",0,198333,120062
+12,16SPRI-All-Weekday-02,133241202,"12 Conestoga Mall",0,200617,120062
+12,16SPRI-All-Weekday-02,133241302,"12 Conestoga Mall",0,198340,120062
 12,16SPRI-All-Weekday-02,133241402,"12 Conestoga Mall",0,198339,120062
 12,16SPRI-All-Weekday-02,133241502,"12 Conestoga Mall",0,198334,120062
 12,16SPRI-All-Weekday-02,133241602,"12 Conestoga Mall",0,200358,120062
@@ -824,16 +824,16 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Weekday-02,133242702,"12 University and King",0,198425,120039
 12,16SPRI-All-Weekday-02,133242802,"12 University and King",0,200361,120039
 12,16SPRI-All-Weekday-02,133243102,"12 Forest Glen",0,200617,120027
-12,16SPRI-All-Weekday-02,133243202,"12 Conestoga Mall",0,198333,120040
+12,16SPRI-All-Weekday-02,133243202,"12 Conestoga Mall",0,198333,120060
 12,16SPRI-All-Weekday-02,133243302,"12 Conestoga Mall",0,198335,120060
 12,16SPRI-All-Weekday-02,133243402,"12 University and King",0,200365,120042
-12,16SPRI-All-Weekday-02,133243502,"12 Fairview Park",1,198334,120018
-12,16SPRI-All-Weekday-02,133243602,"12 Fairview Park",1,198333,120018
+12,16SPRI-All-Weekday-02,133243502,"12 Fairview Park",1,198334,120046
+12,16SPRI-All-Weekday-02,133243602,"12 Fairview Park",1,198333,120046
 12,16SPRI-All-Weekday-02,133243702,"12 Fairview Park",1,198335,120179
 12,16SPRI-All-Weekday-02,133243802,"12 Fairview Park",1,198340,120180
 12,16SPRI-All-Weekday-02,133243902,"12 Fairview Park",1,198339,120181
-12,16SPRI-All-Weekday-02,133244002,"12 Fairview Park",1,198334,120018
-12,16SPRI-All-Weekday-02,133244102,"12 Fairview Park",1,198333,120018
+12,16SPRI-All-Weekday-02,133244002,"12 Fairview Park",1,198334,120046
+12,16SPRI-All-Weekday-02,133244102,"12 Fairview Park",1,198333,120046
 12,16SPRI-All-Weekday-02,133244202,"12 Fairview Park",1,198335,120182
 12,16SPRI-All-Weekday-02,133244302,"12 Fairview Park",1,198338,120183
 12,16SPRI-All-Weekday-02,133244402,"12 Fairview Park",1,198339,120184
@@ -841,7 +841,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Weekday-02,133244602,"12 Fairview Park",1,198333,120204
 12,16SPRI-All-Weekday-02,133244702,"12 Fairview Park",1,198335,120203
 12,16SPRI-All-Weekday-02,133244802,"12 Fairview Park",1,198338,120202
-12,16SPRI-All-Weekday-02,133244902,"12 Fairview Park",1,198340,120018
+12,16SPRI-All-Weekday-02,133244902,"12 Fairview Park",1,198340,120046
 12,16SPRI-All-Weekday-02,133245002,"12 Fairview Park",1,198339,120201
 12,16SPRI-All-Weekday-02,133245102,"12 Fairview Park",1,198334,120200
 12,16SPRI-All-Weekday-02,133245202,"12 Fairview Park",1,198333,120199
@@ -849,9 +849,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Weekday-02,133245402,"12 Fairview Park",1,200386,120197
 12,16SPRI-All-Weekday-02,133245502,"12 Fairview Park",1,200385,120196
 12,16SPRI-All-Weekday-02,133245602,"12 Fairview Park",1,198347,120195
-12,16SPRI-All-Weekday-02,133245702,"12 Fairview Park",1,198335,120018
-12,16SPRI-All-Weekday-02,133245802,"12 Fairview Park",1,198338,120018
-12,16SPRI-All-Weekday-02,133245902,"12 Fairview Park",1,200617,120018
+12,16SPRI-All-Weekday-02,133245702,"12 Fairview Park",1,198335,120046
+12,16SPRI-All-Weekday-02,133245802,"12 Fairview Park",1,198338,120046
+12,16SPRI-All-Weekday-02,133245902,"12 Fairview Park",1,200617,120046
 12,16SPRI-All-Weekday-02,133246002,"12 Fairview Park",1,198340,120194
 12,16SPRI-All-Weekday-02,133246102,"12 Fairview Park",1,198339,120193
 12,16SPRI-All-Weekday-02,133246202,"12 Fairview Park",1,198334,120192
@@ -860,8 +860,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Weekday-02,133246502,"12 Fairview Park",1,198333,120189
 12,16SPRI-All-Weekday-02,133246602,"12 Fairview Park",1,198340,120188
 12,16SPRI-All-Weekday-02,133246702,"12 Fairview Park",1,198339,120187
-12,16SPRI-All-Weekday-02,133246802,"12 Fairview Park",1,198393,120018
-12,16SPRI-All-Weekday-02,133246902,"12 Fairview Park",1,198338,120018
+12,16SPRI-All-Weekday-02,133246802,"12 Fairview Park",1,198393,120046
+12,16SPRI-All-Weekday-02,133246902,"12 Fairview Park",1,198338,120046
 12,16SPRI-All-Weekday-02,133247002,"12 Fairview Park",1,198338,120186
 12,16SPRI-All-Weekday-02,133247102,"12 Fairview Park",1,198425,120025
 12,16SPRI-All-Weekday-02,133247202,"12 Fairview Park",1,200361,120025
@@ -879,68 +879,68 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Weekday-02,133249302,"12 Fairview Park",1,200385,120025
 12,16SPRI-All-Weekday-02,133249402,"12 Fairview Park",1,200386,120025
 12,16SPRI-All-Weekday-02,133249502,"12 Fairview Park",1,198338,120030
-22,16SPRI-All-Weekday-02,133277702,"22 Laurentian West to Forest Glen",0,200613,220013
+22,16SPRI-All-Weekday-02,133277702,"22 Laurentian West to Forest Glen",0,200613,220004
 22,16SPRI-All-Weekday-02,133277802,"22 Laurentian West to Forest Glen",0,200258,220004
-22,16SPRI-All-Weekday-02,133277902,"22 Laurentian West to Forest Glen",0,200251,220013
+22,16SPRI-All-Weekday-02,133277902,"22 Laurentian West to Forest Glen",0,200251,220004
 22,16SPRI-All-Weekday-02,133278002,"22 Laurentian West to Forest Glen",0,200252,220004
 22,16SPRI-All-Weekday-02,133278102,"22 Laurentian West to Forest Glen",0,200253,220004
 22,16SPRI-All-Weekday-02,133278202,"22 Laurentian West to Forest Glen",0,200258,220004
-22,16SPRI-All-Weekday-02,133278302,"22 Laurentian West to Forest Glen",0,200613,220013
-22,16SPRI-All-Weekday-02,133278402,"22 Laurentian West to Forest Glen",0,200355,220013
-22,16SPRI-All-Weekday-02,133278502,"22 Laurentian West to Forest Glen",0,200251,220013
-22,16SPRI-All-Weekday-02,133278602,"22 Laurentian West to Forest Glen",0,200252,220013
-22,16SPRI-All-Weekday-02,133278702,"22 Laurentian West to Forest Glen",0,200253,220013
-22,16SPRI-All-Weekday-02,133278802,"22 Laurentian West to Forest Glen",0,200258,220013
-22,16SPRI-All-Weekday-02,133278902,"22 Laurentian West to Forest Glen",0,200613,220013
-22,16SPRI-All-Weekday-02,133279002,"22 Laurentian West to Forest Glen",0,200355,220013
-22,16SPRI-All-Weekday-02,133279102,"22 Laurentian West to Forest Glen",0,200251,220013
+22,16SPRI-All-Weekday-02,133278302,"22 Laurentian West to Forest Glen",0,200613,220004
+22,16SPRI-All-Weekday-02,133278402,"22 Laurentian West to Forest Glen",0,200355,220004
+22,16SPRI-All-Weekday-02,133278502,"22 Laurentian West to Forest Glen",0,200251,220004
+22,16SPRI-All-Weekday-02,133278602,"22 Laurentian West to Forest Glen",0,200252,220004
+22,16SPRI-All-Weekday-02,133278702,"22 Laurentian West to Forest Glen",0,200253,220004
+22,16SPRI-All-Weekday-02,133278802,"22 Laurentian West to Forest Glen",0,200258,220004
+22,16SPRI-All-Weekday-02,133278902,"22 Laurentian West to Forest Glen",0,200613,220004
+22,16SPRI-All-Weekday-02,133279002,"22 Laurentian West to Forest Glen",0,200355,220004
+22,16SPRI-All-Weekday-02,133279102,"22 Laurentian West to Forest Glen",0,200251,220004
 22,16SPRI-All-Weekday-02,133279202,"22 Laurentian West to Forest Glen",0,200252,220004
-22,16SPRI-All-Weekday-02,133279302,"22 Laurentian West to Forest Glen",0,200253,220013
-22,16SPRI-All-Weekday-02,133279402,"22 Laurentian West to Forest Glen",0,200258,220013
-22,16SPRI-All-Weekday-02,133279502,"22 Laurentian West to Forest Glen",0,200613,220013
-22,16SPRI-All-Weekday-02,133279602,"22 Laurentian West to Forest Glen",0,200251,220013
+22,16SPRI-All-Weekday-02,133279302,"22 Laurentian West to Forest Glen",0,200253,220004
+22,16SPRI-All-Weekday-02,133279402,"22 Laurentian West to Forest Glen",0,200258,220004
+22,16SPRI-All-Weekday-02,133279502,"22 Laurentian West to Forest Glen",0,200613,220004
+22,16SPRI-All-Weekday-02,133279602,"22 Laurentian West to Forest Glen",0,200251,220004
 22,16SPRI-All-Weekday-02,133279702,"22 Laurentian West to Forest Glen",0,200252,220004
 22,16SPRI-All-Weekday-02,133279802,"22 Laurentian West to Forest Glen",0,200253,220004
 22,16SPRI-All-Weekday-02,133279902,"22 Laurentian West to Forest Glen",0,200258,220004
 22,16SPRI-All-Weekday-02,133280002,"22 Laurentian West to Forest Glen",0,200613,220004
-22,16SPRI-All-Weekday-02,133280102,"22 Laurentian West to Forest Glen",0,198244,220013
-22,16SPRI-All-Weekday-02,133280202,"22 Laurentian West to Forest Glen",0,200252,220013
-22,16SPRI-All-Weekday-02,133280302,"22 Laurentian West to Forest Glen",0,200258,220013
-22,16SPRI-All-Weekday-02,133280402,"22 Laurentian West to Forest Glen",0,198244,220013
-22,16SPRI-All-Weekday-02,133280502,"22 Laurentian West to Forest Glen",0,200252,220013
-22,16SPRI-All-Weekday-02,133280602,"22 Laurentian West to Highland Hills",0,200253,220014
-22,16SPRI-All-Weekday-02,133280702,"22 Laurentian West to Highland Hills",0,200252,220016
-22,16SPRI-All-Weekday-02,133280802,"22 Laurentian West to Forest Glen",1,200251,220002
-22,16SPRI-All-Weekday-02,133280902,"22 Laurentian West to Forest Glen",1,198244,220015
-22,16SPRI-All-Weekday-02,133281002,"22 Laurentian West to Forest Glen",1,200252,220015
-22,16SPRI-All-Weekday-02,133281102,"22 Laurentian West to Forest Glen",1,200258,220015
-22,16SPRI-All-Weekday-02,133281202,"22 Laurentian West to Forest Glen",1,200253,220015
-22,16SPRI-All-Weekday-02,133281302,"22 Laurentian West to Forest Glen",1,200258,220015
-22,16SPRI-All-Weekday-02,133281402,"22 Laurentian West to Forest Glen",1,200613,220015
-22,16SPRI-All-Weekday-02,133281502,"22 Laurentian West to Forest Glen",1,200251,220015
-22,16SPRI-All-Weekday-02,133281602,"22 Laurentian West to Forest Glen",1,200252,220002
-22,16SPRI-All-Weekday-02,133281702,"22 Laurentian West to Forest Glen",1,200253,220015
-22,16SPRI-All-Weekday-02,133281802,"22 Laurentian West to Forest Glen",1,200258,220015
-22,16SPRI-All-Weekday-02,133281902,"22 Laurentian West to Forest Glen",1,200613,220015
-22,16SPRI-All-Weekday-02,133282002,"22 Laurentian West to Forest Glen",1,200355,220015
-22,16SPRI-All-Weekday-02,133282102,"22 Laurentian West to Forest Glen",1,200251,220015
-22,16SPRI-All-Weekday-02,133282202,"22 Laurentian West to Forest Glen",1,200252,220015
-22,16SPRI-All-Weekday-02,133282302,"22 Laurentian West to Forest Glen",1,200253,220015
-22,16SPRI-All-Weekday-02,133282402,"22 Laurentian West to Forest Glen",1,200258,220015
-22,16SPRI-All-Weekday-02,133282502,"22 Laurentian West to Forest Glen",1,200613,220015
-22,16SPRI-All-Weekday-02,133282602,"22 Laurentian West to Forest Glen",1,200355,220015
-22,16SPRI-All-Weekday-02,133282702,"22 Laurentian West to Forest Glen",1,200251,220015
-22,16SPRI-All-Weekday-02,133282802,"22 Laurentian West to Forest Glen",1,200252,220015
-22,16SPRI-All-Weekday-02,133282902,"22 Laurentian West to Forest Glen",1,200253,220015
-22,16SPRI-All-Weekday-02,133283002,"22 Laurentian West to Forest Glen",1,200258,220015
-22,16SPRI-All-Weekday-02,133283102,"22 Laurentian West to Forest Glen",1,200613,220015
-22,16SPRI-All-Weekday-02,133283202,"22 Laurentian West to Forest Glen",1,200251,220015
-22,16SPRI-All-Weekday-02,133283302,"22 Laurentian West to Forest Glen",1,200252,220002
-22,16SPRI-All-Weekday-02,133283402,"22 Laurentian West to Forest Glen",1,200253,220015
-22,16SPRI-All-Weekday-02,133283502,"22 Laurentian West to Forest Glen",1,200258,220015
-22,16SPRI-All-Weekday-02,133283602,"22 Laurentian West to Forest Glen",1,200613,220015
-22,16SPRI-All-Weekday-02,133283702,"22 Laurentian West to Forest Glen",1,198244,220015
-22,16SPRI-All-Weekday-02,133283802,"22 Laurentian West to Forest Glen",1,200252,220015
+22,16SPRI-All-Weekday-02,133280102,"22 Laurentian West to Forest Glen",0,198244,220004
+22,16SPRI-All-Weekday-02,133280202,"22 Laurentian West to Forest Glen",0,200252,220004
+22,16SPRI-All-Weekday-02,133280302,"22 Laurentian West to Forest Glen",0,200258,220004
+22,16SPRI-All-Weekday-02,133280402,"22 Laurentian West to Forest Glen",0,198244,220004
+22,16SPRI-All-Weekday-02,133280502,"22 Laurentian West to Forest Glen",0,200252,220004
+22,16SPRI-All-Weekday-02,133280602,"22 Laurentian West to Highland Hills",0,200253,220003
+22,16SPRI-All-Weekday-02,133280702,"22 Laurentian West to Highland Hills",0,200252,220005
+22,16SPRI-All-Weekday-02,133280802,"22 Laurentian West to Forest Glen",1,200251,220018
+22,16SPRI-All-Weekday-02,133280902,"22 Laurentian West to Forest Glen",1,198244,220018
+22,16SPRI-All-Weekday-02,133281002,"22 Laurentian West to Forest Glen",1,200252,220018
+22,16SPRI-All-Weekday-02,133281102,"22 Laurentian West to Forest Glen",1,200258,220018
+22,16SPRI-All-Weekday-02,133281202,"22 Laurentian West to Forest Glen",1,200253,220018
+22,16SPRI-All-Weekday-02,133281302,"22 Laurentian West to Forest Glen",1,200258,220018
+22,16SPRI-All-Weekday-02,133281402,"22 Laurentian West to Forest Glen",1,200613,220018
+22,16SPRI-All-Weekday-02,133281502,"22 Laurentian West to Forest Glen",1,200251,220018
+22,16SPRI-All-Weekday-02,133281602,"22 Laurentian West to Forest Glen",1,200252,220018
+22,16SPRI-All-Weekday-02,133281702,"22 Laurentian West to Forest Glen",1,200253,220018
+22,16SPRI-All-Weekday-02,133281802,"22 Laurentian West to Forest Glen",1,200258,220018
+22,16SPRI-All-Weekday-02,133281902,"22 Laurentian West to Forest Glen",1,200613,220018
+22,16SPRI-All-Weekday-02,133282002,"22 Laurentian West to Forest Glen",1,200355,220018
+22,16SPRI-All-Weekday-02,133282102,"22 Laurentian West to Forest Glen",1,200251,220018
+22,16SPRI-All-Weekday-02,133282202,"22 Laurentian West to Forest Glen",1,200252,220018
+22,16SPRI-All-Weekday-02,133282302,"22 Laurentian West to Forest Glen",1,200253,220018
+22,16SPRI-All-Weekday-02,133282402,"22 Laurentian West to Forest Glen",1,200258,220018
+22,16SPRI-All-Weekday-02,133282502,"22 Laurentian West to Forest Glen",1,200613,220018
+22,16SPRI-All-Weekday-02,133282602,"22 Laurentian West to Forest Glen",1,200355,220018
+22,16SPRI-All-Weekday-02,133282702,"22 Laurentian West to Forest Glen",1,200251,220018
+22,16SPRI-All-Weekday-02,133282802,"22 Laurentian West to Forest Glen",1,200252,220018
+22,16SPRI-All-Weekday-02,133282902,"22 Laurentian West to Forest Glen",1,200253,220018
+22,16SPRI-All-Weekday-02,133283002,"22 Laurentian West to Forest Glen",1,200258,220018
+22,16SPRI-All-Weekday-02,133283102,"22 Laurentian West to Forest Glen",1,200613,220018
+22,16SPRI-All-Weekday-02,133283202,"22 Laurentian West to Forest Glen",1,200251,220018
+22,16SPRI-All-Weekday-02,133283302,"22 Laurentian West to Forest Glen",1,200252,220018
+22,16SPRI-All-Weekday-02,133283402,"22 Laurentian West to Forest Glen",1,200253,220018
+22,16SPRI-All-Weekday-02,133283502,"22 Laurentian West to Forest Glen",1,200258,220018
+22,16SPRI-All-Weekday-02,133283602,"22 Laurentian West to Forest Glen",1,200613,220018
+22,16SPRI-All-Weekday-02,133283702,"22 Laurentian West to Forest Glen",1,198244,220018
+22,16SPRI-All-Weekday-02,133283802,"22 Laurentian West to Forest Glen",1,200252,220018
 57,16SPRI-All-Weekday-02,133290702,"57 Blair Road",1,198323,570001
 57,16SPRI-All-Weekday-02,133290802,"57 Blair Road",1,198323,570001
 57,16SPRI-All-Weekday-02,133290902,"57 Blair Road",1,198323,570001
@@ -1306,7 +1306,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 51,16SPRI-All-Weekday-02,133357402,"51A Hespeler Rd. to Fisher Mills",1,198431,510016
 51,16SPRI-All-Weekday-02,133357502,"51 Hespeler Rd. to Ainslie Terminal",0,198433,510017
 51,16SPRI-All-Weekday-02,133357602,"51 Hespeler Rd. to Ainslie Terminal",0,198432,510034
-51,16SPRI-All-Weekday-02,133357702,"51 Hespeler Rd. to Ainslie Terminal",0,198431,510014
+51,16SPRI-All-Weekday-02,133357702,"51 Hespeler Rd. to Ainslie Terminal",0,198431,510034
 51,16SPRI-All-Weekday-02,133357802,"51 Hespeler Rd. to Holiday Inn/Groh",0,198431,510035
 51,16SPRI-All-Weekday-02,133357902,"51 Hespeler Rd. to Ainslie Terminal",0,198434,510033
 51,16SPRI-All-Weekday-02,133358002,"51 Hespeler Rd. to Ainslie Terminal",0,198435,510033
@@ -1432,104 +1432,104 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 202,16SPRI-All-Weekday-02,133379002,"202 iXpress Conestoga Mall",1,198287,2020009
 202,16SPRI-All-Weekday-02,133379102,"202 iXpress Conestoga Mall",1,198294,2020009
 202,16SPRI-All-Weekday-02,133379202,"202 iXpress Conestoga Mall",1,198286,2020009
-201,16SPRI-All-Weekday-02,133379302,"201 iXpress Conestoga Mall",1,198286,2011189
-201,16SPRI-All-Weekday-02,133379402,"201 iXpress Conestoga Mall",1,198289,2011190
-201,16SPRI-All-Weekday-02,133379502,"201 iXpress Conestoga Mall",1,198288,2011191
-201,16SPRI-All-Weekday-02,133379602,"201 iXpress Conestoga Mall",1,198441,2011192
-201,16SPRI-All-Weekday-02,133379702,"201 iXpress Conestoga Mall",1,198471,2011193
-201,16SPRI-All-Weekday-02,133379802,"201 iXpress Conestoga Mall",1,200360,2011194
-201,16SPRI-All-Weekday-02,133379902,"201 iXpress Conestoga Mall",1,198289,2011195
-201,16SPRI-All-Weekday-02,133381102,"201 iXpress Conestoga Mall",1,200625,2011196
-201,16SPRI-All-Weekday-02,133381202,"201 iXpress Conestoga Mall",1,200308,2011197
-201,16SPRI-All-Weekday-02,133381302,"201 iXpress Conestoga Mall",1,200310,2011198
-201,16SPRI-All-Weekday-02,133381402,"201 iXpress Conestoga Mall",1,200306,2011199
-201,16SPRI-All-Weekday-02,133381502,"201 iXpress Conestoga Mall",1,200307,2011200
-201,16SPRI-All-Weekday-02,133381602,"201 iXpress Conestoga Mall",1,200351,2011201
-201,16SPRI-All-Weekday-02,133381702,"201 iXpress Conestoga Mall",1,198293,2011202
-201,16SPRI-All-Weekday-02,133381802,"201 iXpress Conestoga Mall",1,198282,2011203
-201,16SPRI-All-Weekday-02,133381902,"201 iXpress Conestoga Mall",1,198287,2011204
-201,16SPRI-All-Weekday-02,133382002,"201 iXpress Conestoga Mall",1,198294,2011205
-201,16SPRI-All-Weekday-02,133382102,"201 iXpress Conestoga Mall",1,198286,2011206
-201,16SPRI-All-Weekday-02,133382202,"201 iXpress Conestoga Mall",1,198290,2011207
-201,16SPRI-All-Weekday-02,133382302,"201 iXpress Conestoga Mall",1,198293,2011208
-201,16SPRI-All-Weekday-02,133382402,"201 iXpress Conestoga Mall",1,198282,2011209
-201,16SPRI-All-Weekday-02,133382502,"201 iXpress Conestoga Mall",1,198287,2011210
-201,16SPRI-All-Weekday-02,133382602,"201 iXpress Conestoga Mall",1,198287,2011211
-201,16SPRI-All-Weekday-02,133382702,"201 iXpress Conestoga Mall",1,198294,2011212
-201,16SPRI-All-Weekday-02,133382802,"201 iXpress Conestoga Mall",1,198286,2011213
-201,16SPRI-All-Weekday-02,133382902,"201 iXpress Conestoga Mall",1,198290,2011214
-201,16SPRI-All-Weekday-02,133383002,"201 iXpress Conestoga Mall",1,198293,2011215
-201,16SPRI-All-Weekday-02,133383102,"201 iXpress Conestoga Mall",1,198282,2011216
-201,16SPRI-All-Weekday-02,133383202,"201 iXpress Conestoga Mall",1,198287,2011217
-201,16SPRI-All-Weekday-02,133383302,"201 iXpress Conestoga Mall",1,198293,2011218
-201,16SPRI-All-Weekday-02,133383402,"201 iXpress Conestoga Mall",1,198282,2011219
-201,16SPRI-All-Weekday-02,133383502,"201 iXpress Conestoga Mall",1,198287,2011220
-201,16SPRI-All-Weekday-02,133383602,"201 iXpress Conestoga Mall",1,198294,2011221
-201,16SPRI-All-Weekday-02,133383702,"201 iXpress Conestoga Mall",1,198286,2011222
-201,16SPRI-All-Weekday-02,133383802,"201 iXpress Conestoga Mall",1,198290,2011223
-201,16SPRI-All-Weekday-02,133383902,"201 iXpress Conestoga Mall",1,198294,2011224
-201,16SPRI-All-Weekday-02,133384002,"201 iXpress Conestoga Mall",1,198286,2011225
-201,16SPRI-All-Weekday-02,133384102,"201 iXpress Conestoga Mall",1,198282,2011226
-201,16SPRI-All-Weekday-02,133384202,"201 iXpress Forest Glen",0,198288,2011227
-201,16SPRI-All-Weekday-02,133384302,"201 iXpress Forest Glen",0,198287,2011228
-201,16SPRI-All-Weekday-02,133385002,"201 iXpress Forest Glen",0,198290,2011229
-201,16SPRI-All-Weekday-02,133385102,"201 iXpress Forest Glen",0,198293,2011230
-201,16SPRI-All-Weekday-02,133385202,"201 iXpress Forest Glen",0,198282,2011231
-201,16SPRI-All-Weekday-02,133385302,"201 iXpress Forest Glen",0,198287,2011232
-201,16SPRI-All-Weekday-02,133385402,"201 iXpress Forest Glen",0,198294,2011233
-201,16SPRI-All-Weekday-02,133385502,"201 iXpress Forest Glen",0,198286,2011234
-201,16SPRI-All-Weekday-02,133385602,"201 iXpress Forest Glen",0,198290,2011235
-201,16SPRI-All-Weekday-02,133385702,"201 iXpress Forest Glen",0,198293,2011236
-201,16SPRI-All-Weekday-02,133385802,"201 iXpress Forest Glen",0,198282,2011237
-201,16SPRI-All-Weekday-02,133385902,"201 iXpress Forest Glen",0,200310,2011238
-201,16SPRI-All-Weekday-02,133386002,"201 iXpress Forest Glen",0,200306,2011239
-201,16SPRI-All-Weekday-02,133386102,"201 iXpress Forest Glen",0,200307,2011240
-201,16SPRI-All-Weekday-02,133386202,"201 iXpress Forest Glen",0,200351,2011241
-201,16SPRI-All-Weekday-02,133386302,"201 iXpress Forest Glen",0,200625,2011242
-201,16SPRI-All-Weekday-02,133386402,"201 iXpress Forest Glen",0,200308,2011243
-201,16SPRI-All-Weekday-02,133386502,"201 iXpress Forest Glen",0,198287,2011244
-201,16SPRI-All-Weekday-02,133386602,"201 iXpress Forest Glen",0,198294,2011245
-201,16SPRI-All-Weekday-02,133386802,"201 iXpress Forest Glen",0,200308,2011246
-201,16SPRI-All-Weekday-02,133386902,"201 iXpress Conestoga Mall",1,198290,2011247
-201,16SPRI-All-Weekday-02,133387002,"201 iXpress Forest Glen",0,198286,2011248
-201,16SPRI-All-Weekday-02,133387102,"201 iXpress Forest Glen",0,198290,2011249
-201,16SPRI-All-Weekday-02,133387202,"201 iXpress Forest Glen",0,198293,2011250
-201,16SPRI-All-Weekday-02,133387302,"201 iXpress Forest Glen",0,198282,2011251
-201,16SPRI-All-Weekday-02,133387402,"201 iXpress Forest Glen",0,198287,2011252
-201,16SPRI-All-Weekday-02,133387502,"201 iXpress Forest Glen",0,198294,2011253
-201,16SPRI-All-Weekday-02,133387602,"201 iXpress Forest Glen",0,198286,2011254
-201,16SPRI-All-Weekday-02,133387702,"201 iXpress Forest Glen",0,198293,2011255
-201,16SPRI-All-Weekday-02,133387802,"201 iXpress Forest Glen",0,198282,2011256
-201,16SPRI-All-Weekday-02,133387902,"201 iXpress Forest Glen",0,198287,2011257
-201,16SPRI-All-Weekday-02,133388002,"201 iXpress Conestoga Mall",1,198286,2011258
-201,16SPRI-All-Weekday-02,133388102,"201 iXpress Conestoga Mall",1,198294,2011259
-201,16SPRI-All-Weekday-02,133388202,"201 iXpress Conestoga Mall",1,198286,2011260
-201,16SPRI-All-Weekday-02,133388302,"201 iXpress Conestoga Mall",1,198290,2011261
-201,16SPRI-All-Weekday-02,133388402,"201 iXpress Conestoga Mall",1,198293,2011262
-201,16SPRI-All-Weekday-02,133388502,"201 iXpress Conestoga Mall",1,198282,2011263
-201,16SPRI-All-Weekday-02,133388602,"201 iXpress Conestoga Mall",1,198287,2011264
-201,16SPRI-All-Weekday-02,133388702,"201 iXpress Conestoga Mall",1,198294,2011265
-201,16SPRI-All-Weekday-02,133388802,"201 iXpress Forest Glen",0,198293,2011266
-201,16SPRI-All-Weekday-02,133388902,"201 iXpress Forest Glen",0,198282,2011267
-201,16SPRI-All-Weekday-02,133389002,"201 iXpress Forest Glen",0,198287,2011268
-201,16SPRI-All-Weekday-02,133389102,"201 iXpress Forest Glen",0,198294,2011269
-201,16SPRI-All-Weekday-02,133389202,"201 iXpress Forest Glen",0,198286,2011270
-201,16SPRI-All-Weekday-02,133389302,"201 iXpress Conestoga Mall",1,198293,2011271
-201,16SPRI-All-Weekday-02,133389402,"201 iXpress Forest Glen",0,198294,2011272
-201,16SPRI-All-Weekday-02,133389502,"201 iXpress Forest Glen",0,200360,2011273
-201,16SPRI-All-Weekday-02,133389602,"201 iXpress Forest Glen",0,198290,2011274
-201,16SPRI-All-Weekday-02,133389702,"201 iXpress Forest Glen",0,198288,2011275
-201,16SPRI-All-Weekday-02,133389802,"201 iXpress Forest Glen",0,198282,2011276
-201,16SPRI-All-Weekday-02,133390002,"201 iXpress Forest Glen",0,198287,2011277
-201,16SPRI-All-Weekday-02,133390202,"201 iXpress Forest Glen",0,198294,2011278
-201,16SPRI-All-Weekday-02,133390402,"201 iXpress Forest Glen",0,198286,2011279
-201,16SPRI-All-Weekday-02,133390602,"201 iXpress Forest Glen",0,198290,2011280
-201,16SPRI-All-Weekday-02,133390702,"201 iXpress Forest Glen",0,198289,2011281
-201,16SPRI-All-Weekday-02,133390802,"201 iXpress Forest Glen",0,198293,2011282
-201,16SPRI-All-Weekday-02,133390902,"201 iXpress Forest Glen",0,198286,2011283
-201,16SPRI-All-Weekday-02,133391002,"201 iXpress Conestoga Mall",1,198294,2011284
-201,16SPRI-All-Weekday-02,133391102,"201 iXpress Forest Glen",0,198441,2011285
-201,16SPRI-All-Weekday-02,133391202,"201 iXpress Forest Glen",0,198471,2011286
+201,16SPRI-All-Weekday-02,133379302,"201 iXpress Conestoga Mall",1,198286,2011352
+201,16SPRI-All-Weekday-02,133379402,"201 iXpress Conestoga Mall",1,198289,2011352
+201,16SPRI-All-Weekday-02,133379502,"201 iXpress Conestoga Mall",1,198288,2011352
+201,16SPRI-All-Weekday-02,133379602,"201 iXpress Conestoga Mall",1,198441,2011352
+201,16SPRI-All-Weekday-02,133379702,"201 iXpress Conestoga Mall",1,198471,2011352
+201,16SPRI-All-Weekday-02,133379802,"201 iXpress Conestoga Mall",1,200360,2011352
+201,16SPRI-All-Weekday-02,133379902,"201 iXpress Conestoga Mall",1,198289,2011352
+201,16SPRI-All-Weekday-02,133381102,"201 iXpress Conestoga Mall",1,200625,2011352
+201,16SPRI-All-Weekday-02,133381202,"201 iXpress Conestoga Mall",1,200308,2011352
+201,16SPRI-All-Weekday-02,133381302,"201 iXpress Conestoga Mall",1,200310,2011352
+201,16SPRI-All-Weekday-02,133381402,"201 iXpress Conestoga Mall",1,200306,2011352
+201,16SPRI-All-Weekday-02,133381502,"201 iXpress Conestoga Mall",1,200307,2011352
+201,16SPRI-All-Weekday-02,133381602,"201 iXpress Conestoga Mall",1,200351,2011352
+201,16SPRI-All-Weekday-02,133381702,"201 iXpress Conestoga Mall",1,198293,2011352
+201,16SPRI-All-Weekday-02,133381802,"201 iXpress Conestoga Mall",1,198282,2011352
+201,16SPRI-All-Weekday-02,133381902,"201 iXpress Conestoga Mall",1,198287,2011352
+201,16SPRI-All-Weekday-02,133382002,"201 iXpress Conestoga Mall",1,198294,2011352
+201,16SPRI-All-Weekday-02,133382102,"201 iXpress Conestoga Mall",1,198286,2011352
+201,16SPRI-All-Weekday-02,133382202,"201 iXpress Conestoga Mall",1,198290,2011352
+201,16SPRI-All-Weekday-02,133382302,"201 iXpress Conestoga Mall",1,198293,2011352
+201,16SPRI-All-Weekday-02,133382402,"201 iXpress Conestoga Mall",1,198282,2011352
+201,16SPRI-All-Weekday-02,133382502,"201 iXpress Conestoga Mall",1,198287,2011352
+201,16SPRI-All-Weekday-02,133382602,"201 iXpress Conestoga Mall",1,198287,2011352
+201,16SPRI-All-Weekday-02,133382702,"201 iXpress Conestoga Mall",1,198294,2011352
+201,16SPRI-All-Weekday-02,133382802,"201 iXpress Conestoga Mall",1,198286,2011352
+201,16SPRI-All-Weekday-02,133382902,"201 iXpress Conestoga Mall",1,198290,2011352
+201,16SPRI-All-Weekday-02,133383002,"201 iXpress Conestoga Mall",1,198293,2011352
+201,16SPRI-All-Weekday-02,133383102,"201 iXpress Conestoga Mall",1,198282,2011352
+201,16SPRI-All-Weekday-02,133383202,"201 iXpress Conestoga Mall",1,198287,2011352
+201,16SPRI-All-Weekday-02,133383302,"201 iXpress Conestoga Mall",1,198293,2011352
+201,16SPRI-All-Weekday-02,133383402,"201 iXpress Conestoga Mall",1,198282,2011352
+201,16SPRI-All-Weekday-02,133383502,"201 iXpress Conestoga Mall",1,198287,2011352
+201,16SPRI-All-Weekday-02,133383602,"201 iXpress Conestoga Mall",1,198294,2011352
+201,16SPRI-All-Weekday-02,133383702,"201 iXpress Conestoga Mall",1,198286,2011352
+201,16SPRI-All-Weekday-02,133383802,"201 iXpress Conestoga Mall",1,198290,2011352
+201,16SPRI-All-Weekday-02,133383902,"201 iXpress Conestoga Mall",1,198294,2011352
+201,16SPRI-All-Weekday-02,133384002,"201 iXpress Conestoga Mall",1,198286,2011352
+201,16SPRI-All-Weekday-02,133384102,"201 iXpress Conestoga Mall",1,198282,2011352
+201,16SPRI-All-Weekday-02,133384202,"201 iXpress Forest Glen",0,198288,2011351
+201,16SPRI-All-Weekday-02,133384302,"201 iXpress Forest Glen",0,198287,2011351
+201,16SPRI-All-Weekday-02,133385002,"201 iXpress Forest Glen",0,198290,2011351
+201,16SPRI-All-Weekday-02,133385102,"201 iXpress Forest Glen",0,198293,2011351
+201,16SPRI-All-Weekday-02,133385202,"201 iXpress Forest Glen",0,198282,2011351
+201,16SPRI-All-Weekday-02,133385302,"201 iXpress Forest Glen",0,198287,2011351
+201,16SPRI-All-Weekday-02,133385402,"201 iXpress Forest Glen",0,198294,2011351
+201,16SPRI-All-Weekday-02,133385502,"201 iXpress Forest Glen",0,198286,2011351
+201,16SPRI-All-Weekday-02,133385602,"201 iXpress Forest Glen",0,198290,2011351
+201,16SPRI-All-Weekday-02,133385702,"201 iXpress Forest Glen",0,198293,2011351
+201,16SPRI-All-Weekday-02,133385802,"201 iXpress Forest Glen",0,198282,2011351
+201,16SPRI-All-Weekday-02,133385902,"201 iXpress Forest Glen",0,200310,2011351
+201,16SPRI-All-Weekday-02,133386002,"201 iXpress Forest Glen",0,200306,2011351
+201,16SPRI-All-Weekday-02,133386102,"201 iXpress Forest Glen",0,200307,2011351
+201,16SPRI-All-Weekday-02,133386202,"201 iXpress Forest Glen",0,200351,2011351
+201,16SPRI-All-Weekday-02,133386302,"201 iXpress Forest Glen",0,200625,2011351
+201,16SPRI-All-Weekday-02,133386402,"201 iXpress Forest Glen",0,200308,2011351
+201,16SPRI-All-Weekday-02,133386502,"201 iXpress Forest Glen",0,198287,2011351
+201,16SPRI-All-Weekday-02,133386602,"201 iXpress Forest Glen",0,198294,2011351
+201,16SPRI-All-Weekday-02,133386802,"201 iXpress Forest Glen",0,200308,2011351
+201,16SPRI-All-Weekday-02,133386902,"201 iXpress Conestoga Mall",1,198290,2011352
+201,16SPRI-All-Weekday-02,133387002,"201 iXpress Forest Glen",0,198286,2011351
+201,16SPRI-All-Weekday-02,133387102,"201 iXpress Forest Glen",0,198290,2011351
+201,16SPRI-All-Weekday-02,133387202,"201 iXpress Forest Glen",0,198293,2011351
+201,16SPRI-All-Weekday-02,133387302,"201 iXpress Forest Glen",0,198282,2011351
+201,16SPRI-All-Weekday-02,133387402,"201 iXpress Forest Glen",0,198287,2011351
+201,16SPRI-All-Weekday-02,133387502,"201 iXpress Forest Glen",0,198294,2011351
+201,16SPRI-All-Weekday-02,133387602,"201 iXpress Forest Glen",0,198286,2011351
+201,16SPRI-All-Weekday-02,133387702,"201 iXpress Forest Glen",0,198293,2011351
+201,16SPRI-All-Weekday-02,133387802,"201 iXpress Forest Glen",0,198282,2011351
+201,16SPRI-All-Weekday-02,133387902,"201 iXpress Forest Glen",0,198287,2011351
+201,16SPRI-All-Weekday-02,133388002,"201 iXpress Conestoga Mall",1,198286,2011352
+201,16SPRI-All-Weekday-02,133388102,"201 iXpress Conestoga Mall",1,198294,2011352
+201,16SPRI-All-Weekday-02,133388202,"201 iXpress Conestoga Mall",1,198286,2011352
+201,16SPRI-All-Weekday-02,133388302,"201 iXpress Conestoga Mall",1,198290,2011352
+201,16SPRI-All-Weekday-02,133388402,"201 iXpress Conestoga Mall",1,198293,2011352
+201,16SPRI-All-Weekday-02,133388502,"201 iXpress Conestoga Mall",1,198282,2011352
+201,16SPRI-All-Weekday-02,133388602,"201 iXpress Conestoga Mall",1,198287,2011352
+201,16SPRI-All-Weekday-02,133388702,"201 iXpress Conestoga Mall",1,198294,2011352
+201,16SPRI-All-Weekday-02,133388802,"201 iXpress Forest Glen",0,198293,2011351
+201,16SPRI-All-Weekday-02,133388902,"201 iXpress Forest Glen",0,198282,2011351
+201,16SPRI-All-Weekday-02,133389002,"201 iXpress Forest Glen",0,198287,2011351
+201,16SPRI-All-Weekday-02,133389102,"201 iXpress Forest Glen",0,198294,2011351
+201,16SPRI-All-Weekday-02,133389202,"201 iXpress Forest Glen",0,198286,2011351
+201,16SPRI-All-Weekday-02,133389302,"201 iXpress Conestoga Mall",1,198293,2011352
+201,16SPRI-All-Weekday-02,133389402,"201 iXpress Forest Glen",0,198294,2011351
+201,16SPRI-All-Weekday-02,133389502,"201 iXpress Forest Glen",0,200360,2011351
+201,16SPRI-All-Weekday-02,133389602,"201 iXpress Forest Glen",0,198290,2011351
+201,16SPRI-All-Weekday-02,133389702,"201 iXpress Forest Glen",0,198288,2011351
+201,16SPRI-All-Weekday-02,133389802,"201 iXpress Forest Glen",0,198282,2011351
+201,16SPRI-All-Weekday-02,133390002,"201 iXpress Forest Glen",0,198287,2011351
+201,16SPRI-All-Weekday-02,133390202,"201 iXpress Forest Glen",0,198294,2011351
+201,16SPRI-All-Weekday-02,133390402,"201 iXpress Forest Glen",0,198286,2011351
+201,16SPRI-All-Weekday-02,133390602,"201 iXpress Forest Glen",0,198290,2011351
+201,16SPRI-All-Weekday-02,133390702,"201 iXpress Forest Glen",0,198289,2011351
+201,16SPRI-All-Weekday-02,133390802,"201 iXpress Forest Glen",0,198293,2011351
+201,16SPRI-All-Weekday-02,133390902,"201 iXpress Forest Glen",0,198286,2011351
+201,16SPRI-All-Weekday-02,133391002,"201 iXpress Conestoga Mall",1,198294,2011352
+201,16SPRI-All-Weekday-02,133391102,"201 iXpress Forest Glen",0,198441,2011353
+201,16SPRI-All-Weekday-02,133391202,"201 iXpress Forest Glen",0,198471,2011353
 9931,16SPRI-All-Weekday-02,133391302,"Huron Industrial Special",0,198246,99310002
 9801,16SPRI-All-Weekday-02,133391402,"GCI Special",1,200315,98010001
 9851,16SPRI-All-Weekday-02,133391502,"Northview Special",1,200305,98510006
@@ -1682,7 +1682,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 27,16SPRI-All-Weekday-02,133406202,"27 Chicopee",1,198340,270004
 27,16SPRI-All-Weekday-02,133406302,"27 Chicopee",1,198334,270004
 27,16SPRI-All-Weekday-02,133406402,"27 Chicopee",1,198338,270004
-8,16SPRI-All-Weekday-02,133406502,"8 University via Weber",0,198324,80074
+8,16SPRI-All-Weekday-02,133406502,"8 University via Weber",0,198324,80315
 8,16SPRI-All-Weekday-02,133406602,"8 University via Courtland & Weber",0,198266,80265
 8,16SPRI-All-Weekday-02,133406702,"8 University via Courtland & Weber",0,198267,80265
 8,16SPRI-All-Weekday-02,133406802,"8 University via Courtland & Weber",0,198252,80265
@@ -1704,36 +1704,36 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Weekday-02,133408402,"8 University via Courtland & Weber",0,198266,80265
 8,16SPRI-All-Weekday-02,133408502,"8 University via Courtland & Weber",0,198267,80265
 8,16SPRI-All-Weekday-02,133408602,"8 University via Courtland & Weber",0,198252,80265
-8,16SPRI-All-Weekday-02,133408702,"8 University via Courtland & Weber",0,198365,80056
-8,16SPRI-All-Weekday-02,133408802,"8 University via Courtland & Weber",0,198266,80056
-8,16SPRI-All-Weekday-02,133408902,"8 University via Courtland & Weber",0,198267,80056
+8,16SPRI-All-Weekday-02,133408702,"8 University via Courtland & Weber",0,198365,80265
+8,16SPRI-All-Weekday-02,133408802,"8 University via Courtland & Weber",0,198266,80265
+8,16SPRI-All-Weekday-02,133408902,"8 University via Courtland & Weber",0,198267,80265
 8,16SPRI-All-Weekday-02,133409002,"8 University via Courtland & Weber",0,198266,80265
 8,16SPRI-All-Weekday-02,133409102,"8 University via Courtland & Weber",0,198266,80265
 8,16SPRI-All-Weekday-02,133409202,"8 University via Courtland & Weber",0,198252,80265
 8,16SPRI-All-Weekday-02,133409302,"8 University via Courtland & Weber",0,198266,80265
 8,16SPRI-All-Weekday-02,133409402,"8 University via Courtland & Weber",0,198267,80265
 8,16SPRI-All-Weekday-02,133409502,"8 University via Courtland & Weber",0,198266,80265
-8,16SPRI-All-Weekday-02,133409602,"8 University via Weber",0,198267,80074
-8,16SPRI-All-Weekday-02,133409702,"8 Fairview via Courtland",1,198270,80083
-8,16SPRI-All-Weekday-02,133409802,"8 Fairview via Courtland",1,198264,80083
-8,16SPRI-All-Weekday-02,133409902,"8 Fairview via Weber & Courtland",1,198268,80060
-8,16SPRI-All-Weekday-02,133410002,"8 Fairview via Weber & Courtland",1,198265,80060
+8,16SPRI-All-Weekday-02,133409602,"8 University via Weber",0,198267,80315
+8,16SPRI-All-Weekday-02,133409702,"8 Fairview via Courtland",1,198270,80339
+8,16SPRI-All-Weekday-02,133409802,"8 Fairview via Courtland",1,198264,80339
+8,16SPRI-All-Weekday-02,133409902,"8 Fairview via Weber & Courtland",1,198268,80292
+8,16SPRI-All-Weekday-02,133410002,"8 Fairview via Weber & Courtland",1,198265,80292
 8,16SPRI-All-Weekday-02,133410102,"8 Fairview via Weber & Courtland",1,198265,80292
-8,16SPRI-All-Weekday-02,133410202,"8 Fairview via Weber & Courtland",1,198269,80060
-8,16SPRI-All-Weekday-02,133410302,"8 Fairview via Weber & Courtland",1,198264,80060
+8,16SPRI-All-Weekday-02,133410202,"8 Fairview via Weber & Courtland",1,198269,80292
+8,16SPRI-All-Weekday-02,133410302,"8 Fairview via Weber & Courtland",1,198264,80292
 8,16SPRI-All-Weekday-02,133410402,"8 Fairview via Weber & Courtland",1,198265,80292
 8,16SPRI-All-Weekday-02,133410502,"8 Fairview via Weber & Courtland",1,198264,80292
 8,16SPRI-All-Weekday-02,133410602,"8 Fairview via Weber & Courtland",1,198265,80292
-8,16SPRI-All-Weekday-02,133410702,"8 Fairview via Weber & Courtland",1,198264,80060
+8,16SPRI-All-Weekday-02,133410702,"8 Fairview via Weber & Courtland",1,198264,80292
 8,16SPRI-All-Weekday-02,133410802,"8 Fairview via Weber & Courtland",1,198265,80292
 8,16SPRI-All-Weekday-02,133410902,"8 Fairview via Weber & Courtland",1,198264,80292
 8,16SPRI-All-Weekday-02,133411002,"8 Fairview via Weber & Courtland",1,198265,80292
 8,16SPRI-All-Weekday-02,133411102,"8 Fairview via Franklin",1,198266,80293
 8,16SPRI-All-Weekday-02,133411202,"8 Fairview via Franklin",1,198252,80293
-8,16SPRI-All-Weekday-02,133411302,"8 Fairview via Westmount & Franklin",1,198365,80073
-8,16SPRI-All-Weekday-02,133411402,"8 Fairview via Weber & Courtland",1,198268,80060
+8,16SPRI-All-Weekday-02,133411302,"8 Fairview via Westmount & Franklin",1,198365,80312
+8,16SPRI-All-Weekday-02,133411402,"8 Fairview via Weber & Courtland",1,198268,80292
 8,16SPRI-All-Weekday-02,133411502,"8 University via Courtland & Weber",0,198267,80265
-8,16SPRI-All-Weekday-02,133411602,"8 University via Courtland & Weber",0,198252,80056
+8,16SPRI-All-Weekday-02,133411602,"8 University via Courtland & Weber",0,198252,80265
 8,16SPRI-All-Weekday-02,133411702,"8 Fairview via Weber & Courtland",1,198269,80296
 8,16SPRI-All-Weekday-02,133411802,"8 Fairview via Westmount & Franklin",1,198252,80297
 8,16SPRI-All-Weekday-02,133411902,"8 Fairview via Westmount & Franklin",1,198267,80297
@@ -1758,14 +1758,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Weekday-02,133413802,"8 Fairview via Weber & Courtland",1,198266,80296
 8,16SPRI-All-Weekday-02,133413902,"8 Fairview via Weber & Courtland",1,198267,80296
 8,16SPRI-All-Weekday-02,133414002,"8 Fairview via Weber & Courtland",1,198252,80296
-8,16SPRI-All-Weekday-02,133414102,"8 Fairview via Weber & Courtland",1,198264,80064
+8,16SPRI-All-Weekday-02,133414102,"8 Fairview via Weber & Courtland",1,198264,80296
 8,16SPRI-All-Weekday-02,133414202,"8 Fairview via Weber & Courtland",1,198268,80296
 8,16SPRI-All-Weekday-02,133414302,"8 Fairview via Weber & Courtland",1,198265,80292
-8,16SPRI-All-Weekday-02,133414402,"8 University via Courtland & Weber",0,198269,80056
+8,16SPRI-All-Weekday-02,133414402,"8 University via Courtland & Weber",0,198269,80265
 8,16SPRI-All-Weekday-02,133414502,"8 Fairview via Westmount & Franklin",1,198266,80297
-8,16SPRI-All-Weekday-02,133414602,"8 Fairview via Westmount & Franklin",1,198267,80073
-8,16SPRI-All-Weekday-02,133414702,"8 University via Franklin & Westmount",0,198264,80082
-8,16SPRI-All-Weekday-02,133414802,"8 University via Franklin & Westmount",0,198268,80082
+8,16SPRI-All-Weekday-02,133414602,"8 Fairview via Westmount & Franklin",1,198267,80312
+8,16SPRI-All-Weekday-02,133414702,"8 University via Franklin & Westmount",0,198264,80311
+8,16SPRI-All-Weekday-02,133414802,"8 University via Franklin & Westmount",0,198268,80311
 8,16SPRI-All-Weekday-02,133414902,"8 University via Franklin & Westmount",0,198265,80311
 8,16SPRI-All-Weekday-02,133415002,"8 University via Franklin & Westmount",0,198269,80311
 8,16SPRI-All-Weekday-02,133415102,"8 University via Franklin & Westmount",0,198266,80311
@@ -1778,20 +1778,20 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Weekday-02,133415802,"8 University via Franklin & Westmount",0,198266,80311
 8,16SPRI-All-Weekday-02,133415902,"8 University via Franklin & Westmount",0,198267,80311
 8,16SPRI-All-Weekday-02,133416002,"8 University via Franklin & Westmount",0,198252,80311
-8,16SPRI-All-Weekday-02,133416102,"8 University via Franklin & Westmount",0,198264,80082
-8,16SPRI-All-Weekday-02,133416202,"8 University via Franklin & Westmount",0,198268,80082
+8,16SPRI-All-Weekday-02,133416102,"8 University via Franklin & Westmount",0,198264,80311
+8,16SPRI-All-Weekday-02,133416202,"8 University via Franklin & Westmount",0,198268,80311
 8,16SPRI-All-Weekday-02,133416302,"8 University via Franklin & Westmount",0,198265,80311
 8,16SPRI-All-Weekday-02,133416402,"8 University via Franklin & Westmount",0,198269,80311
 8,16SPRI-All-Weekday-02,133416502,"8 University via Franklin & Westmount",0,198264,80311
 8,16SPRI-All-Weekday-02,133416602,"8 University via Franklin & Westmount",0,198268,80311
 8,16SPRI-All-Weekday-02,133416702,"8 University via Franklin & Westmount",0,198265,80311
 8,16SPRI-All-Weekday-02,133416802,"8 University via Franklin & Westmount",0,198269,80311
-8,16SPRI-All-Weekday-02,133416902,"8 University via Franklin & Westmount",0,198264,80082
-8,16SPRI-All-Weekday-02,133417002,"8 University via Franklin & Westmount",0,198268,80082
-8,16SPRI-All-Weekday-02,133417102,"8 University via Franklin & Westmount",0,198265,80082
+8,16SPRI-All-Weekday-02,133416902,"8 University via Franklin & Westmount",0,198264,80311
+8,16SPRI-All-Weekday-02,133417002,"8 University via Franklin & Westmount",0,198268,80311
+8,16SPRI-All-Weekday-02,133417102,"8 University via Franklin & Westmount",0,198265,80311
 8,16SPRI-All-Weekday-02,133417202,"8 University via Westmount",0,198265,80081
 8,16SPRI-All-Weekday-02,133417302,"8 University via Westmount",0,198268,80081
-8,16SPRI-All-Weekday-02,133417402,"8 Fairview via Westmount & Franklin",1,198269,80065
+8,16SPRI-All-Weekday-02,133417402,"8 Fairview via Westmount & Franklin",1,198269,80297
 8,16SPRI-All-Weekday-02,133417502,"8 Fairview via Westmount & Franklin",1,198252,80312
 8,16SPRI-All-Weekday-02,133417602,"8 University via Courtland & Weber",0,198252,80265
 8,16SPRI-All-Weekday-02,133417702,"8 University via Courtland & Weber",0,198267,80265
@@ -1817,7 +1817,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Weekday-02,133419702,"8 University via Weber",0,198270,80315
 8,16SPRI-All-Weekday-02,133419802,"8 University via Weber",0,198302,80315
 8,16SPRI-All-Weekday-02,133419902,"8 University via Weber",0,198270,80315
-8,16SPRI-All-Weekday-02,133420002,"8 University via Franklin & Westmount",0,198270,80082
+8,16SPRI-All-Weekday-02,133420002,"8 University via Franklin & Westmount",0,198270,80311
 8,16SPRI-All-Weekday-02,133420102,"8 Downtown via Westmount",1,198295,80040
 8,16SPRI-All-Weekday-02,133420202,"8 Downtown via Westmount",1,198298,80040
 8,16SPRI-All-Weekday-02,133420302,"8 Downtown via Westmount",1,198252,80040
@@ -1861,16 +1861,16 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Weekday-02,133424102,"8 Fairview via Weber & Courtland",1,198264,80292
 8,16SPRI-All-Weekday-02,133424202,"8 Fairview via Westmount & Franklin",1,198267,80312
 8,16SPRI-All-Weekday-02,133424302,"8 Fairview via Westmount & Franklin",1,198266,80312
-8,16SPRI-All-Weekday-02,133424402,"8 Downtown via Weber",1,198297,80075
+8,16SPRI-All-Weekday-02,133424402,"8 Downtown via Weber",1,198297,80324
 8,16SPRI-All-Weekday-02,133424502,"8 Fairview via Westmount & Franklin",1,198267,80312
 8,16SPRI-All-Weekday-02,133424602,"8 Fairview via Westmount & Franklin",1,198266,80312
 8,16SPRI-All-Weekday-02,133424702,"8 Fairview via Westmount & Franklin",1,198252,80312
 8,16SPRI-All-Weekday-02,133424802,"8 Fairview via Westmount & Franklin",1,198266,80312
-8,16SPRI-All-Weekday-02,133424902,"8 Fairview via Westmount & Franklin",1,198267,80073
+8,16SPRI-All-Weekday-02,133424902,"8 Fairview via Westmount & Franklin",1,198267,80312
 8,16SPRI-All-Weekday-02,133425002,"8 Fairview via Westmount & Franklin",1,198266,80312
 8,16SPRI-All-Weekday-02,133425102,"8 Fairview via Westmount & Franklin",1,198252,80312
-8,16SPRI-All-Weekday-02,133425202,"8 Fairview via Westmount & Franklin",1,198266,80073
-8,16SPRI-All-Weekday-02,133425302,"8 Fairview via Westmount & Franklin",1,198267,80073
+8,16SPRI-All-Weekday-02,133425202,"8 Fairview via Westmount & Franklin",1,198266,80312
+8,16SPRI-All-Weekday-02,133425302,"8 Fairview via Westmount & Franklin",1,198267,80312
 8,16SPRI-All-Weekday-02,133425402,"8 Fairview via Westmount & Franklin",1,198267,80312
 8,16SPRI-All-Weekday-02,133425502,"8 University via Franklin & Westmount",0,198265,80311
 8,16SPRI-All-Weekday-02,133425602,"8 University via Franklin & Westmount",0,198264,80311
@@ -1879,7 +1879,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Weekday-02,133425902,"8 University via Franklin & Westmount",0,198264,80311
 8,16SPRI-All-Weekday-02,133426002,"8 University via Franklin & Westmount",0,198265,80311
 8,16SPRI-All-Weekday-02,133426102,"8 University via Franklin & Westmount",0,198264,80311
-8,16SPRI-All-Weekday-02,133426202,"8 University via Franklin & Westmount",0,198264,80082
+8,16SPRI-All-Weekday-02,133426202,"8 University via Franklin & Westmount",0,198264,80311
 8,16SPRI-All-Weekday-02,133426302,"8 University via Franklin & Westmount",0,198268,80311
 8,16SPRI-All-Weekday-02,133426402,"8 Downtown",0,198265,80338
 91,16SPRI-All-Weekday-02,133426502,"91 Late Night Loop",0,198364,910008
@@ -1941,16 +1941,16 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,16SPRI-All-Weekday-02,133434102,"10 Conestoga College",1,200364,100293
 10,16SPRI-All-Weekday-02,133434202,"10 Conestoga College",1,200382,100292
 10,16SPRI-All-Weekday-02,133434302,"10 Conestoga College",1,200386,100291
-10,16SPRI-All-Weekday-02,133434402,"10 Conestoga College",1,200358,100007
+10,16SPRI-All-Weekday-02,133434402,"10 Conestoga College",1,200358,100028
 10,16SPRI-All-Weekday-02,133434502,"10 Conestoga College",1,200620,100290
 10,16SPRI-All-Weekday-02,133434602,"10 Conestoga College",1,198333,100289
 10,16SPRI-All-Weekday-02,133434702,"10 Conestoga College",1,200620,100288
 10,16SPRI-All-Weekday-02,133434802,"10 Conestoga College",1,200617,100287
 10,16SPRI-All-Weekday-02,133434902,"10 Conestoga College",1,200620,100286
 10,16SPRI-All-Weekday-02,133435002,"10 Conestoga College",1,200617,100285
-10,16SPRI-All-Weekday-02,133435102,"10 Conestoga College",1,200358,100007
-10,16SPRI-All-Weekday-02,133435202,"10 Conestoga College",1,200358,100007
-10,16SPRI-All-Weekday-02,133435302,"10 Fairview Park",0,200358,100004
+10,16SPRI-All-Weekday-02,133435102,"10 Conestoga College",1,200358,100028
+10,16SPRI-All-Weekday-02,133435202,"10 Conestoga College",1,200358,100028
+10,16SPRI-All-Weekday-02,133435302,"10 Fairview Park",0,200358,100192
 10,16SPRI-All-Weekday-02,133435402,"10 Fairview Park",0,200620,100284
 10,16SPRI-All-Weekday-02,133435502,"10 Fairview Park",0,200621,100283
 10,16SPRI-All-Weekday-02,133435602,"10 Fairview Park",0,200358,100282
@@ -1987,9 +1987,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,16SPRI-All-Weekday-02,133438802,"10 Fairview Park",0,198334,100270
 10,16SPRI-All-Weekday-02,133438902,"10 Conestoga College",1,198334,100269
 10,16SPRI-All-Weekday-02,133439002,"10 Conestoga College",1,198334,100268
-10,16SPRI-All-Weekday-02,133439102,"10 Conestoga College",1,198339,100007
-10,16SPRI-All-Weekday-02,133439202,"10 Fairview Park",0,198334,100006
-10,16SPRI-All-Weekday-02,133439302,"10 Conestoga College",1,200358,100010
+10,16SPRI-All-Weekday-02,133439102,"10 Conestoga College",1,198339,100028
+10,16SPRI-All-Weekday-02,133439202,"10 Fairview Park",0,198334,100015
+10,16SPRI-All-Weekday-02,133439302,"10 Conestoga College",1,200358,100162
 9,16SPRI-All-Weekday-02,133439502,"9 Lakeshore to WLU",1,198364,90022
 9,16SPRI-All-Weekday-02,133439602,"9 Lakeshore to Conestoga Mall",0,198281,90025
 9,16SPRI-All-Weekday-02,133439702,"9 Lakeshore to Conestoga Mall",0,198282,90025
@@ -2094,7 +2094,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,16SPRI-All-Weekday-02,133453102,"9 Lakeshore to UW",1,200366,90034
 9,16SPRI-All-Weekday-02,133453402,"9 Lakeshore to UW",1,198281,90032
 9,16SPRI-All-Weekday-02,133453602,"9 Lakeshore to UW",1,198393,90036
-4,16SPRI-All-Weekday-02,133461402,"4 Glasgow",0,198241,40012
+4,16SPRI-All-Weekday-02,133461402,"4 Glasgow",0,198241,40025
 4,16SPRI-All-Weekday-02,133461502,"4 Glasgow",0,198243,40025
 4,16SPRI-All-Weekday-02,133461602,"4 Glasgow",0,198242,40025
 4,16SPRI-All-Weekday-02,133461702,"4 Glasgow",0,198238,40025
@@ -2148,7 +2148,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 4,16SPRI-All-Weekday-02,133466502,"4 Downtown",1,198244,40026
 4,16SPRI-All-Weekday-02,133466602,"4 Downtown",1,200248,40026
 4,16SPRI-All-Weekday-02,133466702,"4 Downtown",1,198243,40026
-4,16SPRI-All-Weekday-02,133466802,"4 Downtown",1,198242,40015
+4,16SPRI-All-Weekday-02,133466802,"4 Downtown",1,198242,40026
 4,16SPRI-All-Weekday-02,133466902,"4 Downtown",1,200258,40026
 4,16SPRI-All-Weekday-02,133467002,"4 Downtown",1,200258,40026
 4,16SPRI-All-Weekday-02,133467102,"4 Glasgow to Westmount only",1,200258,40004
@@ -2285,7 +2285,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 6,16SPRI-All-Weekday-02,133480302,"6 Bridge to Conestoga Mall",0,198238,60014
 6,16SPRI-All-Weekday-02,133480402,"6 Bridge to Conestoga Mall",0,198244,60014
 6,16SPRI-All-Weekday-02,133480502,"6 Bridge to Conestoga Mall",0,200248,60014
-6,16SPRI-All-Weekday-02,133480602,"6 Bridge to Conestoga Mall",0,198243,60012
+6,16SPRI-All-Weekday-02,133480602,"6 Bridge to Conestoga Mall",0,198243,60014
 6,16SPRI-All-Weekday-02,133480702,"6 Bridge to Conestoga Mall",0,198242,60014
 6,16SPRI-All-Weekday-02,133480802,"6 Bridge to Conestoga Mall",0,198306,60014
 6,16SPRI-All-Weekday-02,133480902,"6 Bridge to Conestoga Mall",0,198308,60014
@@ -2414,7 +2414,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 13,16SPRI-All-Weekday-02,133501502,"13 Laurelwood to The Boardwalk",0,198393,130022
 13,16SPRI-All-Weekday-02,133501602,"13 Laurelwood to The Boardwalk",0,198247,130022
 13,16SPRI-All-Weekday-02,133501702,"13 Laurelwood to The Boardwalk",0,198392,130022
-13,16SPRI-All-Weekday-02,133501802,"13 Laurelwood to The Boardwalk",0,198281,130007
+13,16SPRI-All-Weekday-02,133501802,"13 Laurelwood to The Boardwalk",0,198281,130022
 13,16SPRI-All-Weekday-02,133501902,"13 Laurelwood to The Boardwalk",0,198392,130022
 13,16SPRI-All-Weekday-02,133502002,"13 Laurelwood to The Boardwalk",0,198247,130022
 13,16SPRI-All-Weekday-02,133502102,"13 Laurelwood to The Boardwalk",0,198394,130022
@@ -2896,55 +2896,55 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 16,16SPRI-All-Weekday-02,135433402,"16 Forest Glen",0,200617,160001
 16,16SPRI-All-Weekday-02,135433502,"16 Forest Glen",0,200358,160001
 16,16SPRI-All-Weekday-02,135433602,"16 Forest Glen",0,200620,160001
-203,16SPRI-All-Weekday-02,135443402,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,135443602,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,135443702,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,135443802,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,135443902,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,135444002,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,135444102,"203 iXpress Sportsworld",0,200671,2030001
+203,16SPRI-All-Weekday-02,135443402,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,135443602,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,135443702,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,135443802,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,135443902,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,135444002,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,135444102,"203 iXpress Sportsworld",0,200671,2030019
 203,16SPRI-All-Weekday-02,135444202,"203 iXpress Sportsworld",0,200670,2030019
 203,16SPRI-All-Weekday-02,135444302,"203 iXpress Sportsworld",0,200671,2030019
-203,16SPRI-All-Weekday-02,135444402,"203 iXpress Sportsworld",0,200670,2030001
-203,16SPRI-All-Weekday-02,135444502,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,135444602,"203 iXpress Sportsworld",0,200671,2030001
-203,16SPRI-All-Weekday-02,135444702,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,135444802,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,135444902,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,135445002,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,135445202,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,135445302,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,135445402,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,135445502,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,135445602,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,135445702,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,135445802,"203 iXpress Cambridge Ctr.",1,200671,2030003
-203,16SPRI-All-Weekday-02,135445902,"203 iXpress Cambridge Ctr.",1,200670,2030003
-203,16SPRI-All-Weekday-02,135446002,"203 iXpress Cambridge Ctr.",1,200670,2030003
+203,16SPRI-All-Weekday-02,135444402,"203 iXpress Sportsworld",0,200670,2030019
+203,16SPRI-All-Weekday-02,135444502,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,135444602,"203 iXpress Sportsworld",0,200671,2030019
+203,16SPRI-All-Weekday-02,135444702,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,135444802,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,135444902,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,135445002,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,135445202,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,135445302,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,135445402,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,135445502,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,135445602,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,135445702,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,135445802,"203 iXpress Cambridge Ctr.",1,200671,2030021
+203,16SPRI-All-Weekday-02,135445902,"203 iXpress Cambridge Ctr.",1,200670,2030021
+203,16SPRI-All-Weekday-02,135446002,"203 iXpress Cambridge Ctr.",1,200670,2030021
 203,16SPRI-All-Weekday-02,135446102,"203 iXpress Cambridge Ctr.",1,200671,2030021
-200,16SPRI-All-Weekday-02,135446302,"200 iXpress Conestoga Mall",0,200294,2000013
-200,16SPRI-All-Weekday-02,135446402,"200 iXpress Conestoga Mall",0,200296,2000014
-200,16SPRI-All-Weekday-02,135446502,"200 iXpress Conestoga Mall",0,200291,2000014
+200,16SPRI-All-Weekday-02,135446302,"200 iXpress Conestoga Mall",0,200294,2001055
+200,16SPRI-All-Weekday-02,135446402,"200 iXpress Conestoga Mall",0,200296,2001050
+200,16SPRI-All-Weekday-02,135446502,"200 iXpress Conestoga Mall",0,200291,2001050
 200,16SPRI-All-Weekday-02,135446602,"200 iXpress Conestoga Mall",0,200304,2001050
 200,16SPRI-All-Weekday-02,135446702,"200 iXpress Conestoga Mall",0,200298,2001050
 200,16SPRI-All-Weekday-02,135446802,"200 iXpress Conestoga Mall",0,200315,2001050
 200,16SPRI-All-Weekday-02,135446902,"200 iXpress Conestoga Mall",0,200314,2001050
-200,16SPRI-All-Weekday-02,135447102,"200 iXpress Conestoga Mall",0,200295,2000015
-200,16SPRI-All-Weekday-02,135447202,"200 iXpress Ainslie Terminal",1,200293,2000016
-200,16SPRI-All-Weekday-02,135447302,"200 iXpress Ainslie Terminal",1,200297,2000016
+200,16SPRI-All-Weekday-02,135447102,"200 iXpress Conestoga Mall",0,200295,2001054
+200,16SPRI-All-Weekday-02,135447202,"200 iXpress Ainslie Terminal",1,200293,2001051
+200,16SPRI-All-Weekday-02,135447302,"200 iXpress Ainslie Terminal",1,200297,2001051
 200,16SPRI-All-Weekday-02,135447402,"200 iXpress Ainslie Terminal",1,200294,2001051
 200,16SPRI-All-Weekday-02,135447502,"200 iXpress Ainslie Terminal",1,200290,2001051
 200,16SPRI-All-Weekday-02,135447602,"200 iXpress Ainslie Terminal",1,200302,2001051
-200,16SPRI-All-Weekday-02,135447702,"200 iXpress Ainslie Terminal",1,200291,2000017
+200,16SPRI-All-Weekday-02,135447702,"200 iXpress Ainslie Terminal",1,200291,2000818
 200,16SPRI-All-Weekday-02,135447802,"200 iXpress Conestoga Mall",0,200295,2001050
 200,16SPRI-All-Weekday-02,135447902,"200 iXpress Conestoga Mall",0,200292,2001050
 200,16SPRI-All-Weekday-02,135448002,"200 iXpress Conestoga Mall",0,200299,2001050
 200,16SPRI-All-Weekday-02,135448102,"200 iXpress Conestoga Mall",0,200293,2001050
 200,16SPRI-All-Weekday-02,135448202,"200 iXpress Conestoga Mall",0,200314,2001050
-200,16SPRI-All-Weekday-02,135448302,"200 iXpress Conestoga Mall",0,200297,2000014
+200,16SPRI-All-Weekday-02,135448302,"200 iXpress Conestoga Mall",0,200297,2001050
 200,16SPRI-All-Weekday-02,135448402,"200 iXpress Conestoga Mall",0,200294,2001050
 200,16SPRI-All-Weekday-02,135448502,"200 iXpress Conestoga Mall",0,200315,2001050
-200,16SPRI-All-Weekday-02,135448602,"200 iXpress Conestoga Mall",0,200302,2000014
+200,16SPRI-All-Weekday-02,135448602,"200 iXpress Conestoga Mall",0,200302,2001050
 200,16SPRI-All-Weekday-02,135448702,"200 iXpress Conestoga Mall",0,200295,2001050
 200,16SPRI-All-Weekday-02,135448802,"200 iXpress Conestoga Mall",0,200292,2001050
 200,16SPRI-All-Weekday-02,135448902,"200 iXpress Conestoga Mall",0,200303,2001050
@@ -2991,11 +2991,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16SPRI-All-Weekday-02,135453002,"200 iXpress Ainslie Terminal",1,200300,2001051
 200,16SPRI-All-Weekday-02,135453102,"200 iXpress Ainslie Terminal",1,200299,2001051
 200,16SPRI-All-Weekday-02,135453202,"200 iXpress Ainslie Terminal",1,200293,2001051
-200,16SPRI-All-Weekday-02,135453302,"200 iXpress Conestoga Mall",0,200298,2000015
+200,16SPRI-All-Weekday-02,135453302,"200 iXpress Conestoga Mall",0,200298,2001054
 200,16SPRI-All-Weekday-02,135453402,"200 iXpress Ainslie Terminal",1,200303,2001051
 200,16SPRI-All-Weekday-02,135453502,"200 iXpress Ainslie Terminal",1,200291,2001051
 200,16SPRI-All-Weekday-02,135453602,"200 iXpress Ainslie Terminal",1,200298,2001051
-200,16SPRI-All-Weekday-02,135453702,"200 iXpress Ainslie Terminal",1,200300,2000016
+200,16SPRI-All-Weekday-02,135453702,"200 iXpress Ainslie Terminal",1,200300,2001051
 200,16SPRI-All-Weekday-02,135453802,"200 iXpress Ainslie Terminal",1,200299,2001051
 200,16SPRI-All-Weekday-02,135453902,"200 iXpress Ainslie Terminal",1,200293,2001051
 200,16SPRI-All-Weekday-02,135454002,"200 iXpress Ainslie Terminal",1,200314,2001051
@@ -3018,7 +3018,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16SPRI-All-Weekday-02,135455702,"200 iXpress Ainslie Terminal",1,200302,2001051
 200,16SPRI-All-Weekday-02,135455802,"200 iXpress Ainslie Terminal",1,200295,2001051
 200,16SPRI-All-Weekday-02,135455902,"200 iXpress Ainslie Terminal",1,200292,2001051
-200,16SPRI-All-Weekday-02,135456002,"200 iXpress Ainslie Terminal",1,200303,2000016
+200,16SPRI-All-Weekday-02,135456002,"200 iXpress Ainslie Terminal",1,200303,2001051
 200,16SPRI-All-Weekday-02,135456102,"200 iXpress Ainslie Terminal",1,200291,2001051
 200,16SPRI-All-Weekday-02,135456202,"200 iXpress Ainslie Terminal",1,200298,2001051
 200,16SPRI-All-Weekday-02,135456302,"200 iXpress Ainslie Terminal",1,200300,2001051
@@ -3039,25 +3039,25 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16SPRI-All-Weekday-02,135457802,"200 iXpress Ainslie Terminal",1,200315,2001051
 200,16SPRI-All-Weekday-02,135457902,"200 iXpress Ainslie Terminal",1,200302,2001051
 200,16SPRI-All-Weekday-02,135458002,"200 iXpress Ainslie Terminal",1,200295,2001051
-200,16SPRI-All-Weekday-02,135458102,"200 iXpress Ainslie Terminal",1,200304,2000016
-200,16SPRI-All-Weekday-02,135458202,"200 iXpress Ainslie Terminal",1,200298,2000016
+200,16SPRI-All-Weekday-02,135458102,"200 iXpress Ainslie Terminal",1,200304,2001051
+200,16SPRI-All-Weekday-02,135458202,"200 iXpress Ainslie Terminal",1,200298,2001051
 200,16SPRI-All-Weekday-02,135458302,"200 iXpress Ainslie Terminal",1,200299,2001051
 200,16SPRI-All-Weekday-02,135458402,"200 iXpress Ainslie Terminal",1,200314,2001051
-200,16SPRI-All-Weekday-02,135458502,"200 iXpress Conestoga Mall",0,200290,2000490
+200,16SPRI-All-Weekday-02,135458502,"200 iXpress Conestoga Mall",0,200290,2001050
 200,16SPRI-All-Weekday-02,135458602,"200 iXpress Conestoga Mall",0,200304,2001050
 200,16SPRI-All-Weekday-02,135458702,"200 iXpress Ainslie Terminal",1,200315,2001051
 200,16SPRI-All-Weekday-02,135458802,"200 iXpress Conestoga Mall",0,200302,2001050
 200,16SPRI-All-Weekday-02,135458902,"200 iXpress Ainslie Terminal",1,200295,2001051
 200,16SPRI-All-Weekday-02,135459002,"200 iXpress Ainslie Terminal",1,200292,2001051
-200,16SPRI-All-Weekday-02,135459102,"200 iXpress Ainslie Terminal",1,200296,2000018
+200,16SPRI-All-Weekday-02,135459102,"200 iXpress Ainslie Terminal",1,200296,2000796
 200,16SPRI-All-Weekday-02,135459202,"200 iXpress Fairview",1,200668,2001052
 200,16SPRI-All-Weekday-02,135459302,"200 iXpress Fairview",1,200267,2001052
 200,16SPRI-All-Weekday-02,135459402,"200 iXpress Fairview",1,200270,2001052
 200,16SPRI-All-Weekday-02,135459502,"200 iXpress Conestoga Mall",0,200668,2001053
 200,16SPRI-All-Weekday-02,135459602,"200 iXpress Conestoga Mall",0,200267,2001053
 200,16SPRI-All-Weekday-02,135459702,"200 iXpress Conestoga Mall",0,200270,2001053
-200,16SPRI-All-Weekday-02,135459802,"200 iXpress Conestoga Mall",0,200300,2000015
-200,16SPRI-All-Weekday-02,135459902,"200 iXpress Conestoga Mall",0,200292,2000014
+200,16SPRI-All-Weekday-02,135459802,"200 iXpress Conestoga Mall",0,200300,2001054
+200,16SPRI-All-Weekday-02,135459902,"200 iXpress Conestoga Mall",0,200292,2001050
 52,16SPRI-All-Weekday-02,135562202,"52 Fairview Park via Cherry Blossom",0,198442,520004
 56,16SPRI-All-Weekday-02,135562502,"56 Dunbar",0,200283,560005
 10,16SPRI-All-Weekday-02,135628302,"10 Fairview Park",0,200358,100267
@@ -3507,9 +3507,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133610251,"7A  Fairview via Connaught",1,198649,70208
 7,16SPRI-All-Saturday-01,133610351,"7A  Fairview via Connaught",1,198651,70208
 7,16SPRI-All-Saturday-01,133610451,"7A  Fairview via Connaught",1,198641,70208
-7,16SPRI-All-Saturday-01,133610551,"7A  Fairview via Connaught",1,198640,70033
-7,16SPRI-All-Saturday-01,133610651,"7C Conestoga Mall",0,198645,70030
-7,16SPRI-All-Saturday-01,133610751,"7C Conestoga Mall",0,198643,70030
+7,16SPRI-All-Saturday-01,133610551,"7A  Fairview via Connaught",1,198640,70208
+7,16SPRI-All-Saturday-01,133610651,"7C Conestoga Mall",0,198645,70099
+7,16SPRI-All-Saturday-01,133610751,"7C Conestoga Mall",0,198643,70099
 7,16SPRI-All-Saturday-01,133610851,"7C Conestoga Mall",0,198644,70099
 7,16SPRI-All-Saturday-01,133610951,"7C Conestoga Mall",0,198642,70099
 7,16SPRI-All-Saturday-01,133611051,"7C Conestoga Mall",0,198637,70099
@@ -3542,11 +3542,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133613751,"7D UW via University",0,198641,70080
 7,16SPRI-All-Saturday-01,133613851,"7D UW via University",0,198640,70080
 7,16SPRI-All-Saturday-01,133613951,"7D UW via University",0,198649,70080
-7,16SPRI-All-Saturday-01,133614051,"7D UW via University",0,198651,70032
+7,16SPRI-All-Saturday-01,133614051,"7D UW via University",0,198651,70080
 7,16SPRI-All-Saturday-01,133614151,"7C Conestoga Mall",0,198643,70079
 7,16SPRI-All-Saturday-01,133614251,"7C Conestoga Mall",0,198644,70079
-7,16SPRI-All-Saturday-01,133614351,"7C Conestoga Mall",0,198646,70031
-7,16SPRI-All-Saturday-01,133614451,"7C Conestoga Mall",0,198637,70031
+7,16SPRI-All-Saturday-01,133614351,"7C Conestoga Mall",0,198646,70079
+7,16SPRI-All-Saturday-01,133614451,"7C Conestoga Mall",0,198637,70079
 7,16SPRI-All-Saturday-01,133614551,"7C Conestoga Mall",0,198643,70079
 7,16SPRI-All-Saturday-01,133614651,"7C Conestoga Mall",0,198644,70079
 7,16SPRI-All-Saturday-01,133614751,"7C Conestoga Mall",0,198646,70079
@@ -3557,19 +3557,19 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133615251,"7C Conestoga Mall",0,198637,70079
 7,16SPRI-All-Saturday-01,133615351,"7E UW via Columbia",0,198647,70126
 7,16SPRI-All-Saturday-01,133615451,"7E UW via Columbia",0,198647,70126
-7,16SPRI-All-Saturday-01,133615551,"7C Conestoga Mall",0,198644,70025
-7,16SPRI-All-Saturday-01,133615651,"7E UW via Columbia",0,198637,70062
-7,16SPRI-All-Saturday-01,133615751,"7D UW via University",0,198638,70041
-7,16SPRI-All-Saturday-01,133615851,"7E UW via Columbia",0,198641,70062
-7,16SPRI-All-Saturday-01,133615951,"7D UW via University",0,198640,70035
-7,16SPRI-All-Saturday-01,133616051,"7C Conestoga Mall",0,198642,70024
+7,16SPRI-All-Saturday-01,133615551,"7C Conestoga Mall",0,198644,70228
+7,16SPRI-All-Saturday-01,133615651,"7E UW via Columbia",0,198637,70230
+7,16SPRI-All-Saturday-01,133615751,"7D UW via University",0,198638,70136
+7,16SPRI-All-Saturday-01,133615851,"7E UW via Columbia",0,198641,70230
+7,16SPRI-All-Saturday-01,133615951,"7D UW via University",0,198640,70088
+7,16SPRI-All-Saturday-01,133616051,"7C Conestoga Mall",0,198642,70081
 7,16SPRI-All-Saturday-01,133616151,"7D UW via University",0,198647,70088
 7,16SPRI-All-Saturday-01,133616251,"7C Conestoga Mall",0,198637,70081
 7,16SPRI-All-Saturday-01,133616351,"7A  Fairview via Connaught",1,198639,70063
 7,16SPRI-All-Saturday-01,133616451,"7A  Fairview via Connaught",1,198644,70208
 7,16SPRI-All-Saturday-01,133616551,"7D UW via University",0,198651,70080
-7,16SPRI-All-Saturday-01,133616651,"7C Conestoga Mall",0,198639,70030
-7,16SPRI-All-Saturday-01,133616751,"7C Conestoga Mall",0,198637,70031
+7,16SPRI-All-Saturday-01,133616651,"7C Conestoga Mall",0,198639,70099
+7,16SPRI-All-Saturday-01,133616751,"7C Conestoga Mall",0,198637,70079
 7,16SPRI-All-Saturday-01,133616851,"7E UW via Columbia",0,198649,70087
 7,16SPRI-All-Saturday-01,133616951,"7E UW via Columbia",0,198647,70126
 7,16SPRI-All-Saturday-01,133617051,"7E UW via Columbia",0,198647,70126
@@ -3602,7 +3602,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133619751,"7B Fairview via Weber",1,198646,70209
 7,16SPRI-All-Saturday-01,133619851,"7B Fairview via Weber",1,198637,70209
 7,16SPRI-All-Saturday-01,133619951,"7B Fairview via Weber",1,198643,70209
-7,16SPRI-All-Saturday-01,133620051,"7B Fairview via Weber",1,198644,70036
+7,16SPRI-All-Saturday-01,133620051,"7B Fairview via Weber",1,198644,70209
 7,16SPRI-All-Saturday-01,133620151,"7A  Fairview via Connaught",1,198651,70210
 7,16SPRI-All-Saturday-01,133620251,"7A  Fairview via Connaught",1,198641,70210
 7,16SPRI-All-Saturday-01,133620351,"7A  Fairview via Connaught",1,198640,70210
@@ -3613,11 +3613,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133620851,"7A  Fairview via Connaught",1,198649,70210
 7,16SPRI-All-Saturday-01,133620951,"7A  Fairview via Connaught",1,198651,70210
 7,16SPRI-All-Saturday-01,133621051,"7A  Fairview via Connaught",1,198641,70210
-7,16SPRI-All-Saturday-01,133621151,"7A  Fairview via Connaught",1,198649,70044
+7,16SPRI-All-Saturday-01,133621151,"7A  Fairview via Connaught",1,198649,70212
 7,16SPRI-All-Saturday-01,133621251,"7 Downtown",0,198641,70043
-7,16SPRI-All-Saturday-01,133622851,"7E UW via Columbia",0,198649,70042
+7,16SPRI-All-Saturday-01,133622851,"7E UW via Columbia",0,198649,70221
 7,16SPRI-All-Saturday-01,133622951,"7E UW via Columbia",0,198646,70221
-7,16SPRI-All-Saturday-01,133623151,"7B Fairview via Weber",1,198638,70047
+7,16SPRI-All-Saturday-01,133623151,"7B Fairview via Weber",1,198638,70214
 7,16SPRI-All-Saturday-01,133623251,"7B Fairview via Weber",1,198642,70057
 7,16SPRI-All-Saturday-01,133623351,"7B Fairview via Weber",1,198641,70214
 7,16SPRI-All-Saturday-01,133623451,"7B Fairview via Weber",1,198640,70214
@@ -3639,7 +3639,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133625051,"7B Fairview via Weber",1,198643,70214
 7,16SPRI-All-Saturday-01,133625151,"7B Fairview via Weber",1,198644,70214
 7,16SPRI-All-Saturday-01,133625251,"7 Downtown",1,198647,70218
-7,16SPRI-All-Saturday-01,133625351,"7B Fairview via Weber",1,198637,70049
+7,16SPRI-All-Saturday-01,133625351,"7B Fairview via Weber",1,198637,70215
 7,16SPRI-All-Saturday-01,133625451,"7F  Fairview via Wilson",1,198643,70213
 7,16SPRI-All-Saturday-01,133625551,"7F  Fairview via Wilson",1,198639,70213
 7,16SPRI-All-Saturday-01,133625651,"7 Downtown",1,198647,70218
@@ -3671,7 +3671,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133628251,"7F  Fairview via Wilson",1,198650,70213
 7,16SPRI-All-Saturday-01,133628351,"7F  Fairview via Wilson",1,198638,70213
 7,16SPRI-All-Saturday-01,133628451,"7 Downtown",1,198647,70218
-7,16SPRI-All-Saturday-01,133628551,"7 Downtown",1,198642,70050
+7,16SPRI-All-Saturday-01,133628551,"7 Downtown",1,198642,70216
 7,16SPRI-All-Saturday-01,133628651,"7 Downtown",1,198648,70218
 7,16SPRI-All-Saturday-01,133628751,"7 Downtown",1,198648,70218
 7,16SPRI-All-Saturday-01,133628851,"7F  Fairview via Wilson",1,198648,70048
@@ -3687,9 +3687,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Saturday-01,133629851,"7 Downtown",1,198648,70218
 7,16SPRI-All-Saturday-01,133629951,"7 Downtown",1,198647,70218
 7,16SPRI-All-Saturday-01,133630051,"7 Downtown",1,198648,70218
-7,16SPRI-All-Saturday-01,133630151,"7 Downtown",1,198640,70060
-7,16SPRI-All-Saturday-01,133630251,"7 Downtown",1,198649,70060
-7,16SPRI-All-Saturday-01,133630351,"7 Downtown",1,198646,70061
+7,16SPRI-All-Saturday-01,133630151,"7 Downtown",1,198640,70223
+7,16SPRI-All-Saturday-01,133630251,"7 Downtown",1,198649,70223
+7,16SPRI-All-Saturday-01,133630351,"7 Downtown",1,198646,70224
 1,16SPRI-All-Saturday-01,133633751,"1 Queen-River to The Boardwalk",1,198626,10455
 1,16SPRI-All-Saturday-01,133633851,"1 Queen-River to The Boardwalk",1,198629,10455
 1,16SPRI-All-Saturday-01,133633951,"1 Queen-River to The Boardwalk",1,198627,10455
@@ -4301,78 +4301,78 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 202,16SPRI-All-Saturday-01,133719351,"202 iXpress Conestoga Mall",1,198603,2020009
 202,16SPRI-All-Saturday-01,133719451,"202 iXpress Conestoga Mall",1,198605,2020009
 202,16SPRI-All-Saturday-01,133719551,"202 iXpress Conestoga Mall",1,198603,2020009
-201,16SPRI-All-Saturday-01,133719651,"201 iXpress Forest Glen",0,198595,2011119
-201,16SPRI-All-Saturday-01,133719751,"201 iXpress Forest Glen",0,198594,2011117
-201,16SPRI-All-Saturday-01,133719851,"201 iXpress Forest Glen",0,198654,2011118
-201,16SPRI-All-Saturday-01,133719951,"201 iXpress Forest Glen",0,198596,2011123
-201,16SPRI-All-Saturday-01,133720051,"201 iXpress Forest Glen",0,198593,2011124
-201,16SPRI-All-Saturday-01,133720151,"201 iXpress Forest Glen",0,198597,2011125
-201,16SPRI-All-Saturday-01,133720251,"201 iXpress Forest Glen",0,198602,2011126
-201,16SPRI-All-Saturday-01,133720351,"201 iXpress Forest Glen",0,198604,2011151
-201,16SPRI-All-Saturday-01,133720451,"201 iXpress Forest Glen",0,198595,2011152
-201,16SPRI-All-Saturday-01,133720551,"201 iXpress Forest Glen",0,198594,2011153
-201,16SPRI-All-Saturday-01,133720651,"201 iXpress Forest Glen",0,198654,2011154
-201,16SPRI-All-Saturday-01,133720751,"201 iXpress Forest Glen",0,198596,2011155
-201,16SPRI-All-Saturday-01,133720851,"201 iXpress Forest Glen",0,198593,2011156
-201,16SPRI-All-Saturday-01,133720951,"201 iXpress Forest Glen",0,198597,2011157
-201,16SPRI-All-Saturday-01,133721051,"201 iXpress Forest Glen",0,198602,2011158
-201,16SPRI-All-Saturday-01,133721151,"201 iXpress Forest Glen",0,198604,2011159
-201,16SPRI-All-Saturday-01,133721251,"201 iXpress Forest Glen",0,198595,2011160
-201,16SPRI-All-Saturday-01,133721351,"201 iXpress Forest Glen",0,198594,2011161
-201,16SPRI-All-Saturday-01,133721451,"201 iXpress Forest Glen",0,198654,2011162
-201,16SPRI-All-Saturday-01,133721551,"201 iXpress Forest Glen",0,198596,2011163
-201,16SPRI-All-Saturday-01,133721651,"201 iXpress Forest Glen",0,198593,2011164
-201,16SPRI-All-Saturday-01,133721751,"201 iXpress Forest Glen",0,198597,2011165
-201,16SPRI-All-Saturday-01,133721851,"201 iXpress Forest Glen",0,198602,2011166
-201,16SPRI-All-Saturday-01,133721951,"201 iXpress Forest Glen",0,198604,2011167
-201,16SPRI-All-Saturday-01,133722051,"201 iXpress Forest Glen",0,198595,2011168
-201,16SPRI-All-Saturday-01,133722151,"201 iXpress Forest Glen",0,198594,2011169
-201,16SPRI-All-Saturday-01,133722251,"201 iXpress Forest Glen",0,198654,2011170
-201,16SPRI-All-Saturday-01,133722351,"201 iXpress Forest Glen",0,198596,2011171
-201,16SPRI-All-Saturday-01,133722451,"201 iXpress Forest Glen",0,198593,2011172
-201,16SPRI-All-Saturday-01,133722551,"201 iXpress Conestoga Mall",1,198595,2011173
-201,16SPRI-All-Saturday-01,133722651,"201 iXpress Conestoga Mall",1,198594,2011174
-201,16SPRI-All-Saturday-01,133722751,"201 iXpress Conestoga Mall",1,198654,2011175
-201,16SPRI-All-Saturday-01,133722851,"201 iXpress Conestoga Mall",1,198596,2011176
-201,16SPRI-All-Saturday-01,133722951,"201 iXpress Conestoga Mall",1,198593,2011177
-201,16SPRI-All-Saturday-01,133723051,"201 iXpress Conestoga Mall",1,198597,2011178
-201,16SPRI-All-Saturday-01,133723151,"201 iXpress Conestoga Mall",1,198602,2011179
-201,16SPRI-All-Saturday-01,133723251,"201 iXpress Conestoga Mall",1,198604,2011180
-201,16SPRI-All-Saturday-01,133723351,"201 iXpress Conestoga Mall",1,198595,2011181
-201,16SPRI-All-Saturday-01,133723451,"201 iXpress Conestoga Mall",1,198594,2011188
-201,16SPRI-All-Saturday-01,133723551,"201 iXpress Conestoga Mall",1,198654,2011127
-201,16SPRI-All-Saturday-01,133723651,"201 iXpress Conestoga Mall",1,198596,2011187
-201,16SPRI-All-Saturday-01,133723751,"201 iXpress Conestoga Mall",1,198593,2011186
-201,16SPRI-All-Saturday-01,133723851,"201 iXpress Conestoga Mall",1,198597,2011185
-201,16SPRI-All-Saturday-01,133723951,"201 iXpress Conestoga Mall",1,198602,2011184
-201,16SPRI-All-Saturday-01,133724051,"201 iXpress Conestoga Mall",1,198604,2011183
-201,16SPRI-All-Saturday-01,133724151,"201 iXpress Conestoga Mall",1,198595,2011182
-201,16SPRI-All-Saturday-01,133724251,"201 iXpress Conestoga Mall",1,198594,2011122
-201,16SPRI-All-Saturday-01,133724351,"201 iXpress Conestoga Mall",1,198654,2011121
-201,16SPRI-All-Saturday-01,133724451,"201 iXpress Conestoga Mall",1,198596,2011120
-201,16SPRI-All-Saturday-01,133724551,"201 iXpress Conestoga Mall",1,198593,2011150
-201,16SPRI-All-Saturday-01,133724651,"201 iXpress Conestoga Mall",1,198597,2011149
-201,16SPRI-All-Saturday-01,133724751,"201 iXpress Conestoga Mall",1,198602,2011148
-201,16SPRI-All-Saturday-01,133724851,"201 iXpress Conestoga Mall",1,198604,2011147
-201,16SPRI-All-Saturday-01,133724951,"201 iXpress Conestoga Mall",1,198595,2011146
-201,16SPRI-All-Saturday-01,133725051,"201 iXpress Conestoga Mall",1,198594,2011145
-201,16SPRI-All-Saturday-01,133725151,"201 iXpress Conestoga Mall",1,198654,2011144
-201,16SPRI-All-Saturday-01,133725251,"201 iXpress Conestoga Mall",1,198596,2011143
-201,16SPRI-All-Saturday-01,133725351,"201 iXpress Forest Glen",0,198603,2011142
-201,16SPRI-All-Saturday-01,133725451,"201 iXpress Forest Glen",0,198605,2011141
-201,16SPRI-All-Saturday-01,133725551,"201 iXpress Forest Glen",0,198603,2011140
-201,16SPRI-All-Saturday-01,133725651,"201 iXpress Forest Glen",0,198605,2011139
-201,16SPRI-All-Saturday-01,133725751,"201 iXpress Forest Glen",0,198603,2011138
-201,16SPRI-All-Saturday-01,133725851,"201 iXpress Forest Glen",0,198605,2011137
-201,16SPRI-All-Saturday-01,133725951,"201 iXpress Forest Glen",0,198603,2011136
-201,16SPRI-All-Saturday-01,133726051,"201 iXpress Conestoga Mall",1,198603,2011135
-201,16SPRI-All-Saturday-01,133726151,"201 iXpress Conestoga Mall",1,198605,2011134
-201,16SPRI-All-Saturday-01,133726251,"201 iXpress Conestoga Mall",1,198603,2011133
-201,16SPRI-All-Saturday-01,133726351,"201 iXpress Conestoga Mall",1,198605,2011132
-201,16SPRI-All-Saturday-01,133726451,"201 iXpress Conestoga Mall",1,198603,2011131
-201,16SPRI-All-Saturday-01,133726551,"201 iXpress Conestoga Mall",1,198605,2011130
-201,16SPRI-All-Saturday-01,133726651,"201 iXpress Conestoga Mall",1,198603,2011129
-201,16SPRI-All-Saturday-01,133726751,"201 iXpress Conestoga Mall",1,198605,2011128
+201,16SPRI-All-Saturday-01,133719651,"201 iXpress Forest Glen",0,198595,2011351
+201,16SPRI-All-Saturday-01,133719751,"201 iXpress Forest Glen",0,198594,2011351
+201,16SPRI-All-Saturday-01,133719851,"201 iXpress Forest Glen",0,198654,2011351
+201,16SPRI-All-Saturday-01,133719951,"201 iXpress Forest Glen",0,198596,2011351
+201,16SPRI-All-Saturday-01,133720051,"201 iXpress Forest Glen",0,198593,2011351
+201,16SPRI-All-Saturday-01,133720151,"201 iXpress Forest Glen",0,198597,2011351
+201,16SPRI-All-Saturday-01,133720251,"201 iXpress Forest Glen",0,198602,2011351
+201,16SPRI-All-Saturday-01,133720351,"201 iXpress Forest Glen",0,198604,2011351
+201,16SPRI-All-Saturday-01,133720451,"201 iXpress Forest Glen",0,198595,2011351
+201,16SPRI-All-Saturday-01,133720551,"201 iXpress Forest Glen",0,198594,2011351
+201,16SPRI-All-Saturday-01,133720651,"201 iXpress Forest Glen",0,198654,2011351
+201,16SPRI-All-Saturday-01,133720751,"201 iXpress Forest Glen",0,198596,2011351
+201,16SPRI-All-Saturday-01,133720851,"201 iXpress Forest Glen",0,198593,2011351
+201,16SPRI-All-Saturday-01,133720951,"201 iXpress Forest Glen",0,198597,2011351
+201,16SPRI-All-Saturday-01,133721051,"201 iXpress Forest Glen",0,198602,2011351
+201,16SPRI-All-Saturday-01,133721151,"201 iXpress Forest Glen",0,198604,2011351
+201,16SPRI-All-Saturday-01,133721251,"201 iXpress Forest Glen",0,198595,2011351
+201,16SPRI-All-Saturday-01,133721351,"201 iXpress Forest Glen",0,198594,2011351
+201,16SPRI-All-Saturday-01,133721451,"201 iXpress Forest Glen",0,198654,2011351
+201,16SPRI-All-Saturday-01,133721551,"201 iXpress Forest Glen",0,198596,2011351
+201,16SPRI-All-Saturday-01,133721651,"201 iXpress Forest Glen",0,198593,2011351
+201,16SPRI-All-Saturday-01,133721751,"201 iXpress Forest Glen",0,198597,2011351
+201,16SPRI-All-Saturday-01,133721851,"201 iXpress Forest Glen",0,198602,2011351
+201,16SPRI-All-Saturday-01,133721951,"201 iXpress Forest Glen",0,198604,2011351
+201,16SPRI-All-Saturday-01,133722051,"201 iXpress Forest Glen",0,198595,2011351
+201,16SPRI-All-Saturday-01,133722151,"201 iXpress Forest Glen",0,198594,2011351
+201,16SPRI-All-Saturday-01,133722251,"201 iXpress Forest Glen",0,198654,2011351
+201,16SPRI-All-Saturday-01,133722351,"201 iXpress Forest Glen",0,198596,2011351
+201,16SPRI-All-Saturday-01,133722451,"201 iXpress Forest Glen",0,198593,2011351
+201,16SPRI-All-Saturday-01,133722551,"201 iXpress Conestoga Mall",1,198595,2011352
+201,16SPRI-All-Saturday-01,133722651,"201 iXpress Conestoga Mall",1,198594,2011352
+201,16SPRI-All-Saturday-01,133722751,"201 iXpress Conestoga Mall",1,198654,2011352
+201,16SPRI-All-Saturday-01,133722851,"201 iXpress Conestoga Mall",1,198596,2011352
+201,16SPRI-All-Saturday-01,133722951,"201 iXpress Conestoga Mall",1,198593,2011352
+201,16SPRI-All-Saturday-01,133723051,"201 iXpress Conestoga Mall",1,198597,2011352
+201,16SPRI-All-Saturday-01,133723151,"201 iXpress Conestoga Mall",1,198602,2011352
+201,16SPRI-All-Saturday-01,133723251,"201 iXpress Conestoga Mall",1,198604,2011352
+201,16SPRI-All-Saturday-01,133723351,"201 iXpress Conestoga Mall",1,198595,2011352
+201,16SPRI-All-Saturday-01,133723451,"201 iXpress Conestoga Mall",1,198594,2011352
+201,16SPRI-All-Saturday-01,133723551,"201 iXpress Conestoga Mall",1,198654,2011352
+201,16SPRI-All-Saturday-01,133723651,"201 iXpress Conestoga Mall",1,198596,2011352
+201,16SPRI-All-Saturday-01,133723751,"201 iXpress Conestoga Mall",1,198593,2011352
+201,16SPRI-All-Saturday-01,133723851,"201 iXpress Conestoga Mall",1,198597,2011352
+201,16SPRI-All-Saturday-01,133723951,"201 iXpress Conestoga Mall",1,198602,2011352
+201,16SPRI-All-Saturday-01,133724051,"201 iXpress Conestoga Mall",1,198604,2011352
+201,16SPRI-All-Saturday-01,133724151,"201 iXpress Conestoga Mall",1,198595,2011352
+201,16SPRI-All-Saturday-01,133724251,"201 iXpress Conestoga Mall",1,198594,2011352
+201,16SPRI-All-Saturday-01,133724351,"201 iXpress Conestoga Mall",1,198654,2011352
+201,16SPRI-All-Saturday-01,133724451,"201 iXpress Conestoga Mall",1,198596,2011352
+201,16SPRI-All-Saturday-01,133724551,"201 iXpress Conestoga Mall",1,198593,2011352
+201,16SPRI-All-Saturday-01,133724651,"201 iXpress Conestoga Mall",1,198597,2011352
+201,16SPRI-All-Saturday-01,133724751,"201 iXpress Conestoga Mall",1,198602,2011352
+201,16SPRI-All-Saturday-01,133724851,"201 iXpress Conestoga Mall",1,198604,2011352
+201,16SPRI-All-Saturday-01,133724951,"201 iXpress Conestoga Mall",1,198595,2011352
+201,16SPRI-All-Saturday-01,133725051,"201 iXpress Conestoga Mall",1,198594,2011352
+201,16SPRI-All-Saturday-01,133725151,"201 iXpress Conestoga Mall",1,198654,2011352
+201,16SPRI-All-Saturday-01,133725251,"201 iXpress Conestoga Mall",1,198596,2011352
+201,16SPRI-All-Saturday-01,133725351,"201 iXpress Forest Glen",0,198603,2011351
+201,16SPRI-All-Saturday-01,133725451,"201 iXpress Forest Glen",0,198605,2011351
+201,16SPRI-All-Saturday-01,133725551,"201 iXpress Forest Glen",0,198603,2011351
+201,16SPRI-All-Saturday-01,133725651,"201 iXpress Forest Glen",0,198605,2011351
+201,16SPRI-All-Saturday-01,133725751,"201 iXpress Forest Glen",0,198603,2011351
+201,16SPRI-All-Saturday-01,133725851,"201 iXpress Forest Glen",0,198605,2011351
+201,16SPRI-All-Saturday-01,133725951,"201 iXpress Forest Glen",0,198603,2011351
+201,16SPRI-All-Saturday-01,133726051,"201 iXpress Conestoga Mall",1,198603,2011352
+201,16SPRI-All-Saturday-01,133726151,"201 iXpress Conestoga Mall",1,198605,2011352
+201,16SPRI-All-Saturday-01,133726251,"201 iXpress Conestoga Mall",1,198603,2011352
+201,16SPRI-All-Saturday-01,133726351,"201 iXpress Conestoga Mall",1,198605,2011352
+201,16SPRI-All-Saturday-01,133726451,"201 iXpress Conestoga Mall",1,198603,2011352
+201,16SPRI-All-Saturday-01,133726551,"201 iXpress Conestoga Mall",1,198605,2011352
+201,16SPRI-All-Saturday-01,133726651,"201 iXpress Conestoga Mall",1,198603,2011352
+201,16SPRI-All-Saturday-01,133726751,"201 iXpress Conestoga Mall",1,198605,2011352
 29,16SPRI-All-Saturday-01,133726851,"29 Keats Way to University/King",0,203989,290014
 29,16SPRI-All-Saturday-01,133726951,"29 Keats Way to University/King",0,203990,290014
 29,16SPRI-All-Saturday-01,133727051,"29 Keats Way to University/King",0,203991,290014
@@ -4433,7 +4433,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Saturday-01,133732551,"12 Conestoga Mall",0,198590,120062
 12,16SPRI-All-Saturday-01,133732651,"12 Conestoga Mall",0,198571,120062
 12,16SPRI-All-Saturday-01,133732751,"12 Conestoga Mall",0,198589,120062
-12,16SPRI-All-Saturday-01,133732851,"12 Conestoga Mall",0,198591,120038
+12,16SPRI-All-Saturday-01,133732851,"12 Conestoga Mall",0,198591,120062
 12,16SPRI-All-Saturday-01,133732951,"12 Conestoga Mall",0,198570,120062
 12,16SPRI-All-Saturday-01,133733051,"12 Conestoga Mall",0,198588,120062
 12,16SPRI-All-Saturday-01,133733151,"12 Conestoga Mall",0,198590,120062
@@ -4450,7 +4450,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Saturday-01,133734251,"12 Conestoga Mall",0,198588,120062
 12,16SPRI-All-Saturday-01,133734351,"12 Conestoga Mall",0,198590,120062
 12,16SPRI-All-Saturday-01,133734451,"12 Conestoga Mall",0,198571,120062
-12,16SPRI-All-Saturday-01,133734551,"12 Conestoga Mall",0,198589,120038
+12,16SPRI-All-Saturday-01,133734551,"12 Conestoga Mall",0,198589,120062
 12,16SPRI-All-Saturday-01,133734651,"12 Conestoga Mall",0,198591,120062
 12,16SPRI-All-Saturday-01,133734751,"12 Conestoga Mall",0,198570,120062
 12,16SPRI-All-Saturday-01,133734851,"12 Conestoga Mall",0,198588,120062
@@ -4468,8 +4468,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Saturday-01,133736051,"12 Fairview Park",1,198591,120103
 12,16SPRI-All-Saturday-01,133736151,"12 Fairview Park",1,198570,120104
 12,16SPRI-All-Saturday-01,133736251,"12 Fairview Park",1,198588,120105
-12,16SPRI-All-Saturday-01,133736351,"12 Fairview Park",1,198590,120018
-12,16SPRI-All-Saturday-01,133736451,"12 Fairview Park",1,198571,120018
+12,16SPRI-All-Saturday-01,133736351,"12 Fairview Park",1,198590,120046
+12,16SPRI-All-Saturday-01,133736451,"12 Fairview Park",1,198571,120046
 12,16SPRI-All-Saturday-01,133736551,"12 Fairview Park",1,198589,120106
 12,16SPRI-All-Saturday-01,133736651,"12 Fairview Park",1,198591,120107
 12,16SPRI-All-Saturday-01,133736751,"12 Fairview Park",1,198570,120108
@@ -4485,16 +4485,16 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Saturday-01,133737751,"12 Fairview Park",1,198589,120118
 12,16SPRI-All-Saturday-01,133737851,"12 Fairview Park",1,198591,120119
 12,16SPRI-All-Saturday-01,133737951,"12 Fairview Park",1,198570,120120
-12,16SPRI-All-Saturday-01,133738051,"12 Fairview Park",1,198588,120018
-12,16SPRI-All-Saturday-01,133738151,"12 Fairview Park",1,198590,120018
-12,16SPRI-All-Saturday-01,133738251,"12 Fairview Park",1,198571,120018
+12,16SPRI-All-Saturday-01,133738051,"12 Fairview Park",1,198588,120046
+12,16SPRI-All-Saturday-01,133738151,"12 Fairview Park",1,198590,120046
+12,16SPRI-All-Saturday-01,133738251,"12 Fairview Park",1,198571,120046
 12,16SPRI-All-Saturday-01,133738351,"12 Fairview Park",1,198589,120121
 12,16SPRI-All-Saturday-01,133738451,"12 Fairview Park",1,198591,120122
 12,16SPRI-All-Saturday-01,133738551,"12 Fairview Park",1,198570,120123
 12,16SPRI-All-Saturday-01,133738651,"12 Fairview Park",1,198588,120124
 12,16SPRI-All-Saturday-01,133738751,"12 Fairview Park",1,198588,120125
 12,16SPRI-All-Saturday-01,133738851,"12 Fairview Park",1,198571,120126
-12,16SPRI-All-Saturday-01,133738951,"12 Fairview Park",1,198571,120018
+12,16SPRI-All-Saturday-01,133738951,"12 Fairview Park",1,198571,120046
 12,16SPRI-All-Saturday-01,133739051,"12 Fairview Park",1,198591,120127
 12,16SPRI-All-Saturday-01,133739151,"12 Conestoga Mall",0,198570,120060
 12,16SPRI-All-Saturday-01,133739251,"12 Fairview Park",1,198590,120128
@@ -4508,7 +4508,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 21,16SPRI-All-Saturday-01,133748851,"21 Elmira",0,198584,210962
 21,16SPRI-All-Saturday-01,133748951,"21 Conestoga Mall",1,198584,210961
 21,16SPRI-All-Saturday-01,133749051,"21 Conestoga Mall",1,198585,210961
-21,16SPRI-All-Saturday-01,133749151,"21 Conestoga Mall",1,198584,210338
+21,16SPRI-All-Saturday-01,133749151,"21 Conestoga Mall",1,198584,210961
 21,16SPRI-All-Saturday-01,133749251,"21 Conestoga Mall",1,198585,210961
 21,16SPRI-All-Saturday-01,133749351,"21 Elmira",0,198584,210962
 21,16SPRI-All-Saturday-01,133749451,"21 Elmira",0,198585,210962
@@ -4709,7 +4709,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,16SPRI-All-Saturday-01,133784451,"10 Conestoga College",1,198589,100130
 10,16SPRI-All-Saturday-01,133784551,"10 Conestoga College",1,198570,100131
 10,16SPRI-All-Saturday-01,133784651,"10 Conestoga College",1,198590,100132
-10,16SPRI-All-Saturday-01,133784751,"10 Conestoga College",1,198589,100007
+10,16SPRI-All-Saturday-01,133784751,"10 Conestoga College",1,198589,100028
 10,16SPRI-All-Saturday-01,133784851,"10 Conestoga College",1,198582,100133
 10,16SPRI-All-Saturday-01,133784951,"10 Fairview Park",0,198582,100134
 10,16SPRI-All-Saturday-01,133785051,"10 Fairview Park",0,198582,100135
@@ -4739,32 +4739,32 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,16SPRI-All-Saturday-01,133787451,"10 Conestoga College",1,198611,100159
 10,16SPRI-All-Saturday-01,133787551,"10 Conestoga College",1,198611,100160
 10,16SPRI-All-Saturday-01,133787651,"10 Conestoga College",1,198611,100161
-22,16SPRI-All-Saturday-01,133787751,"22 Laurentian West to Forest Glen",0,198607,220013
-22,16SPRI-All-Saturday-01,133787851,"22 Laurentian West to Forest Glen",0,198606,220013
-22,16SPRI-All-Saturday-01,133787951,"22 Laurentian West to Forest Glen",0,198669,220013
-22,16SPRI-All-Saturday-01,133788051,"22 Laurentian West to Forest Glen",0,198607,220013
-22,16SPRI-All-Saturday-01,133788151,"22 Laurentian West to Forest Glen",0,198606,220013
-22,16SPRI-All-Saturday-01,133788251,"22 Laurentian West to Forest Glen",0,198669,220013
-22,16SPRI-All-Saturday-01,133788351,"22 Laurentian West to Forest Glen",0,198607,220013
-22,16SPRI-All-Saturday-01,133788451,"22 Laurentian West to Forest Glen",0,198606,220013
-22,16SPRI-All-Saturday-01,133788551,"22 Laurentian West to Forest Glen",0,198669,220013
-22,16SPRI-All-Saturday-01,133788651,"22 Laurentian West to Forest Glen",0,198607,220013
-22,16SPRI-All-Saturday-01,133788751,"22 Laurentian West to Forest Glen",0,198606,220013
-22,16SPRI-All-Saturday-01,133788851,"22 Laurentian West to Forest Glen",0,198592,220013
-22,16SPRI-All-Saturday-01,133788951,"22 Laurentian West to Forest Glen",0,198669,220014
-22,16SPRI-All-Saturday-01,133789051,"22 Laurentian West to Forest Glen",1,198606,220015
-22,16SPRI-All-Saturday-01,133789151,"22 Laurentian West to Forest Glen",1,198669,220015
-22,16SPRI-All-Saturday-01,133789251,"22 Laurentian West to Forest Glen",1,198607,220015
-22,16SPRI-All-Saturday-01,133789351,"22 Laurentian West to Forest Glen",1,198606,220015
-22,16SPRI-All-Saturday-01,133789451,"22 Laurentian West to Forest Glen",1,198669,220015
-22,16SPRI-All-Saturday-01,133789551,"22 Laurentian West to Forest Glen",1,198607,220015
-22,16SPRI-All-Saturday-01,133789651,"22 Laurentian West to Forest Glen",1,198606,220015
-22,16SPRI-All-Saturday-01,133789751,"22 Laurentian West to Forest Glen",1,198669,220015
-22,16SPRI-All-Saturday-01,133789851,"22 Laurentian West to Forest Glen",1,198607,220015
-22,16SPRI-All-Saturday-01,133789951,"22 Laurentian West to Forest Glen",1,198606,220015
-22,16SPRI-All-Saturday-01,133790051,"22 Laurentian West to Forest Glen",1,198669,220015
-22,16SPRI-All-Saturday-01,133790151,"22 Laurentian West to Forest Glen",1,198607,220015
-22,16SPRI-All-Saturday-01,133790251,"22 Laurentian West to Forest Glen",1,198606,220015
+22,16SPRI-All-Saturday-01,133787751,"22 Laurentian West to Forest Glen",0,198607,220004
+22,16SPRI-All-Saturday-01,133787851,"22 Laurentian West to Forest Glen",0,198606,220004
+22,16SPRI-All-Saturday-01,133787951,"22 Laurentian West to Forest Glen",0,198669,220004
+22,16SPRI-All-Saturday-01,133788051,"22 Laurentian West to Forest Glen",0,198607,220004
+22,16SPRI-All-Saturday-01,133788151,"22 Laurentian West to Forest Glen",0,198606,220004
+22,16SPRI-All-Saturday-01,133788251,"22 Laurentian West to Forest Glen",0,198669,220004
+22,16SPRI-All-Saturday-01,133788351,"22 Laurentian West to Forest Glen",0,198607,220004
+22,16SPRI-All-Saturday-01,133788451,"22 Laurentian West to Forest Glen",0,198606,220004
+22,16SPRI-All-Saturday-01,133788551,"22 Laurentian West to Forest Glen",0,198669,220004
+22,16SPRI-All-Saturday-01,133788651,"22 Laurentian West to Forest Glen",0,198607,220004
+22,16SPRI-All-Saturday-01,133788751,"22 Laurentian West to Forest Glen",0,198606,220004
+22,16SPRI-All-Saturday-01,133788851,"22 Laurentian West to Forest Glen",0,198592,220004
+22,16SPRI-All-Saturday-01,133788951,"22 Laurentian West to Forest Glen",0,198669,220003
+22,16SPRI-All-Saturday-01,133789051,"22 Laurentian West to Forest Glen",1,198606,220018
+22,16SPRI-All-Saturday-01,133789151,"22 Laurentian West to Forest Glen",1,198669,220018
+22,16SPRI-All-Saturday-01,133789251,"22 Laurentian West to Forest Glen",1,198607,220018
+22,16SPRI-All-Saturday-01,133789351,"22 Laurentian West to Forest Glen",1,198606,220018
+22,16SPRI-All-Saturday-01,133789451,"22 Laurentian West to Forest Glen",1,198669,220018
+22,16SPRI-All-Saturday-01,133789551,"22 Laurentian West to Forest Glen",1,198607,220018
+22,16SPRI-All-Saturday-01,133789651,"22 Laurentian West to Forest Glen",1,198606,220018
+22,16SPRI-All-Saturday-01,133789751,"22 Laurentian West to Forest Glen",1,198669,220018
+22,16SPRI-All-Saturday-01,133789851,"22 Laurentian West to Forest Glen",1,198607,220018
+22,16SPRI-All-Saturday-01,133789951,"22 Laurentian West to Forest Glen",1,198606,220018
+22,16SPRI-All-Saturday-01,133790051,"22 Laurentian West to Forest Glen",1,198669,220018
+22,16SPRI-All-Saturday-01,133790151,"22 Laurentian West to Forest Glen",1,198607,220018
+22,16SPRI-All-Saturday-01,133790251,"22 Laurentian West to Forest Glen",1,198606,220018
 11,16SPRI-All-Saturday-01,133790351,"11 Downtown",1,198579,110005
 11,16SPRI-All-Saturday-01,133790451,"11 Country Hills",0,198592,110006
 11,16SPRI-All-Saturday-01,133790551,"11 Country Hills",0,198579,110006
@@ -4832,9 +4832,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133796751,"8 University via Courtland & Weber",0,198663,80265
 8,16SPRI-All-Saturday-01,133796851,"8 University via Courtland & Weber",0,198664,80265
 8,16SPRI-All-Saturday-01,133796951,"8 University via Courtland & Weber",0,198667,80265
-8,16SPRI-All-Saturday-01,133797051,"8 University via Courtland & Weber",0,198663,80056
-8,16SPRI-All-Saturday-01,133797151,"8 University via Courtland & Weber",0,198664,80056
-8,16SPRI-All-Saturday-01,133797251,"8 University via Courtland & Weber",0,198667,80056
+8,16SPRI-All-Saturday-01,133797051,"8 University via Courtland & Weber",0,198663,80265
+8,16SPRI-All-Saturday-01,133797151,"8 University via Courtland & Weber",0,198664,80265
+8,16SPRI-All-Saturday-01,133797251,"8 University via Courtland & Weber",0,198667,80265
 8,16SPRI-All-Saturday-01,133797351,"8 University via Courtland & Weber",0,198661,80265
 8,16SPRI-All-Saturday-01,133797451,"8 University via Courtland & Weber",0,198662,80265
 8,16SPRI-All-Saturday-01,133797551,"8 University via Courtland & Weber",0,198666,80265
@@ -4856,8 +4856,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133799151,"8 University via Courtland & Weber",0,198662,80265
 8,16SPRI-All-Saturday-01,133799251,"8 University via Courtland & Weber",0,198667,80265
 8,16SPRI-All-Saturday-01,133799351,"8 University via Courtland & Weber",0,198662,80265
-8,16SPRI-All-Saturday-01,133799451,"8 University via Courtland & Weber",0,198667,80056
-8,16SPRI-All-Saturday-01,133799551,"8 University via Courtland & Weber",0,198662,80056
+8,16SPRI-All-Saturday-01,133799451,"8 University via Courtland & Weber",0,198667,80265
+8,16SPRI-All-Saturday-01,133799551,"8 University via Courtland & Weber",0,198662,80265
 8,16SPRI-All-Saturday-01,133799651,"8 University via Courtland & Weber",0,198664,80265
 8,16SPRI-All-Saturday-01,133799751,"8 Fairview via Weber & Courtland",1,198665,80292
 8,16SPRI-All-Saturday-01,133799851,"8 Fairview via Weber & Courtland",1,198665,80292
@@ -4870,28 +4870,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133800551,"8 Fairview via Weber & Courtland",1,198666,80292
 8,16SPRI-All-Saturday-01,133800651,"8 Fairview via Weber & Courtland",1,198665,80292
 8,16SPRI-All-Saturday-01,133800751,"8 Fairview via Weber & Courtland",1,198662,80292
-8,16SPRI-All-Saturday-01,133800851,"8 Fairview via Weber & Courtland",1,198666,80060
+8,16SPRI-All-Saturday-01,133800851,"8 Fairview via Weber & Courtland",1,198666,80292
 8,16SPRI-All-Saturday-01,133800951,"8 University via Courtland & Weber",0,198667,80265
-8,16SPRI-All-Saturday-01,133801051,"8 University via Courtland & Weber",0,198667,80056
+8,16SPRI-All-Saturday-01,133801051,"8 University via Courtland & Weber",0,198667,80265
 8,16SPRI-All-Saturday-01,133801151,"8 Fairview via Weber & Courtland",1,198664,80292
-8,16SPRI-All-Saturday-01,133801251,"8 Fairview via Weber & Courtland",1,198663,80060
+8,16SPRI-All-Saturday-01,133801251,"8 Fairview via Weber & Courtland",1,198663,80292
 8,16SPRI-All-Saturday-01,133801351,"8 University via Franklin & Westmount",0,198661,80311
 8,16SPRI-All-Saturday-01,133801451,"8 University via Franklin & Westmount",0,198663,80311
-8,16SPRI-All-Saturday-01,133801551,"8 University via Franklin & Westmount",0,198665,80082
-8,16SPRI-All-Saturday-01,133801651,"8 University via Franklin & Westmount",0,198666,80082
-8,16SPRI-All-Saturday-01,133801751,"8 University via Franklin & Westmount",0,198662,80082
-8,16SPRI-All-Saturday-01,133801851,"8 University via Franklin & Westmount",0,198665,80082
-8,16SPRI-All-Saturday-01,133801951,"8 University via Franklin & Westmount",0,198666,80082
+8,16SPRI-All-Saturday-01,133801551,"8 University via Franklin & Westmount",0,198665,80311
+8,16SPRI-All-Saturday-01,133801651,"8 University via Franklin & Westmount",0,198666,80311
+8,16SPRI-All-Saturday-01,133801751,"8 University via Franklin & Westmount",0,198662,80311
+8,16SPRI-All-Saturday-01,133801851,"8 University via Franklin & Westmount",0,198665,80311
+8,16SPRI-All-Saturday-01,133801951,"8 University via Franklin & Westmount",0,198666,80311
 8,16SPRI-All-Saturday-01,133802051,"8 University via Franklin & Westmount",0,198664,80311
 8,16SPRI-All-Saturday-01,133802151,"8 University via Franklin & Westmount",0,198666,80311
-8,16SPRI-All-Saturday-01,133802251,"8 University via Franklin & Westmount",0,198664,80082
-8,16SPRI-All-Saturday-01,133802351,"8 University via Franklin & Westmount",0,198665,80082
+8,16SPRI-All-Saturday-01,133802251,"8 University via Franklin & Westmount",0,198664,80311
+8,16SPRI-All-Saturday-01,133802351,"8 University via Franklin & Westmount",0,198665,80311
 8,16SPRI-All-Saturday-01,133802451,"8 University via Franklin & Westmount",0,198667,80311
 8,16SPRI-All-Saturday-01,133802551,"8 University via Franklin & Westmount",0,198666,80311
-8,16SPRI-All-Saturday-01,133802651,"8 University via Franklin & Westmount",0,198665,80082
+8,16SPRI-All-Saturday-01,133802651,"8 University via Franklin & Westmount",0,198665,80311
 8,16SPRI-All-Saturday-01,133802751,"8 University via Franklin & Westmount",0,198663,80311
 8,16SPRI-All-Saturday-01,133802851,"8 University via Franklin & Westmount",0,198665,80311
-8,16SPRI-All-Saturday-01,133802951,"8 Fairview via Weber & Courtland",1,198663,80060
+8,16SPRI-All-Saturday-01,133802951,"8 Fairview via Weber & Courtland",1,198663,80292
 8,16SPRI-All-Saturday-01,133803051,"8 University via Franklin & Westmount",0,198666,80311
 8,16SPRI-All-Saturday-01,133803151,"8 University via Franklin & Westmount",0,198662,80311
 8,16SPRI-All-Saturday-01,133803251,"8 University via Franklin & Westmount",0,198661,80311
@@ -4900,11 +4900,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133803551,"8 University via Franklin & Westmount",0,198665,80311
 8,16SPRI-All-Saturday-01,133803651,"8 University via Franklin & Westmount",0,198662,80311
 8,16SPRI-All-Saturday-01,133803751,"8 University via Franklin & Westmount",0,198667,80311
-8,16SPRI-All-Saturday-01,133803851,"8 University via Franklin & Westmount",0,198662,80082
+8,16SPRI-All-Saturday-01,133803851,"8 University via Franklin & Westmount",0,198662,80311
 8,16SPRI-All-Saturday-01,133803951,"8 University via Franklin & Westmount",0,198662,80311
-8,16SPRI-All-Saturday-01,133804051,"8 Fairview via Weber & Courtland",1,198665,80060
-8,16SPRI-All-Saturday-01,133804151,"8 Fairview via Weber & Courtland",1,198665,80064
-8,16SPRI-All-Saturday-01,133804251,"8 Fairview via Weber & Courtland",1,198662,80064
+8,16SPRI-All-Saturday-01,133804051,"8 Fairview via Weber & Courtland",1,198665,80292
+8,16SPRI-All-Saturday-01,133804151,"8 Fairview via Weber & Courtland",1,198665,80296
+8,16SPRI-All-Saturday-01,133804251,"8 Fairview via Weber & Courtland",1,198662,80296
 8,16SPRI-All-Saturday-01,133804351,"8 Fairview via Weber & Courtland",1,198666,80296
 8,16SPRI-All-Saturday-01,133804451,"8 Fairview via Weber & Courtland",1,198665,80296
 8,16SPRI-All-Saturday-01,133804551,"8 Fairview via Weber & Courtland",1,198663,80296
@@ -4925,7 +4925,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133806051,"8 Fairview via Westmount & Franklin",1,198667,80312
 8,16SPRI-All-Saturday-01,133806151,"8 Fairview via Westmount & Franklin",1,198663,80312
 8,16SPRI-All-Saturday-01,133806251,"8 Fairview via Westmount & Franklin",1,198664,80312
-8,16SPRI-All-Saturday-01,133806351,"8 Fairview via Westmount & Franklin",1,198667,80073
+8,16SPRI-All-Saturday-01,133806351,"8 Fairview via Westmount & Franklin",1,198667,80312
 8,16SPRI-All-Saturday-01,133806451,"8 Fairview via Westmount & Franklin",1,198663,80297
 8,16SPRI-All-Saturday-01,133806551,"8 Fairview via Westmount & Franklin",1,198664,80297
 8,16SPRI-All-Saturday-01,133806651,"8 Fairview via Westmount & Franklin",1,198667,80297
@@ -4943,7 +4943,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133807851,"8 Fairview via Westmount & Franklin",1,198663,80297
 8,16SPRI-All-Saturday-01,133807951,"8 Fairview via Westmount & Franklin",1,198664,80297
 8,16SPRI-All-Saturday-01,133808051,"8 Fairview via Westmount & Franklin",1,198667,80297
-8,16SPRI-All-Saturday-01,133808151,"8 Fairview via Westmount & Franklin",1,198661,80065
+8,16SPRI-All-Saturday-01,133808151,"8 Fairview via Westmount & Franklin",1,198661,80297
 8,16SPRI-All-Saturday-01,133808251,"8 Downtown via Courtland",0,198661,80262
 8,16SPRI-All-Saturday-01,133808351,"8 Downtown via Weber",1,198664,80324
 8,16SPRI-All-Saturday-01,133808451,"8 Downtown via Courtland",0,198667,80262
@@ -4953,12 +4953,12 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133808851,"8 University via Franklin & Westmount",0,198664,80311
 8,16SPRI-All-Saturday-01,133808951,"8 University via Franklin & Westmount",0,198663,80311
 8,16SPRI-All-Saturday-01,133809051,"8 University via Franklin & Westmount",0,198663,80311
-8,16SPRI-All-Saturday-01,133809151,"8 University via Franklin & Westmount",0,198663,80082
+8,16SPRI-All-Saturday-01,133809151,"8 University via Franklin & Westmount",0,198663,80311
 8,16SPRI-All-Saturday-01,133809251,"8 University via Franklin & Westmount",0,198665,80311
 8,16SPRI-All-Saturday-01,133809351,"8 University via Franklin & Westmount",0,198663,80311
 8,16SPRI-All-Saturday-01,133809451,"8 University via Franklin & Westmount",0,198665,80311
 8,16SPRI-All-Saturday-01,133809551,"8 Downtown",0,198665,80338
-8,16SPRI-All-Saturday-01,133809651,"8 Fairview via Westmount & Franklin",1,198662,80073
+8,16SPRI-All-Saturday-01,133809651,"8 Fairview via Westmount & Franklin",1,198662,80312
 8,16SPRI-All-Saturday-01,133809751,"8 Fairview via Westmount & Franklin",1,198662,80312
 8,16SPRI-All-Saturday-01,133809851,"8 Fairview via Westmount & Franklin",1,198661,80312
 8,16SPRI-All-Saturday-01,133809951,"8 Fairview via Westmount & Franklin",1,198667,80312
@@ -4966,7 +4966,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Saturday-01,133810151,"8 Fairview via Westmount & Franklin",1,198662,80312
 8,16SPRI-All-Saturday-01,133810251,"8 Fairview via Westmount & Franklin",1,198667,80312
 8,16SPRI-All-Saturday-01,133810351,"8 Fairview via Westmount & Franklin",1,198662,80312
-8,16SPRI-All-Saturday-01,133810451,"8 Fairview via Westmount & Franklin",1,198667,80073
+8,16SPRI-All-Saturday-01,133810451,"8 Fairview via Westmount & Franklin",1,198667,80312
 3,16SPRI-All-Saturday-01,133810551,"3 Ottawa South to Downtown",1,198644,30002
 3,16SPRI-All-Saturday-01,133810651,"3 Ottawa South to Downtown",1,198609,30002
 3,16SPRI-All-Saturday-01,133810751,"3 Ottawa South to Downtown",1,198610,30002
@@ -5049,10 +5049,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16SPRI-All-Saturday-01,133818451,"200 iXpress Conestoga Mall",0,198615,2001050
 200,16SPRI-All-Saturday-01,133818551,"200 iXpress Conestoga Mall",0,198621,2001050
 200,16SPRI-All-Saturday-01,133818651,"200 iXpress Conestoga Mall",0,198617,2001050
-200,16SPRI-All-Saturday-01,133818751,"200 iXpress Conestoga Mall",0,198624,2000014
-200,16SPRI-All-Saturday-01,133818851,"200 iXpress Conestoga Mall",0,198619,2000014
+200,16SPRI-All-Saturday-01,133818751,"200 iXpress Conestoga Mall",0,198624,2001050
+200,16SPRI-All-Saturday-01,133818851,"200 iXpress Conestoga Mall",0,198619,2001050
 200,16SPRI-All-Saturday-01,133818951,"200 iXpress Conestoga Mall",0,198621,2001054
-200,16SPRI-All-Saturday-01,133819051,"200 iXpress Conestoga Mall",0,198613,2000015
+200,16SPRI-All-Saturday-01,133819051,"200 iXpress Conestoga Mall",0,198613,2001054
 200,16SPRI-All-Saturday-01,133819151,"200 iXpress Ainslie Terminal",1,198614,2000818
 200,16SPRI-All-Saturday-01,133819251,"200 iXpress Ainslie Terminal",1,198612,2001051
 200,16SPRI-All-Saturday-01,133819351,"200 iXpress Ainslie Terminal",1,198615,2001051
@@ -5120,8 +5120,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16SPRI-All-Saturday-01,133825551,"200 iXpress Conestoga Mall",0,198618,2001050
 200,16SPRI-All-Saturday-01,133825651,"200 iXpress Conestoga Mall",0,198616,2001050
 200,16SPRI-All-Saturday-01,133825751,"200 iXpress Ainslie Terminal",1,198616,2001051
-200,16SPRI-All-Saturday-01,133825851,"200 iXpress Ainslie Terminal",1,198622,2000016
-200,16SPRI-All-Saturday-01,133825951,"200 iXpress Ainslie Terminal",1,198623,2000016
+200,16SPRI-All-Saturday-01,133825851,"200 iXpress Ainslie Terminal",1,198622,2001051
+200,16SPRI-All-Saturday-01,133825951,"200 iXpress Ainslie Terminal",1,198623,2001051
 200,16SPRI-All-Saturday-01,133826051,"200 iXpress Ainslie Terminal",1,198624,2001051
 200,16SPRI-All-Saturday-01,133826151,"200 iXpress Ainslie Terminal",1,198619,2000796
 200,16SPRI-All-Saturday-01,133826251,"200 iXpress Ainslie Terminal",1,198620,2001051
@@ -5533,7 +5533,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 51,16SPRI-All-Sunday-04,133857064,"51B Hespeler Rd. to Melran",1,200687,510032
 51,16SPRI-All-Sunday-04,133857164,"51B Hespeler Rd. to Melran",1,200675,510032
 7,16SPRI-All-Sunday-04,133857264,"7C Conestoga Mall",0,200723,70079
-7,16SPRI-All-Sunday-04,133857364,"7C Conestoga Mall",0,200727,70066
+7,16SPRI-All-Sunday-04,133857364,"7C Conestoga Mall",0,200727,70079
 7,16SPRI-All-Sunday-04,133857464,"7C Conestoga Mall",0,200724,70079
 7,16SPRI-All-Sunday-04,133857564,"7C Conestoga Mall",0,200728,70079
 7,16SPRI-All-Sunday-04,133857664,"7C Conestoga Mall",0,200723,70079
@@ -5554,9 +5554,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Sunday-04,133859164,"7C Conestoga Mall",0,200728,70079
 7,16SPRI-All-Sunday-04,133859264,"7C Conestoga Mall",0,200723,70079
 7,16SPRI-All-Sunday-04,133859364,"7C Conestoga Mall",0,200727,70079
-7,16SPRI-All-Sunday-04,133859464,"7C Conestoga Mall",0,200724,70067
-7,16SPRI-All-Sunday-04,133859564,"7C Conestoga Mall",0,200728,70066
-7,16SPRI-All-Sunday-04,133859664,"7C Conestoga Mall",0,200723,70066
+7,16SPRI-All-Sunday-04,133859464,"7C Conestoga Mall",0,200724,70079
+7,16SPRI-All-Sunday-04,133859564,"7C Conestoga Mall",0,200728,70079
+7,16SPRI-All-Sunday-04,133859664,"7C Conestoga Mall",0,200723,70079
 7,16SPRI-All-Sunday-04,133859764,"7C Conestoga Mall",0,200727,70079
 7,16SPRI-All-Sunday-04,133859864,"7C Conestoga Mall",0,200724,70079
 7,16SPRI-All-Sunday-04,133859964,"7C Conestoga Mall",0,200728,70079
@@ -5593,7 +5593,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Sunday-04,133863064,"7B Fairview via Weber",1,200727,70209
 7,16SPRI-All-Sunday-04,133863164,"7B Fairview via Weber",1,200724,70209
 7,16SPRI-All-Sunday-04,133863264,"7B Fairview via Weber",1,200728,70209
-7,16SPRI-All-Sunday-04,133863364,"7D UW via University",0,200722,70068
+7,16SPRI-All-Sunday-04,133863364,"7D UW via University",0,200722,70080
 7,16SPRI-All-Sunday-04,133863464,"7D UW via University",0,200725,70080
 7,16SPRI-All-Sunday-04,133863564,"7D UW via University",0,200721,70080
 7,16SPRI-All-Sunday-04,133863664,"7D UW via University",0,200726,70080
@@ -5660,19 +5660,19 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SPRI-All-Sunday-04,133869764,"7A  Fairview via Connaught",1,200722,70210
 7,16SPRI-All-Sunday-04,133869864,"7A  Fairview via Connaught",1,200725,70210
 7,16SPRI-All-Sunday-04,133869964,"7B Fairview via Weber",1,200723,70209
-7,16SPRI-All-Sunday-04,133870064,"7B Fairview via Weber",1,200727,70069
+7,16SPRI-All-Sunday-04,133870064,"7B Fairview via Weber",1,200727,70209
 7,16SPRI-All-Sunday-04,133870164,"7A  Fairview via Connaught",1,200725,70027
-7,16SPRI-All-Sunday-04,133870264,"7B Fairview via Weber",1,200723,70070
+7,16SPRI-All-Sunday-04,133870264,"7B Fairview via Weber",1,200723,70026
 7,16SPRI-All-Sunday-04,133870364,"7D UW via University",0,200721,70071
 7,16SPRI-All-Sunday-04,133870464,"7D UW via University",0,200726,70071
-7,16SPRI-All-Sunday-04,133870564,"7B Fairview via Weber",1,200727,70070
-7,16SPRI-All-Sunday-04,133870664,"7 Downtown",0,200725,70072
-7,16SPRI-All-Sunday-04,133870764,"7 Downtown",0,200728,70073
-7,16SPRI-All-Sunday-04,133870864,"7 Downtown",1,200699,70074
-7,16SPRI-All-Sunday-04,133870964,"7 Downtown",1,200707,70074
-7,16SPRI-All-Sunday-04,133871064,"7 Downtown",1,200721,70075
-7,16SPRI-All-Sunday-04,133871164,"7 Downtown",1,200726,70075
-7,16SPRI-All-Sunday-04,133871264,"7 Downtown",1,200724,70076
+7,16SPRI-All-Sunday-04,133870564,"7B Fairview via Weber",1,200727,70026
+7,16SPRI-All-Sunday-04,133870664,"7 Downtown",0,200725,70043
+7,16SPRI-All-Sunday-04,133870764,"7 Downtown",0,200728,70222
+7,16SPRI-All-Sunday-04,133870864,"7 Downtown",1,200699,70217
+7,16SPRI-All-Sunday-04,133870964,"7 Downtown",1,200707,70217
+7,16SPRI-All-Sunday-04,133871064,"7 Downtown",1,200721,70223
+7,16SPRI-All-Sunday-04,133871164,"7 Downtown",1,200726,70223
+7,16SPRI-All-Sunday-04,133871264,"7 Downtown",1,200724,70224
 1,16SPRI-All-Sunday-04,133871364,"1 Queen-River to The Boardwalk",1,200736,10455
 1,16SPRI-All-Sunday-04,133871464,"1 Queen-River to The Boardwalk",1,200735,10455
 1,16SPRI-All-Sunday-04,133871564,"1 Queen-River to The Boardwalk",1,200738,10455
@@ -5853,15 +5853,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 22,16SPRI-All-Sunday-04,133889064,"22 Laurentian West to Highland Hills",0,200730,220011
 22,16SPRI-All-Sunday-04,133889164,"22 Laurentian West to Highland Hills",0,200730,220011
 22,16SPRI-All-Sunday-04,133889264,"22 Laurentian West to Highland Hills",0,200679,220011
-22,16SPRI-All-Sunday-04,133889364,"22 Laurentian West to Forest Glen",1,200730,220012
-22,16SPRI-All-Sunday-04,133889464,"22 Laurentian West to Forest Glen",1,200680,220012
-22,16SPRI-All-Sunday-04,133889564,"22 Laurentian West to Forest Glen",1,200730,220012
-22,16SPRI-All-Sunday-04,133889664,"22 Laurentian West to Forest Glen",1,200680,220012
-22,16SPRI-All-Sunday-04,133889764,"22 Laurentian West to Forest Glen",1,200730,220012
-22,16SPRI-All-Sunday-04,133889864,"22 Laurentian West to Forest Glen",1,200680,220012
-22,16SPRI-All-Sunday-04,133889964,"22 Laurentian West to Forest Glen",1,200730,220012
-22,16SPRI-All-Sunday-04,133890064,"22 Laurentian West to Forest Glen",1,200730,220012
-22,16SPRI-All-Sunday-04,133890164,"22 Laurentian West to Forest Glen",1,200679,220012
+22,16SPRI-All-Sunday-04,133889364,"22 Laurentian West to Forest Glen",1,200730,220017
+22,16SPRI-All-Sunday-04,133889464,"22 Laurentian West to Forest Glen",1,200680,220017
+22,16SPRI-All-Sunday-04,133889564,"22 Laurentian West to Forest Glen",1,200730,220017
+22,16SPRI-All-Sunday-04,133889664,"22 Laurentian West to Forest Glen",1,200680,220017
+22,16SPRI-All-Sunday-04,133889764,"22 Laurentian West to Forest Glen",1,200730,220017
+22,16SPRI-All-Sunday-04,133889864,"22 Laurentian West to Forest Glen",1,200680,220017
+22,16SPRI-All-Sunday-04,133889964,"22 Laurentian West to Forest Glen",1,200730,220017
+22,16SPRI-All-Sunday-04,133890064,"22 Laurentian West to Forest Glen",1,200730,220017
+22,16SPRI-All-Sunday-04,133890164,"22 Laurentian West to Forest Glen",1,200679,220017
 55,16SPRI-All-Sunday-04,133890264,"55 St. Andrews",1,200689,550010
 55,16SPRI-All-Sunday-04,133890364,"55 St. Andrews",1,200689,550010
 55,16SPRI-All-Sunday-04,133890464,"55 St. Andrews",1,200687,550010
@@ -6035,70 +6035,70 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 202,16SPRI-All-Sunday-04,133908164,"202 iXpress The Boardwalk",0,200717,2020010
 202,16SPRI-All-Sunday-04,133908264,"202 iXpress The Boardwalk",0,200719,2020010
 202,16SPRI-All-Sunday-04,133908364,"202 iXpress The Boardwalk",0,200703,2020010
-201,16SPRI-All-Sunday-04,133908464,"201 iXpress Conestoga Mall",1,200703,2011287
-201,16SPRI-All-Sunday-04,133908564,"201 iXpress Conestoga Mall",1,200701,2011288
-201,16SPRI-All-Sunday-04,133908664,"201 iXpress Conestoga Mall",1,200702,2011289
-201,16SPRI-All-Sunday-04,133908764,"201 iXpress Conestoga Mall",1,200698,2011290
-201,16SPRI-All-Sunday-04,133908864,"201 iXpress Conestoga Mall",1,200697,2011291
-201,16SPRI-All-Sunday-04,133908964,"201 iXpress Conestoga Mall",1,200703,2011292
-201,16SPRI-All-Sunday-04,133909064,"201 iXpress Conestoga Mall",1,200701,2011293
-201,16SPRI-All-Sunday-04,133909164,"201 iXpress Conestoga Mall",1,200702,2011294
-201,16SPRI-All-Sunday-04,133909264,"201 iXpress Conestoga Mall",1,200698,2011295
-201,16SPRI-All-Sunday-04,133909364,"201 iXpress Conestoga Mall",1,200697,2011296
-201,16SPRI-All-Sunday-04,133909464,"201 iXpress Conestoga Mall",1,200703,2011297
-201,16SPRI-All-Sunday-04,133909564,"201 iXpress Conestoga Mall",1,200701,2011298
-201,16SPRI-All-Sunday-04,133909664,"201 iXpress Conestoga Mall",1,200702,2011299
-201,16SPRI-All-Sunday-04,133909764,"201 iXpress Conestoga Mall",1,200698,2011300
-201,16SPRI-All-Sunday-04,133909864,"201 iXpress Conestoga Mall",1,200697,2011301
-201,16SPRI-All-Sunday-04,133909964,"201 iXpress Conestoga Mall",1,200703,2011302
-201,16SPRI-All-Sunday-04,133910064,"201 iXpress Conestoga Mall",1,200701,2011303
-201,16SPRI-All-Sunday-04,133910164,"201 iXpress Conestoga Mall",1,200718,2011304
-201,16SPRI-All-Sunday-04,133910264,"201 iXpress Conestoga Mall",1,200717,2011305
-201,16SPRI-All-Sunday-04,133910364,"201 iXpress Conestoga Mall",1,200719,2011306
-201,16SPRI-All-Sunday-04,133910464,"201 iXpress Conestoga Mall",1,200703,2011307
-201,16SPRI-All-Sunday-04,133910564,"201 iXpress Conestoga Mall",1,200701,2011308
-201,16SPRI-All-Sunday-04,133910664,"201 iXpress Conestoga Mall",1,200718,2011309
-201,16SPRI-All-Sunday-04,133910764,"201 iXpress Conestoga Mall",1,200717,2011310
-201,16SPRI-All-Sunday-04,133910864,"201 iXpress Conestoga Mall",1,200719,2011311
-201,16SPRI-All-Sunday-04,133910964,"201 iXpress Conestoga Mall",1,200703,2011312
-201,16SPRI-All-Sunday-04,133911064,"201 iXpress Conestoga Mall",1,200701,2011313
-201,16SPRI-All-Sunday-04,133911164,"201 iXpress Conestoga Mall",1,200718,2011314
-201,16SPRI-All-Sunday-04,133911264,"201 iXpress Conestoga Mall",1,200717,2011315
-201,16SPRI-All-Sunday-04,133911364,"201 iXpress Conestoga Mall",1,200719,2011316
-201,16SPRI-All-Sunday-04,133911464,"201 iXpress Conestoga Mall",1,200703,2011317
-201,16SPRI-All-Sunday-04,133911564,"201 iXpress Conestoga Mall",1,200701,2011318
-201,16SPRI-All-Sunday-04,133911664,"201 iXpress Forest Glen",0,200701,2011319
-201,16SPRI-All-Sunday-04,133911764,"201 iXpress Forest Glen",0,200702,2011337
-201,16SPRI-All-Sunday-04,133911864,"201 iXpress Forest Glen",0,200698,2011338
-201,16SPRI-All-Sunday-04,133911964,"201 iXpress Forest Glen",0,200697,2011336
-201,16SPRI-All-Sunday-04,133912064,"201 iXpress Forest Glen",0,200703,2011335
-201,16SPRI-All-Sunday-04,133912164,"201 iXpress Forest Glen",0,200701,2011334
-201,16SPRI-All-Sunday-04,133912264,"201 iXpress Forest Glen",0,200702,2011333
-201,16SPRI-All-Sunday-04,133912364,"201 iXpress Forest Glen",0,200698,2011332
-201,16SPRI-All-Sunday-04,133912464,"201 iXpress Forest Glen",0,200697,2011343
-201,16SPRI-All-Sunday-04,133912564,"201 iXpress Forest Glen",0,200703,2011344
-201,16SPRI-All-Sunday-04,133912664,"201 iXpress Forest Glen",0,200701,2011345
-201,16SPRI-All-Sunday-04,133912764,"201 iXpress Forest Glen",0,200702,2011346
-201,16SPRI-All-Sunday-04,133912864,"201 iXpress Forest Glen",0,200698,2011347
-201,16SPRI-All-Sunday-04,133912964,"201 iXpress Forest Glen",0,200697,2011348
-201,16SPRI-All-Sunday-04,133913064,"201 iXpress Forest Glen",0,200703,2011349
-201,16SPRI-All-Sunday-04,133913164,"201 iXpress Forest Glen",0,200701,2011350
-201,16SPRI-All-Sunday-04,133913264,"201 iXpress Forest Glen",0,200718,2011330
-201,16SPRI-All-Sunday-04,133913364,"201 iXpress Forest Glen",0,200717,2011327
-201,16SPRI-All-Sunday-04,133913464,"201 iXpress Forest Glen",0,200719,2011323
-201,16SPRI-All-Sunday-04,133913564,"201 iXpress Forest Glen",0,200703,2011322
-201,16SPRI-All-Sunday-04,133913664,"201 iXpress Forest Glen",0,200701,2011321
-201,16SPRI-All-Sunday-04,133913764,"201 iXpress Forest Glen",0,200718,2011320
-201,16SPRI-All-Sunday-04,133913864,"201 iXpress Forest Glen",0,200717,2011326
-201,16SPRI-All-Sunday-04,133913964,"201 iXpress Forest Glen",0,200719,2011329
-201,16SPRI-All-Sunday-04,133914064,"201 iXpress Forest Glen",0,200703,2011324
-201,16SPRI-All-Sunday-04,133914164,"201 iXpress Forest Glen",0,200701,2011325
-201,16SPRI-All-Sunday-04,133914264,"201 iXpress Forest Glen",0,200718,2011328
-201,16SPRI-All-Sunday-04,133914364,"201 iXpress Forest Glen",0,200717,2011331
-201,16SPRI-All-Sunday-04,133914464,"201 iXpress Forest Glen",0,200719,2011339
-201,16SPRI-All-Sunday-04,133914564,"201 iXpress Forest Glen",0,200703,2011340
-201,16SPRI-All-Sunday-04,133914664,"201 iXpress Forest Glen",0,200701,2011341
-201,16SPRI-All-Sunday-04,133914764,"201 iXpress Forest Glen",0,200718,2011342
+201,16SPRI-All-Sunday-04,133908464,"201 iXpress Conestoga Mall",1,200703,2011352
+201,16SPRI-All-Sunday-04,133908564,"201 iXpress Conestoga Mall",1,200701,2011352
+201,16SPRI-All-Sunday-04,133908664,"201 iXpress Conestoga Mall",1,200702,2011352
+201,16SPRI-All-Sunday-04,133908764,"201 iXpress Conestoga Mall",1,200698,2011352
+201,16SPRI-All-Sunday-04,133908864,"201 iXpress Conestoga Mall",1,200697,2011352
+201,16SPRI-All-Sunday-04,133908964,"201 iXpress Conestoga Mall",1,200703,2011352
+201,16SPRI-All-Sunday-04,133909064,"201 iXpress Conestoga Mall",1,200701,2011352
+201,16SPRI-All-Sunday-04,133909164,"201 iXpress Conestoga Mall",1,200702,2011352
+201,16SPRI-All-Sunday-04,133909264,"201 iXpress Conestoga Mall",1,200698,2011352
+201,16SPRI-All-Sunday-04,133909364,"201 iXpress Conestoga Mall",1,200697,2011352
+201,16SPRI-All-Sunday-04,133909464,"201 iXpress Conestoga Mall",1,200703,2011352
+201,16SPRI-All-Sunday-04,133909564,"201 iXpress Conestoga Mall",1,200701,2011352
+201,16SPRI-All-Sunday-04,133909664,"201 iXpress Conestoga Mall",1,200702,2011352
+201,16SPRI-All-Sunday-04,133909764,"201 iXpress Conestoga Mall",1,200698,2011352
+201,16SPRI-All-Sunday-04,133909864,"201 iXpress Conestoga Mall",1,200697,2011352
+201,16SPRI-All-Sunday-04,133909964,"201 iXpress Conestoga Mall",1,200703,2011352
+201,16SPRI-All-Sunday-04,133910064,"201 iXpress Conestoga Mall",1,200701,2011352
+201,16SPRI-All-Sunday-04,133910164,"201 iXpress Conestoga Mall",1,200718,2011352
+201,16SPRI-All-Sunday-04,133910264,"201 iXpress Conestoga Mall",1,200717,2011352
+201,16SPRI-All-Sunday-04,133910364,"201 iXpress Conestoga Mall",1,200719,2011352
+201,16SPRI-All-Sunday-04,133910464,"201 iXpress Conestoga Mall",1,200703,2011352
+201,16SPRI-All-Sunday-04,133910564,"201 iXpress Conestoga Mall",1,200701,2011352
+201,16SPRI-All-Sunday-04,133910664,"201 iXpress Conestoga Mall",1,200718,2011352
+201,16SPRI-All-Sunday-04,133910764,"201 iXpress Conestoga Mall",1,200717,2011352
+201,16SPRI-All-Sunday-04,133910864,"201 iXpress Conestoga Mall",1,200719,2011352
+201,16SPRI-All-Sunday-04,133910964,"201 iXpress Conestoga Mall",1,200703,2011352
+201,16SPRI-All-Sunday-04,133911064,"201 iXpress Conestoga Mall",1,200701,2011352
+201,16SPRI-All-Sunday-04,133911164,"201 iXpress Conestoga Mall",1,200718,2011352
+201,16SPRI-All-Sunday-04,133911264,"201 iXpress Conestoga Mall",1,200717,2011352
+201,16SPRI-All-Sunday-04,133911364,"201 iXpress Conestoga Mall",1,200719,2011352
+201,16SPRI-All-Sunday-04,133911464,"201 iXpress Conestoga Mall",1,200703,2011352
+201,16SPRI-All-Sunday-04,133911564,"201 iXpress Conestoga Mall",1,200701,2011352
+201,16SPRI-All-Sunday-04,133911664,"201 iXpress Forest Glen",0,200701,2011351
+201,16SPRI-All-Sunday-04,133911764,"201 iXpress Forest Glen",0,200702,2011351
+201,16SPRI-All-Sunday-04,133911864,"201 iXpress Forest Glen",0,200698,2011351
+201,16SPRI-All-Sunday-04,133911964,"201 iXpress Forest Glen",0,200697,2011351
+201,16SPRI-All-Sunday-04,133912064,"201 iXpress Forest Glen",0,200703,2011351
+201,16SPRI-All-Sunday-04,133912164,"201 iXpress Forest Glen",0,200701,2011351
+201,16SPRI-All-Sunday-04,133912264,"201 iXpress Forest Glen",0,200702,2011351
+201,16SPRI-All-Sunday-04,133912364,"201 iXpress Forest Glen",0,200698,2011351
+201,16SPRI-All-Sunday-04,133912464,"201 iXpress Forest Glen",0,200697,2011351
+201,16SPRI-All-Sunday-04,133912564,"201 iXpress Forest Glen",0,200703,2011351
+201,16SPRI-All-Sunday-04,133912664,"201 iXpress Forest Glen",0,200701,2011351
+201,16SPRI-All-Sunday-04,133912764,"201 iXpress Forest Glen",0,200702,2011351
+201,16SPRI-All-Sunday-04,133912864,"201 iXpress Forest Glen",0,200698,2011351
+201,16SPRI-All-Sunday-04,133912964,"201 iXpress Forest Glen",0,200697,2011351
+201,16SPRI-All-Sunday-04,133913064,"201 iXpress Forest Glen",0,200703,2011351
+201,16SPRI-All-Sunday-04,133913164,"201 iXpress Forest Glen",0,200701,2011351
+201,16SPRI-All-Sunday-04,133913264,"201 iXpress Forest Glen",0,200718,2011351
+201,16SPRI-All-Sunday-04,133913364,"201 iXpress Forest Glen",0,200717,2011351
+201,16SPRI-All-Sunday-04,133913464,"201 iXpress Forest Glen",0,200719,2011351
+201,16SPRI-All-Sunday-04,133913564,"201 iXpress Forest Glen",0,200703,2011351
+201,16SPRI-All-Sunday-04,133913664,"201 iXpress Forest Glen",0,200701,2011351
+201,16SPRI-All-Sunday-04,133913764,"201 iXpress Forest Glen",0,200718,2011351
+201,16SPRI-All-Sunday-04,133913864,"201 iXpress Forest Glen",0,200717,2011351
+201,16SPRI-All-Sunday-04,133913964,"201 iXpress Forest Glen",0,200719,2011351
+201,16SPRI-All-Sunday-04,133914064,"201 iXpress Forest Glen",0,200703,2011351
+201,16SPRI-All-Sunday-04,133914164,"201 iXpress Forest Glen",0,200701,2011351
+201,16SPRI-All-Sunday-04,133914264,"201 iXpress Forest Glen",0,200718,2011351
+201,16SPRI-All-Sunday-04,133914364,"201 iXpress Forest Glen",0,200717,2011351
+201,16SPRI-All-Sunday-04,133914464,"201 iXpress Forest Glen",0,200719,2011351
+201,16SPRI-All-Sunday-04,133914564,"201 iXpress Forest Glen",0,200703,2011351
+201,16SPRI-All-Sunday-04,133914664,"201 iXpress Forest Glen",0,200701,2011351
+201,16SPRI-All-Sunday-04,133914764,"201 iXpress Forest Glen",0,200718,2011351
 29,16SPRI-All-Sunday-04,133914864,"29 Keats Way to University/King",0,200674,290014
 29,16SPRI-All-Sunday-04,133914964,"29 Keats Way to University/King",0,200674,290014
 29,16SPRI-All-Sunday-04,133915064,"29 Keats Way to University/King",0,200674,290014
@@ -6223,7 +6223,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16SPRI-All-Sunday-04,133929264,"200 iXpress Ainslie Terminal",1,200690,2001051
 200,16SPRI-All-Sunday-04,133929364,"200 iXpress Ainslie Terminal",1,200692,2001051
 200,16SPRI-All-Sunday-04,133929464,"200 iXpress Ainslie Terminal",1,200694,2001051
-200,16SPRI-All-Sunday-04,133929564,"200 iXpress Ainslie Terminal",1,200691,2000016
+200,16SPRI-All-Sunday-04,133929564,"200 iXpress Ainslie Terminal",1,200691,2001051
 200,16SPRI-All-Sunday-04,133929664,"200 iXpress Conestoga Mall",0,200692,2001050
 200,16SPRI-All-Sunday-04,133929764,"200 iXpress Conestoga Mall",0,200694,2001050
 200,16SPRI-All-Sunday-04,133929864,"200 iXpress Conestoga Mall",0,200691,2001050
@@ -6234,9 +6234,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16SPRI-All-Sunday-04,133930364,"200 iXpress Conestoga Mall",0,200692,2001050
 200,16SPRI-All-Sunday-04,133930464,"200 iXpress Conestoga Mall",0,200694,2001050
 200,16SPRI-All-Sunday-04,133930564,"200 iXpress Conestoga Mall",0,200691,2001050
-200,16SPRI-All-Sunday-04,133930664,"200 iXpress Ainslie Terminal",1,200691,2000016
-200,16SPRI-All-Sunday-04,133930764,"200 iXpress Ainslie Terminal",1,200693,2000016
-200,16SPRI-All-Sunday-04,133930864,"200 iXpress Ainslie Terminal",1,200695,2000016
+200,16SPRI-All-Sunday-04,133930664,"200 iXpress Ainslie Terminal",1,200691,2001051
+200,16SPRI-All-Sunday-04,133930764,"200 iXpress Ainslie Terminal",1,200693,2001051
+200,16SPRI-All-Sunday-04,133930864,"200 iXpress Ainslie Terminal",1,200695,2001051
 200,16SPRI-All-Sunday-04,133930964,"200 iXpress Ainslie Terminal",1,200690,2001051
 200,16SPRI-All-Sunday-04,133931064,"200 iXpress Ainslie Terminal",1,200693,2001051
 200,16SPRI-All-Sunday-04,133931164,"200 iXpress Ainslie Terminal",1,200695,2001051
@@ -6286,8 +6286,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Sunday-04,133957964,"12 Conestoga Mall",0,200705,120062
 12,16SPRI-All-Sunday-04,133958064,"12 Conestoga Mall",0,200714,120062
 12,16SPRI-All-Sunday-04,133958164,"12 Conestoga Mall",0,200715,120062
-12,16SPRI-All-Sunday-04,133958264,"12 Fairview Park",1,200710,120018
-12,16SPRI-All-Sunday-04,133958364,"12 Fairview Park",1,200709,120018
+12,16SPRI-All-Sunday-04,133958264,"12 Fairview Park",1,200710,120046
+12,16SPRI-All-Sunday-04,133958364,"12 Fairview Park",1,200709,120046
 12,16SPRI-All-Sunday-04,133958464,"12 Fairview Park",1,200712,120178
 12,16SPRI-All-Sunday-04,133958564,"12 Fairview Park",1,200710,120177
 12,16SPRI-All-Sunday-04,133958664,"12 Fairview Park",1,200709,120176
@@ -6295,14 +6295,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,16SPRI-All-Sunday-04,133958864,"12 Fairview Park",1,200710,120174
 12,16SPRI-All-Sunday-04,133958964,"12 Fairview Park",1,200704,120173
 12,16SPRI-All-Sunday-04,133959064,"12 Fairview Park",1,200705,120172
-12,16SPRI-All-Sunday-04,133959164,"12 Fairview Park",1,200714,120018
+12,16SPRI-All-Sunday-04,133959164,"12 Fairview Park",1,200714,120046
 12,16SPRI-All-Sunday-04,133959264,"12 Fairview Park",1,200704,120171
 12,16SPRI-All-Sunday-04,133959364,"12 Fairview Park",1,200705,120170
 12,16SPRI-All-Sunday-04,133959464,"12 Fairview Park",1,200713,120169
 12,16SPRI-All-Sunday-04,133959564,"12 Fairview Park",1,200704,120168
 12,16SPRI-All-Sunday-04,133959664,"12 Fairview Park",1,200705,120167
 12,16SPRI-All-Sunday-04,133959764,"12 Fairview Park",1,200714,120166
-12,16SPRI-All-Sunday-04,133959864,"12 Fairview Park",1,200715,120018
+12,16SPRI-All-Sunday-04,133959864,"12 Fairview Park",1,200715,120046
 12,16SPRI-All-Sunday-04,133959964,"12 Fairview Park",1,200707,120165
 12,16SPRI-All-Sunday-04,133960064,"12 Fairview Park",1,200711,120164
 12,16SPRI-All-Sunday-04,133960164,"12 Fairview Park",1,200708,120163
@@ -6385,7 +6385,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,16SPRI-All-Sunday-04,133967864,"10 Conestoga College",1,200714,100247
 10,16SPRI-All-Sunday-04,133967964,"10 Conestoga College",1,200713,100246
 10,16SPRI-All-Sunday-04,133968064,"10 Conestoga College",1,200713,100245
-10,16SPRI-All-Sunday-04,133968164,"10 Conestoga College",1,200705,100007
+10,16SPRI-All-Sunday-04,133968164,"10 Conestoga College",1,200705,100028
 10,16SPRI-All-Sunday-04,133968264,"10 Fairview Park",0,200708,100244
 10,16SPRI-All-Sunday-04,133968364,"10 Fairview Park",0,200708,100243
 10,16SPRI-All-Sunday-04,133968464,"10 Fairview Park",0,200708,100242
@@ -6456,9 +6456,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Sunday-04,133974964,"8 University via Courtland & Weber",0,200683,80265
 8,16SPRI-All-Sunday-04,133975064,"8 University via Courtland & Weber",0,200685,80265
 8,16SPRI-All-Sunday-04,133975164,"8 University via Courtland & Weber",0,200683,80265
-8,16SPRI-All-Sunday-04,133975264,"8 Fairview via Weber & Courtland",1,200682,80060
+8,16SPRI-All-Sunday-04,133975264,"8 Fairview via Weber & Courtland",1,200682,80292
 8,16SPRI-All-Sunday-04,133975364,"8 Fairview via Weber & Courtland",1,200681,80292
-8,16SPRI-All-Sunday-04,133975464,"8 Fairview via Weber & Courtland",1,200682,80060
+8,16SPRI-All-Sunday-04,133975464,"8 Fairview via Weber & Courtland",1,200682,80292
 8,16SPRI-All-Sunday-04,133975564,"8 Fairview via Weber & Courtland",1,200681,80292
 8,16SPRI-All-Sunday-04,133975664,"8 Fairview via Weber & Courtland",1,200682,80292
 8,16SPRI-All-Sunday-04,133975764,"8 Fairview via Weber & Courtland",1,200681,80292
@@ -6470,7 +6470,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Sunday-04,133976364,"8 Fairview via Weber & Courtland",1,200681,80292
 8,16SPRI-All-Sunday-04,133976464,"8 University via Courtland & Weber",0,200684,80265
 8,16SPRI-All-Sunday-04,133976564,"8 Fairview via Weber & Courtland",1,200681,80292
-8,16SPRI-All-Sunday-04,133976664,"8 Fairview via Weber & Courtland",1,200682,80060
+8,16SPRI-All-Sunday-04,133976664,"8 Fairview via Weber & Courtland",1,200682,80292
 8,16SPRI-All-Sunday-04,133976764,"8 Fairview via Weber & Courtland",1,200681,80292
 8,16SPRI-All-Sunday-04,133976864,"8 Fairview via Weber & Courtland",1,200682,80292
 8,16SPRI-All-Sunday-04,133976964,"8 Fairview via Weber & Courtland",1,200681,80292
@@ -6481,7 +6481,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Sunday-04,133977464,"8 Downtown via Weber",1,200682,80324
 8,16SPRI-All-Sunday-04,133977564,"8 Downtown via Westmount",1,200683,80040
 8,16SPRI-All-Sunday-04,133977664,"8 Downtown via Westmount",1,200684,80040
-8,16SPRI-All-Sunday-04,133977764,"8 University via Franklin & Westmount",0,200681,80082
+8,16SPRI-All-Sunday-04,133977764,"8 University via Franklin & Westmount",0,200681,80311
 8,16SPRI-All-Sunday-04,133977864,"8 University via Franklin & Westmount",0,200682,80311
 8,16SPRI-All-Sunday-04,133977964,"8 University via Franklin & Westmount",0,200681,80311
 8,16SPRI-All-Sunday-04,133978064,"8 University via Franklin & Westmount",0,200682,80311
@@ -6501,11 +6501,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16SPRI-All-Sunday-04,133979464,"8 University via Franklin & Westmount",0,200682,80311
 8,16SPRI-All-Sunday-04,133979564,"8 University via Franklin & Westmount",0,200681,80311
 8,16SPRI-All-Sunday-04,133979664,"8 University via Franklin & Westmount",0,200681,80311
-8,16SPRI-All-Sunday-04,133979764,"8 University via Franklin & Westmount",0,200682,80082
-8,16SPRI-All-Sunday-04,133979864,"8 University via Franklin & Westmount",0,200682,80082
+8,16SPRI-All-Sunday-04,133979764,"8 University via Franklin & Westmount",0,200682,80311
+8,16SPRI-All-Sunday-04,133979864,"8 University via Franklin & Westmount",0,200682,80311
 8,16SPRI-All-Sunday-04,133979964,"8 Fairview via Westmount & Franklin",1,200683,80312
-8,16SPRI-All-Sunday-04,133980064,"8 Fairview via Westmount & Franklin",1,200684,80073
-8,16SPRI-All-Sunday-04,133980164,"8 Fairview via Westmount & Franklin",1,200685,80073
+8,16SPRI-All-Sunday-04,133980064,"8 Fairview via Westmount & Franklin",1,200684,80312
+8,16SPRI-All-Sunday-04,133980164,"8 Fairview via Westmount & Franklin",1,200685,80312
 8,16SPRI-All-Sunday-04,133980264,"8 Fairview via Westmount & Franklin",1,200683,80312
 8,16SPRI-All-Sunday-04,133980364,"8 Fairview via Westmount & Franklin",1,200685,80312
 8,16SPRI-All-Sunday-04,133980464,"8 Fairview via Westmount & Franklin",1,200683,80312
