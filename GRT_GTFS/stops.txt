@@ -2391,7 +2391,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6019,6019,"ION Pinebush Southbound",,  43.407581, -80.328185,,,0,
 6021,6021,"ION CanAmera Southbound",,  43.385250, -80.321055,,,0,
 6022,6022,"ION Delta Southbound",,  43.373813, -80.318847,,,0,
-6023,6023,"ION PINEBUSH SOUTBOUND",,  43.407203, -80.328043,,,0,
+6023,6023,"ION Pinebush Southbound",,  43.407203, -80.328043,,,0,
 6101,6101,"ION Ainslie Street Terminal",,  43.357642, -80.313444,,,0,place_AST
 6102,6102,"ION Delta Northbound",,  43.372911, -80.318258,,,0,
 6103,6103,"ION CanAmera Northbound",,  43.386289, -80.320911,,,0,
