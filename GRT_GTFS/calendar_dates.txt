@@ -1,5 +1,1 @@
 service_id,date,exception_type
-16SPRI-All-Weekday-02,20160523,2
-16SPRI-All-Weekday-02-0001000,20160523,2
-16SPRI-All-Weekday-02-0001100,20160523,2
-16SPRI-All-Sunday-04,20160523,1
