@@ -6,14 +6,14 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 5,5,Erb,3,008fd4,ffffff
 6,6,Bridge,3,2e3092,ffffff
 7,7,Mainline,3,ed1c24,ffffff
-8,8,University/Fairview Park,3,00a550,ffffff
+8,8,University/Fairview,3,00a550,ffffff
 9,9,Lakeshore,3,f7931d,ffffff
 10,10,Conestoga College,3,0071bb,ffffff
 11,11,Country Hills,3,135887,ffffff
-12,12,Fairview Park/Conestoga Mall,3,ec008b,ffffff
+12,12,Fairview/Conestoga Mall,3,ec008b,ffffff
 13,13,Laurelwood,3,ffca04,000000
 14,14,Waterloo Industrial,3,496e6d,ffffff
-16,16,Forest Glen/Conestoga College,3,86ac51,ffffff
+16,16,Forest Glen/College,3,86ac51,ffffff
 20,20,Victoria-Frederick,3,c7a0ca,000000
 21,21,Elmira,3,a6ce38,000000
 22,22,Laurentian West,3,756fb3,ffffff
@@ -23,26 +23,26 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 31,31,Columbia,3,aaa575,000000
 33,33,Huron,3,5a2a00,ffffff
 34,34,Bingemans,3,91268f,ffffff
-51,51,Hespeler Road,3,ff0000,ffffff
-52,52,Fairview Park/Ainslie Street,3,2e3092,ffffff
-53,53,Franklin Boulevard,3,00ff00,000000
+51,51,Hespeler,3,ff0000,ffffff
+52,52,Fairview/Ainslie,3,2e3092,ffffff
+53,53,Franklin,3,00ff00,000000
 54,54,Lisbon Pines,3,00ffff,000000
 55,55,St. Andrews,3,9900cc,ffffff
 56,56,Dunbar,3,006633,ffffff
-57,57,Blair Road,3,ff6600,ffffff
+57,57,Blair,3,ff6600,ffffff
 58,58,Elmwood,3,663333,ffffff
 59,59,Christopher,3,ff00ff,ffffff
 60,60,Northview Acres,3,003399,ffffff
-61,61,Conestoga College/Cambridge Centre,3,00aaac,000000
+61,61,College/Cambridge Centre,3,00aaac,000000
 62,62,Woodside,3,405980,ffffff
 63,63,Champlain,3,ffb200,ffffff
 64,64,Langs,3,cc0000,ffffff
 67,67,Lovell Industrial,3,6600ff,ffffff
-72,72,Cherry Blossom BusPlus,3,a15641,ffffff
-73,73,Northlake BusPlus,3,00adef,000000
+72,72,Cherry Blossom,3,a15641,ffffff
+73,73,Northlake,3,00adef,000000
 75,75,Saginaw,3,ff6633,ffffff
-76,76,Doon South Bus Plus,3,2e3092,ffffff
-77,77,Wilmot BusPlus,3,2e3092,ffffff
+76,76,Doon South,3,2e3092,ffffff
+77,77,Wilmot,3,2e3092,ffffff
 110,110,College Express,3,,
 91,91,Late Night Loop,3,,
 200,200,iXpress,3,005aa7,fdbc3b
