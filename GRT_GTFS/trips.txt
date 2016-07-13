@@ -1936,7 +1936,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 201,16SUM-All-Weekday-01,136204401,"201 iXpress Conestoga Mall",1,201301,2010005
 201,16SUM-All-Weekday-01,136204501,"201 iXpress Forest Glen",0,201380,2010004
 201,16SUM-All-Weekday-01,136204601,"201 iXpress Forest Glen",0,201387,2010004
-9931,16SUM-All-Weekday-01,136204701,"Huron Industrial Special",0,203945,99310004
+9931,16SUM-All-Weekday-01,136204701,"Huron Industrial Special",0,203945,99310005
 3,16SUM-All-Weekday-01,136205001,"3 Ottawa South to Downtown",1,201448,30012
 3,16SUM-All-Weekday-01,136205101,"3 Ottawa South to Downtown",1,201447,30012
 3,16SUM-All-Weekday-01,136205201,"3 Ottawa South to Downtown",1,201448,30012
@@ -2247,81 +2247,81 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 16,16SUM-All-Weekday-01,136245001,"16 Forest Glen",1,201473,160016
 16,16SUM-All-Weekday-01,136245101,"16 Forest Glen",1,201450,160016
 16,16SUM-All-Weekday-01,136245201,"16 Forest Glen",1,201475,160016
-10,16SUM-All-Weekday-01,136245301,"10 Conestoga College",1,201473,100385
-10,16SUM-All-Weekday-01,136245401,"10 Conestoga College",1,201476,100385
-10,16SUM-All-Weekday-01,136245501,"10 Conestoga College",1,201450,100385
-10,16SUM-All-Weekday-01,136245601,"10 Conestoga College",1,201476,100385
-10,16SUM-All-Weekday-01,136245701,"10 Conestoga College",1,201450,100385
-10,16SUM-All-Weekday-01,136245801,"10 Conestoga College",1,201476,100385
-10,16SUM-All-Weekday-01,136245901,"10 Conestoga College",1,201450,100385
-10,16SUM-All-Weekday-01,136246001,"10 Conestoga College",1,201473,100385
-10,16SUM-All-Weekday-01,136246101,"10 Conestoga College",1,201475,100385
-10,16SUM-All-Weekday-01,136246201,"10 Conestoga College",1,201450,100385
-10,16SUM-All-Weekday-01,136246301,"10 Conestoga College",1,201473,100385
-10,16SUM-All-Weekday-01,136246401,"10 Conestoga College",1,201475,100385
-10,16SUM-All-Weekday-01,136246501,"10 Conestoga College",1,201450,100385
-10,16SUM-All-Weekday-01,136246601,"10 Conestoga College",1,201475,100385
-10,16SUM-All-Weekday-01,136246701,"10 Conestoga College",1,201475,100385
-10,16SUM-All-Weekday-01,136246801,"10 Conestoga College",1,201450,100385
-10,16SUM-All-Weekday-01,136246901,"10 Conestoga College",1,201473,100385
-10,16SUM-All-Weekday-01,136247001,"10 Conestoga College",1,201455,100385
-10,16SUM-All-Weekday-01,136247101,"10 Conestoga College",1,201473,100385
-10,16SUM-All-Weekday-01,136247201,"10 Conestoga College",1,201455,100385
-10,16SUM-All-Weekday-01,136247301,"10 Conestoga College",1,201473,100385
-10,16SUM-All-Weekday-01,136247401,"10 Conestoga College",1,201455,100385
-10,16SUM-All-Weekday-01,136247501,"10 Conestoga College",1,201466,100385
-10,16SUM-All-Weekday-01,136247601,"10 Conestoga College",1,201469,100385
+10,16SUM-All-Weekday-01,136245301,"10 Conestoga College",1,201473,100333
+10,16SUM-All-Weekday-01,136245401,"10 Conestoga College",1,201476,100333
+10,16SUM-All-Weekday-01,136245501,"10 Conestoga College",1,201450,100333
+10,16SUM-All-Weekday-01,136245601,"10 Conestoga College",1,201476,100333
+10,16SUM-All-Weekday-01,136245701,"10 Conestoga College",1,201450,100333
+10,16SUM-All-Weekday-01,136245801,"10 Conestoga College",1,201476,100333
+10,16SUM-All-Weekday-01,136245901,"10 Conestoga College",1,201450,100333
+10,16SUM-All-Weekday-01,136246001,"10 Conestoga College",1,201473,100333
+10,16SUM-All-Weekday-01,136246101,"10 Conestoga College",1,201475,100333
+10,16SUM-All-Weekday-01,136246201,"10 Conestoga College",1,201450,100333
+10,16SUM-All-Weekday-01,136246301,"10 Conestoga College",1,201473,100333
+10,16SUM-All-Weekday-01,136246401,"10 Conestoga College",1,201475,100333
+10,16SUM-All-Weekday-01,136246501,"10 Conestoga College",1,201450,100333
+10,16SUM-All-Weekday-01,136246601,"10 Conestoga College",1,201475,100333
+10,16SUM-All-Weekday-01,136246701,"10 Conestoga College",1,201475,100333
+10,16SUM-All-Weekday-01,136246801,"10 Conestoga College",1,201450,100333
+10,16SUM-All-Weekday-01,136246901,"10 Conestoga College",1,201473,100333
+10,16SUM-All-Weekday-01,136247001,"10 Conestoga College",1,201455,100333
+10,16SUM-All-Weekday-01,136247101,"10 Conestoga College",1,201473,100333
+10,16SUM-All-Weekday-01,136247201,"10 Conestoga College",1,201455,100333
+10,16SUM-All-Weekday-01,136247301,"10 Conestoga College",1,201473,100333
+10,16SUM-All-Weekday-01,136247401,"10 Conestoga College",1,201455,100333
+10,16SUM-All-Weekday-01,136247501,"10 Conestoga College",1,201466,100333
+10,16SUM-All-Weekday-01,136247601,"10 Conestoga College",1,201469,100333
 10,16SUM-All-Weekday-01,136247701,"10 Conestoga College",1,201450,100332
-10,16SUM-All-Weekday-01,136247801,"10 Conestoga College",1,201475,100335
-10,16SUM-All-Weekday-01,136247901,"10 Conestoga College",1,201335,100335
-10,16SUM-All-Weekday-01,136248001,"10 Conestoga College",1,201475,100335
-10,16SUM-All-Weekday-01,136248101,"10 Conestoga College",1,201473,100335
-10,16SUM-All-Weekday-01,136248201,"10 Conestoga College",1,201475,100335
-10,16SUM-All-Weekday-01,136248301,"10 Conestoga College",1,201473,100335
+10,16SUM-All-Weekday-01,136247801,"10 Conestoga College",1,201475,100332
+10,16SUM-All-Weekday-01,136247901,"10 Conestoga College",1,201335,100332
+10,16SUM-All-Weekday-01,136248001,"10 Conestoga College",1,201475,100332
+10,16SUM-All-Weekday-01,136248101,"10 Conestoga College",1,201473,100332
+10,16SUM-All-Weekday-01,136248201,"10 Conestoga College",1,201475,100332
+10,16SUM-All-Weekday-01,136248301,"10 Conestoga College",1,201473,100332
 10,16SUM-All-Weekday-01,136248401,"10 Conestoga College",1,201450,100332
 10,16SUM-All-Weekday-01,136248501,"10 Conestoga College",1,201450,100332
 10,16SUM-All-Weekday-01,136248601,"10 Fairview Park",0,201450,100330
-10,16SUM-All-Weekday-01,136248701,"10 Fairview Park",0,201475,100496
-10,16SUM-All-Weekday-01,136248801,"10 Fairview Park",0,201476,100495
-10,16SUM-All-Weekday-01,136248901,"10 Fairview Park",0,201450,100494
-10,16SUM-All-Weekday-01,136249001,"10 Fairview Park",0,201476,100493
-10,16SUM-All-Weekday-01,136249101,"10 Fairview Park",0,201450,100492
-10,16SUM-All-Weekday-01,136249201,"10 Fairview Park",0,201476,100491
-10,16SUM-All-Weekday-01,136249301,"10 Fairview Park",0,201450,100490
-10,16SUM-All-Weekday-01,136249401,"10 Fairview Park",0,201473,100489
-10,16SUM-All-Weekday-01,136249501,"10 Fairview Park",0,201475,100488
-10,16SUM-All-Weekday-01,136249601,"10 Fairview Park",0,201450,100487
-10,16SUM-All-Weekday-01,136249701,"10 Fairview Park",0,201473,100486
-10,16SUM-All-Weekday-01,136249801,"10 Fairview Park",0,201475,100485
-10,16SUM-All-Weekday-01,136249901,"10 Fairview Park",0,201450,100484
-10,16SUM-All-Weekday-01,136250001,"10 Fairview Park",0,201473,100483
-10,16SUM-All-Weekday-01,136250101,"10 Fairview Park",0,201475,100482
-10,16SUM-All-Weekday-01,136250201,"10 Fairview Park",0,201450,100481
-10,16SUM-All-Weekday-01,136250301,"10 Fairview Park",0,201473,100480
-10,16SUM-All-Weekday-01,136250401,"10 Fairview Park",0,201455,100479
-10,16SUM-All-Weekday-01,136250501,"10 Fairview Park",0,201473,100478
-10,16SUM-All-Weekday-01,136250601,"10 Fairview Park",0,201455,100477
-10,16SUM-All-Weekday-01,136250701,"10 Fairview Park",0,201473,100476
-10,16SUM-All-Weekday-01,136250801,"10 Fairview Park",0,201455,100475
-10,16SUM-All-Weekday-01,136250901,"10 Fairview Park",0,201473,100474
-10,16SUM-All-Weekday-01,136251001,"10 Fairview Park",0,201447,100473
-10,16SUM-All-Weekday-01,136251101,"10 Fairview Park",0,201475,100472
-10,16SUM-All-Weekday-01,136251201,"10 Fairview Park",0,201450,100471
-10,16SUM-All-Weekday-01,136251301,"10 Fairview Park",0,201475,100470
-10,16SUM-All-Weekday-01,136251401,"10 Fairview Park",0,201335,100469
-10,16SUM-All-Weekday-01,136251501,"10 Fairview Park",0,201475,100468
-10,16SUM-All-Weekday-01,136251601,"10 Fairview Park",0,201473,100467
-10,16SUM-All-Weekday-01,136251701,"10 Fairview Park",0,201475,100466
-10,16SUM-All-Weekday-01,136251801,"10 Fairview Park",0,201473,100465
-10,16SUM-All-Weekday-01,136251901,"10 Fairview Park",0,201450,100464
-10,16SUM-All-Weekday-01,136252001,"10 Fairview Park",0,201332,100463
-10,16SUM-All-Weekday-01,136252101,"10 Conestoga College",1,201332,100335
-10,16SUM-All-Weekday-01,136252201,"10 Conestoga College",1,201332,100335
+10,16SUM-All-Weekday-01,136248701,"10 Fairview Park",0,201475,100330
+10,16SUM-All-Weekday-01,136248801,"10 Fairview Park",0,201476,100330
+10,16SUM-All-Weekday-01,136248901,"10 Fairview Park",0,201450,100330
+10,16SUM-All-Weekday-01,136249001,"10 Fairview Park",0,201476,100330
+10,16SUM-All-Weekday-01,136249101,"10 Fairview Park",0,201450,100330
+10,16SUM-All-Weekday-01,136249201,"10 Fairview Park",0,201476,100330
+10,16SUM-All-Weekday-01,136249301,"10 Fairview Park",0,201450,100330
+10,16SUM-All-Weekday-01,136249401,"10 Fairview Park",0,201473,100330
+10,16SUM-All-Weekday-01,136249501,"10 Fairview Park",0,201475,100330
+10,16SUM-All-Weekday-01,136249601,"10 Fairview Park",0,201450,100330
+10,16SUM-All-Weekday-01,136249701,"10 Fairview Park",0,201473,100330
+10,16SUM-All-Weekday-01,136249801,"10 Fairview Park",0,201475,100330
+10,16SUM-All-Weekday-01,136249901,"10 Fairview Park",0,201450,100330
+10,16SUM-All-Weekday-01,136250001,"10 Fairview Park",0,201473,100330
+10,16SUM-All-Weekday-01,136250101,"10 Fairview Park",0,201475,100330
+10,16SUM-All-Weekday-01,136250201,"10 Fairview Park",0,201450,100330
+10,16SUM-All-Weekday-01,136250301,"10 Fairview Park",0,201473,100330
+10,16SUM-All-Weekday-01,136250401,"10 Fairview Park",0,201455,100330
+10,16SUM-All-Weekday-01,136250501,"10 Fairview Park",0,201473,100330
+10,16SUM-All-Weekday-01,136250601,"10 Fairview Park",0,201455,100330
+10,16SUM-All-Weekday-01,136250701,"10 Fairview Park",0,201473,100330
+10,16SUM-All-Weekday-01,136250801,"10 Fairview Park",0,201455,100330
+10,16SUM-All-Weekday-01,136250901,"10 Fairview Park",0,201473,100330
+10,16SUM-All-Weekday-01,136251001,"10 Fairview Park",0,201447,100330
+10,16SUM-All-Weekday-01,136251101,"10 Fairview Park",0,201475,100330
+10,16SUM-All-Weekday-01,136251201,"10 Fairview Park",0,201450,100329
+10,16SUM-All-Weekday-01,136251301,"10 Fairview Park",0,201475,100329
+10,16SUM-All-Weekday-01,136251401,"10 Fairview Park",0,201335,100329
+10,16SUM-All-Weekday-01,136251501,"10 Fairview Park",0,201475,100329
+10,16SUM-All-Weekday-01,136251601,"10 Fairview Park",0,201473,100329
+10,16SUM-All-Weekday-01,136251701,"10 Fairview Park",0,201475,100329
+10,16SUM-All-Weekday-01,136251801,"10 Fairview Park",0,201473,100329
+10,16SUM-All-Weekday-01,136251901,"10 Fairview Park",0,201450,100329
+10,16SUM-All-Weekday-01,136252001,"10 Fairview Park",0,201332,100329
+10,16SUM-All-Weekday-01,136252101,"10 Conestoga College",1,201332,100332
+10,16SUM-All-Weekday-01,136252201,"10 Conestoga College",1,201332,100332
 10,16SUM-All-Weekday-01,136252301,"10 Conestoga College",1,201330,100332
 10,16SUM-All-Weekday-01,136252401,"10 Fairview Park",0,201332,100329
 10,16SUM-All-Weekday-01,136252501,"10 Conestoga College",1,201450,100333
-10,16SUM-All-Weekday-01,136252601,"10 Fairview Park",0,201450,100462
-9,16SUM-All-Weekday-01,136252701,"9 Lakeshore to WLU",1,201346,91208
+10,16SUM-All-Weekday-01,136252601,"10 Fairview Park",0,201450,100330
+9,16SUM-All-Weekday-01,136252701,"9 Lakeshore to WLU",1,201346,91279
 9,16SUM-All-Weekday-01,136252801,"9 Lakeshore to Conestoga Mall",0,201292,90154
 9,16SUM-All-Weekday-01,136252901,"9 Lakeshore to Conestoga Mall",0,203926,90154
 9,16SUM-All-Weekday-01,136253001,"9 Lakeshore to Conestoga Mall",0,201369,90154
@@ -2358,45 +2358,45 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,16SUM-All-Weekday-01,136257101,"9 Lakeshore to Conestoga Mall",0,201292,91238
 9,16SUM-All-Weekday-01,136257201,"9 Lakeshore to Conestoga Mall",0,201269,90154
 9,16SUM-All-Weekday-01,136257301,"9 Lakeshore to Conestoga Mall",0,201475,91239
-9,16SUM-All-Weekday-01,136257401,"9 University/King",1,201269,91240
+9,16SUM-All-Weekday-01,136257401,"9 University/King",1,201269,91282
 9,16SUM-All-Weekday-01,136257501,"9 Lakeshore to Conestoga Mall",0,201370,91241
 9,16SUM-All-Weekday-01,136257601,"9 Lakeshore to Conestoga Mall",0,201269,91242
-9,16SUM-All-Weekday-01,136258001,"9 Lakeshore to UW",1,203926,91243
-9,16SUM-All-Weekday-01,136258101,"9 Lakeshore to UW",1,201269,91244
-9,16SUM-All-Weekday-01,136258201,"9 Lakeshore to UW",1,201292,91245
-9,16SUM-All-Weekday-01,136258401,"9 Lakeshore to UW",1,201370,91246
-9,16SUM-All-Weekday-01,136258601,"9 Lakeshore to UW",1,201369,91247
-9,16SUM-All-Weekday-01,136258701,"9 Lakeshore to UW",1,201269,91248
-9,16SUM-All-Weekday-01,136259001,"9 Lakeshore to UW",1,201292,91249
-9,16SUM-All-Weekday-01,136259201,"9 Lakeshore to UW",1,201370,91250
-9,16SUM-All-Weekday-01,136259301,"9 Lakeshore to UW",1,201369,91251
-9,16SUM-All-Weekday-01,136259401,"9 Lakeshore to UW",1,203926,91252
-9,16SUM-All-Weekday-01,136259501,"9 Lakeshore to UW",1,201269,91253
-9,16SUM-All-Weekday-01,136259601,"9 Lakeshore to UW",1,201292,91254
-9,16SUM-All-Weekday-01,136259701,"9 Lakeshore to UW",1,201370,91255
-9,16SUM-All-Weekday-01,136259801,"9 Lakeshore to UW",1,201369,91256
-9,16SUM-All-Weekday-01,136259901,"9 Lakeshore to UW",1,203926,91257
-9,16SUM-All-Weekday-01,136260001,"9 Lakeshore to UW",1,201269,91258
-9,16SUM-All-Weekday-01,136260101,"9 Lakeshore to UW",1,201370,91259
-9,16SUM-All-Weekday-01,136260301,"9 Lakeshore to UW",1,201269,91260
-9,16SUM-All-Weekday-01,136260501,"9 Lakeshore to UW",1,201292,91261
-9,16SUM-All-Weekday-01,136260701,"9 Lakeshore to UW",1,201369,91262
-9,16SUM-All-Weekday-01,136260901,"9 Lakeshore to UW",1,201369,91263
-9,16SUM-All-Weekday-01,136261101,"9 Lakeshore to UW",1,203926,91264
-9,16SUM-All-Weekday-01,136261301,"9 Lakeshore to UW",1,201292,91265
-9,16SUM-All-Weekday-01,136261401,"9 Lakeshore to UW",1,201370,91266
-9,16SUM-All-Weekday-01,136261501,"9 Lakeshore to UW",1,201369,91267
-9,16SUM-All-Weekday-01,136261601,"9 Lakeshore to UW",1,203926,91268
-9,16SUM-All-Weekday-01,136261701,"9 Lakeshore to UW",1,201269,91269
-9,16SUM-All-Weekday-01,136261801,"9 Lakeshore to UW",1,201369,91270
-9,16SUM-All-Weekday-01,136261901,"9 Lakeshore to UW",1,203926,91271
-9,16SUM-All-Weekday-01,136262101,"9 Lakeshore to UW",1,201269,91272
-9,16SUM-All-Weekday-01,136262301,"9 Lakeshore to UW",1,201292,91273
-9,16SUM-All-Weekday-01,136262401,"9 Lakeshore to UW",1,203926,91274
-9,16SUM-All-Weekday-01,136262501,"9 Lakeshore to UW",1,201475,91275
-9,16SUM-All-Weekday-01,136262601,"9 Lakeshore to UW",1,201370,91276
-9,16SUM-All-Weekday-01,136262901,"9 Lakeshore to UW",1,201292,91277
-9,16SUM-All-Weekday-01,136263001,"9 Lakeshore to UW",1,201370,91278
+9,16SUM-All-Weekday-01,136258001,"9 Lakeshore to UW",1,203926,91280
+9,16SUM-All-Weekday-01,136258101,"9 Lakeshore to UW",1,201269,91280
+9,16SUM-All-Weekday-01,136258201,"9 Lakeshore to UW",1,201292,91280
+9,16SUM-All-Weekday-01,136258401,"9 Lakeshore to UW",1,201370,91280
+9,16SUM-All-Weekday-01,136258601,"9 Lakeshore to UW",1,201369,91280
+9,16SUM-All-Weekday-01,136258701,"9 Lakeshore to UW",1,201269,91280
+9,16SUM-All-Weekday-01,136259001,"9 Lakeshore to UW",1,201292,91280
+9,16SUM-All-Weekday-01,136259201,"9 Lakeshore to UW",1,201370,91280
+9,16SUM-All-Weekday-01,136259301,"9 Lakeshore to UW",1,201369,91280
+9,16SUM-All-Weekday-01,136259401,"9 Lakeshore to UW",1,203926,91280
+9,16SUM-All-Weekday-01,136259501,"9 Lakeshore to UW",1,201269,91280
+9,16SUM-All-Weekday-01,136259601,"9 Lakeshore to UW",1,201292,91280
+9,16SUM-All-Weekday-01,136259701,"9 Lakeshore to UW",1,201370,91280
+9,16SUM-All-Weekday-01,136259801,"9 Lakeshore to UW",1,201369,91280
+9,16SUM-All-Weekday-01,136259901,"9 Lakeshore to UW",1,203926,91280
+9,16SUM-All-Weekday-01,136260001,"9 Lakeshore to UW",1,201269,91280
+9,16SUM-All-Weekday-01,136260101,"9 Lakeshore to UW",1,201370,91280
+9,16SUM-All-Weekday-01,136260301,"9 Lakeshore to UW",1,201269,91280
+9,16SUM-All-Weekday-01,136260501,"9 Lakeshore to UW",1,201292,91280
+9,16SUM-All-Weekday-01,136260701,"9 Lakeshore to UW",1,201369,91280
+9,16SUM-All-Weekday-01,136260901,"9 Lakeshore to UW",1,201369,91280
+9,16SUM-All-Weekday-01,136261101,"9 Lakeshore to UW",1,203926,91280
+9,16SUM-All-Weekday-01,136261301,"9 Lakeshore to UW",1,201292,91280
+9,16SUM-All-Weekday-01,136261401,"9 Lakeshore to UW",1,201370,91280
+9,16SUM-All-Weekday-01,136261501,"9 Lakeshore to UW",1,201369,91280
+9,16SUM-All-Weekday-01,136261601,"9 Lakeshore to UW",1,203926,91280
+9,16SUM-All-Weekday-01,136261701,"9 Lakeshore to UW",1,201269,91280
+9,16SUM-All-Weekday-01,136261801,"9 Lakeshore to UW",1,201369,91280
+9,16SUM-All-Weekday-01,136261901,"9 Lakeshore to UW",1,203926,91280
+9,16SUM-All-Weekday-01,136262101,"9 Lakeshore to UW",1,201269,91280
+9,16SUM-All-Weekday-01,136262301,"9 Lakeshore to UW",1,201292,91280
+9,16SUM-All-Weekday-01,136262401,"9 Lakeshore to UW",1,203926,91280
+9,16SUM-All-Weekday-01,136262501,"9 Lakeshore to UW",1,201475,91280
+9,16SUM-All-Weekday-01,136262601,"9 Lakeshore to UW",1,201370,91280
+9,16SUM-All-Weekday-01,136262901,"9 Lakeshore to UW",1,201292,91280
+9,16SUM-All-Weekday-01,136263001,"9 Lakeshore to UW",1,201370,91281
 55,16SUM-All-Weekday-01,136267301,"55 St. Andrews",1,201402,550450
 55,16SUM-All-Weekday-01,136267401,"55 St. Andrews",1,201402,550450
 55,16SUM-All-Weekday-01,136267501,"55 St. Andrews",1,201402,550450
@@ -2823,42 +2823,42 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 16,16SUM-All-Weekday-01,139305301,"16 Forest Glen",1,201481,160016
 13,16SUM-All-Weekday-01,139306901,"13 Laurelwood to UW",0,201369,130025
 13,16SUM-All-Weekday-01,139307001,"13 Laurelwood to UW",0,201369,130025
-52,16SUM-All-Weekday-01,139322601,"52 Fairview Park via Preston Pkwy",0,201385,520001
-52,16SUM-All-Weekday-01,139322701,"52 Fairview Park via Preston Pkwy",0,201383,520001
-52,16SUM-All-Weekday-01,139322801,"52 Fairview Park via Preston Pkwy",0,201384,520001
-52,16SUM-All-Weekday-01,139322901,"52 Fairview Park via Preston Pkwy",0,201383,520001
-52,16SUM-All-Weekday-01,139323001,"52 Fairview Park via Preston Pkwy",0,201385,520001
-52,16SUM-All-Weekday-01,139323101,"52 Fairview Park via Preston Pkwy",0,201384,520001
-52,16SUM-All-Weekday-01,139323201,"52 Fairview Park via Preston Pkwy",0,201383,520001
-52,16SUM-All-Weekday-01,139323301,"52 Fairview Park via Preston Pkwy",0,201385,520001
-52,16SUM-All-Weekday-01,139323401,"52 Fairview Park via Preston Pkwy",0,201384,520001
-52,16SUM-All-Weekday-01,139323501,"52 Fairview Park via Preston Pkwy",0,201383,520001
-52,16SUM-All-Weekday-01,139323601,"52 Fairview Park via Preston Pkwy",0,201385,520001
-52,16SUM-All-Weekday-01,139323701,"52 Fairview Park via Preston Pkwy",0,201384,520001
-52,16SUM-All-Weekday-01,139323801,"52 Fairview Park via Preston Pkwy",0,201383,520001
-52,16SUM-All-Weekday-01,139323901,"52 Fairview Park via Preston Pkwy",0,201385,520001
-52,16SUM-All-Weekday-01,139324001,"52 Fairview Park via Preston Pkwy",0,201384,520001
-52,16SUM-All-Weekday-01,139324101,"52 Fairview Park via Preston Pkwy",0,201383,520001
-52,16SUM-All-Weekday-01,139324201,"52 Fairview Park via Preston Pkwy",0,201385,520001
-52,16SUM-All-Weekday-01,139324301,"52 Fairview Park via Preston Pkwy",0,201384,520001
-52,16SUM-All-Weekday-01,139324401,"52 Fairview Park via Preston Pkwy",0,201383,520001
-52,16SUM-All-Weekday-01,139324501,"52 Fairview Park via Preston Pkwy",0,201382,520001
-52,16SUM-All-Weekday-01,139324601,"52 Fairview Park via Preston Pkwy",0,201386,520001
-52,16SUM-All-Weekday-01,139324701,"52 Fairview Park via Preston Pkwy",0,201381,520001
-52,16SUM-All-Weekday-01,139324801,"52 Fairview Park via Preston Pkwy",0,203940,520001
-52,16SUM-All-Weekday-01,139324901,"52 Fairview Park via Preston Pkwy",0,201386,520001
-52,16SUM-All-Weekday-01,139325001,"52 Fairview Park via Preston Pkwy",0,201381,520001
-52,16SUM-All-Weekday-01,139325101,"52 Fairview Park via Preston Pkwy",0,201382,520001
-52,16SUM-All-Weekday-01,139325201,"52 Fairview Park via Preston Pkwy",0,201386,520001
-52,16SUM-All-Weekday-01,139325301,"52 Fairview Park via Preston Pkwy",0,201381,520001
-52,16SUM-All-Weekday-01,139325401,"52 Fairview Park via Preston Pkwy",0,201382,520001
-52,16SUM-All-Weekday-01,139325501,"52 Fairview Park via Preston Pkwy",0,201386,520001
-52,16SUM-All-Weekday-01,139325601,"52 Fairview Park via Preston Pkwy",0,201381,520001
-52,16SUM-All-Weekday-01,139325701,"52 Fairview Park via Preston Pkwy",0,201382,520001
-52,16SUM-All-Weekday-01,139325801,"52 Fairview Park via Preston Pkwy",0,201386,520001
-52,16SUM-All-Weekday-01,139325901,"52 Fairview Park via Preston Pkwy",0,201381,520001
-52,16SUM-All-Weekday-01,139326001,"52 Fairview Park via Preston Pkwy",0,201382,520001
-52,16SUM-All-Weekday-01,139326101,"52 Fairview Park via Preston Pkwy",0,201386,520001
+52,16SUM-All-Weekday-01,139322601,"52 Fairview Park via Preston Pkwy",0,201385,520013
+52,16SUM-All-Weekday-01,139322701,"52 Fairview Park via Preston Pkwy",0,201383,520013
+52,16SUM-All-Weekday-01,139322801,"52 Fairview Park via Preston Pkwy",0,201384,520013
+52,16SUM-All-Weekday-01,139322901,"52 Fairview Park via Preston Pkwy",0,201383,520013
+52,16SUM-All-Weekday-01,139323001,"52 Fairview Park via Preston Pkwy",0,201385,520013
+52,16SUM-All-Weekday-01,139323101,"52 Fairview Park via Preston Pkwy",0,201384,520013
+52,16SUM-All-Weekday-01,139323201,"52 Fairview Park via Preston Pkwy",0,201383,520013
+52,16SUM-All-Weekday-01,139323301,"52 Fairview Park via Preston Pkwy",0,201385,520013
+52,16SUM-All-Weekday-01,139323401,"52 Fairview Park via Preston Pkwy",0,201384,520013
+52,16SUM-All-Weekday-01,139323501,"52 Fairview Park via Preston Pkwy",0,201383,520013
+52,16SUM-All-Weekday-01,139323601,"52 Fairview Park via Preston Pkwy",0,201385,520013
+52,16SUM-All-Weekday-01,139323701,"52 Fairview Park via Preston Pkwy",0,201384,520013
+52,16SUM-All-Weekday-01,139323801,"52 Fairview Park via Preston Pkwy",0,201383,520013
+52,16SUM-All-Weekday-01,139323901,"52 Fairview Park via Preston Pkwy",0,201385,520013
+52,16SUM-All-Weekday-01,139324001,"52 Fairview Park via Preston Pkwy",0,201384,520013
+52,16SUM-All-Weekday-01,139324101,"52 Fairview Park via Preston Pkwy",0,201383,520013
+52,16SUM-All-Weekday-01,139324201,"52 Fairview Park via Preston Pkwy",0,201385,520013
+52,16SUM-All-Weekday-01,139324301,"52 Fairview Park via Preston Pkwy",0,201384,520013
+52,16SUM-All-Weekday-01,139324401,"52 Fairview Park via Preston Pkwy",0,201383,520013
+52,16SUM-All-Weekday-01,139324501,"52 Fairview Park via Preston Pkwy",0,201382,520013
+52,16SUM-All-Weekday-01,139324601,"52 Fairview Park via Preston Pkwy",0,201386,520013
+52,16SUM-All-Weekday-01,139324701,"52 Fairview Park via Preston Pkwy",0,201381,520013
+52,16SUM-All-Weekday-01,139324801,"52 Fairview Park via Preston Pkwy",0,203940,520013
+52,16SUM-All-Weekday-01,139324901,"52 Fairview Park via Preston Pkwy",0,201386,520013
+52,16SUM-All-Weekday-01,139325001,"52 Fairview Park via Preston Pkwy",0,201381,520013
+52,16SUM-All-Weekday-01,139325101,"52 Fairview Park via Preston Pkwy",0,201382,520013
+52,16SUM-All-Weekday-01,139325201,"52 Fairview Park via Preston Pkwy",0,201386,520013
+52,16SUM-All-Weekday-01,139325301,"52 Fairview Park via Preston Pkwy",0,201381,520013
+52,16SUM-All-Weekday-01,139325401,"52 Fairview Park via Preston Pkwy",0,201382,520013
+52,16SUM-All-Weekday-01,139325501,"52 Fairview Park via Preston Pkwy",0,201386,520013
+52,16SUM-All-Weekday-01,139325601,"52 Fairview Park via Preston Pkwy",0,201381,520013
+52,16SUM-All-Weekday-01,139325701,"52 Fairview Park via Preston Pkwy",0,201382,520013
+52,16SUM-All-Weekday-01,139325801,"52 Fairview Park via Preston Pkwy",0,201386,520013
+52,16SUM-All-Weekday-01,139325901,"52 Fairview Park via Preston Pkwy",0,201381,520013
+52,16SUM-All-Weekday-01,139326001,"52 Fairview Park via Preston Pkwy",0,201382,520013
+52,16SUM-All-Weekday-01,139326101,"52 Fairview Park via Preston Pkwy",0,201386,520013
 52,16SUM-All-Weekday-01,139326201,"52 Ainslie Terminal via Preston Pkwy",1,201382,520002
 52,16SUM-All-Weekday-01,139326301,"52 Ainslie Terminal via Preston Pkwy",1,201382,520003
 52,16SUM-All-Weekday-01,139326401,"52 Ainslie Terminal via Preston Pkwy",1,201381,520003
@@ -2872,29 +2872,29 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,16SUM-All-Weekday-01,139327201,"52 Ainslie Terminal via Preston Pkwy",1,201386,520003
 52,16SUM-All-Weekday-01,139327301,"52 Ainslie Terminal via Preston Pkwy",1,201381,520003
 52,16SUM-All-Weekday-01,139327401,"52 Ainslie Terminal via Preston Pkwy",1,201386,520003
-52,16SUM-All-Weekday-01,139327501,"52 Fairview Park via Cherry Blossom",0,201382,520004
-52,16SUM-All-Weekday-01,139327601,"52 Fairview Park via Cherry Blossom",0,201386,520004
-52,16SUM-All-Weekday-01,139327701,"52 Fairview Park via Cherry Blossom",0,201381,520004
-52,16SUM-All-Weekday-01,139327801,"52 Fairview Park via Cherry Blossom",0,201382,520004
-52,16SUM-All-Weekday-01,139327901,"52 Fairview Park via Cherry Blossom",0,201386,520004
-52,16SUM-All-Weekday-01,139328001,"52 Fairview Park via Cherry Blossom",0,201381,520004
-52,16SUM-All-Weekday-01,139328101,"52 Fairview Park via Cherry Blossom",0,201382,520004
-52,16SUM-All-Weekday-01,139328201,"52 Fairview Park via Cherry Blossom",0,201386,520004
-52,16SUM-All-Weekday-01,139328301,"52 Fairview Park via Cherry Blossom",0,201381,520004
-52,16SUM-All-Weekday-01,139328401,"52 Fairview Park via Cherry Blossom",0,201382,520004
-52,16SUM-All-Weekday-01,139328501,"52 Fairview Park via Cherry Blossom",0,201386,520004
-52,16SUM-All-Weekday-01,139328601,"52 Fairview Park via Cherry Blossom",0,201381,520004
-52,16SUM-All-Weekday-01,139328701,"52 Fairview Park via Cherry Blossom",0,201382,520004
-52,16SUM-All-Weekday-01,139328801,"52 Fairview Park via Cherry Blossom",0,201386,520004
-52,16SUM-All-Weekday-01,139328901,"52 Fairview Park via Cherry Blossom",0,201381,520004
-52,16SUM-All-Weekday-01,139329001,"52 Fairview Park via Cherry Blossom",0,201382,520004
-52,16SUM-All-Weekday-01,139329101,"52 Fairview Park via Cherry Blossom",0,201386,520004
-52,16SUM-All-Weekday-01,139329201,"52 Fairview Park via Cherry Blossom",0,201381,520004
-52,16SUM-All-Weekday-01,139329301,"52 Fairview Park via Cherry Blossom",0,203940,520004
-52,16SUM-All-Weekday-01,139329401,"52 Fairview Park via Cherry Blossom",0,201385,520004
-52,16SUM-All-Weekday-01,139329501,"52 Fairview Park via Cherry Blossom",0,201384,520004
-52,16SUM-All-Weekday-01,139329601,"52 Fairview Park via Cherry Blossom",0,201383,520004
-52,16SUM-All-Weekday-01,139329701,"52 Fairview Park via Cherry Blossom",0,201382,520004
+52,16SUM-All-Weekday-01,139327501,"52 Fairview Park via Cherry Blossom",0,201382,520014
+52,16SUM-All-Weekday-01,139327601,"52 Fairview Park via Cherry Blossom",0,201386,520014
+52,16SUM-All-Weekday-01,139327701,"52 Fairview Park via Cherry Blossom",0,201381,520014
+52,16SUM-All-Weekday-01,139327801,"52 Fairview Park via Cherry Blossom",0,201382,520014
+52,16SUM-All-Weekday-01,139327901,"52 Fairview Park via Cherry Blossom",0,201386,520014
+52,16SUM-All-Weekday-01,139328001,"52 Fairview Park via Cherry Blossom",0,201381,520014
+52,16SUM-All-Weekday-01,139328101,"52 Fairview Park via Cherry Blossom",0,201382,520014
+52,16SUM-All-Weekday-01,139328201,"52 Fairview Park via Cherry Blossom",0,201386,520014
+52,16SUM-All-Weekday-01,139328301,"52 Fairview Park via Cherry Blossom",0,201381,520014
+52,16SUM-All-Weekday-01,139328401,"52 Fairview Park via Cherry Blossom",0,201382,520014
+52,16SUM-All-Weekday-01,139328501,"52 Fairview Park via Cherry Blossom",0,201386,520014
+52,16SUM-All-Weekday-01,139328601,"52 Fairview Park via Cherry Blossom",0,201381,520014
+52,16SUM-All-Weekday-01,139328701,"52 Fairview Park via Cherry Blossom",0,201382,520014
+52,16SUM-All-Weekday-01,139328801,"52 Fairview Park via Cherry Blossom",0,201386,520014
+52,16SUM-All-Weekday-01,139328901,"52 Fairview Park via Cherry Blossom",0,201381,520014
+52,16SUM-All-Weekday-01,139329001,"52 Fairview Park via Cherry Blossom",0,201382,520014
+52,16SUM-All-Weekday-01,139329101,"52 Fairview Park via Cherry Blossom",0,201386,520014
+52,16SUM-All-Weekday-01,139329201,"52 Fairview Park via Cherry Blossom",0,201381,520014
+52,16SUM-All-Weekday-01,139329301,"52 Fairview Park via Cherry Blossom",0,203940,520014
+52,16SUM-All-Weekday-01,139329401,"52 Fairview Park via Cherry Blossom",0,201385,520014
+52,16SUM-All-Weekday-01,139329501,"52 Fairview Park via Cherry Blossom",0,201384,520014
+52,16SUM-All-Weekday-01,139329601,"52 Fairview Park via Cherry Blossom",0,201383,520014
+52,16SUM-All-Weekday-01,139329701,"52 Fairview Park via Cherry Blossom",0,201382,520014
 52,16SUM-All-Weekday-01,139329801,"52 Ainslie Terminal via Preston Pkwy",1,201386,520005
 52,16SUM-All-Weekday-01,139329901,"52 Ainslie Terminal via Preston Pkwy",1,201382,520003
 52,16SUM-All-Weekday-01,139330001,"52 Fairview Park via Preston Pkwy",0,201386,520006
@@ -2944,7 +2944,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,16SUM-All-Weekday-01,139334401,"52 Ainslie Terminal via Preston Pkwy",1,201382,520003
 52,16SUM-All-Weekday-01,139334501,"52 Ainslie Terminal via Preston Pkwy",1,201386,520003
 52,16SUM-All-Weekday-01,139334601,"52 Ainslie Terminal via Preston Pkwy",1,201381,520003
-52,16SUM-All-Weekday-01,139334701,"52 Fairview Park via Cherry Blossom",0,201381,520004
+52,16SUM-All-Weekday-01,139334701,"52 Fairview Park via Cherry Blossom",0,201381,520014
 61,16SUM-All-Weekday-01,139334801,"61 Cambridge Centre",0,201306,610006
 61,16SUM-All-Weekday-01,139334901,"61 Cambridge Centre",0,201439,610006
 61,16SUM-All-Weekday-01,139335001,"61 Cambridge Centre",0,201306,610006
@@ -3003,15 +3003,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 67,16SUM-All-Weekday-01,139403101,"67 Lovell Special",0,203960,670030
 20,16SUM-All-Weekday-01,139403801,"20 Victoria-Frederick to Stanley Park",0,201390,200018
 20,16SUM-All-Weekday-01,139403901,"20 Victoria-Frederick to Stanley Park",0,201388,200018
-110,16SUM-All-Weekday-01,139404901,"110 Conestoga College Express",1,203996,1100022
-110,16SUM-All-Weekday-01,139405001,"110 Conestoga College Express",1,203996,1100023
-110,16SUM-All-Weekday-01,139405101,"110 Conestoga College Express",1,203996,1100024
-110,16SUM-All-Weekday-01,139405201,"110 Fairview Park Express",0,203996,1100025
-110,16SUM-All-Weekday-01,139405301,"110 Fairview Park Express",0,203996,1100026
-110,16SUM-All-Weekday-01,139405401,"110 Fairview Park Express",0,203997,1100027
-110,16SUM-All-Weekday-01,139405501,"110 Fairview Park Express",0,203997,1100028
-110,16SUM-All-Weekday-01,139405601,"110 Fairview Park Express",0,203997,1100029
-110,16SUM-All-Weekday-01,139405701,"110 Fairview Park Express",0,203997,1100030
+110,16SUM-All-Weekday-01,139404901,"110 Conestoga College Express",1,203996,1100007
+110,16SUM-All-Weekday-01,139405001,"110 Conestoga College Express",1,203996,1100007
+110,16SUM-All-Weekday-01,139405101,"110 Conestoga College Express",1,203996,1100007
+110,16SUM-All-Weekday-01,139405201,"110 Fairview Park Express",0,203996,1100011
+110,16SUM-All-Weekday-01,139405301,"110 Fairview Park Express",0,203996,1100011
+110,16SUM-All-Weekday-01,139405401,"110 Fairview Park Express",0,203997,1100011
+110,16SUM-All-Weekday-01,139405501,"110 Fairview Park Express",0,203997,1100011
+110,16SUM-All-Weekday-01,139405601,"110 Fairview Park Express",0,203997,1100011
+110,16SUM-All-Weekday-01,139405701,"110 Fairview Park Express",0,203997,1100011
 5,16SUM-All-Weekday-01,139406801,"5 Erb to Bridgeport",0,201288,50032
 5,16SUM-All-Weekday-01,139406901,"5 Erb to Bridgeport",0,204002,50032
 5,16SUM-All-Weekday-01,139407001,"5 Erb to Bridgeport",0,201288,50032
@@ -4076,41 +4076,41 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,16SUM-All-Saturday-01,136494251,"9 Lakeshore to Conestoga Mall",0,201602,91170
 9,16SUM-All-Saturday-01,136494351,"9 Lakeshore to Conestoga Mall",0,201600,91171
 9,16SUM-All-Saturday-01,136494451,"9 Lakeshore to Conestoga Mall",0,201602,91172
-9,16SUM-All-Saturday-01,136494551,"9 Lakeshore to UW",1,201602,91173
-9,16SUM-All-Saturday-01,136494651,"9 Lakeshore to UW",1,201594,91174
-9,16SUM-All-Saturday-01,136494751,"9 Lakeshore to UW",1,201593,91175
-9,16SUM-All-Saturday-01,136494851,"9 Lakeshore to UW",1,201650,91176
-9,16SUM-All-Saturday-01,136494951,"9 Lakeshore to UW",1,201591,91177
-9,16SUM-All-Saturday-01,136495051,"9 Lakeshore to UW",1,201592,91178
-9,16SUM-All-Saturday-01,136495151,"9 Lakeshore to UW",1,201601,91179
-9,16SUM-All-Saturday-01,136495251,"9 Lakeshore to UW",1,201599,91180
-9,16SUM-All-Saturday-01,136495351,"9 Lakeshore to UW",1,201594,91181
-9,16SUM-All-Saturday-01,136495451,"9 Lakeshore to UW",1,201590,91182
-9,16SUM-All-Saturday-01,136495551,"9 Lakeshore to UW",1,201593,91183
-9,16SUM-All-Saturday-01,136495651,"9 Lakeshore to UW",1,201650,91184
-9,16SUM-All-Saturday-01,136495751,"9 Lakeshore to UW",1,201591,91185
-9,16SUM-All-Saturday-01,136495851,"9 Lakeshore to UW",1,201592,91186
-9,16SUM-All-Saturday-01,136495951,"9 Lakeshore to UW",1,201601,91187
-9,16SUM-All-Saturday-01,136496051,"9 Lakeshore to UW",1,201599,91188
-9,16SUM-All-Saturday-01,136496151,"9 Lakeshore to UW",1,201594,91189
-9,16SUM-All-Saturday-01,136496251,"9 Lakeshore to UW",1,201590,91190
-9,16SUM-All-Saturday-01,136496351,"9 Lakeshore to UW",1,201593,91191
-9,16SUM-All-Saturday-01,136496451,"9 Lakeshore to UW",1,201650,91192
-9,16SUM-All-Saturday-01,136496551,"9 Lakeshore to UW",1,201591,91193
-9,16SUM-All-Saturday-01,136496651,"9 Lakeshore to UW",1,201592,91194
-9,16SUM-All-Saturday-01,136496751,"9 Lakeshore to UW",1,201601,91195
-9,16SUM-All-Saturday-01,136496851,"9 Lakeshore to UW",1,201599,91196
-9,16SUM-All-Saturday-01,136496951,"9 Lakeshore to UW",1,201590,91197
-9,16SUM-All-Saturday-01,136497051,"9 Lakeshore to UW",1,201650,91198
-9,16SUM-All-Saturday-01,136497151,"9 Lakeshore to UW",1,201590,91199
-9,16SUM-All-Saturday-01,136497251,"9 Lakeshore to UW",1,201599,91200
-9,16SUM-All-Saturday-01,136497351,"9 Lakeshore to UW",1,201601,91201
-9,16SUM-All-Saturday-01,136497451,"9 Lakeshore to UW",1,201600,91202
-9,16SUM-All-Saturday-01,136497551,"9 Lakeshore to UW",1,201602,91203
-9,16SUM-All-Saturday-01,136497651,"9 Lakeshore to UW",1,201600,91204
-9,16SUM-All-Saturday-01,136497751,"9 Lakeshore to UW",1,201602,91205
-9,16SUM-All-Saturday-01,136497851,"9 Lakeshore to UW",1,201600,91206
-9,16SUM-All-Saturday-01,136497951,"9 Lakeshore to UW",1,201602,91207
+9,16SUM-All-Saturday-01,136494551,"9 Lakeshore to UW",1,201602,91282
+9,16SUM-All-Saturday-01,136494651,"9 Lakeshore to UW",1,201594,91280
+9,16SUM-All-Saturday-01,136494751,"9 Lakeshore to UW",1,201593,91280
+9,16SUM-All-Saturday-01,136494851,"9 Lakeshore to UW",1,201650,91280
+9,16SUM-All-Saturday-01,136494951,"9 Lakeshore to UW",1,201591,91280
+9,16SUM-All-Saturday-01,136495051,"9 Lakeshore to UW",1,201592,91280
+9,16SUM-All-Saturday-01,136495151,"9 Lakeshore to UW",1,201601,91280
+9,16SUM-All-Saturday-01,136495251,"9 Lakeshore to UW",1,201599,91280
+9,16SUM-All-Saturday-01,136495351,"9 Lakeshore to UW",1,201594,91280
+9,16SUM-All-Saturday-01,136495451,"9 Lakeshore to UW",1,201590,91280
+9,16SUM-All-Saturday-01,136495551,"9 Lakeshore to UW",1,201593,91280
+9,16SUM-All-Saturday-01,136495651,"9 Lakeshore to UW",1,201650,91280
+9,16SUM-All-Saturday-01,136495751,"9 Lakeshore to UW",1,201591,91280
+9,16SUM-All-Saturday-01,136495851,"9 Lakeshore to UW",1,201592,91280
+9,16SUM-All-Saturday-01,136495951,"9 Lakeshore to UW",1,201601,91280
+9,16SUM-All-Saturday-01,136496051,"9 Lakeshore to UW",1,201599,91280
+9,16SUM-All-Saturday-01,136496151,"9 Lakeshore to UW",1,201594,91280
+9,16SUM-All-Saturday-01,136496251,"9 Lakeshore to UW",1,201590,91280
+9,16SUM-All-Saturday-01,136496351,"9 Lakeshore to UW",1,201593,91280
+9,16SUM-All-Saturday-01,136496451,"9 Lakeshore to UW",1,201650,91280
+9,16SUM-All-Saturday-01,136496551,"9 Lakeshore to UW",1,201591,91280
+9,16SUM-All-Saturday-01,136496651,"9 Lakeshore to UW",1,201592,91280
+9,16SUM-All-Saturday-01,136496751,"9 Lakeshore to UW",1,201601,91280
+9,16SUM-All-Saturday-01,136496851,"9 Lakeshore to UW",1,201599,91280
+9,16SUM-All-Saturday-01,136496951,"9 Lakeshore to UW",1,201590,91280
+9,16SUM-All-Saturday-01,136497051,"9 Lakeshore to UW",1,201650,91280
+9,16SUM-All-Saturday-01,136497151,"9 Lakeshore to UW",1,201590,91280
+9,16SUM-All-Saturday-01,136497251,"9 Lakeshore to UW",1,201599,91280
+9,16SUM-All-Saturday-01,136497351,"9 Lakeshore to UW",1,201601,91280
+9,16SUM-All-Saturday-01,136497451,"9 Lakeshore to UW",1,201600,91280
+9,16SUM-All-Saturday-01,136497551,"9 Lakeshore to UW",1,201602,91280
+9,16SUM-All-Saturday-01,136497651,"9 Lakeshore to UW",1,201600,91280
+9,16SUM-All-Saturday-01,136497751,"9 Lakeshore to UW",1,201602,91280
+9,16SUM-All-Saturday-01,136497851,"9 Lakeshore to UW",1,201600,91280
+9,16SUM-All-Saturday-01,136497951,"9 Lakeshore to UW",1,201602,91280
 202,16SUM-All-Saturday-01,136498051,"202 iXpress The Boardwalk",0,201592,2020596
 202,16SUM-All-Saturday-01,136498151,"202 iXpress The Boardwalk",0,201591,2020596
 202,16SUM-All-Saturday-01,136498251,"202 iXpress The Boardwalk",0,201650,2020596
@@ -4621,56 +4621,56 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 54,16SUM-All-Saturday-01,136549151,"54 Lisbon Pines",0,201582,540176
 54,16SUM-All-Saturday-01,136549251,"54 Lisbon Pines",0,201582,540176
 54,16SUM-All-Saturday-01,136549351,"54 Lisbon Pines",0,201582,540176
-10,16SUM-All-Saturday-01,136556751,"10 Conestoga College",1,201607,100335
-10,16SUM-All-Saturday-01,136556851,"10 Conestoga College",1,201607,100335
-10,16SUM-All-Saturday-01,136556951,"10 Fairview Park",0,201607,100457
-10,16SUM-All-Saturday-01,136557051,"10 Fairview Park",0,201607,100456
-10,16SUM-All-Saturday-01,136557151,"10 Fairview Park",0,201581,100455
-10,16SUM-All-Saturday-01,136557251,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136557351,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136557451,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136557551,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136557651,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136557751,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136557851,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136557951,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136558051,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136558151,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136558251,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136558351,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136558451,"10 Conestoga College",1,201586,100335
-10,16SUM-All-Saturday-01,136558551,"10 Conestoga College",1,201573,100335
-10,16SUM-All-Saturday-01,136558651,"10 Conestoga College",1,201587,100335
+10,16SUM-All-Saturday-01,136556751,"10 Conestoga College",1,201607,100332
+10,16SUM-All-Saturday-01,136556851,"10 Conestoga College",1,201607,100332
+10,16SUM-All-Saturday-01,136556951,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136557051,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136557151,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136557251,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136557351,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136557451,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136557551,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136557651,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136557751,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136557851,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136557951,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136558051,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136558151,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136558251,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136558351,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136558451,"10 Conestoga College",1,201586,100332
+10,16SUM-All-Saturday-01,136558551,"10 Conestoga College",1,201573,100332
+10,16SUM-All-Saturday-01,136558651,"10 Conestoga College",1,201587,100332
 10,16SUM-All-Saturday-01,136558751,"10 Conestoga College",1,201586,100332
-10,16SUM-All-Saturday-01,136558851,"10 Conestoga College",1,201581,100335
-10,16SUM-All-Saturday-01,136558951,"10 Fairview Park",0,201581,100454
-10,16SUM-All-Saturday-01,136559051,"10 Fairview Park",0,201581,100453
-10,16SUM-All-Saturday-01,136559151,"10 Fairview Park",0,201581,100452
-10,16SUM-All-Saturday-01,136559251,"10 Fairview Park",0,201581,100451
-10,16SUM-All-Saturday-01,136559351,"10 Fairview Park",0,201581,100450
-10,16SUM-All-Saturday-01,136559451,"10 Fairview Park",0,201581,100449
-10,16SUM-All-Saturday-01,136559551,"10 Fairview Park",0,201581,100448
-10,16SUM-All-Saturday-01,136559651,"10 Fairview Park",0,201581,100447
-10,16SUM-All-Saturday-01,136559751,"10 Fairview Park",0,201581,100446
-10,16SUM-All-Saturday-01,136559851,"10 Fairview Park",0,201581,100445
-10,16SUM-All-Saturday-01,136559951,"10 Fairview Park",0,201581,100444
-10,16SUM-All-Saturday-01,136560051,"10 Fairview Park",0,201581,100443
-10,16SUM-All-Saturday-01,136560151,"10 Fairview Park",0,201581,100442
-10,16SUM-All-Saturday-01,136560251,"10 Fairview Park",0,201586,100441
-10,16SUM-All-Saturday-01,136560351,"10 Fairview Park",0,201573,100440
-10,16SUM-All-Saturday-01,136560451,"10 Fairview Park",0,201587,100439
-10,16SUM-All-Saturday-01,136560551,"10 Fairview Park",0,201607,100438
-10,16SUM-All-Saturday-01,136560651,"10 Fairview Park",0,201607,100437
-10,16SUM-All-Saturday-01,136560751,"10 Conestoga College",1,201607,100335
-10,16SUM-All-Saturday-01,136560851,"10 Fairview Park",0,201607,100458
-10,16SUM-All-Saturday-01,136560951,"10 Fairview Park",0,201607,100459
-10,16SUM-All-Saturday-01,136561051,"10 Fairview Park",0,201607,100460
-10,16SUM-All-Saturday-01,136561151,"10 Fairview Park",0,201607,100461
-10,16SUM-All-Saturday-01,136561251,"10 Conestoga College",1,201607,100335
-10,16SUM-All-Saturday-01,136561351,"10 Conestoga College",1,201607,100335
-10,16SUM-All-Saturday-01,136561451,"10 Conestoga College",1,201607,100335
-10,16SUM-All-Saturday-01,136561551,"10 Conestoga College",1,201607,100335
-10,16SUM-All-Saturday-01,136561651,"10 Conestoga College",1,201607,100335
+10,16SUM-All-Saturday-01,136558851,"10 Conestoga College",1,201581,100332
+10,16SUM-All-Saturday-01,136558951,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559051,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559151,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559251,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559351,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559451,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559551,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559651,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559751,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559851,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136559951,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136560051,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136560151,"10 Fairview Park",0,201581,100329
+10,16SUM-All-Saturday-01,136560251,"10 Fairview Park",0,201586,100329
+10,16SUM-All-Saturday-01,136560351,"10 Fairview Park",0,201573,100329
+10,16SUM-All-Saturday-01,136560451,"10 Fairview Park",0,201587,100329
+10,16SUM-All-Saturday-01,136560551,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136560651,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136560751,"10 Conestoga College",1,201607,100332
+10,16SUM-All-Saturday-01,136560851,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136560951,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136561051,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136561151,"10 Fairview Park",0,201607,100329
+10,16SUM-All-Saturday-01,136561251,"10 Conestoga College",1,201607,100332
+10,16SUM-All-Saturday-01,136561351,"10 Conestoga College",1,201607,100332
+10,16SUM-All-Saturday-01,136561451,"10 Conestoga College",1,201607,100332
+10,16SUM-All-Saturday-01,136561551,"10 Conestoga College",1,201607,100332
+10,16SUM-All-Saturday-01,136561651,"10 Conestoga College",1,201607,100332
 22,16SUM-All-Saturday-01,136561751,"22 Laurentian West to Forest Glen",1,201604,220095
 22,16SUM-All-Saturday-01,136561851,"22 Laurentian West to Forest Glen",1,201603,220095
 22,16SUM-All-Saturday-01,136561951,"22 Laurentian West to Forest Glen",1,201664,220095
@@ -5118,7 +5118,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,16SUM-All-Saturday-01,139320951,"52 Ainslie Terminal via Preston Pkwy",1,201575,520003
 52,16SUM-All-Saturday-01,139321051,"52 Ainslie Terminal via Preston Pkwy",1,201576,520003
 52,16SUM-All-Saturday-01,139321151,"52 Ainslie Terminal via Preston Pkwy",1,201577,520002
-52,16SUM-All-Saturday-01,139321251,"52 Fairview Park via Preston Pkwy",0,201576,520001
+52,16SUM-All-Saturday-01,139321251,"52 Fairview Park via Preston Pkwy",0,201576,520013
 52,16SUM-All-Saturday-01,139321351,"52 Fairview Park via Preston Pkwy",0,201575,520001
 52,16SUM-All-Saturday-01,139321451,"52 Fairview Park via Preston Pkwy",0,201575,520001
 52,16SUM-All-Saturday-01,139321551,"52 Fairview Park via Preston Pkwy",0,201575,520001
@@ -5855,7 +5855,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 29,16SUM-All-Sunday-01,136690661,"29 Keats Way to The Boardwalk",1,201681,290017
 9,16SUM-All-Sunday-01,136690761,"9 Lakeshore to Conestoga Mall",0,201706,90741
 9,16SUM-All-Sunday-01,136690861,"9 Lakeshore to Conestoga Mall",0,201727,90742
-9,16SUM-All-Sunday-01,136690961,"9 Lakeshore to UW",1,201727,90743
+9,16SUM-All-Sunday-01,136690961,"9 Lakeshore to UW",1,201727,91279
 9,16SUM-All-Sunday-01,136691061,"9 Lakeshore to Conestoga Mall",0,201707,90744
 9,16SUM-All-Sunday-01,136691161,"9 Lakeshore to Conestoga Mall",0,201703,90745
 9,16SUM-All-Sunday-01,136691261,"9 Lakeshore to Conestoga Mall",0,201706,90746
@@ -5876,27 +5876,27 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,16SUM-All-Sunday-01,136692761,"9 Lakeshore to Conestoga Mall",0,201723,90761
 9,16SUM-All-Sunday-01,136692861,"9 Lakeshore to Conestoga Mall",0,201747,90762
 9,16SUM-All-Sunday-01,136692961,"9 Lakeshore to Conestoga Mall",0,201727,90154
-9,16SUM-All-Sunday-01,136693061,"9 Lakeshore to UW",1,201747,90763
-9,16SUM-All-Sunday-01,136693161,"9 Lakeshore to UW",1,201747,90764
-9,16SUM-All-Sunday-01,136693261,"9 Lakeshore to UW",1,201727,90765
-9,16SUM-All-Sunday-01,136693361,"9 Lakeshore to UW",1,201747,90766
-9,16SUM-All-Sunday-01,136693461,"9 Lakeshore to UW",1,201703,90767
-9,16SUM-All-Sunday-01,136693561,"9 Lakeshore to UW",1,201706,90768
-9,16SUM-All-Sunday-01,136693661,"9 Lakeshore to UW",1,201707,90769
-9,16SUM-All-Sunday-01,136693761,"9 Lakeshore to UW",1,201703,90770
-9,16SUM-All-Sunday-01,136693861,"9 Lakeshore to UW",1,201706,90771
-9,16SUM-All-Sunday-01,136693961,"9 Lakeshore to UW",1,201707,90772
-9,16SUM-All-Sunday-01,136694061,"9 Lakeshore to UW",1,201723,90773
-9,16SUM-All-Sunday-01,136694161,"9 Lakeshore to UW",1,201703,90774
-9,16SUM-All-Sunday-01,136694261,"9 Lakeshore to UW",1,201706,90775
-9,16SUM-All-Sunday-01,136694361,"9 Lakeshore to UW",1,201707,90776
-9,16SUM-All-Sunday-01,136694461,"9 Lakeshore to UW",1,201706,90777
-9,16SUM-All-Sunday-01,136694561,"9 Lakeshore to UW",1,201723,90778
-9,16SUM-All-Sunday-01,136694661,"9 Lakeshore to UW",1,201727,90779
-9,16SUM-All-Sunday-01,136694761,"9 Lakeshore to UW",1,201723,90780
-9,16SUM-All-Sunday-01,136694861,"9 Lakeshore to UW",1,201727,90781
-9,16SUM-All-Sunday-01,136694961,"9 Lakeshore to UW",1,201703,90782
-9,16SUM-All-Sunday-01,136695061,"9 Lakeshore to UW",1,201747,90783
+9,16SUM-All-Sunday-01,136693061,"9 Lakeshore to UW",1,201747,91280
+9,16SUM-All-Sunday-01,136693161,"9 Lakeshore to UW",1,201747,91280
+9,16SUM-All-Sunday-01,136693261,"9 Lakeshore to UW",1,201727,91280
+9,16SUM-All-Sunday-01,136693361,"9 Lakeshore to UW",1,201747,91280
+9,16SUM-All-Sunday-01,136693461,"9 Lakeshore to UW",1,201703,91280
+9,16SUM-All-Sunday-01,136693561,"9 Lakeshore to UW",1,201706,91280
+9,16SUM-All-Sunday-01,136693661,"9 Lakeshore to UW",1,201707,91280
+9,16SUM-All-Sunday-01,136693761,"9 Lakeshore to UW",1,201703,91280
+9,16SUM-All-Sunday-01,136693861,"9 Lakeshore to UW",1,201706,91280
+9,16SUM-All-Sunday-01,136693961,"9 Lakeshore to UW",1,201707,91280
+9,16SUM-All-Sunday-01,136694061,"9 Lakeshore to UW",1,201723,91280
+9,16SUM-All-Sunday-01,136694161,"9 Lakeshore to UW",1,201703,91280
+9,16SUM-All-Sunday-01,136694261,"9 Lakeshore to UW",1,201706,91280
+9,16SUM-All-Sunday-01,136694361,"9 Lakeshore to UW",1,201707,91280
+9,16SUM-All-Sunday-01,136694461,"9 Lakeshore to UW",1,201706,91280
+9,16SUM-All-Sunday-01,136694561,"9 Lakeshore to UW",1,201723,91280
+9,16SUM-All-Sunday-01,136694661,"9 Lakeshore to UW",1,201727,91280
+9,16SUM-All-Sunday-01,136694761,"9 Lakeshore to UW",1,201723,91280
+9,16SUM-All-Sunday-01,136694861,"9 Lakeshore to UW",1,201727,91280
+9,16SUM-All-Sunday-01,136694961,"9 Lakeshore to UW",1,201703,91280
+9,16SUM-All-Sunday-01,136695061,"9 Lakeshore to UW",1,201747,91281
 6,16SUM-All-Sunday-01,136697461,"6 Bridge to Downtown",1,201693,60021
 6,16SUM-All-Sunday-01,136697561,"6 Bridge to Downtown",1,201693,60021
 6,16SUM-All-Sunday-01,136697661,"6 Bridge to Downtown",1,201693,60021
@@ -6136,38 +6136,38 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 27,16SUM-All-Sunday-01,136730961,"27 Chicopee",1,201722,270004
 27,16SUM-All-Sunday-01,136731061,"27 Chicopee",1,201713,270004
 27,16SUM-All-Sunday-01,136731161,"27 Chicopee",1,201722,270004
-10,16SUM-All-Sunday-01,136731261,"10 Conestoga College",1,201720,100335
-10,16SUM-All-Sunday-01,136731361,"10 Conestoga College",1,201715,100335
-10,16SUM-All-Sunday-01,136731461,"10 Conestoga College",1,201711,100335
-10,16SUM-All-Sunday-01,136731561,"10 Conestoga College",1,201711,100335
-10,16SUM-All-Sunday-01,136731661,"10 Conestoga College",1,201711,100335
-10,16SUM-All-Sunday-01,136731761,"10 Conestoga College",1,201716,100335
-10,16SUM-All-Sunday-01,136731861,"10 Conestoga College",1,201716,100335
-10,16SUM-All-Sunday-01,136731961,"10 Conestoga College",1,201720,100335
-10,16SUM-All-Sunday-01,136732061,"10 Conestoga College",1,201715,100335
-10,16SUM-All-Sunday-01,136732161,"10 Conestoga College",1,201720,100335
-10,16SUM-All-Sunday-01,136732261,"10 Conestoga College",1,201721,100335
-10,16SUM-All-Sunday-01,136732361,"10 Conestoga College",1,201721,100335
-10,16SUM-All-Sunday-01,136732461,"10 Conestoga College",1,201721,100335
-10,16SUM-All-Sunday-01,136732561,"10 Conestoga College",1,201720,100335
-10,16SUM-All-Sunday-01,136732661,"10 Conestoga College",1,201720,100335
+10,16SUM-All-Sunday-01,136731261,"10 Conestoga College",1,201720,100332
+10,16SUM-All-Sunday-01,136731361,"10 Conestoga College",1,201715,100332
+10,16SUM-All-Sunday-01,136731461,"10 Conestoga College",1,201711,100332
+10,16SUM-All-Sunday-01,136731561,"10 Conestoga College",1,201711,100332
+10,16SUM-All-Sunday-01,136731661,"10 Conestoga College",1,201711,100332
+10,16SUM-All-Sunday-01,136731761,"10 Conestoga College",1,201716,100332
+10,16SUM-All-Sunday-01,136731861,"10 Conestoga College",1,201716,100332
+10,16SUM-All-Sunday-01,136731961,"10 Conestoga College",1,201720,100332
+10,16SUM-All-Sunday-01,136732061,"10 Conestoga College",1,201715,100332
+10,16SUM-All-Sunday-01,136732161,"10 Conestoga College",1,201720,100332
+10,16SUM-All-Sunday-01,136732261,"10 Conestoga College",1,201721,100332
+10,16SUM-All-Sunday-01,136732361,"10 Conestoga College",1,201721,100332
+10,16SUM-All-Sunday-01,136732461,"10 Conestoga College",1,201721,100332
+10,16SUM-All-Sunday-01,136732561,"10 Conestoga College",1,201720,100332
+10,16SUM-All-Sunday-01,136732661,"10 Conestoga College",1,201720,100332
 10,16SUM-All-Sunday-01,136732761,"10 Conestoga College",1,201712,100332
-10,16SUM-All-Sunday-01,136732861,"10 Fairview Park",0,201715,100560
-10,16SUM-All-Sunday-01,136732961,"10 Fairview Park",0,201715,100559
-10,16SUM-All-Sunday-01,136733061,"10 Fairview Park",0,201715,100558
-10,16SUM-All-Sunday-01,136733161,"10 Fairview Park",0,201711,100557
-10,16SUM-All-Sunday-01,136733261,"10 Fairview Park",0,201711,100556
-10,16SUM-All-Sunday-01,136733361,"10 Fairview Park",0,201711,100555
-10,16SUM-All-Sunday-01,136733461,"10 Fairview Park",0,201716,100554
-10,16SUM-All-Sunday-01,136733561,"10 Fairview Park",0,201716,100553
-10,16SUM-All-Sunday-01,136733661,"10 Fairview Park",0,201720,100552
-10,16SUM-All-Sunday-01,136733761,"10 Fairview Park",0,201720,100551
-10,16SUM-All-Sunday-01,136733861,"10 Fairview Park",0,201720,100550
-10,16SUM-All-Sunday-01,136733961,"10 Fairview Park",0,201721,100549
-10,16SUM-All-Sunday-01,136734061,"10 Fairview Park",0,201721,100548
-10,16SUM-All-Sunday-01,136734161,"10 Fairview Park",0,201721,100547
-10,16SUM-All-Sunday-01,136734261,"10 Fairview Park",0,201720,100546
-10,16SUM-All-Sunday-01,136734361,"10 Fairview Park",0,201720,100545
+10,16SUM-All-Sunday-01,136732861,"10 Fairview Park",0,201715,100329
+10,16SUM-All-Sunday-01,136732961,"10 Fairview Park",0,201715,100329
+10,16SUM-All-Sunday-01,136733061,"10 Fairview Park",0,201715,100329
+10,16SUM-All-Sunday-01,136733161,"10 Fairview Park",0,201711,100329
+10,16SUM-All-Sunday-01,136733261,"10 Fairview Park",0,201711,100329
+10,16SUM-All-Sunday-01,136733361,"10 Fairview Park",0,201711,100329
+10,16SUM-All-Sunday-01,136733461,"10 Fairview Park",0,201716,100329
+10,16SUM-All-Sunday-01,136733561,"10 Fairview Park",0,201716,100329
+10,16SUM-All-Sunday-01,136733661,"10 Fairview Park",0,201720,100329
+10,16SUM-All-Sunday-01,136733761,"10 Fairview Park",0,201720,100329
+10,16SUM-All-Sunday-01,136733861,"10 Fairview Park",0,201720,100329
+10,16SUM-All-Sunday-01,136733961,"10 Fairview Park",0,201721,100329
+10,16SUM-All-Sunday-01,136734061,"10 Fairview Park",0,201721,100329
+10,16SUM-All-Sunday-01,136734161,"10 Fairview Park",0,201721,100329
+10,16SUM-All-Sunday-01,136734261,"10 Fairview Park",0,201720,100329
+10,16SUM-All-Sunday-01,136734361,"10 Fairview Park",0,201720,100329
 11,16SUM-All-Sunday-01,136734461,"11 Downtown",0,201687,110012
 11,16SUM-All-Sunday-01,136734561,"11 Country Hills",1,201687,110011
 11,16SUM-All-Sunday-01,136734661,"11 Country Hills",1,201737,110011
@@ -6309,15 +6309,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 3,16SUM-All-Sunday-01,136748261,"3 Ottawa South to Forest Glen",0,201736,30043
 3,16SUM-All-Sunday-01,136748361,"3 Ottawa South to Forest Glen",0,201736,30043
 3,16SUM-All-Sunday-01,136748461,"3 Ottawa South to Forest Glen",0,201736,30043
-52,16SUM-All-Sunday-01,139310461,"52 Fairview Park via Preston Pkwy",0,201682,520001
-52,16SUM-All-Sunday-01,139310561,"52 Fairview Park via Preston Pkwy",0,201685,520001
-52,16SUM-All-Sunday-01,139310661,"52 Fairview Park via Preston Pkwy",0,201682,520001
-52,16SUM-All-Sunday-01,139310761,"52 Fairview Park via Preston Pkwy",0,201685,520001
-52,16SUM-All-Sunday-01,139310861,"52 Fairview Park via Preston Pkwy",0,201682,520001
-52,16SUM-All-Sunday-01,139310961,"52 Fairview Park via Preston Pkwy",0,201685,520001
-52,16SUM-All-Sunday-01,139311061,"52 Fairview Park via Preston Pkwy",0,201682,520001
-52,16SUM-All-Sunday-01,139311161,"52 Fairview Park via Preston Pkwy",0,201685,520001
-52,16SUM-All-Sunday-01,139311261,"52 Fairview Park via Preston Pkwy",0,201685,520001
+52,16SUM-All-Sunday-01,139310461,"52 Fairview Park via Preston Pkwy",0,201682,520013
+52,16SUM-All-Sunday-01,139310561,"52 Fairview Park via Preston Pkwy",0,201685,520013
+52,16SUM-All-Sunday-01,139310661,"52 Fairview Park via Preston Pkwy",0,201682,520013
+52,16SUM-All-Sunday-01,139310761,"52 Fairview Park via Preston Pkwy",0,201685,520013
+52,16SUM-All-Sunday-01,139310861,"52 Fairview Park via Preston Pkwy",0,201682,520013
+52,16SUM-All-Sunday-01,139310961,"52 Fairview Park via Preston Pkwy",0,201685,520013
+52,16SUM-All-Sunday-01,139311061,"52 Fairview Park via Preston Pkwy",0,201682,520013
+52,16SUM-All-Sunday-01,139311161,"52 Fairview Park via Preston Pkwy",0,201685,520013
+52,16SUM-All-Sunday-01,139311261,"52 Fairview Park via Preston Pkwy",0,201685,520013
 52,16SUM-All-Sunday-01,139311361,"52 Ainslie Terminal via Preston Pkwy",1,201685,520003
 52,16SUM-All-Sunday-01,139311461,"52 Ainslie Terminal via Preston Pkwy",1,201682,520003
 52,16SUM-All-Sunday-01,139311561,"52 Ainslie Terminal via Preston Pkwy",1,201685,520003
@@ -6327,13 +6327,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,16SUM-All-Sunday-01,139311961,"52 Ainslie Terminal via Preston Pkwy",1,201685,520003
 52,16SUM-All-Sunday-01,139312061,"52 Ainslie Terminal via Preston Pkwy",1,201682,520003
 52,16SUM-All-Sunday-01,139312161,"52 Ainslie Terminal via Preston Pkwy",1,201682,520003
-52,16SUM-All-Sunday-01,139312261,"52 Fairview Park via Preston Pkwy",0,201685,520001
-52,16SUM-All-Sunday-01,139312361,"52 Fairview Park via Preston Pkwy",0,201682,520001
-52,16SUM-All-Sunday-01,139312461,"52 Fairview Park via Preston Pkwy",0,201682,520001
-52,16SUM-All-Sunday-01,139312561,"52 Fairview Park via Preston Pkwy",0,201685,520001
-52,16SUM-All-Sunday-01,139312661,"52 Fairview Park via Preston Pkwy",0,201682,520001
-52,16SUM-All-Sunday-01,139312761,"52 Fairview Park via Preston Pkwy",0,201685,520001
-52,16SUM-All-Sunday-01,139312861,"52 Fairview Park via Preston Pkwy",0,201696,520001
+52,16SUM-All-Sunday-01,139312261,"52 Fairview Park via Preston Pkwy",0,201685,520013
+52,16SUM-All-Sunday-01,139312361,"52 Fairview Park via Preston Pkwy",0,201682,520013
+52,16SUM-All-Sunday-01,139312461,"52 Fairview Park via Preston Pkwy",0,201682,520013
+52,16SUM-All-Sunday-01,139312561,"52 Fairview Park via Preston Pkwy",0,201685,520013
+52,16SUM-All-Sunday-01,139312661,"52 Fairview Park via Preston Pkwy",0,201682,520013
+52,16SUM-All-Sunday-01,139312761,"52 Fairview Park via Preston Pkwy",0,201685,520013
+52,16SUM-All-Sunday-01,139312861,"52 Fairview Park via Preston Pkwy",0,201696,520013
 52,16SUM-All-Sunday-01,139312961,"52 Ainslie Terminal via Preston Pkwy",1,201682,520003
 52,16SUM-All-Sunday-01,139313061,"52 Ainslie Terminal via Preston Pkwy",1,201685,520003
 52,16SUM-All-Sunday-01,139313161,"52 Ainslie Terminal via Preston Pkwy",1,201685,520003
@@ -6342,14 +6342,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,16SUM-All-Sunday-01,139313461,"52 Ainslie Terminal via Preston Pkwy",1,201682,520003
 52,16SUM-All-Sunday-01,139313561,"52 Ainslie Terminal via Preston Pkwy",1,201685,520003
 52,16SUM-All-Sunday-01,139313661,"52 Ainslie Terminal via Preston Pkwy",1,201696,520003
-52,16SUM-All-Sunday-01,139313761,"52 Fairview Park via Preston Pkwy",0,201683,520001
-52,16SUM-All-Sunday-01,139313861,"52 Fairview Park via Preston Pkwy",0,201684,520001
-52,16SUM-All-Sunday-01,139313961,"52 Fairview Park via Preston Pkwy",0,201683,520001
-52,16SUM-All-Sunday-01,139314061,"52 Fairview Park via Preston Pkwy",0,201684,520001
-52,16SUM-All-Sunday-01,139314161,"52 Fairview Park via Preston Pkwy",0,201683,520001
-52,16SUM-All-Sunday-01,139314261,"52 Fairview Park via Preston Pkwy",0,201684,520001
-52,16SUM-All-Sunday-01,139314361,"52 Fairview Park via Preston Pkwy",0,201683,520001
-52,16SUM-All-Sunday-01,139314461,"52 Fairview Park via Preston Pkwy",0,201684,520001
+52,16SUM-All-Sunday-01,139313761,"52 Fairview Park via Preston Pkwy",0,201683,520013
+52,16SUM-All-Sunday-01,139313861,"52 Fairview Park via Preston Pkwy",0,201684,520013
+52,16SUM-All-Sunday-01,139313961,"52 Fairview Park via Preston Pkwy",0,201683,520013
+52,16SUM-All-Sunday-01,139314061,"52 Fairview Park via Preston Pkwy",0,201684,520013
+52,16SUM-All-Sunday-01,139314161,"52 Fairview Park via Preston Pkwy",0,201683,520013
+52,16SUM-All-Sunday-01,139314261,"52 Fairview Park via Preston Pkwy",0,201684,520013
+52,16SUM-All-Sunday-01,139314361,"52 Fairview Park via Preston Pkwy",0,201683,520013
+52,16SUM-All-Sunday-01,139314461,"52 Fairview Park via Preston Pkwy",0,201684,520013
 52,16SUM-All-Sunday-01,139314561,"52 Ainslie Terminal via Preston Pkwy",1,201684,520003
 52,16SUM-All-Sunday-01,139314661,"52 Ainslie Terminal via Preston Pkwy",1,201683,520003
 52,16SUM-All-Sunday-01,139314761,"52 Ainslie Terminal via Preston Pkwy",1,201684,520003
