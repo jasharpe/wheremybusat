@@ -1,1 +1,4 @@
 service_id,date,exception_type
+16SUM-All-Weekday-01,20160801,2
+16SUM-All-Weekday-01-0001000,20160801,2
+16SUM-All-Sunday-01,20160801,1

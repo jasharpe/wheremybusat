@@ -291,13 +291,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136020301,"7B Fairview via Weber",1,201353,70793
 7,16SUM-All-Weekday-01,136020401,"7F  Fairview via Wilson",1,201355,70906
 7,16SUM-All-Weekday-01,136020501,"7C Conestoga Mall",0,201342,70771
-7,16SUM-All-Weekday-01,136020601,"7C Conestoga Mall",0,201360,70907
-7,16SUM-All-Weekday-01,136020701,"7C Conestoga Mall",0,201354,70908
-7,16SUM-All-Weekday-01,136020801,"7C Conestoga Mall",0,201356,70909
+7,16SUM-All-Weekday-01,136020601,"7C Conestoga Mall",0,201360,71400
+7,16SUM-All-Weekday-01,136020701,"7C Conestoga Mall",0,201354,71400
+7,16SUM-All-Weekday-01,136020801,"7C Conestoga Mall",0,201356,71400
 7,16SUM-All-Weekday-01,136020901,"7C Conestoga Mall",0,201348,70774
-7,16SUM-All-Weekday-01,136021001,"7D UW via University",0,201358,70910
+7,16SUM-All-Weekday-01,136021001,"7D UW via University",0,201358,71401
 7,16SUM-All-Weekday-01,136021101,"7D UW via University",0,201346,70773
-7,16SUM-All-Weekday-01,136021201,"7D UW via University",0,201365,70911
+7,16SUM-All-Weekday-01,136021201,"7D UW via University",0,201365,71401
 7,16SUM-All-Weekday-01,136021301,"7D UW via University",0,201355,70773
 7,16SUM-All-Weekday-01,136021401,"7C Conestoga Mall",0,201350,70912
 7,16SUM-All-Weekday-01,136021501,"7C Conestoga Mall",0,201351,70913
@@ -308,21 +308,21 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136022001,"7A  Fairview via Connaught",1,201349,70917
 7,16SUM-All-Weekday-01,136022101,"7A  Fairview via Connaught",1,201350,70918
 7,16SUM-All-Weekday-01,136022201,"7A  Fairview via Connaught",1,201351,70919
-7,16SUM-All-Weekday-01,136022301,"7E UW via Columbia",0,201347,70920
-7,16SUM-All-Weekday-01,136022401,"7E UW via Columbia",0,201366,70921
-7,16SUM-All-Weekday-01,136022501,"7E UW via Columbia",0,201352,70922
+7,16SUM-All-Weekday-01,136022301,"7E UW via Columbia",0,201347,71402
+7,16SUM-All-Weekday-01,136022401,"7E UW via Columbia",0,201366,71402
+7,16SUM-All-Weekday-01,136022501,"7E UW via Columbia",0,201352,71402
 7,16SUM-All-Weekday-01,136022601,"7E UW via Columbia",0,201353,70775
 7,16SUM-All-Weekday-01,136022701,"7D UW via University",0,201360,70768
-7,16SUM-All-Weekday-01,136022801,"7D UW via University",0,201354,70923
-7,16SUM-All-Weekday-01,136022901,"7D UW via University",0,201356,70924
-7,16SUM-All-Weekday-01,136023001,"7D UW via University",0,201348,70925
-7,16SUM-All-Weekday-01,136023101,"7D UW via University",0,201349,70926
-7,16SUM-All-Weekday-01,136023201,"7D UW via University",0,201350,70927
-7,16SUM-All-Weekday-01,136023301,"7D UW via University",0,201351,70928
-7,16SUM-All-Weekday-01,136023401,"7D UW via University",0,201357,70929
-7,16SUM-All-Weekday-01,136023501,"7D UW via University",0,201359,70930
-7,16SUM-All-Weekday-01,136023601,"7D UW via University",0,201358,70931
-7,16SUM-All-Weekday-01,136023701,"7D UW via University",0,201346,70932
+7,16SUM-All-Weekday-01,136022801,"7D UW via University",0,201354,71403
+7,16SUM-All-Weekday-01,136022901,"7D UW via University",0,201356,71403
+7,16SUM-All-Weekday-01,136023001,"7D UW via University",0,201348,71403
+7,16SUM-All-Weekday-01,136023101,"7D UW via University",0,201349,71403
+7,16SUM-All-Weekday-01,136023201,"7D UW via University",0,201350,71403
+7,16SUM-All-Weekday-01,136023301,"7D UW via University",0,201351,71403
+7,16SUM-All-Weekday-01,136023401,"7D UW via University",0,201357,71403
+7,16SUM-All-Weekday-01,136023501,"7D UW via University",0,201359,71403
+7,16SUM-All-Weekday-01,136023601,"7D UW via University",0,201358,71403
+7,16SUM-All-Weekday-01,136023701,"7D UW via University",0,201346,71403
 7,16SUM-All-Weekday-01,136023801,"7C Conestoga Mall",0,201358,70769
 7,16SUM-All-Weekday-01,136023901,"7C Conestoga Mall",0,201346,70933
 7,16SUM-All-Weekday-01,136024001,"7C Conestoga Mall",0,201365,70934
@@ -344,30 +344,30 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136025601,"7A  Fairview via Connaught",1,201356,70950
 7,16SUM-All-Weekday-01,136025701,"7A  Fairview via Connaught",1,201348,70770
 7,16SUM-All-Weekday-01,136025801,"7A  Fairview via Connaught",1,201349,70951
-7,16SUM-All-Weekday-01,136025901,"7C Conestoga Mall",0,201350,70952
-7,16SUM-All-Weekday-01,136026001,"7C Conestoga Mall",0,201351,70953
-7,16SUM-All-Weekday-01,136026101,"7C Conestoga Mall",0,201357,70954
-7,16SUM-All-Weekday-01,136026201,"7C Conestoga Mall",0,201359,70955
-7,16SUM-All-Weekday-01,136026301,"7C Conestoga Mall",0,201358,70956
-7,16SUM-All-Weekday-01,136026401,"7C Conestoga Mall",0,201346,70957
-7,16SUM-All-Weekday-01,136026501,"7C Conestoga Mall",0,201365,70958
-7,16SUM-All-Weekday-01,136026601,"7C Conestoga Mall",0,201355,70959
+7,16SUM-All-Weekday-01,136025901,"7C Conestoga Mall",0,201350,71404
+7,16SUM-All-Weekday-01,136026001,"7C Conestoga Mall",0,201351,71404
+7,16SUM-All-Weekday-01,136026101,"7C Conestoga Mall",0,201357,71404
+7,16SUM-All-Weekday-01,136026201,"7C Conestoga Mall",0,201359,71404
+7,16SUM-All-Weekday-01,136026301,"7C Conestoga Mall",0,201358,71404
+7,16SUM-All-Weekday-01,136026401,"7C Conestoga Mall",0,201346,71404
+7,16SUM-All-Weekday-01,136026501,"7C Conestoga Mall",0,201365,71404
+7,16SUM-All-Weekday-01,136026601,"7C Conestoga Mall",0,201355,71404
 7,16SUM-All-Weekday-01,136026701,"7C Conestoga Mall",0,201360,70771
-7,16SUM-All-Weekday-01,136026801,"7C Conestoga Mall",0,201354,70960
-7,16SUM-All-Weekday-01,136026901,"7C Conestoga Mall",0,201362,70961
-7,16SUM-All-Weekday-01,136027001,"7C Conestoga Mall",0,201361,70962
-7,16SUM-All-Weekday-01,136027101,"7C Conestoga Mall",0,201363,70963
-7,16SUM-All-Weekday-01,136027201,"7C Conestoga Mall",0,201364,70964
-7,16SUM-All-Weekday-01,136027301,"7C Conestoga Mall",0,201356,70965
+7,16SUM-All-Weekday-01,136026801,"7C Conestoga Mall",0,201354,71404
+7,16SUM-All-Weekday-01,136026901,"7C Conestoga Mall",0,201362,71400
+7,16SUM-All-Weekday-01,136027001,"7C Conestoga Mall",0,201361,71400
+7,16SUM-All-Weekday-01,136027101,"7C Conestoga Mall",0,201363,71400
+7,16SUM-All-Weekday-01,136027201,"7C Conestoga Mall",0,201364,71400
+7,16SUM-All-Weekday-01,136027301,"7C Conestoga Mall",0,201356,71400
 7,16SUM-All-Weekday-01,136027401,"7C Conestoga Mall",0,201348,70774
 7,16SUM-All-Weekday-01,136027501,"7C Conestoga Mall",0,201349,70774
-7,16SUM-All-Weekday-01,136027601,"7D UW via University",0,201365,70966
-7,16SUM-All-Weekday-01,136027701,"7D UW via University",0,201355,70967
-7,16SUM-All-Weekday-01,136027801,"7D UW via University",0,201360,70968
-7,16SUM-All-Weekday-01,136027901,"7D UW via University",0,201354,70969
-7,16SUM-All-Weekday-01,136028001,"7D UW via University",0,201362,70970
-7,16SUM-All-Weekday-01,136028101,"7D UW via University",0,201361,70971
-7,16SUM-All-Weekday-01,136028201,"7D UW via University",0,201358,70972
+7,16SUM-All-Weekday-01,136027601,"7D UW via University",0,201365,71401
+7,16SUM-All-Weekday-01,136027701,"7D UW via University",0,201355,71401
+7,16SUM-All-Weekday-01,136027801,"7D UW via University",0,201360,71401
+7,16SUM-All-Weekday-01,136027901,"7D UW via University",0,201354,71401
+7,16SUM-All-Weekday-01,136028001,"7D UW via University",0,201362,71401
+7,16SUM-All-Weekday-01,136028101,"7D UW via University",0,201361,71401
+7,16SUM-All-Weekday-01,136028201,"7D UW via University",0,201358,71401
 7,16SUM-All-Weekday-01,136028301,"7C Conestoga Mall",0,201351,70973
 7,16SUM-All-Weekday-01,136028401,"7C Conestoga Mall",0,201357,70974
 7,16SUM-All-Weekday-01,136028501,"7C Conestoga Mall",0,201359,70975
@@ -382,36 +382,36 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136029401,"7A  Fairview via Connaught",1,201358,70983
 7,16SUM-All-Weekday-01,136029501,"7A  Fairview via Connaught",1,201346,70770
 7,16SUM-All-Weekday-01,136029601,"7A  Fairview via Connaught",1,201365,70770
-7,16SUM-All-Weekday-01,136029701,"7E UW via Columbia",0,201356,70984
-7,16SUM-All-Weekday-01,136029801,"7E UW via Columbia",0,201348,70985
-7,16SUM-All-Weekday-01,136029901,"7E UW via Columbia",0,201349,70986
-7,16SUM-All-Weekday-01,136030001,"7E UW via Columbia",0,201350,70987
-7,16SUM-All-Weekday-01,136030101,"7E UW via Columbia",0,201351,70988
-7,16SUM-All-Weekday-01,136030201,"7E UW via Columbia",0,201357,70989
+7,16SUM-All-Weekday-01,136029701,"7E UW via Columbia",0,201356,71402
+7,16SUM-All-Weekday-01,136029801,"7E UW via Columbia",0,201348,71402
+7,16SUM-All-Weekday-01,136029901,"7E UW via Columbia",0,201349,71402
+7,16SUM-All-Weekday-01,136030001,"7E UW via Columbia",0,201350,71402
+7,16SUM-All-Weekday-01,136030101,"7E UW via Columbia",0,201351,71402
+7,16SUM-All-Weekday-01,136030201,"7E UW via Columbia",0,201357,71402
 7,16SUM-All-Weekday-01,136030301,"7E UW via Columbia",0,201359,70775
-7,16SUM-All-Weekday-01,136030401,"7C Conestoga Mall",0,201354,70990
-7,16SUM-All-Weekday-01,136030501,"7D UW via University",0,201346,70991
-7,16SUM-All-Weekday-01,136030601,"7C Conestoga Mall",0,201362,70992
-7,16SUM-All-Weekday-01,136030701,"7D UW via University",0,201365,70993
+7,16SUM-All-Weekday-01,136030401,"7C Conestoga Mall",0,201354,71400
+7,16SUM-All-Weekday-01,136030501,"7D UW via University",0,201346,71401
+7,16SUM-All-Weekday-01,136030601,"7C Conestoga Mall",0,201362,71400
+7,16SUM-All-Weekday-01,136030701,"7D UW via University",0,201365,71401
 7,16SUM-All-Weekday-01,136030801,"7C Conestoga Mall",0,201361,70774
-7,16SUM-All-Weekday-01,136030901,"7D UW via University",0,201359,70994
+7,16SUM-All-Weekday-01,136030901,"7D UW via University",0,201359,71401
 7,16SUM-All-Weekday-01,136031001,"7C Conestoga Mall",0,201349,70774
-7,16SUM-All-Weekday-01,136031101,"7D UW via University",0,201358,70995
+7,16SUM-All-Weekday-01,136031101,"7D UW via University",0,201358,71401
 7,16SUM-All-Weekday-01,136031201,"7C Conestoga Mall",0,201354,70774
-7,16SUM-All-Weekday-01,136031301,"7D UW via University",0,201346,70996
-7,16SUM-All-Weekday-01,136031401,"7C Conestoga Mall",0,201362,70997
-7,16SUM-All-Weekday-01,136031501,"7D UW via University",0,201365,70998
-7,16SUM-All-Weekday-01,136031601,"7C Conestoga Mall",0,201361,70999
-7,16SUM-All-Weekday-01,136031701,"7D UW via University",0,201359,71000
-7,16SUM-All-Weekday-01,136031801,"7C Conestoga Mall",0,201349,71001
-7,16SUM-All-Weekday-01,136031901,"7D UW via University",0,201358,71002
-7,16SUM-All-Weekday-01,136032001,"7C Conestoga Mall",0,201354,71003
-7,16SUM-All-Weekday-01,136032101,"7D UW via University",0,201346,71004
-7,16SUM-All-Weekday-01,136032201,"7C Conestoga Mall",0,201362,71005
-7,16SUM-All-Weekday-01,136032301,"7D UW via University",0,201365,71006
-7,16SUM-All-Weekday-01,136032401,"7C Conestoga Mall",0,201361,71007
-7,16SUM-All-Weekday-01,136032501,"7D UW via University",0,201359,71008
-7,16SUM-All-Weekday-01,136032601,"7C Conestoga Mall",0,201349,71009
+7,16SUM-All-Weekday-01,136031301,"7D UW via University",0,201346,71401
+7,16SUM-All-Weekday-01,136031401,"7C Conestoga Mall",0,201362,71400
+7,16SUM-All-Weekday-01,136031501,"7D UW via University",0,201365,71401
+7,16SUM-All-Weekday-01,136031601,"7C Conestoga Mall",0,201361,71400
+7,16SUM-All-Weekday-01,136031701,"7D UW via University",0,201359,71401
+7,16SUM-All-Weekday-01,136031801,"7C Conestoga Mall",0,201349,71400
+7,16SUM-All-Weekday-01,136031901,"7D UW via University",0,201358,71401
+7,16SUM-All-Weekday-01,136032001,"7C Conestoga Mall",0,201354,71400
+7,16SUM-All-Weekday-01,136032101,"7D UW via University",0,201346,71401
+7,16SUM-All-Weekday-01,136032201,"7C Conestoga Mall",0,201362,71400
+7,16SUM-All-Weekday-01,136032301,"7D UW via University",0,201365,71401
+7,16SUM-All-Weekday-01,136032401,"7C Conestoga Mall",0,201361,71400
+7,16SUM-All-Weekday-01,136032501,"7D UW via University",0,201359,71401
+7,16SUM-All-Weekday-01,136032601,"7C Conestoga Mall",0,201349,71400
 7,16SUM-All-Weekday-01,136032701,"7D UW via University",0,201358,70773
 7,16SUM-All-Weekday-01,136032801,"7B Fairview via Weber",1,201349,71010
 7,16SUM-All-Weekday-01,136032901,"7A  Fairview via Connaught",1,201358,71011
@@ -436,15 +436,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136034801,"7B Fairview via Weber",1,201362,70778
 7,16SUM-All-Weekday-01,136034901,"7C Conestoga Mall",0,201349,70771
 7,16SUM-All-Weekday-01,136035001,"7A  Fairview via Connaught",1,201366,71030
-7,16SUM-All-Weekday-01,136035101,"7E UW via Columbia",0,201347,71031
-7,16SUM-All-Weekday-01,136035201,"7E UW via Columbia",0,201347,71031
-7,16SUM-All-Weekday-01,136035301,"7E UW via Columbia",0,201347,71031
-7,16SUM-All-Weekday-01,136035401,"7E UW via Columbia",0,201347,71031
-7,16SUM-All-Weekday-01,136035501,"7E UW via Columbia",0,201364,71031
-7,16SUM-All-Weekday-01,136035601,"7E UW via Columbia",0,201366,71031
-7,16SUM-All-Weekday-01,136035701,"7E UW via Columbia",0,201366,71031
-7,16SUM-All-Weekday-01,136035801,"7E UW via Columbia",0,201366,71031
-7,16SUM-All-Weekday-01,136035901,"7E UW via Columbia",0,201366,71031
+7,16SUM-All-Weekday-01,136035101,"7E UW via Columbia",0,201347,71405
+7,16SUM-All-Weekday-01,136035201,"7E UW via Columbia",0,201347,71405
+7,16SUM-All-Weekday-01,136035301,"7E UW via Columbia",0,201347,71405
+7,16SUM-All-Weekday-01,136035401,"7E UW via Columbia",0,201347,71405
+7,16SUM-All-Weekday-01,136035501,"7E UW via Columbia",0,201364,71405
+7,16SUM-All-Weekday-01,136035601,"7E UW via Columbia",0,201366,71405
+7,16SUM-All-Weekday-01,136035701,"7E UW via Columbia",0,201366,71405
+7,16SUM-All-Weekday-01,136035801,"7E UW via Columbia",0,201366,71405
+7,16SUM-All-Weekday-01,136035901,"7E UW via Columbia",0,201366,71405
 7,16SUM-All-Weekday-01,136036001,"7 Downtown",1,201347,71032
 7,16SUM-All-Weekday-01,136036101,"7 Downtown",1,201347,71032
 7,16SUM-All-Weekday-01,136036201,"7 Downtown",1,201347,71032
@@ -456,21 +456,21 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136036801,"7 Downtown",1,201353,71032
 7,16SUM-All-Weekday-01,136036901,"7E UW via Columbia",0,201348,70775
 7,16SUM-All-Weekday-01,136037001,"7C Conestoga Mall",0,201365,70774
-7,16SUM-All-Weekday-01,136037101,"7C Conestoga Mall",0,201355,71033
+7,16SUM-All-Weekday-01,136037101,"7C Conestoga Mall",0,201355,71400
 7,16SUM-All-Weekday-01,136037201,"7C Conestoga Mall",0,201353,70769
 7,16SUM-All-Weekday-01,136037301,"7C Conestoga Mall",0,201349,71034
 7,16SUM-All-Weekday-01,136037401,"7C Conestoga Mall",0,201352,70771
 7,16SUM-All-Weekday-01,136037501,"7D UW via University",0,201357,70788
 7,16SUM-All-Weekday-01,136037601,"7C Conestoga Mall",0,201299,70795
-7,16SUM-All-Weekday-01,136037701,"7D UW via University",0,201359,71035
+7,16SUM-All-Weekday-01,136037701,"7D UW via University",0,201359,71406
 7,16SUM-All-Weekday-01,136037801,"7E UW via Columbia",0,201356,70781
 7,16SUM-All-Weekday-01,136037901,"7 Downtown",0,201346,71036
-7,16SUM-All-Weekday-01,136038001,"7E UW via Columbia",0,201351,71031
-7,16SUM-All-Weekday-01,136038101,"7E UW via Columbia",0,201348,71031
-7,16SUM-All-Weekday-01,136038201,"7E UW via Columbia",0,201351,71031
-7,16SUM-All-Weekday-01,136038301,"7E UW via Columbia",0,201348,71031
-7,16SUM-All-Weekday-01,136038401,"7E UW via Columbia",0,201351,71031
-7,16SUM-All-Weekday-01,136038501,"7E UW via Columbia",0,201348,71031
+7,16SUM-All-Weekday-01,136038001,"7E UW via Columbia",0,201351,71405
+7,16SUM-All-Weekday-01,136038101,"7E UW via Columbia",0,201348,71405
+7,16SUM-All-Weekday-01,136038201,"7E UW via Columbia",0,201351,71405
+7,16SUM-All-Weekday-01,136038301,"7E UW via Columbia",0,201348,71405
+7,16SUM-All-Weekday-01,136038401,"7E UW via Columbia",0,201351,71405
+7,16SUM-All-Weekday-01,136038501,"7E UW via Columbia",0,201348,71405
 7,16SUM-All-Weekday-01,136038601,"7A  Fairview via Connaught",1,201347,70796
 7,16SUM-All-Weekday-01,136038701,"7B Fairview via Weber",1,201349,70778
 7,16SUM-All-Weekday-01,136038801,"7A  Fairview via Connaught",1,201348,71037
@@ -482,13 +482,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136039401,"7 Downtown",1,201348,71032
 7,16SUM-All-Weekday-01,136039501,"7 Downtown",1,201351,71032
 7,16SUM-All-Weekday-01,136039601,"7 Downtown",1,201348,71032
-7,16SUM-All-Weekday-01,136040101,"7E UW via Columbia",0,201366,71031
-7,16SUM-All-Weekday-01,136040201,"7E UW via Columbia",0,201329,71031
+7,16SUM-All-Weekday-01,136040101,"7E UW via Columbia",0,201366,71405
+7,16SUM-All-Weekday-01,136040201,"7E UW via Columbia",0,201329,71405
 7,16SUM-All-Weekday-01,136040301,"7 Downtown",1,201329,71032
-7,16SUM-All-Weekday-01,136040401,"7E UW via Columbia",0,201329,71031
+7,16SUM-All-Weekday-01,136040401,"7E UW via Columbia",0,201329,71405
 7,16SUM-All-Weekday-01,136040501,"7 Downtown",1,201366,71032
 7,16SUM-All-Weekday-01,136040601,"7 Downtown",1,201329,71032
-7,16SUM-All-Weekday-01,136040701,"7E UW via Columbia",0,201366,71031
+7,16SUM-All-Weekday-01,136040701,"7E UW via Columbia",0,201366,71405
 7,16SUM-All-Weekday-01,136040801,"7 Downtown",1,201366,70786
 7,16SUM-All-Weekday-01,136040901,"7F  Fairview via Wilson",1,201361,71038
 7,16SUM-All-Weekday-01,136041001,"7F  Fairview via Wilson",1,201362,71039
@@ -555,7 +555,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Weekday-01,136047101,"7 Downtown",1,201359,71093
 7,16SUM-All-Weekday-01,136047201,"7 Downtown",1,201365,71093
 7,16SUM-All-Weekday-01,136047301,"7 Downtown",1,201361,71094
-7,16SUM-All-Weekday-01,136047401,"7D UW via University",0,201351,71095
+7,16SUM-All-Weekday-01,136047401,"7D UW via University",0,201351,71407
 7,16SUM-All-Weekday-01,136047701,"7 Downtown",1,201351,70783
 7,16SUM-All-Weekday-01,136047801,"7 Downtown",1,201355,70783
 7,16SUM-All-Weekday-01,136047901,"7 Downtown",1,201348,70783
@@ -747,42 +747,42 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 23,16SUM-All-Weekday-01,136068801,"23 Idlewood to Fairview Park",1,201333,230005
 23,16SUM-All-Weekday-01,136068901,"23 Idlewood to Fairview Park",1,201334,230005
 23,16SUM-All-Weekday-01,136069001,"23 Idlewood to Stanley Park",0,201333,230006
-1,16SUM-All-Weekday-01,136069101,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136069301,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136069501,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136069701,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136069801,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136069901,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136070001,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136070201,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136070401,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136070601,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136070801,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136071001,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136071201,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136071301,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136071401,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136071501,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136071601,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136071701,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136071801,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136071901,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136072001,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136072101,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136072201,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136072301,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136072401,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136072501,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136072601,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136072701,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136072801,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136072901,"1 Queen-River to The Boardwalk",1,201345,10481
-1,16SUM-All-Weekday-01,136073001,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136073101,"1 Queen-River to The Boardwalk",1,201314,10481
-1,16SUM-All-Weekday-01,136073201,"1 Queen-River to The Boardwalk",1,201315,10481
-1,16SUM-All-Weekday-01,136073301,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136073401,"1 Queen-River to The Boardwalk",1,201316,10481
-1,16SUM-All-Weekday-01,136073501,"1 Queen-River to The Boardwalk",1,201314,10481
+1,16SUM-All-Weekday-01,136069101,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136069301,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136069501,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136069701,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136069801,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136069901,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136070001,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136070201,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136070401,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136070601,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136070801,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136071001,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136071201,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136071301,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136071401,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136071501,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136071601,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136071701,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136071801,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136071901,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136072001,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136072101,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136072201,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136072301,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136072401,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136072501,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136072601,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136072701,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136072801,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136072901,"1 Queen-River to The Boardwalk",1,201345,10562
+1,16SUM-All-Weekday-01,136073001,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136073101,"1 Queen-River to The Boardwalk",1,201314,10562
+1,16SUM-All-Weekday-01,136073201,"1 Queen-River to The Boardwalk",1,201315,10562
+1,16SUM-All-Weekday-01,136073301,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136073401,"1 Queen-River to The Boardwalk",1,201316,10562
+1,16SUM-All-Weekday-01,136073501,"1 Queen-River to The Boardwalk",1,201314,10562
 1,16SUM-All-Weekday-01,136073601,"1 Queen-River to Fairview Park",0,201316,10024
 1,16SUM-All-Weekday-01,136073801,"1 Queen-River to Fairview Park",0,201314,10482
 1,16SUM-All-Weekday-01,136074001,"1 Queen-River to Fairview Park",0,201315,10483
@@ -820,7 +820,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 1,16SUM-All-Weekday-01,136077901,"1 Queen-River to Fairview Park",0,201345,10479
 1,16SUM-All-Weekday-01,136078101,"1 Queen-River to Fairview Park",0,201314,10457
 1,16SUM-All-Weekday-01,136078201,"1 Queen-River to Fairview Park",0,201315,10480
-1,16SUM-All-Weekday-01,136078301,"1 Queen-River to The Boardwalk",1,203933,10481
+1,16SUM-All-Weekday-01,136078301,"1 Queen-River to The Boardwalk",1,203933,10562
 2,16SUM-All-Weekday-01,136078601,"2 Forest Heights",1,201312,20005
 2,16SUM-All-Weekday-01,136078701,"2 Forest Heights",1,201324,20005
 2,16SUM-All-Weekday-01,136078801,"2 Forest Heights",1,201312,20005
@@ -2681,43 +2681,43 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 14,16SUM-All-Weekday-01,136303101,"14 Waterloo Industrial",0,201369,140011
 9983,16SUM-All-Weekday-01,136303201,"Special",0,201369,99830003
 13,16SUM-All-Weekday-01,136305201,"13 Laurelwood to UW",0,201292,130027
-13,16SUM-All-Weekday-01,136308101,"13 Laurelwood to The Boardwalk",1,201292,130026
-13,16SUM-All-Weekday-01,136308201,"13 Laurelwood to The Boardwalk",1,201370,130026
-13,16SUM-All-Weekday-01,136308301,"13 Laurelwood to The Boardwalk",1,201269,130026
-13,16SUM-All-Weekday-01,136308401,"13 Laurelwood to The Boardwalk",1,203926,130026
-13,16SUM-All-Weekday-01,136308501,"13 Laurelwood to The Boardwalk",1,201292,130026
-13,16SUM-All-Weekday-01,136308601,"13 Laurelwood to The Boardwalk",1,201269,130026
-13,16SUM-All-Weekday-01,136308801,"13 Laurelwood to The Boardwalk",1,201292,130026
-13,16SUM-All-Weekday-01,136309001,"13 Laurelwood to The Boardwalk",1,201370,130026
-13,16SUM-All-Weekday-01,136309201,"13 Laurelwood to The Boardwalk",1,201369,130026
-13,16SUM-All-Weekday-01,136309401,"13 Laurelwood to The Boardwalk",1,201370,130026
-13,16SUM-All-Weekday-01,136309501,"13 Laurelwood to The Boardwalk",1,201370,130026
-13,16SUM-All-Weekday-01,136309601,"13 Laurelwood to The Boardwalk",1,201269,130026
-13,16SUM-All-Weekday-01,136309701,"13 Laurelwood to The Boardwalk",1,201369,130026
+13,16SUM-All-Weekday-01,136308101,"13 Laurelwood to The Boardwalk",1,201292,130028
+13,16SUM-All-Weekday-01,136308201,"13 Laurelwood to The Boardwalk",1,201370,130028
+13,16SUM-All-Weekday-01,136308301,"13 Laurelwood to The Boardwalk",1,201269,130028
+13,16SUM-All-Weekday-01,136308401,"13 Laurelwood to The Boardwalk",1,203926,130028
+13,16SUM-All-Weekday-01,136308501,"13 Laurelwood to The Boardwalk",1,201292,130028
+13,16SUM-All-Weekday-01,136308601,"13 Laurelwood to The Boardwalk",1,201269,130028
+13,16SUM-All-Weekday-01,136308801,"13 Laurelwood to The Boardwalk",1,201292,130028
+13,16SUM-All-Weekday-01,136309001,"13 Laurelwood to The Boardwalk",1,201370,130028
+13,16SUM-All-Weekday-01,136309201,"13 Laurelwood to The Boardwalk",1,201369,130028
+13,16SUM-All-Weekday-01,136309401,"13 Laurelwood to The Boardwalk",1,201370,130028
+13,16SUM-All-Weekday-01,136309501,"13 Laurelwood to The Boardwalk",1,201370,130028
+13,16SUM-All-Weekday-01,136309601,"13 Laurelwood to The Boardwalk",1,201269,130028
+13,16SUM-All-Weekday-01,136309701,"13 Laurelwood to The Boardwalk",1,201369,130028
 13,16SUM-All-Weekday-01,136309801,"13 Laurelwood to The Boardwalk",1,201292,130026
-13,16SUM-All-Weekday-01,136309901,"13 Laurelwood to The Boardwalk",1,201369,130026
-13,16SUM-All-Weekday-01,136310001,"13 Laurelwood to The Boardwalk",1,201269,130026
-13,16SUM-All-Weekday-01,136310101,"13 Laurelwood to The Boardwalk",1,203926,130026
-13,16SUM-All-Weekday-01,136310201,"13 Laurelwood to The Boardwalk",1,201369,130026
-13,16SUM-All-Weekday-01,136310301,"13 Laurelwood to The Boardwalk",1,201269,130026
-13,16SUM-All-Weekday-01,136310401,"13 Laurelwood to The Boardwalk",1,203926,130026
-13,16SUM-All-Weekday-01,136310501,"13 Laurelwood to The Boardwalk",1,201292,130026
-13,16SUM-All-Weekday-01,136310601,"13 Laurelwood to The Boardwalk",1,201370,130026
-13,16SUM-All-Weekday-01,136310701,"13 Laurelwood to The Boardwalk",1,201370,130026
-13,16SUM-All-Weekday-01,136310801,"13 Laurelwood to The Boardwalk",1,201292,130026
-13,16SUM-All-Weekday-01,136310901,"13 Laurelwood to The Boardwalk",1,201269,130026
-13,16SUM-All-Weekday-01,136311001,"13 Laurelwood to The Boardwalk",1,203926,130026
-13,16SUM-All-Weekday-01,136311101,"13 Laurelwood to The Boardwalk",1,201369,130026
-13,16SUM-All-Weekday-01,136311301,"13 Laurelwood to The Boardwalk",1,203926,130026
-13,16SUM-All-Weekday-01,136311401,"13 Laurelwood to The Boardwalk",1,201269,130026
-13,16SUM-All-Weekday-01,136311501,"13 Laurelwood to The Boardwalk",1,201288,130026
-13,16SUM-All-Weekday-01,136311601,"13 Laurelwood to The Boardwalk",1,201475,130026
-13,16SUM-All-Weekday-01,136311701,"13 Laurelwood to The Boardwalk",1,201292,130026
-13,16SUM-All-Weekday-01,136311801,"13 Laurelwood to The Boardwalk",1,201370,130026
-13,16SUM-All-Weekday-01,136311901,"13 Laurelwood to The Boardwalk",1,203926,130026
-13,16SUM-All-Weekday-01,136312001,"13 Laurelwood to The Boardwalk",1,201369,130026
-13,16SUM-All-Weekday-01,136312401,"13 Laurelwood to The Boardwalk",1,203926,130026
-13,16SUM-All-Weekday-01,136312601,"13 Laurelwood to The Boardwalk",1,201369,130026
+13,16SUM-All-Weekday-01,136309901,"13 Laurelwood to The Boardwalk",1,201369,130028
+13,16SUM-All-Weekday-01,136310001,"13 Laurelwood to The Boardwalk",1,201269,130028
+13,16SUM-All-Weekday-01,136310101,"13 Laurelwood to The Boardwalk",1,203926,130028
+13,16SUM-All-Weekday-01,136310201,"13 Laurelwood to The Boardwalk",1,201369,130028
+13,16SUM-All-Weekday-01,136310301,"13 Laurelwood to The Boardwalk",1,201269,130028
+13,16SUM-All-Weekday-01,136310401,"13 Laurelwood to The Boardwalk",1,203926,130028
+13,16SUM-All-Weekday-01,136310501,"13 Laurelwood to The Boardwalk",1,201292,130028
+13,16SUM-All-Weekday-01,136310601,"13 Laurelwood to The Boardwalk",1,201370,130028
+13,16SUM-All-Weekday-01,136310701,"13 Laurelwood to The Boardwalk",1,201370,130028
+13,16SUM-All-Weekday-01,136310801,"13 Laurelwood to The Boardwalk",1,201292,130028
+13,16SUM-All-Weekday-01,136310901,"13 Laurelwood to The Boardwalk",1,201269,130028
+13,16SUM-All-Weekday-01,136311001,"13 Laurelwood to The Boardwalk",1,203926,130028
+13,16SUM-All-Weekday-01,136311101,"13 Laurelwood to The Boardwalk",1,201369,130028
+13,16SUM-All-Weekday-01,136311301,"13 Laurelwood to The Boardwalk",1,203926,130028
+13,16SUM-All-Weekday-01,136311401,"13 Laurelwood to The Boardwalk",1,201269,130028
+13,16SUM-All-Weekday-01,136311501,"13 Laurelwood to The Boardwalk",1,201288,130028
+13,16SUM-All-Weekday-01,136311601,"13 Laurelwood to The Boardwalk",1,201475,130028
+13,16SUM-All-Weekday-01,136311701,"13 Laurelwood to The Boardwalk",1,201292,130028
+13,16SUM-All-Weekday-01,136311801,"13 Laurelwood to The Boardwalk",1,201370,130028
+13,16SUM-All-Weekday-01,136311901,"13 Laurelwood to The Boardwalk",1,203926,130028
+13,16SUM-All-Weekday-01,136312001,"13 Laurelwood to The Boardwalk",1,201369,130028
+13,16SUM-All-Weekday-01,136312401,"13 Laurelwood to The Boardwalk",1,203926,130028
+13,16SUM-All-Weekday-01,136312601,"13 Laurelwood to The Boardwalk",1,201369,130028
 21,16SUM-All-Weekday-01,136861901,"21 Conestoga Mall",1,201286,211165
 21,16SUM-All-Weekday-01,136862001,"21 Elmira",0,201287,211166
 21,16SUM-All-Weekday-01,136862101,"21 Conestoga Mall",1,201286,211165
@@ -3308,27 +3308,27 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 51,16SUM-All-Saturday-01,136400251,"51B Hespeler Rd. to Melran",1,201651,510011
 51,16SUM-All-Saturday-01,136400351,"51 Hespeler Rd. to Ainslie Terminal",0,201654,510049
 51,16SUM-All-Saturday-01,136400451,"51B Hespeler Rd. to Melran",1,201654,510019
-7,16SUM-All-Saturday-01,136400551,"7D UW via University",0,201644,71113
-7,16SUM-All-Saturday-01,136400651,"7D UW via University",0,201637,71114
-7,16SUM-All-Saturday-01,136400751,"7D UW via University",0,201636,71115
-7,16SUM-All-Saturday-01,136400851,"7D UW via University",0,201635,71116
-7,16SUM-All-Saturday-01,136400951,"7D UW via University",0,201641,71117
-7,16SUM-All-Saturday-01,136401051,"7D UW via University",0,201639,71118
-7,16SUM-All-Saturday-01,136401151,"7D UW via University",0,201640,71119
-7,16SUM-All-Saturday-01,136401251,"7D UW via University",0,201638,71120
-7,16SUM-All-Saturday-01,136401351,"7D UW via University",0,201633,71121
-7,16SUM-All-Saturday-01,136401451,"7D UW via University",0,201634,71122
-7,16SUM-All-Saturday-01,136401551,"7D UW via University",0,201646,71123
-7,16SUM-All-Saturday-01,136401651,"7D UW via University",0,201642,71124
-7,16SUM-All-Saturday-01,136401751,"7D UW via University",0,201645,71125
-7,16SUM-All-Saturday-01,136401851,"7D UW via University",0,201647,71126
-7,16SUM-All-Saturday-01,136401951,"7D UW via University",0,201637,71127
-7,16SUM-All-Saturday-01,136402051,"7D UW via University",0,201636,71128
-7,16SUM-All-Saturday-01,136402151,"7D UW via University",0,201635,71129
-7,16SUM-All-Saturday-01,136402251,"7D UW via University",0,201641,71130
-7,16SUM-All-Saturday-01,136402351,"7D UW via University",0,201639,71131
-7,16SUM-All-Saturday-01,136402451,"7D UW via University",0,201640,71132
-7,16SUM-All-Saturday-01,136402551,"7D UW via University",0,201638,71133
+7,16SUM-All-Saturday-01,136400551,"7D UW via University",0,201644,71403
+7,16SUM-All-Saturday-01,136400651,"7D UW via University",0,201637,71403
+7,16SUM-All-Saturday-01,136400751,"7D UW via University",0,201636,71403
+7,16SUM-All-Saturday-01,136400851,"7D UW via University",0,201635,71403
+7,16SUM-All-Saturday-01,136400951,"7D UW via University",0,201641,71403
+7,16SUM-All-Saturday-01,136401051,"7D UW via University",0,201639,71403
+7,16SUM-All-Saturday-01,136401151,"7D UW via University",0,201640,71403
+7,16SUM-All-Saturday-01,136401251,"7D UW via University",0,201638,71403
+7,16SUM-All-Saturday-01,136401351,"7D UW via University",0,201633,71403
+7,16SUM-All-Saturday-01,136401451,"7D UW via University",0,201634,71403
+7,16SUM-All-Saturday-01,136401551,"7D UW via University",0,201646,71403
+7,16SUM-All-Saturday-01,136401651,"7D UW via University",0,201642,71403
+7,16SUM-All-Saturday-01,136401751,"7D UW via University",0,201645,71403
+7,16SUM-All-Saturday-01,136401851,"7D UW via University",0,201647,71403
+7,16SUM-All-Saturday-01,136401951,"7D UW via University",0,201637,71403
+7,16SUM-All-Saturday-01,136402051,"7D UW via University",0,201636,71403
+7,16SUM-All-Saturday-01,136402151,"7D UW via University",0,201635,71403
+7,16SUM-All-Saturday-01,136402251,"7D UW via University",0,201641,71403
+7,16SUM-All-Saturday-01,136402351,"7D UW via University",0,201639,71403
+7,16SUM-All-Saturday-01,136402451,"7D UW via University",0,201640,71403
+7,16SUM-All-Saturday-01,136402551,"7D UW via University",0,201638,71403
 7,16SUM-All-Saturday-01,136402651,"7C Conestoga Mall",0,201634,71134
 7,16SUM-All-Saturday-01,136402751,"7C Conestoga Mall",0,201646,71135
 7,16SUM-All-Saturday-01,136402851,"7C Conestoga Mall",0,201642,71136
@@ -3374,83 +3374,83 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Saturday-01,136406851,"7A  Fairview via Connaught",1,201636,70770
 7,16SUM-All-Saturday-01,136406951,"7C Conestoga Mall",0,201641,70771
 7,16SUM-All-Saturday-01,136407051,"7C Conestoga Mall",0,201639,70771
-7,16SUM-All-Saturday-01,136407151,"7C Conestoga Mall",0,201640,71176
-7,16SUM-All-Saturday-01,136407251,"7C Conestoga Mall",0,201638,71177
-7,16SUM-All-Saturday-01,136407351,"7C Conestoga Mall",0,201633,71178
-7,16SUM-All-Saturday-01,136407451,"7C Conestoga Mall",0,201634,71179
-7,16SUM-All-Saturday-01,136407551,"7C Conestoga Mall",0,201646,71180
-7,16SUM-All-Saturday-01,136407651,"7C Conestoga Mall",0,201642,71181
-7,16SUM-All-Saturday-01,136407751,"7C Conestoga Mall",0,201645,71182
-7,16SUM-All-Saturday-01,136407851,"7C Conestoga Mall",0,201647,71183
-7,16SUM-All-Saturday-01,136407951,"7C Conestoga Mall",0,201637,71184
-7,16SUM-All-Saturday-01,136408051,"7C Conestoga Mall",0,201636,71185
-7,16SUM-All-Saturday-01,136408151,"7C Conestoga Mall",0,201635,71186
-7,16SUM-All-Saturday-01,136408251,"7C Conestoga Mall",0,201641,71187
-7,16SUM-All-Saturday-01,136408351,"7C Conestoga Mall",0,201639,71188
-7,16SUM-All-Saturday-01,136408451,"7C Conestoga Mall",0,201640,71189
-7,16SUM-All-Saturday-01,136408551,"7C Conestoga Mall",0,201638,71190
-7,16SUM-All-Saturday-01,136408651,"7C Conestoga Mall",0,201633,71191
-7,16SUM-All-Saturday-01,136408751,"7C Conestoga Mall",0,201634,71192
-7,16SUM-All-Saturday-01,136408851,"7C Conestoga Mall",0,201646,71193
-7,16SUM-All-Saturday-01,136408951,"7C Conestoga Mall",0,201642,71194
-7,16SUM-All-Saturday-01,136409051,"7E UW via Columbia",0,201647,71031
-7,16SUM-All-Saturday-01,136409151,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136409251,"7D UW via University",0,201637,71195
-7,16SUM-All-Saturday-01,136409351,"7D UW via University",0,201636,71196
-7,16SUM-All-Saturday-01,136409451,"7D UW via University",0,201645,71197
-7,16SUM-All-Saturday-01,136409551,"7D UW via University",0,201647,71198
-7,16SUM-All-Saturday-01,136409651,"7D UW via University",0,201637,71199
-7,16SUM-All-Saturday-01,136409751,"7D UW via University",0,201636,71200
-7,16SUM-All-Saturday-01,136409851,"7D UW via University",0,201645,71201
-7,16SUM-All-Saturday-01,136409951,"7D UW via University",0,201647,71202
-7,16SUM-All-Saturday-01,136410051,"7D UW via University",0,201637,71203
-7,16SUM-All-Saturday-01,136410151,"7D UW via University",0,201636,71204
-7,16SUM-All-Saturday-01,136410251,"7D UW via University",0,201645,71205
+7,16SUM-All-Saturday-01,136407151,"7C Conestoga Mall",0,201640,71404
+7,16SUM-All-Saturday-01,136407251,"7C Conestoga Mall",0,201638,71404
+7,16SUM-All-Saturday-01,136407351,"7C Conestoga Mall",0,201633,71404
+7,16SUM-All-Saturday-01,136407451,"7C Conestoga Mall",0,201634,71404
+7,16SUM-All-Saturday-01,136407551,"7C Conestoga Mall",0,201646,71404
+7,16SUM-All-Saturday-01,136407651,"7C Conestoga Mall",0,201642,71404
+7,16SUM-All-Saturday-01,136407751,"7C Conestoga Mall",0,201645,71404
+7,16SUM-All-Saturday-01,136407851,"7C Conestoga Mall",0,201647,71404
+7,16SUM-All-Saturday-01,136407951,"7C Conestoga Mall",0,201637,71404
+7,16SUM-All-Saturday-01,136408051,"7C Conestoga Mall",0,201636,71404
+7,16SUM-All-Saturday-01,136408151,"7C Conestoga Mall",0,201635,71404
+7,16SUM-All-Saturday-01,136408251,"7C Conestoga Mall",0,201641,71404
+7,16SUM-All-Saturday-01,136408351,"7C Conestoga Mall",0,201639,71404
+7,16SUM-All-Saturday-01,136408451,"7C Conestoga Mall",0,201640,71404
+7,16SUM-All-Saturday-01,136408551,"7C Conestoga Mall",0,201638,71404
+7,16SUM-All-Saturday-01,136408651,"7C Conestoga Mall",0,201633,71404
+7,16SUM-All-Saturday-01,136408751,"7C Conestoga Mall",0,201634,71404
+7,16SUM-All-Saturday-01,136408851,"7C Conestoga Mall",0,201646,71404
+7,16SUM-All-Saturday-01,136408951,"7C Conestoga Mall",0,201642,71404
+7,16SUM-All-Saturday-01,136409051,"7E UW via Columbia",0,201647,71405
+7,16SUM-All-Saturday-01,136409151,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136409251,"7D UW via University",0,201637,71401
+7,16SUM-All-Saturday-01,136409351,"7D UW via University",0,201636,71401
+7,16SUM-All-Saturday-01,136409451,"7D UW via University",0,201645,71401
+7,16SUM-All-Saturday-01,136409551,"7D UW via University",0,201647,71401
+7,16SUM-All-Saturday-01,136409651,"7D UW via University",0,201637,71401
+7,16SUM-All-Saturday-01,136409751,"7D UW via University",0,201636,71401
+7,16SUM-All-Saturday-01,136409851,"7D UW via University",0,201645,71401
+7,16SUM-All-Saturday-01,136409951,"7D UW via University",0,201647,71401
+7,16SUM-All-Saturday-01,136410051,"7D UW via University",0,201637,71401
+7,16SUM-All-Saturday-01,136410151,"7D UW via University",0,201636,71401
+7,16SUM-All-Saturday-01,136410251,"7D UW via University",0,201645,71401
 7,16SUM-All-Saturday-01,136410351,"7D UW via University",0,201647,70773
-7,16SUM-All-Saturday-01,136410451,"7C Conestoga Mall",0,201639,71206
-7,16SUM-All-Saturday-01,136410551,"7C Conestoga Mall",0,201640,71207
+7,16SUM-All-Saturday-01,136410451,"7C Conestoga Mall",0,201639,71400
+7,16SUM-All-Saturday-01,136410551,"7C Conestoga Mall",0,201640,71400
 7,16SUM-All-Saturday-01,136410651,"7C Conestoga Mall",0,201642,70774
 7,16SUM-All-Saturday-01,136410751,"7C Conestoga Mall",0,201633,70774
-7,16SUM-All-Saturday-01,136410851,"7C Conestoga Mall",0,201639,71208
-7,16SUM-All-Saturday-01,136410951,"7C Conestoga Mall",0,201640,71209
-7,16SUM-All-Saturday-01,136411051,"7C Conestoga Mall",0,201642,71210
-7,16SUM-All-Saturday-01,136411151,"7C Conestoga Mall",0,201633,71211
-7,16SUM-All-Saturday-01,136411251,"7C Conestoga Mall",0,201639,71212
-7,16SUM-All-Saturday-01,136411351,"7C Conestoga Mall",0,201640,71213
-7,16SUM-All-Saturday-01,136411451,"7C Conestoga Mall",0,201642,71214
-7,16SUM-All-Saturday-01,136411551,"7C Conestoga Mall",0,201633,71215
-7,16SUM-All-Saturday-01,136411651,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136411751,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136411851,"7C Conestoga Mall",0,201640,71216
+7,16SUM-All-Saturday-01,136410851,"7C Conestoga Mall",0,201639,71400
+7,16SUM-All-Saturday-01,136410951,"7C Conestoga Mall",0,201640,71400
+7,16SUM-All-Saturday-01,136411051,"7C Conestoga Mall",0,201642,71400
+7,16SUM-All-Saturday-01,136411151,"7C Conestoga Mall",0,201633,71400
+7,16SUM-All-Saturday-01,136411251,"7C Conestoga Mall",0,201639,71400
+7,16SUM-All-Saturday-01,136411351,"7C Conestoga Mall",0,201640,71400
+7,16SUM-All-Saturday-01,136411451,"7C Conestoga Mall",0,201642,71400
+7,16SUM-All-Saturday-01,136411551,"7C Conestoga Mall",0,201633,71400
+7,16SUM-All-Saturday-01,136411651,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136411751,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136411851,"7C Conestoga Mall",0,201640,71408
 7,16SUM-All-Saturday-01,136411951,"7E UW via Columbia",0,201633,70761
 7,16SUM-All-Saturday-01,136412051,"7D UW via University",0,201634,70787
 7,16SUM-All-Saturday-01,136412151,"7E UW via Columbia",0,201637,70761
 7,16SUM-All-Saturday-01,136412251,"7D UW via University",0,201636,70768
 7,16SUM-All-Saturday-01,136412351,"7C Conestoga Mall",0,201638,70769
-7,16SUM-All-Saturday-01,136412451,"7D UW via University",0,201643,71217
+7,16SUM-All-Saturday-01,136412451,"7D UW via University",0,201643,71403
 7,16SUM-All-Saturday-01,136412551,"7C Conestoga Mall",0,201633,71218
 7,16SUM-All-Saturday-01,136412651,"7A  Fairview via Connaught",1,201635,70776
 7,16SUM-All-Saturday-01,136412751,"7A  Fairview via Connaught",1,201640,71219
-7,16SUM-All-Saturday-01,136412851,"7D UW via University",0,201647,71220
+7,16SUM-All-Saturday-01,136412851,"7D UW via University",0,201647,71401
 7,16SUM-All-Saturday-01,136412951,"7C Conestoga Mall",0,201635,70771
 7,16SUM-All-Saturday-01,136413051,"7C Conestoga Mall",0,201633,70774
-7,16SUM-All-Saturday-01,136413151,"7E UW via Columbia",0,201645,71221
-7,16SUM-All-Saturday-01,136413251,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136413351,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136413451,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136413551,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136413651,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136413751,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136413851,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136413951,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136414051,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136414151,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136414251,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136414351,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136414451,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136414551,"7E UW via Columbia",0,201643,71031
-7,16SUM-All-Saturday-01,136414651,"7E UW via Columbia",0,201644,71031
-7,16SUM-All-Saturday-01,136414751,"7E UW via Columbia",0,201643,71031
+7,16SUM-All-Saturday-01,136413151,"7E UW via Columbia",0,201645,71402
+7,16SUM-All-Saturday-01,136413251,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136413351,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136413451,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136413551,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136413651,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136413751,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136413851,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136413951,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136414051,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136414151,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136414251,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136414351,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136414451,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136414551,"7E UW via Columbia",0,201643,71405
+7,16SUM-All-Saturday-01,136414651,"7E UW via Columbia",0,201644,71405
+7,16SUM-All-Saturday-01,136414751,"7E UW via Columbia",0,201643,71405
 7,16SUM-All-Saturday-01,136414851,"7F  Fairview via Wilson",1,201637,70797
 7,16SUM-All-Saturday-01,136414951,"7A  Fairview via Connaught",1,201641,71222
 7,16SUM-All-Saturday-01,136415051,"7A  Fairview via Connaught",1,201639,71223
@@ -3480,7 +3480,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Saturday-01,136417451,"7A  Fairview via Connaught",1,201645,70796
 7,16SUM-All-Saturday-01,136417551,"7 Downtown",0,201637,71246
 7,16SUM-All-Saturday-01,136419151,"7E UW via Columbia",0,201645,70781
-7,16SUM-All-Saturday-01,136419251,"7E UW via Columbia",0,201642,71247
+7,16SUM-All-Saturday-01,136419251,"7E UW via Columbia",0,201642,71409
 7,16SUM-All-Saturday-01,136419451,"7B Fairview via Weber",1,201634,70782
 7,16SUM-All-Saturday-01,136419551,"7B Fairview via Weber",1,201638,70798
 7,16SUM-All-Saturday-01,136419651,"7B Fairview via Weber",1,201637,71248
@@ -3554,42 +3554,42 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Saturday-01,136426451,"7 Downtown",1,201636,70799
 7,16SUM-All-Saturday-01,136426551,"7 Downtown",1,201645,70799
 7,16SUM-All-Saturday-01,136426651,"7 Downtown",1,201642,70800
-1,16SUM-All-Saturday-01,136426751,"1 Queen-River to The Boardwalk",1,201622,10481
-1,16SUM-All-Saturday-01,136426851,"1 Queen-River to The Boardwalk",1,201625,10481
-1,16SUM-All-Saturday-01,136426951,"1 Queen-River to The Boardwalk",1,201623,10481
-1,16SUM-All-Saturday-01,136427051,"1 Queen-River to The Boardwalk",1,201626,10481
-1,16SUM-All-Saturday-01,136427151,"1 Queen-River to The Boardwalk",1,201624,10481
-1,16SUM-All-Saturday-01,136427251,"1 Queen-River to The Boardwalk",1,201665,10481
-1,16SUM-All-Saturday-01,136427351,"1 Queen-River to The Boardwalk",1,201666,10481
-1,16SUM-All-Saturday-01,136427451,"1 Queen-River to The Boardwalk",1,201622,10481
-1,16SUM-All-Saturday-01,136427551,"1 Queen-River to The Boardwalk",1,201625,10481
-1,16SUM-All-Saturday-01,136427651,"1 Queen-River to The Boardwalk",1,201623,10481
-1,16SUM-All-Saturday-01,136427751,"1 Queen-River to The Boardwalk",1,201626,10481
-1,16SUM-All-Saturday-01,136427851,"1 Queen-River to The Boardwalk",1,201624,10481
-1,16SUM-All-Saturday-01,136427951,"1 Queen-River to The Boardwalk",1,201665,10481
-1,16SUM-All-Saturday-01,136428051,"1 Queen-River to The Boardwalk",1,201666,10481
-1,16SUM-All-Saturday-01,136428151,"1 Queen-River to The Boardwalk",1,201622,10481
-1,16SUM-All-Saturday-01,136428251,"1 Queen-River to The Boardwalk",1,201625,10481
-1,16SUM-All-Saturday-01,136428351,"1 Queen-River to The Boardwalk",1,201623,10481
-1,16SUM-All-Saturday-01,136428451,"1 Queen-River to The Boardwalk",1,201626,10481
-1,16SUM-All-Saturday-01,136428551,"1 Queen-River to The Boardwalk",1,201624,10481
-1,16SUM-All-Saturday-01,136428651,"1 Queen-River to The Boardwalk",1,201665,10481
-1,16SUM-All-Saturday-01,136428751,"1 Queen-River to The Boardwalk",1,201666,10481
-1,16SUM-All-Saturday-01,136428851,"1 Queen-River to The Boardwalk",1,201622,10481
-1,16SUM-All-Saturday-01,136428951,"1 Queen-River to The Boardwalk",1,201625,10481
-1,16SUM-All-Saturday-01,136429051,"1 Queen-River to The Boardwalk",1,201623,10481
-1,16SUM-All-Saturday-01,136429151,"1 Queen-River to The Boardwalk",1,201626,10481
-1,16SUM-All-Saturday-01,136429251,"1 Queen-River to The Boardwalk",1,201624,10481
-1,16SUM-All-Saturday-01,136429351,"1 Queen-River to The Boardwalk",1,201665,10481
-1,16SUM-All-Saturday-01,136429451,"1 Queen-River to The Boardwalk",1,201666,10481
-1,16SUM-All-Saturday-01,136429551,"1 Queen-River to The Boardwalk",1,201622,10481
-1,16SUM-All-Saturday-01,136429651,"1 Queen-River to The Boardwalk",1,201625,10481
-1,16SUM-All-Saturday-01,136429751,"1 Queen-River to The Boardwalk",1,201623,10481
-1,16SUM-All-Saturday-01,136429851,"1 Queen-River to The Boardwalk",1,201626,10481
-1,16SUM-All-Saturday-01,136429951,"1 Queen-River to The Boardwalk",1,201624,10481
-1,16SUM-All-Saturday-01,136430051,"1 Queen-River to The Boardwalk",1,201665,10481
-1,16SUM-All-Saturday-01,136430151,"1 Queen-River to The Boardwalk",1,201666,10481
-1,16SUM-All-Saturday-01,136430251,"1 Queen-River to The Boardwalk",1,201625,10481
+1,16SUM-All-Saturday-01,136426751,"1 Queen-River to The Boardwalk",1,201622,10562
+1,16SUM-All-Saturday-01,136426851,"1 Queen-River to The Boardwalk",1,201625,10562
+1,16SUM-All-Saturday-01,136426951,"1 Queen-River to The Boardwalk",1,201623,10562
+1,16SUM-All-Saturday-01,136427051,"1 Queen-River to The Boardwalk",1,201626,10562
+1,16SUM-All-Saturday-01,136427151,"1 Queen-River to The Boardwalk",1,201624,10562
+1,16SUM-All-Saturday-01,136427251,"1 Queen-River to The Boardwalk",1,201665,10562
+1,16SUM-All-Saturday-01,136427351,"1 Queen-River to The Boardwalk",1,201666,10562
+1,16SUM-All-Saturday-01,136427451,"1 Queen-River to The Boardwalk",1,201622,10562
+1,16SUM-All-Saturday-01,136427551,"1 Queen-River to The Boardwalk",1,201625,10562
+1,16SUM-All-Saturday-01,136427651,"1 Queen-River to The Boardwalk",1,201623,10562
+1,16SUM-All-Saturday-01,136427751,"1 Queen-River to The Boardwalk",1,201626,10562
+1,16SUM-All-Saturday-01,136427851,"1 Queen-River to The Boardwalk",1,201624,10562
+1,16SUM-All-Saturday-01,136427951,"1 Queen-River to The Boardwalk",1,201665,10562
+1,16SUM-All-Saturday-01,136428051,"1 Queen-River to The Boardwalk",1,201666,10562
+1,16SUM-All-Saturday-01,136428151,"1 Queen-River to The Boardwalk",1,201622,10562
+1,16SUM-All-Saturday-01,136428251,"1 Queen-River to The Boardwalk",1,201625,10562
+1,16SUM-All-Saturday-01,136428351,"1 Queen-River to The Boardwalk",1,201623,10562
+1,16SUM-All-Saturday-01,136428451,"1 Queen-River to The Boardwalk",1,201626,10562
+1,16SUM-All-Saturday-01,136428551,"1 Queen-River to The Boardwalk",1,201624,10562
+1,16SUM-All-Saturday-01,136428651,"1 Queen-River to The Boardwalk",1,201665,10562
+1,16SUM-All-Saturday-01,136428751,"1 Queen-River to The Boardwalk",1,201666,10562
+1,16SUM-All-Saturday-01,136428851,"1 Queen-River to The Boardwalk",1,201622,10562
+1,16SUM-All-Saturday-01,136428951,"1 Queen-River to The Boardwalk",1,201625,10562
+1,16SUM-All-Saturday-01,136429051,"1 Queen-River to The Boardwalk",1,201623,10562
+1,16SUM-All-Saturday-01,136429151,"1 Queen-River to The Boardwalk",1,201626,10562
+1,16SUM-All-Saturday-01,136429251,"1 Queen-River to The Boardwalk",1,201624,10562
+1,16SUM-All-Saturday-01,136429351,"1 Queen-River to The Boardwalk",1,201665,10562
+1,16SUM-All-Saturday-01,136429451,"1 Queen-River to The Boardwalk",1,201666,10562
+1,16SUM-All-Saturday-01,136429551,"1 Queen-River to The Boardwalk",1,201622,10562
+1,16SUM-All-Saturday-01,136429651,"1 Queen-River to The Boardwalk",1,201625,10562
+1,16SUM-All-Saturday-01,136429751,"1 Queen-River to The Boardwalk",1,201623,10562
+1,16SUM-All-Saturday-01,136429851,"1 Queen-River to The Boardwalk",1,201626,10562
+1,16SUM-All-Saturday-01,136429951,"1 Queen-River to The Boardwalk",1,201624,10562
+1,16SUM-All-Saturday-01,136430051,"1 Queen-River to The Boardwalk",1,201665,10562
+1,16SUM-All-Saturday-01,136430151,"1 Queen-River to The Boardwalk",1,201666,10562
+1,16SUM-All-Saturday-01,136430251,"1 Queen-River to The Boardwalk",1,201625,10562
 1,16SUM-All-Saturday-01,136430351,"1 Queen-River to Fairview Park",0,201623,10525
 1,16SUM-All-Saturday-01,136430451,"1 Queen-River to Fairview Park",0,201626,10526
 1,16SUM-All-Saturday-01,136430551,"1 Queen-River to Fairview Park",0,201624,10527
@@ -4007,40 +4007,40 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 13,16SUM-All-Saturday-01,136487351,"13 Laurelwood to UW",0,201602,130025
 13,16SUM-All-Saturday-01,136487451,"13 Laurelwood to UW",0,201600,130025
 13,16SUM-All-Saturday-01,136487551,"13 Laurelwood to UW",0,201602,130025
-13,16SUM-All-Saturday-01,136487651,"13 Laurelwood to The Boardwalk",1,201599,130026
-13,16SUM-All-Saturday-01,136487751,"13 Laurelwood to The Boardwalk",1,201601,130026
-13,16SUM-All-Saturday-01,136487851,"13 Laurelwood to The Boardwalk",1,201590,130026
-13,16SUM-All-Saturday-01,136487951,"13 Laurelwood to The Boardwalk",1,201599,130026
-13,16SUM-All-Saturday-01,136488051,"13 Laurelwood to The Boardwalk",1,201650,130026
-13,16SUM-All-Saturday-01,136488151,"13 Laurelwood to The Boardwalk",1,201601,130026
-13,16SUM-All-Saturday-01,136488251,"13 Laurelwood to The Boardwalk",1,201591,130026
-13,16SUM-All-Saturday-01,136488351,"13 Laurelwood to The Boardwalk",1,201592,130026
-13,16SUM-All-Saturday-01,136488451,"13 Laurelwood to The Boardwalk",1,201601,130026
-13,16SUM-All-Saturday-01,136488551,"13 Laurelwood to The Boardwalk",1,201599,130026
-13,16SUM-All-Saturday-01,136488651,"13 Laurelwood to The Boardwalk",1,201594,130026
-13,16SUM-All-Saturday-01,136488751,"13 Laurelwood to The Boardwalk",1,201590,130026
-13,16SUM-All-Saturday-01,136488851,"13 Laurelwood to The Boardwalk",1,201593,130026
-13,16SUM-All-Saturday-01,136488951,"13 Laurelwood to The Boardwalk",1,201650,130026
-13,16SUM-All-Saturday-01,136489051,"13 Laurelwood to The Boardwalk",1,201591,130026
-13,16SUM-All-Saturday-01,136489151,"13 Laurelwood to The Boardwalk",1,201592,130026
-13,16SUM-All-Saturday-01,136489251,"13 Laurelwood to The Boardwalk",1,201590,130026
-13,16SUM-All-Saturday-01,136489351,"13 Laurelwood to The Boardwalk",1,201593,130026
-13,16SUM-All-Saturday-01,136489451,"13 Laurelwood to The Boardwalk",1,201650,130026
-13,16SUM-All-Saturday-01,136489551,"13 Laurelwood to The Boardwalk",1,201594,130026
-13,16SUM-All-Saturday-01,136489651,"13 Laurelwood to The Boardwalk",1,201599,130026
-13,16SUM-All-Saturday-01,136489751,"13 Laurelwood to The Boardwalk",1,201594,130026
-13,16SUM-All-Saturday-01,136489851,"13 Laurelwood to The Boardwalk",1,201593,130026
-13,16SUM-All-Saturday-01,136489951,"13 Laurelwood to The Boardwalk",1,201650,130026
-13,16SUM-All-Saturday-01,136490051,"13 Laurelwood to The Boardwalk",1,201591,130026
-13,16SUM-All-Saturday-01,136490151,"13 Laurelwood to The Boardwalk",1,201592,130026
-13,16SUM-All-Saturday-01,136490251,"13 Laurelwood to The Boardwalk",1,201602,130026
-13,16SUM-All-Saturday-01,136490351,"13 Laurelwood to The Boardwalk",1,201601,130026
-13,16SUM-All-Saturday-01,136490451,"13 Laurelwood to The Boardwalk",1,201600,130026
-13,16SUM-All-Saturday-01,136490551,"13 Laurelwood to The Boardwalk",1,201602,130026
-13,16SUM-All-Saturday-01,136490651,"13 Laurelwood to The Boardwalk",1,201600,130026
-13,16SUM-All-Saturday-01,136490751,"13 Laurelwood to The Boardwalk",1,201602,130026
-13,16SUM-All-Saturday-01,136490851,"13 Laurelwood to The Boardwalk",1,201590,130026
-13,16SUM-All-Saturday-01,136490951,"13 Laurelwood to The Boardwalk",1,201600,130026
+13,16SUM-All-Saturday-01,136487651,"13 Laurelwood to The Boardwalk",1,201599,130028
+13,16SUM-All-Saturday-01,136487751,"13 Laurelwood to The Boardwalk",1,201601,130028
+13,16SUM-All-Saturday-01,136487851,"13 Laurelwood to The Boardwalk",1,201590,130028
+13,16SUM-All-Saturday-01,136487951,"13 Laurelwood to The Boardwalk",1,201599,130028
+13,16SUM-All-Saturday-01,136488051,"13 Laurelwood to The Boardwalk",1,201650,130028
+13,16SUM-All-Saturday-01,136488151,"13 Laurelwood to The Boardwalk",1,201601,130028
+13,16SUM-All-Saturday-01,136488251,"13 Laurelwood to The Boardwalk",1,201591,130028
+13,16SUM-All-Saturday-01,136488351,"13 Laurelwood to The Boardwalk",1,201592,130028
+13,16SUM-All-Saturday-01,136488451,"13 Laurelwood to The Boardwalk",1,201601,130028
+13,16SUM-All-Saturday-01,136488551,"13 Laurelwood to The Boardwalk",1,201599,130028
+13,16SUM-All-Saturday-01,136488651,"13 Laurelwood to The Boardwalk",1,201594,130028
+13,16SUM-All-Saturday-01,136488751,"13 Laurelwood to The Boardwalk",1,201590,130028
+13,16SUM-All-Saturday-01,136488851,"13 Laurelwood to The Boardwalk",1,201593,130028
+13,16SUM-All-Saturday-01,136488951,"13 Laurelwood to The Boardwalk",1,201650,130028
+13,16SUM-All-Saturday-01,136489051,"13 Laurelwood to The Boardwalk",1,201591,130028
+13,16SUM-All-Saturday-01,136489151,"13 Laurelwood to The Boardwalk",1,201592,130028
+13,16SUM-All-Saturday-01,136489251,"13 Laurelwood to The Boardwalk",1,201590,130028
+13,16SUM-All-Saturday-01,136489351,"13 Laurelwood to The Boardwalk",1,201593,130028
+13,16SUM-All-Saturday-01,136489451,"13 Laurelwood to The Boardwalk",1,201650,130028
+13,16SUM-All-Saturday-01,136489551,"13 Laurelwood to The Boardwalk",1,201594,130028
+13,16SUM-All-Saturday-01,136489651,"13 Laurelwood to The Boardwalk",1,201599,130028
+13,16SUM-All-Saturday-01,136489751,"13 Laurelwood to The Boardwalk",1,201594,130028
+13,16SUM-All-Saturday-01,136489851,"13 Laurelwood to The Boardwalk",1,201593,130028
+13,16SUM-All-Saturday-01,136489951,"13 Laurelwood to The Boardwalk",1,201650,130028
+13,16SUM-All-Saturday-01,136490051,"13 Laurelwood to The Boardwalk",1,201591,130028
+13,16SUM-All-Saturday-01,136490151,"13 Laurelwood to The Boardwalk",1,201592,130028
+13,16SUM-All-Saturday-01,136490251,"13 Laurelwood to The Boardwalk",1,201602,130028
+13,16SUM-All-Saturday-01,136490351,"13 Laurelwood to The Boardwalk",1,201601,130028
+13,16SUM-All-Saturday-01,136490451,"13 Laurelwood to The Boardwalk",1,201600,130028
+13,16SUM-All-Saturday-01,136490551,"13 Laurelwood to The Boardwalk",1,201602,130028
+13,16SUM-All-Saturday-01,136490651,"13 Laurelwood to The Boardwalk",1,201600,130028
+13,16SUM-All-Saturday-01,136490751,"13 Laurelwood to The Boardwalk",1,201602,130028
+13,16SUM-All-Saturday-01,136490851,"13 Laurelwood to The Boardwalk",1,201590,130028
+13,16SUM-All-Saturday-01,136490951,"13 Laurelwood to The Boardwalk",1,201600,130028
 9,16SUM-All-Saturday-01,136491051,"9 Lakeshore to Conestoga Mall",0,201590,91138
 9,16SUM-All-Saturday-01,136491151,"9 Lakeshore to Conestoga Mall",0,201594,91139
 9,16SUM-All-Saturday-01,136491251,"9 Lakeshore to Conestoga Mall",0,201599,91140
@@ -4508,31 +4508,31 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 27,16SUM-All-Saturday-01,136537851,"27 Chicopee",1,201588,270004
 27,16SUM-All-Saturday-01,136537951,"27 Chicopee",1,201585,270004
 27,16SUM-All-Saturday-01,136538051,"27 Chicopee",1,201574,270004
-64,16SUM-All-Saturday-01,136538151,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136538251,"64 Langs",0,201667,640170
-64,16SUM-All-Saturday-01,136538351,"64 Langs",0,201669,640170
-64,16SUM-All-Saturday-01,136538451,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136538551,"64 Langs",0,201667,640170
-64,16SUM-All-Saturday-01,136538651,"64 Langs",0,201669,640170
-64,16SUM-All-Saturday-01,136538751,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136538851,"64 Langs",0,201667,640170
-64,16SUM-All-Saturday-01,136538951,"64 Langs",0,201669,640170
-64,16SUM-All-Saturday-01,136539051,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136539151,"64 Langs",0,201667,640170
-64,16SUM-All-Saturday-01,136539251,"64 Langs",0,201669,640170
-64,16SUM-All-Saturday-01,136539351,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136539451,"64 Langs",0,201667,640170
-64,16SUM-All-Saturday-01,136539551,"64 Langs",0,201669,640170
-64,16SUM-All-Saturday-01,136539651,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136539751,"64 Langs",0,201667,640170
-64,16SUM-All-Saturday-01,136539851,"64 Langs",0,201669,640170
-64,16SUM-All-Saturday-01,136539951,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136540051,"64 Langs",0,201667,640170
-64,16SUM-All-Saturday-01,136540151,"64 Langs",0,201669,640170
-64,16SUM-All-Saturday-01,136540251,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136540351,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136540451,"64 Langs",0,201668,640170
-64,16SUM-All-Saturday-01,136540551,"64 Langs",0,201668,640170
+64,16SUM-All-Saturday-01,136538151,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136538251,"64 Langs",0,201667,640062
+64,16SUM-All-Saturday-01,136538351,"64 Langs",0,201669,640062
+64,16SUM-All-Saturday-01,136538451,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136538551,"64 Langs",0,201667,640062
+64,16SUM-All-Saturday-01,136538651,"64 Langs",0,201669,640062
+64,16SUM-All-Saturday-01,136538751,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136538851,"64 Langs",0,201667,640062
+64,16SUM-All-Saturday-01,136538951,"64 Langs",0,201669,640062
+64,16SUM-All-Saturday-01,136539051,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136539151,"64 Langs",0,201667,640062
+64,16SUM-All-Saturday-01,136539251,"64 Langs",0,201669,640062
+64,16SUM-All-Saturday-01,136539351,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136539451,"64 Langs",0,201667,640062
+64,16SUM-All-Saturday-01,136539551,"64 Langs",0,201669,640062
+64,16SUM-All-Saturday-01,136539651,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136539751,"64 Langs",0,201667,640062
+64,16SUM-All-Saturday-01,136539851,"64 Langs",0,201669,640062
+64,16SUM-All-Saturday-01,136539951,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136540051,"64 Langs",0,201667,640062
+64,16SUM-All-Saturday-01,136540151,"64 Langs",0,201669,640062
+64,16SUM-All-Saturday-01,136540251,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136540351,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136540451,"64 Langs",0,201668,640062
+64,16SUM-All-Saturday-01,136540551,"64 Langs",0,201668,640062
 60,16SUM-All-Saturday-01,136540651,"60 Northview Acres",0,201668,600004
 60,16SUM-All-Saturday-01,136540751,"60 Northview Acres",0,201667,600004
 60,16SUM-All-Saturday-01,136540851,"60 Northview Acres",0,201668,600004
@@ -5321,37 +5321,37 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 51,16SUM-All-Sunday-01,136630761,"51B Hespeler Rd. to Melran",1,201696,510011
 51,16SUM-All-Sunday-01,136630861,"51B Hespeler Rd. to Melran",1,201694,510011
 51,16SUM-All-Sunday-01,136630961,"51B Hespeler Rd. to Melran",1,201682,510011
-7,16SUM-All-Sunday-01,136631061,"7C Conestoga Mall",0,201730,71399
+7,16SUM-All-Sunday-01,136631061,"7C Conestoga Mall",0,201730,71400
 7,16SUM-All-Sunday-01,136631161,"7C Conestoga Mall",0,201734,70774
-7,16SUM-All-Sunday-01,136631261,"7C Conestoga Mall",0,201731,71398
-7,16SUM-All-Sunday-01,136631361,"7C Conestoga Mall",0,201735,71397
-7,16SUM-All-Sunday-01,136631461,"7C Conestoga Mall",0,201730,71396
-7,16SUM-All-Sunday-01,136631561,"7C Conestoga Mall",0,201734,71395
-7,16SUM-All-Sunday-01,136631661,"7C Conestoga Mall",0,201731,71394
-7,16SUM-All-Sunday-01,136631761,"7C Conestoga Mall",0,201735,71393
-7,16SUM-All-Sunday-01,136631861,"7C Conestoga Mall",0,201730,71392
-7,16SUM-All-Sunday-01,136631961,"7C Conestoga Mall",0,201734,71391
-7,16SUM-All-Sunday-01,136632061,"7C Conestoga Mall",0,201731,71390
-7,16SUM-All-Sunday-01,136632161,"7C Conestoga Mall",0,201735,71389
-7,16SUM-All-Sunday-01,136632261,"7C Conestoga Mall",0,201730,71388
-7,16SUM-All-Sunday-01,136632361,"7C Conestoga Mall",0,201734,71387
-7,16SUM-All-Sunday-01,136632461,"7C Conestoga Mall",0,201731,71386
-7,16SUM-All-Sunday-01,136632561,"7C Conestoga Mall",0,201735,71385
-7,16SUM-All-Sunday-01,136632661,"7C Conestoga Mall",0,201730,71384
-7,16SUM-All-Sunday-01,136632761,"7C Conestoga Mall",0,201734,71383
-7,16SUM-All-Sunday-01,136632861,"7C Conestoga Mall",0,201731,71369
-7,16SUM-All-Sunday-01,136632961,"7C Conestoga Mall",0,201735,71370
-7,16SUM-All-Sunday-01,136633061,"7C Conestoga Mall",0,201730,71371
-7,16SUM-All-Sunday-01,136633161,"7C Conestoga Mall",0,201734,71372
+7,16SUM-All-Sunday-01,136631261,"7C Conestoga Mall",0,201731,71400
+7,16SUM-All-Sunday-01,136631361,"7C Conestoga Mall",0,201735,71400
+7,16SUM-All-Sunday-01,136631461,"7C Conestoga Mall",0,201730,71400
+7,16SUM-All-Sunday-01,136631561,"7C Conestoga Mall",0,201734,71400
+7,16SUM-All-Sunday-01,136631661,"7C Conestoga Mall",0,201731,71400
+7,16SUM-All-Sunday-01,136631761,"7C Conestoga Mall",0,201735,71400
+7,16SUM-All-Sunday-01,136631861,"7C Conestoga Mall",0,201730,71400
+7,16SUM-All-Sunday-01,136631961,"7C Conestoga Mall",0,201734,71400
+7,16SUM-All-Sunday-01,136632061,"7C Conestoga Mall",0,201731,71400
+7,16SUM-All-Sunday-01,136632161,"7C Conestoga Mall",0,201735,71400
+7,16SUM-All-Sunday-01,136632261,"7C Conestoga Mall",0,201730,71400
+7,16SUM-All-Sunday-01,136632361,"7C Conestoga Mall",0,201734,71400
+7,16SUM-All-Sunday-01,136632461,"7C Conestoga Mall",0,201731,71400
+7,16SUM-All-Sunday-01,136632561,"7C Conestoga Mall",0,201735,71400
+7,16SUM-All-Sunday-01,136632661,"7C Conestoga Mall",0,201730,71400
+7,16SUM-All-Sunday-01,136632761,"7C Conestoga Mall",0,201734,71400
+7,16SUM-All-Sunday-01,136632861,"7C Conestoga Mall",0,201731,71400
+7,16SUM-All-Sunday-01,136632961,"7C Conestoga Mall",0,201735,71400
+7,16SUM-All-Sunday-01,136633061,"7C Conestoga Mall",0,201730,71400
+7,16SUM-All-Sunday-01,136633161,"7C Conestoga Mall",0,201734,71400
 7,16SUM-All-Sunday-01,136633261,"7C Conestoga Mall",0,201731,70774
 7,16SUM-All-Sunday-01,136633361,"7C Conestoga Mall",0,201735,70774
 7,16SUM-All-Sunday-01,136633461,"7C Conestoga Mall",0,201730,70774
-7,16SUM-All-Sunday-01,136633561,"7C Conestoga Mall",0,201734,71373
-7,16SUM-All-Sunday-01,136633661,"7C Conestoga Mall",0,201731,71374
-7,16SUM-All-Sunday-01,136633761,"7C Conestoga Mall",0,201735,71375
-7,16SUM-All-Sunday-01,136633861,"7C Conestoga Mall",0,201730,71376
-7,16SUM-All-Sunday-01,136633961,"7C Conestoga Mall",0,201734,71377
-7,16SUM-All-Sunday-01,136634061,"7C Conestoga Mall",0,201731,71378
+7,16SUM-All-Sunday-01,136633561,"7C Conestoga Mall",0,201734,71400
+7,16SUM-All-Sunday-01,136633661,"7C Conestoga Mall",0,201731,71400
+7,16SUM-All-Sunday-01,136633761,"7C Conestoga Mall",0,201735,71400
+7,16SUM-All-Sunday-01,136633861,"7C Conestoga Mall",0,201730,71400
+7,16SUM-All-Sunday-01,136633961,"7C Conestoga Mall",0,201734,71400
+7,16SUM-All-Sunday-01,136634061,"7C Conestoga Mall",0,201731,71400
 7,16SUM-All-Sunday-01,136634161,"7B Fairview via Weber",1,201731,71379
 7,16SUM-All-Sunday-01,136634261,"7B Fairview via Weber",1,201735,71380
 7,16SUM-All-Sunday-01,136634361,"7B Fairview via Weber",1,201730,71381
@@ -5383,36 +5383,36 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Sunday-01,136636961,"7B Fairview via Weber",1,201731,71280
 7,16SUM-All-Sunday-01,136637061,"7B Fairview via Weber",1,201735,71305
 7,16SUM-All-Sunday-01,136637161,"7D UW via University",0,201729,70773
-7,16SUM-All-Sunday-01,136637261,"7D UW via University",0,201732,71306
-7,16SUM-All-Sunday-01,136637361,"7D UW via University",0,201728,71307
-7,16SUM-All-Sunday-01,136637461,"7D UW via University",0,201733,71308
-7,16SUM-All-Sunday-01,136637561,"7D UW via University",0,201729,71309
-7,16SUM-All-Sunday-01,136637661,"7D UW via University",0,201732,71310
-7,16SUM-All-Sunday-01,136637761,"7D UW via University",0,201728,71311
-7,16SUM-All-Sunday-01,136637861,"7D UW via University",0,201733,71312
-7,16SUM-All-Sunday-01,136637961,"7D UW via University",0,201729,71313
-7,16SUM-All-Sunday-01,136638061,"7D UW via University",0,201732,71314
-7,16SUM-All-Sunday-01,136638161,"7D UW via University",0,201728,71315
-7,16SUM-All-Sunday-01,136638261,"7D UW via University",0,201733,71316
-7,16SUM-All-Sunday-01,136638361,"7D UW via University",0,201729,71317
-7,16SUM-All-Sunday-01,136638461,"7D UW via University",0,201732,71318
-7,16SUM-All-Sunday-01,136638561,"7D UW via University",0,201728,71319
-7,16SUM-All-Sunday-01,136638661,"7D UW via University",0,201733,71320
-7,16SUM-All-Sunday-01,136638761,"7D UW via University",0,201729,71321
-7,16SUM-All-Sunday-01,136638861,"7D UW via University",0,201732,71322
-7,16SUM-All-Sunday-01,136638961,"7D UW via University",0,201728,71323
-7,16SUM-All-Sunday-01,136639061,"7D UW via University",0,201733,71324
-7,16SUM-All-Sunday-01,136639161,"7D UW via University",0,201729,71325
-7,16SUM-All-Sunday-01,136639261,"7D UW via University",0,201732,71326
-7,16SUM-All-Sunday-01,136639361,"7D UW via University",0,201728,71327
-7,16SUM-All-Sunday-01,136639461,"7D UW via University",0,201733,71328
-7,16SUM-All-Sunday-01,136639561,"7D UW via University",0,201729,71329
-7,16SUM-All-Sunday-01,136639661,"7D UW via University",0,201732,71330
-7,16SUM-All-Sunday-01,136639761,"7D UW via University",0,201728,71331
-7,16SUM-All-Sunday-01,136639861,"7D UW via University",0,201733,71332
-7,16SUM-All-Sunday-01,136639961,"7D UW via University",0,201729,71333
-7,16SUM-All-Sunday-01,136640061,"7D UW via University",0,201732,71334
-7,16SUM-All-Sunday-01,136640161,"7D UW via University",0,201728,71335
+7,16SUM-All-Sunday-01,136637261,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136637361,"7D UW via University",0,201728,71401
+7,16SUM-All-Sunday-01,136637461,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136637561,"7D UW via University",0,201729,71401
+7,16SUM-All-Sunday-01,136637661,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136637761,"7D UW via University",0,201728,71401
+7,16SUM-All-Sunday-01,136637861,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136637961,"7D UW via University",0,201729,71401
+7,16SUM-All-Sunday-01,136638061,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136638161,"7D UW via University",0,201728,71401
+7,16SUM-All-Sunday-01,136638261,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136638361,"7D UW via University",0,201729,71401
+7,16SUM-All-Sunday-01,136638461,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136638561,"7D UW via University",0,201728,71401
+7,16SUM-All-Sunday-01,136638661,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136638761,"7D UW via University",0,201729,71401
+7,16SUM-All-Sunday-01,136638861,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136638961,"7D UW via University",0,201728,71401
+7,16SUM-All-Sunday-01,136639061,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136639161,"7D UW via University",0,201729,71401
+7,16SUM-All-Sunday-01,136639261,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136639361,"7D UW via University",0,201728,71401
+7,16SUM-All-Sunday-01,136639461,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136639561,"7D UW via University",0,201729,71401
+7,16SUM-All-Sunday-01,136639661,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136639761,"7D UW via University",0,201728,71401
+7,16SUM-All-Sunday-01,136639861,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136639961,"7D UW via University",0,201729,71401
+7,16SUM-All-Sunday-01,136640061,"7D UW via University",0,201732,71401
+7,16SUM-All-Sunday-01,136640161,"7D UW via University",0,201728,71401
 7,16SUM-All-Sunday-01,136640261,"7A  Fairview via Connaught",1,201733,71336
 7,16SUM-All-Sunday-01,136640361,"7A  Fairview via Connaught",1,201729,71337
 7,16SUM-All-Sunday-01,136640461,"7A  Fairview via Connaught",1,201732,71338
@@ -5442,9 +5442,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Sunday-01,136642861,"7A  Fairview via Connaught",1,201732,71277
 7,16SUM-All-Sunday-01,136642961,"7A  Fairview via Connaught",1,201728,71360
 7,16SUM-All-Sunday-01,136643061,"7A  Fairview via Connaught",1,201733,71361
-7,16SUM-All-Sunday-01,136643161,"7C Conestoga Mall",0,201735,71362
-7,16SUM-All-Sunday-01,136643261,"7D UW via University",0,201733,71363
-7,16SUM-All-Sunday-01,136643361,"7D UW via University",0,201729,71364
+7,16SUM-All-Sunday-01,136643161,"7C Conestoga Mall",0,201735,71400
+7,16SUM-All-Sunday-01,136643261,"7D UW via University",0,201733,71401
+7,16SUM-All-Sunday-01,136643361,"7D UW via University",0,201729,71401
 7,16SUM-All-Sunday-01,136643461,"7A  Fairview via Connaught",1,201728,71365
 7,16SUM-All-Sunday-01,136643561,"7A  Fairview via Connaught",1,201729,71366
 7,16SUM-All-Sunday-01,136643661,"7A  Fairview via Connaught",1,201732,71367
@@ -5462,31 +5462,31 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16SUM-All-Sunday-01,136644861,"7 Downtown",1,201728,70799
 7,16SUM-All-Sunday-01,136644961,"7 Downtown",1,201733,70799
 7,16SUM-All-Sunday-01,136645061,"7 Downtown",1,201731,70800
-1,16SUM-All-Sunday-01,136645161,"1 Queen-River to The Boardwalk",1,201743,10481
-1,16SUM-All-Sunday-01,136645261,"1 Queen-River to The Boardwalk",1,201742,10481
-1,16SUM-All-Sunday-01,136645361,"1 Queen-River to The Boardwalk",1,201745,10481
-1,16SUM-All-Sunday-01,136645461,"1 Queen-River to The Boardwalk",1,201744,10481
-1,16SUM-All-Sunday-01,136645561,"1 Queen-River to The Boardwalk",1,201751,10481
-1,16SUM-All-Sunday-01,136645661,"1 Queen-River to The Boardwalk",1,201750,10481
-1,16SUM-All-Sunday-01,136645761,"1 Queen-River to The Boardwalk",1,201743,10481
-1,16SUM-All-Sunday-01,136645861,"1 Queen-River to The Boardwalk",1,201752,10481
-1,16SUM-All-Sunday-01,136645961,"1 Queen-River to The Boardwalk",1,201742,10481
-1,16SUM-All-Sunday-01,136646061,"1 Queen-River to The Boardwalk",1,201745,10481
-1,16SUM-All-Sunday-01,136646161,"1 Queen-River to The Boardwalk",1,201744,10481
-1,16SUM-All-Sunday-01,136646261,"1 Queen-River to The Boardwalk",1,201751,10481
-1,16SUM-All-Sunday-01,136646361,"1 Queen-River to The Boardwalk",1,201750,10481
-1,16SUM-All-Sunday-01,136646461,"1 Queen-River to The Boardwalk",1,201743,10481
-1,16SUM-All-Sunday-01,136646561,"1 Queen-River to The Boardwalk",1,201752,10481
-1,16SUM-All-Sunday-01,136646661,"1 Queen-River to The Boardwalk",1,201742,10481
-1,16SUM-All-Sunday-01,136646761,"1 Queen-River to The Boardwalk",1,201745,10481
-1,16SUM-All-Sunday-01,136646861,"1 Queen-River to The Boardwalk",1,201744,10481
-1,16SUM-All-Sunday-01,136646961,"1 Queen-River to The Boardwalk",1,201751,10481
-1,16SUM-All-Sunday-01,136647061,"1 Queen-River to The Boardwalk",1,201750,10481
-1,16SUM-All-Sunday-01,136647161,"1 Queen-River to The Boardwalk",1,201752,10481
-1,16SUM-All-Sunday-01,136647261,"1 Queen-River to The Boardwalk",1,201745,10481
-1,16SUM-All-Sunday-01,136647361,"1 Queen-River to The Boardwalk",1,201751,10481
-1,16SUM-All-Sunday-01,136647461,"1 Queen-River to The Boardwalk",1,201745,10481
-1,16SUM-All-Sunday-01,136647561,"1 Queen-River to The Boardwalk",1,201751,10481
+1,16SUM-All-Sunday-01,136645161,"1 Queen-River to The Boardwalk",1,201743,10562
+1,16SUM-All-Sunday-01,136645261,"1 Queen-River to The Boardwalk",1,201742,10562
+1,16SUM-All-Sunday-01,136645361,"1 Queen-River to The Boardwalk",1,201745,10562
+1,16SUM-All-Sunday-01,136645461,"1 Queen-River to The Boardwalk",1,201744,10562
+1,16SUM-All-Sunday-01,136645561,"1 Queen-River to The Boardwalk",1,201751,10562
+1,16SUM-All-Sunday-01,136645661,"1 Queen-River to The Boardwalk",1,201750,10562
+1,16SUM-All-Sunday-01,136645761,"1 Queen-River to The Boardwalk",1,201743,10562
+1,16SUM-All-Sunday-01,136645861,"1 Queen-River to The Boardwalk",1,201752,10562
+1,16SUM-All-Sunday-01,136645961,"1 Queen-River to The Boardwalk",1,201742,10562
+1,16SUM-All-Sunday-01,136646061,"1 Queen-River to The Boardwalk",1,201745,10562
+1,16SUM-All-Sunday-01,136646161,"1 Queen-River to The Boardwalk",1,201744,10562
+1,16SUM-All-Sunday-01,136646261,"1 Queen-River to The Boardwalk",1,201751,10562
+1,16SUM-All-Sunday-01,136646361,"1 Queen-River to The Boardwalk",1,201750,10562
+1,16SUM-All-Sunday-01,136646461,"1 Queen-River to The Boardwalk",1,201743,10562
+1,16SUM-All-Sunday-01,136646561,"1 Queen-River to The Boardwalk",1,201752,10562
+1,16SUM-All-Sunday-01,136646661,"1 Queen-River to The Boardwalk",1,201742,10562
+1,16SUM-All-Sunday-01,136646761,"1 Queen-River to The Boardwalk",1,201745,10562
+1,16SUM-All-Sunday-01,136646861,"1 Queen-River to The Boardwalk",1,201744,10562
+1,16SUM-All-Sunday-01,136646961,"1 Queen-River to The Boardwalk",1,201751,10562
+1,16SUM-All-Sunday-01,136647061,"1 Queen-River to The Boardwalk",1,201750,10562
+1,16SUM-All-Sunday-01,136647161,"1 Queen-River to The Boardwalk",1,201752,10562
+1,16SUM-All-Sunday-01,136647261,"1 Queen-River to The Boardwalk",1,201745,10562
+1,16SUM-All-Sunday-01,136647361,"1 Queen-River to The Boardwalk",1,201751,10562
+1,16SUM-All-Sunday-01,136647461,"1 Queen-River to The Boardwalk",1,201745,10562
+1,16SUM-All-Sunday-01,136647561,"1 Queen-River to The Boardwalk",1,201751,10562
 1,16SUM-All-Sunday-01,136647661,"1 Queen-River to Fairview Park",0,201742,10536
 1,16SUM-All-Sunday-01,136647761,"1 Queen-River to Fairview Park",0,201744,10537
 1,16SUM-All-Sunday-01,136647861,"1 Queen-River to Fairview Park",0,201751,10538
@@ -5513,7 +5513,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 1,16SUM-All-Sunday-01,136649961,"1 Queen-River to Fairview Park",0,201751,10559
 1,16SUM-All-Sunday-01,136650061,"1 Queen-River to Fairview Park",0,201745,10560
 1,16SUM-All-Sunday-01,136650161,"1 Queen-River to Fairview Park",0,201751,10561
-1,16SUM-All-Sunday-01,136650261,"1 Queen-River to The Boardwalk",1,201745,10481
+1,16SUM-All-Sunday-01,136650261,"1 Queen-River to The Boardwalk",1,201745,10562
 20,16SUM-All-Sunday-01,136650361,"20 Victoria-Frederick to Stanley Park",0,201744,200022
 20,16SUM-All-Sunday-01,136650461,"20 Victoria-Frederick to Stanley Park",0,201752,200022
 20,16SUM-All-Sunday-01,136650561,"20 Victoria-Frederick to Stanley Park",0,201751,200022
@@ -5681,28 +5681,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 13,16SUM-All-Sunday-01,136673261,"13 Laurelwood to UW",0,201723,130025
 13,16SUM-All-Sunday-01,136673361,"13 Laurelwood to UW",0,201747,130025
 13,16SUM-All-Sunday-01,136673461,"13 Laurelwood to UW",0,201727,130025
-13,16SUM-All-Sunday-01,136673561,"13 Laurelwood to The Boardwalk",1,201747,130026
-13,16SUM-All-Sunday-01,136673661,"13 Laurelwood to The Boardwalk",1,201723,130026
-13,16SUM-All-Sunday-01,136673761,"13 Laurelwood to The Boardwalk",1,201727,130026
-13,16SUM-All-Sunday-01,136673861,"13 Laurelwood to The Boardwalk",1,201747,130026
-13,16SUM-All-Sunday-01,136673961,"13 Laurelwood to The Boardwalk",1,201723,130026
-13,16SUM-All-Sunday-01,136674061,"13 Laurelwood to The Boardwalk",1,201727,130026
-13,16SUM-All-Sunday-01,136674161,"13 Laurelwood to The Boardwalk",1,201747,130026
-13,16SUM-All-Sunday-01,136674261,"13 Laurelwood to The Boardwalk",1,201723,130026
-13,16SUM-All-Sunday-01,136674361,"13 Laurelwood to The Boardwalk",1,201727,130026
-13,16SUM-All-Sunday-01,136674461,"13 Laurelwood to The Boardwalk",1,201747,130026
-13,16SUM-All-Sunday-01,136674561,"13 Laurelwood to The Boardwalk",1,201706,130026
-13,16SUM-All-Sunday-01,136674661,"13 Laurelwood to The Boardwalk",1,201703,130026
-13,16SUM-All-Sunday-01,136674761,"13 Laurelwood to The Boardwalk",1,201707,130026
-13,16SUM-All-Sunday-01,136674861,"13 Laurelwood to The Boardwalk",1,201706,130026
-13,16SUM-All-Sunday-01,136674961,"13 Laurelwood to The Boardwalk",1,201703,130026
-13,16SUM-All-Sunday-01,136675061,"13 Laurelwood to The Boardwalk",1,201707,130026
-13,16SUM-All-Sunday-01,136675161,"13 Laurelwood to The Boardwalk",1,201706,130026
-13,16SUM-All-Sunday-01,136675261,"13 Laurelwood to The Boardwalk",1,201703,130026
-13,16SUM-All-Sunday-01,136675361,"13 Laurelwood to The Boardwalk",1,201707,130026
-13,16SUM-All-Sunday-01,136675461,"13 Laurelwood to The Boardwalk",1,201706,130026
-13,16SUM-All-Sunday-01,136675561,"13 Laurelwood to The Boardwalk",1,201703,130026
-13,16SUM-All-Sunday-01,136675661,"13 Laurelwood to The Boardwalk",1,201707,130026
+13,16SUM-All-Sunday-01,136673561,"13 Laurelwood to The Boardwalk",1,201747,130028
+13,16SUM-All-Sunday-01,136673661,"13 Laurelwood to The Boardwalk",1,201723,130028
+13,16SUM-All-Sunday-01,136673761,"13 Laurelwood to The Boardwalk",1,201727,130028
+13,16SUM-All-Sunday-01,136673861,"13 Laurelwood to The Boardwalk",1,201747,130028
+13,16SUM-All-Sunday-01,136673961,"13 Laurelwood to The Boardwalk",1,201723,130028
+13,16SUM-All-Sunday-01,136674061,"13 Laurelwood to The Boardwalk",1,201727,130028
+13,16SUM-All-Sunday-01,136674161,"13 Laurelwood to The Boardwalk",1,201747,130028
+13,16SUM-All-Sunday-01,136674261,"13 Laurelwood to The Boardwalk",1,201723,130028
+13,16SUM-All-Sunday-01,136674361,"13 Laurelwood to The Boardwalk",1,201727,130028
+13,16SUM-All-Sunday-01,136674461,"13 Laurelwood to The Boardwalk",1,201747,130028
+13,16SUM-All-Sunday-01,136674561,"13 Laurelwood to The Boardwalk",1,201706,130028
+13,16SUM-All-Sunday-01,136674661,"13 Laurelwood to The Boardwalk",1,201703,130028
+13,16SUM-All-Sunday-01,136674761,"13 Laurelwood to The Boardwalk",1,201707,130028
+13,16SUM-All-Sunday-01,136674861,"13 Laurelwood to The Boardwalk",1,201706,130028
+13,16SUM-All-Sunday-01,136674961,"13 Laurelwood to The Boardwalk",1,201703,130028
+13,16SUM-All-Sunday-01,136675061,"13 Laurelwood to The Boardwalk",1,201707,130028
+13,16SUM-All-Sunday-01,136675161,"13 Laurelwood to The Boardwalk",1,201706,130028
+13,16SUM-All-Sunday-01,136675261,"13 Laurelwood to The Boardwalk",1,201703,130028
+13,16SUM-All-Sunday-01,136675361,"13 Laurelwood to The Boardwalk",1,201707,130028
+13,16SUM-All-Sunday-01,136675461,"13 Laurelwood to The Boardwalk",1,201706,130028
+13,16SUM-All-Sunday-01,136675561,"13 Laurelwood to The Boardwalk",1,201703,130028
+13,16SUM-All-Sunday-01,136675661,"13 Laurelwood to The Boardwalk",1,201707,130028
 202,16SUM-All-Sunday-01,136675761,"202 iXpress Conestoga Mall",1,201709,2020595
 202,16SUM-All-Sunday-01,136675861,"202 iXpress Conestoga Mall",1,201705,2020595
 202,16SUM-All-Sunday-01,136675961,"202 iXpress Conestoga Mall",1,201704,2020595
