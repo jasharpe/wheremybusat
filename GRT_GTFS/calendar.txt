@@ -1,5 +1,5 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-16SUM-All-Weekday-01,1,1,1,1,1,0,0,20160728,20160902
-16SUM-All-Weekday-01-0001000,0,0,0,1,0,0,0,20160728,20160902
-16SUM-All-Saturday-01,0,0,0,0,0,1,0,20160730,20160903
-16SUM-All-Sunday-01,0,0,0,0,0,0,1,20160731,20160904
+16SUM-All-Weekday-01,1,1,1,1,1,0,0,20160804,20160902
+16SUM-All-Weekday-01-0001000,0,0,0,1,0,0,0,20160804,20160902
+16SUM-All-Saturday-01,0,0,0,0,0,1,0,20160806,20160903
+16SUM-All-Sunday-01,0,0,0,0,0,0,1,20160807,20160904
