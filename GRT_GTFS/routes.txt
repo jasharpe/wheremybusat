@@ -43,8 +43,12 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 75,75,Saginaw,3,ff6633,ffffff
 76,76,Doon South,3,2e3092,ffffff
 77,77,Wilmot,3,2e3092,ffffff
+78,78,Hanson,3,2e3092,ffffff
 110,110,College Express,3,,
+111,111,College Express,3,,
+116,116,College Express,3,,
 91,91,Late Night Loop,3,,
+92,92,University Loop Loop,3,,
 200,200,iXpress,3,005aa7,fdbc3b
 201,201,iXpress,3,000000,a6ce38
 202,202,iXpress,3,000000,a6ce38
