@@ -80,7 +80,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1100,1100,"Columbia / Fischer-Hallman",,  43.466991, -80.568294,,,0,
 1101,1101,"Ira Needles / Victoria",,  43.429414, -80.553171,,,0,
 1102,1102,"Columbia / Gatestone",,  43.465334, -80.572942,,,0,
-1103,1103,"Chicopee",,  43.435560, -80.416782,,,0,
 1104,1104,"Columbia / Cavendish",,  43.464006, -80.576783,,,0,
 1105,1105,"Columbia / Erbsville",,  43.462463, -80.580775,,,0,
 1106,1106,"Erbsville / Willow Wood",,  43.465168, -80.584193,,,0,
@@ -1385,6 +1384,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2709,2709,"Charles Terminal",,  43.449240, -80.492820,,,0,place_CST
 2710,2710,"Charles Terminal",,  43.449339, -80.492918,,,0,place_CST
 2711,2711,"Charles Terminal",,  43.448857, -80.491822,,,0,place_CST
+2713,2713,"Benton / Church",,  43.447469, -80.489411,,,0,
+2714,2714,"Benton / Courtland",,  43.445954, -80.491031,,,0,
 2715,2715,"Courtland / Peter",,  43.444101, -80.489415,,,0,
 2716,2716,"Courtland / Madison",,  43.442304, -80.486304,,,0,
 2718,2718,"Courtland / Palmer",,  43.439864, -80.482147,,,0,
@@ -1514,6 +1515,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2862,2862,"King / Kingsbury",,  43.429258, -80.434881,,,0,
 2863,2863,"G.R.T. Strasburg Garage",,  43.425349, -80.490289,,,0,
 2864,2864,"Chandler / Bonfield",,  43.424732, -80.495285,,,0,
+2865,2865,"Elmsdale / Chandler",,  43.423847, -80.496689,,,0,
+2866,2866,"Elmsdale / Ottawa",,  43.422008, -80.494221,,,0,
+2867,2867,"Ottawa / Howland",,  43.421220, -80.497254,,,0,
 2868,2868,"Path To Chandler",,  43.420667, -80.500582,,,0,
 2869,2869,"Ottawa / Westmount",,  43.420352, -80.502585,,,0,
 2870,2870,"Ottawa / Howe",,  43.419649, -80.506594,,,0,
@@ -2070,7 +2074,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3695,3695,"Keats Way / Brynhurst",,  43.456713, -80.564869,,,0,
 3697,3697,"Lake Louise / Kelso",,  43.490676, -80.581309,,,0,
 3698,3698,"Lake Louise / Pinery",,  43.492559, -80.581605,,,0,
-3713,3713,"Bingemans / Marshall Hall",,  43.474697, -80.452201,,,0,
 3715,3715,"Eastwood C.I.",,  43.439272, -80.461306,,,0,place_ECI
 3720,3720,"Grand River Hospital - Mount Hope Street",,  43.456159, -80.514492,,,0,
 3723,3723,"860 Trillium Dr",,  43.400139, -80.484672,,,0,
