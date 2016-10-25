@@ -832,128 +832,128 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 91,16FALL-All-Weekday-01-0001100,135090001,"Upward",0,199824,910006
 91,16FALL-All-Weekday-01-0001100,135090101,"Upward",0,199824,910007
 91,16FALL-All-Weekday-01-0001100,135090201,"Upward",0,199812,910006
-8,16FALL-All-Weekday-01,135090301,"University/King via Weber",0,199772,80072
-8,16FALL-All-Weekday-01,135090401,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135090501,"University/King via Crtlnd & Weber",0,199715,80073
-8,16FALL-All-Weekday-01,135090601,"University/King via Crtlnd & Weber",0,199700,80073
-8,16FALL-All-Weekday-01,135090701,"University/King via Crtlnd & Weber",0,199712,80073
-8,16FALL-All-Weekday-01,135090801,"University/King via Crtlnd & Weber",0,199716,80073
-8,16FALL-All-Weekday-01,135090901,"University/King via Crtlnd & Weber",0,199713,80073
-8,16FALL-All-Weekday-01,135091001,"University/King via Crtlnd & Weber",0,199717,80073
-8,16FALL-All-Weekday-01,135091101,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135091201,"University/King via Crtlnd & Weber",0,199715,80073
-8,16FALL-All-Weekday-01,135091301,"University/King via Crtlnd & Weber",0,199700,80073
-8,16FALL-All-Weekday-01,135091401,"University/King via Crtlnd & Weber",0,199712,80073
-8,16FALL-All-Weekday-01,135091501,"University/King via Crtlnd & Weber",0,199716,80073
-8,16FALL-All-Weekday-01,135091601,"University/King via Crtlnd & Weber",0,199713,80073
-8,16FALL-All-Weekday-01,135091701,"University/King via Crtlnd & Weber",0,199717,80073
-8,16FALL-All-Weekday-01,135091801,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135091901,"University/King via Crtlnd & Weber",0,199715,80073
-8,16FALL-All-Weekday-01,135092001,"University/King via Crtlnd & Weber",0,199700,80073
-8,16FALL-All-Weekday-01,135092101,"University/King via Crtlnd & Weber",0,199813,80073
-8,16FALL-All-Weekday-01,135092201,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135092301,"University/King via Crtlnd & Weber",0,199715,80073
-8,16FALL-All-Weekday-01,135092401,"University/King via Crtlnd & Weber",0,199700,80073
-8,16FALL-All-Weekday-01,135092501,"University/King via Crtlnd & Weber",0,199813,80074
-8,16FALL-All-Weekday-01,135092601,"University/King via Crtlnd & Weber",0,199714,80074
-8,16FALL-All-Weekday-01,135092701,"University/King via Crtlnd & Weber",0,199715,80074
-8,16FALL-All-Weekday-01,135092801,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135092901,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135093001,"University/King via Crtlnd & Weber",0,199700,80073
-8,16FALL-All-Weekday-01,135093101,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135093201,"University/King via Crtlnd & Weber",0,199715,80073
-8,16FALL-All-Weekday-01,135093301,"University/King via Crtlnd & Weber",0,199714,80073
-8,16FALL-All-Weekday-01,135093401,"University/King via Weber",0,199715,80072
-8,16FALL-All-Weekday-01,135093501,"Fairview Park via Courtland",1,199718,80076
-8,16FALL-All-Weekday-01,135093601,"Fairview Park via Courtland",1,199712,80076
-8,16FALL-All-Weekday-01,135093701,"Fairview Park via Weber & Courtland",1,199716,80077
-8,16FALL-All-Weekday-01,135093801,"Fairview Park via Weber & Courtland",1,199713,80077
-8,16FALL-All-Weekday-01,135093901,"Fairview Park via Weber & Courtland",1,199713,80078
-8,16FALL-All-Weekday-01,135094001,"Fairview Park via Weber & Courtland",1,199717,80077
-8,16FALL-All-Weekday-01,135094101,"Fairview Park via Weber & Courtland",1,199712,80077
-8,16FALL-All-Weekday-01,135094201,"Fairview Park via Weber & Courtland",1,199713,80078
-8,16FALL-All-Weekday-01,135094301,"Fairview Park via Weber & Courtland",1,199712,80078
-8,16FALL-All-Weekday-01,135094401,"Fairview Park via Weber & Courtland",1,199713,80078
-8,16FALL-All-Weekday-01,135094501,"Fairview Park via Weber & Courtland",1,199712,80077
-8,16FALL-All-Weekday-01,135094601,"Fairview Park via Weber & Courtland",1,199713,80078
-8,16FALL-All-Weekday-01,135094701,"Fairview Park via Weber & Courtland",1,199712,80078
-8,16FALL-All-Weekday-01,135094801,"Fairview Park via Weber & Courtland",1,199713,80078
-8,16FALL-All-Weekday-01,135094901,"Fairview Park via Franklin",1,199714,80067
-8,16FALL-All-Weekday-01,135095001,"Fairview Park via Franklin",1,199700,80067
-8,16FALL-All-Weekday-01,135095101,"Fairview Park via Westmount & Franklin",1,199813,80066
-8,16FALL-All-Weekday-01,135095201,"Fairview Park via Weber & Courtland",1,199716,80077
-8,16FALL-All-Weekday-01,135095301,"University/King via Crtlnd & Weber",0,199715,80073
-8,16FALL-All-Weekday-01,135095401,"University/King via Crtlnd & Weber",0,199700,80074
-8,16FALL-All-Weekday-01,135095501,"Fairview Park via Weber & Courtland",1,199717,80079
-8,16FALL-All-Weekday-01,135095601,"Fairview Park via Westmount & Franklin",1,199700,80071
-8,16FALL-All-Weekday-01,135095701,"Fairview Park via Westmount & Franklin",1,199715,80071
-8,16FALL-All-Weekday-01,135095801,"Fairview Park via Westmount & Franklin",1,199712,80071
-8,16FALL-All-Weekday-01,135095901,"Fairview Park via Westmount & Franklin",1,199716,80071
-8,16FALL-All-Weekday-01,135096001,"Fairview Park via Westmount & Franklin",1,199713,80071
-8,16FALL-All-Weekday-01,135096101,"Fairview Park via Westmount & Franklin",1,199717,80071
-8,16FALL-All-Weekday-01,135096201,"Fairview Park via Westmount & Franklin",1,199714,80071
-8,16FALL-All-Weekday-01,135096301,"Fairview Park via Westmount & Franklin",1,199715,80071
-8,16FALL-All-Weekday-01,135096401,"Fairview Park via Westmount & Franklin",1,199700,80071
-8,16FALL-All-Weekday-01,135096501,"Fairview Park via Westmount & Franklin",1,199712,80071
-8,16FALL-All-Weekday-01,135096601,"Fairview Park via Westmount & Franklin",1,199716,80071
-8,16FALL-All-Weekday-01,135096701,"Fairview Park via Westmount & Franklin",1,199713,80071
-8,16FALL-All-Weekday-01,135096801,"Fairview Park via Westmount & Franklin",1,199717,80071
-8,16FALL-All-Weekday-01,135096901,"Fairview Park via Weber & Courtland",1,199714,80079
-8,16FALL-All-Weekday-01,135097001,"Fairview Park via Weber & Courtland",1,199715,80079
-8,16FALL-All-Weekday-01,135097101,"Fairview Park via Weber & Courtland",1,199700,80079
-8,16FALL-All-Weekday-01,135097201,"Fairview Park via Weber & Courtland",1,199712,80079
-8,16FALL-All-Weekday-01,135097301,"Fairview Park via Weber & Courtland",1,199716,80079
-8,16FALL-All-Weekday-01,135097401,"Fairview Park via Weber & Courtland",1,199713,80079
-8,16FALL-All-Weekday-01,135097501,"Fairview Park via Weber & Courtland",1,199717,80079
-8,16FALL-All-Weekday-01,135097601,"Fairview Park via Weber & Courtland",1,199714,80079
-8,16FALL-All-Weekday-01,135097701,"Fairview Park via Weber & Courtland",1,199715,80079
-8,16FALL-All-Weekday-01,135097801,"Fairview Park via Weber & Courtland",1,199700,80079
-8,16FALL-All-Weekday-01,135097901,"Fairview Park via Weber & Courtland",1,199712,80080
-8,16FALL-All-Weekday-01,135098001,"Fairview Park via Weber & Courtland",1,199716,80079
-8,16FALL-All-Weekday-01,135098101,"Fairview Park via Weber & Courtland",1,199713,80078
-8,16FALL-All-Weekday-01,135098201,"University/King via Crtlnd & Weber",0,199717,80074
-8,16FALL-All-Weekday-01,135098301,"Fairview Park via Westmount & Franklin",1,199714,80071
-8,16FALL-All-Weekday-01,135098401,"Fairview Park via Westmount & Franklin",1,199715,80066
-8,16FALL-All-Weekday-01,135098501,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135098601,"University/King via Franklin & Westmount",0,199716,80052
-8,16FALL-All-Weekday-01,135098701,"University/King via Franklin & Westmount",0,199713,80052
-8,16FALL-All-Weekday-01,135098801,"University/King via Franklin & Westmount",0,199717,80052
-8,16FALL-All-Weekday-01,135098901,"University/King via Franklin & Westmount",0,199714,80052
-8,16FALL-All-Weekday-01,135099001,"University/King via Franklin & Westmount",0,199715,80052
-8,16FALL-All-Weekday-01,135099101,"University/King via Franklin & Westmount",0,199700,80052
-8,16FALL-All-Weekday-01,135099201,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135099301,"University/King via Franklin & Westmount",0,199716,80052
-8,16FALL-All-Weekday-01,135099401,"University/King via Franklin & Westmount",0,199713,80052
-8,16FALL-All-Weekday-01,135099501,"University/King via Franklin & Westmount",0,199717,80052
-8,16FALL-All-Weekday-01,135099601,"University/King via Franklin & Westmount",0,199714,80052
-8,16FALL-All-Weekday-01,135099701,"University/King via Franklin & Westmount",0,199715,80052
-8,16FALL-All-Weekday-01,135099801,"University/King via Franklin & Westmount",0,199700,80052
-8,16FALL-All-Weekday-01,135099901,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135100001,"University/King via Franklin & Westmount",0,199716,80052
-8,16FALL-All-Weekday-01,135100101,"University/King via Franklin & Westmount",0,199713,80052
-8,16FALL-All-Weekday-01,135100201,"University/King via Franklin & Westmount",0,199717,80052
-8,16FALL-All-Weekday-01,135100301,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135100401,"University/King via Franklin & Westmount",0,199716,80052
-8,16FALL-All-Weekday-01,135100501,"University/King via Franklin & Westmount",0,199713,80052
-8,16FALL-All-Weekday-01,135100601,"University/King via Franklin & Westmount",0,199717,80052
-8,16FALL-All-Weekday-01,135100701,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135100801,"University/King via Franklin & Westmount",0,199716,80052
-8,16FALL-All-Weekday-01,135100901,"University/King via Franklin & Westmount",0,199713,80052
+8,16FALL-All-Weekday-01,135090301,"University/King via Weber",0,199772,80081
+8,16FALL-All-Weekday-01,135090401,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135090501,"University/King via Crtlnd & Weber",0,199715,80082
+8,16FALL-All-Weekday-01,135090601,"University/King via Crtlnd & Weber",0,199700,80082
+8,16FALL-All-Weekday-01,135090701,"University/King via Crtlnd & Weber",0,199712,80082
+8,16FALL-All-Weekday-01,135090801,"University/King via Crtlnd & Weber",0,199716,80082
+8,16FALL-All-Weekday-01,135090901,"University/King via Crtlnd & Weber",0,199713,80082
+8,16FALL-All-Weekday-01,135091001,"University/King via Crtlnd & Weber",0,199717,80082
+8,16FALL-All-Weekday-01,135091101,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135091201,"University/King via Crtlnd & Weber",0,199715,80082
+8,16FALL-All-Weekday-01,135091301,"University/King via Crtlnd & Weber",0,199700,80082
+8,16FALL-All-Weekday-01,135091401,"University/King via Crtlnd & Weber",0,199712,80082
+8,16FALL-All-Weekday-01,135091501,"University/King via Crtlnd & Weber",0,199716,80082
+8,16FALL-All-Weekday-01,135091601,"University/King via Crtlnd & Weber",0,199713,80082
+8,16FALL-All-Weekday-01,135091701,"University/King via Crtlnd & Weber",0,199717,80082
+8,16FALL-All-Weekday-01,135091801,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135091901,"University/King via Crtlnd & Weber",0,199715,80082
+8,16FALL-All-Weekday-01,135092001,"University/King via Crtlnd & Weber",0,199700,80082
+8,16FALL-All-Weekday-01,135092101,"University/King via Crtlnd & Weber",0,199813,80082
+8,16FALL-All-Weekday-01,135092201,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135092301,"University/King via Crtlnd & Weber",0,199715,80082
+8,16FALL-All-Weekday-01,135092401,"University/King via Crtlnd & Weber",0,199700,80082
+8,16FALL-All-Weekday-01,135092501,"University/King via Crtlnd & Weber",0,199813,80083
+8,16FALL-All-Weekday-01,135092601,"University/King via Crtlnd & Weber",0,199714,80083
+8,16FALL-All-Weekday-01,135092701,"University/King via Crtlnd & Weber",0,199715,80083
+8,16FALL-All-Weekday-01,135092801,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135092901,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135093001,"University/King via Crtlnd & Weber",0,199700,80082
+8,16FALL-All-Weekday-01,135093101,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135093201,"University/King via Crtlnd & Weber",0,199715,80082
+8,16FALL-All-Weekday-01,135093301,"University/King via Crtlnd & Weber",0,199714,80082
+8,16FALL-All-Weekday-01,135093401,"University/King via Weber",0,199715,80081
+8,16FALL-All-Weekday-01,135093501,"Fairview Park via Courtland",1,199718,80084
+8,16FALL-All-Weekday-01,135093601,"Fairview Park via Courtland",1,199712,80084
+8,16FALL-All-Weekday-01,135093701,"Fairview Park via Weber & Courtland",1,199716,80085
+8,16FALL-All-Weekday-01,135093801,"Fairview Park via Weber & Courtland",1,199713,80085
+8,16FALL-All-Weekday-01,135093901,"Fairview Park via Weber & Courtland",1,199713,80086
+8,16FALL-All-Weekday-01,135094001,"Fairview Park via Weber & Courtland",1,199717,80085
+8,16FALL-All-Weekday-01,135094101,"Fairview Park via Weber & Courtland",1,199712,80085
+8,16FALL-All-Weekday-01,135094201,"Fairview Park via Weber & Courtland",1,199713,80086
+8,16FALL-All-Weekday-01,135094301,"Fairview Park via Weber & Courtland",1,199712,80086
+8,16FALL-All-Weekday-01,135094401,"Fairview Park via Weber & Courtland",1,199713,80086
+8,16FALL-All-Weekday-01,135094501,"Fairview Park via Weber & Courtland",1,199712,80085
+8,16FALL-All-Weekday-01,135094601,"Fairview Park via Weber & Courtland",1,199713,80086
+8,16FALL-All-Weekday-01,135094701,"Fairview Park via Weber & Courtland",1,199712,80086
+8,16FALL-All-Weekday-01,135094801,"Fairview Park via Weber & Courtland",1,199713,80086
+8,16FALL-All-Weekday-01,135094901,"Fairview Park via Franklin",1,199714,80087
+8,16FALL-All-Weekday-01,135095001,"Fairview Park via Franklin",1,199700,80087
+8,16FALL-All-Weekday-01,135095101,"Fairview Park via Westmount & Franklin",1,199813,80088
+8,16FALL-All-Weekday-01,135095201,"Fairview Park via Weber & Courtland",1,199716,80085
+8,16FALL-All-Weekday-01,135095301,"University/King via Crtlnd & Weber",0,199715,80082
+8,16FALL-All-Weekday-01,135095401,"University/King via Crtlnd & Weber",0,199700,80083
+8,16FALL-All-Weekday-01,135095501,"Fairview Park via Weber & Courtland",1,199717,80089
+8,16FALL-All-Weekday-01,135095601,"Fairview Park via Westmount & Franklin",1,199700,80090
+8,16FALL-All-Weekday-01,135095701,"Fairview Park via Westmount & Franklin",1,199715,80090
+8,16FALL-All-Weekday-01,135095801,"Fairview Park via Westmount & Franklin",1,199712,80090
+8,16FALL-All-Weekday-01,135095901,"Fairview Park via Westmount & Franklin",1,199716,80090
+8,16FALL-All-Weekday-01,135096001,"Fairview Park via Westmount & Franklin",1,199713,80090
+8,16FALL-All-Weekday-01,135096101,"Fairview Park via Westmount & Franklin",1,199717,80090
+8,16FALL-All-Weekday-01,135096201,"Fairview Park via Westmount & Franklin",1,199714,80090
+8,16FALL-All-Weekday-01,135096301,"Fairview Park via Westmount & Franklin",1,199715,80090
+8,16FALL-All-Weekday-01,135096401,"Fairview Park via Westmount & Franklin",1,199700,80090
+8,16FALL-All-Weekday-01,135096501,"Fairview Park via Westmount & Franklin",1,199712,80090
+8,16FALL-All-Weekday-01,135096601,"Fairview Park via Westmount & Franklin",1,199716,80090
+8,16FALL-All-Weekday-01,135096701,"Fairview Park via Westmount & Franklin",1,199713,80090
+8,16FALL-All-Weekday-01,135096801,"Fairview Park via Westmount & Franklin",1,199717,80090
+8,16FALL-All-Weekday-01,135096901,"Fairview Park via Weber & Courtland",1,199714,80089
+8,16FALL-All-Weekday-01,135097001,"Fairview Park via Weber & Courtland",1,199715,80089
+8,16FALL-All-Weekday-01,135097101,"Fairview Park via Weber & Courtland",1,199700,80089
+8,16FALL-All-Weekday-01,135097201,"Fairview Park via Weber & Courtland",1,199712,80089
+8,16FALL-All-Weekday-01,135097301,"Fairview Park via Weber & Courtland",1,199716,80089
+8,16FALL-All-Weekday-01,135097401,"Fairview Park via Weber & Courtland",1,199713,80089
+8,16FALL-All-Weekday-01,135097501,"Fairview Park via Weber & Courtland",1,199717,80089
+8,16FALL-All-Weekday-01,135097601,"Fairview Park via Weber & Courtland",1,199714,80089
+8,16FALL-All-Weekday-01,135097701,"Fairview Park via Weber & Courtland",1,199715,80089
+8,16FALL-All-Weekday-01,135097801,"Fairview Park via Weber & Courtland",1,199700,80089
+8,16FALL-All-Weekday-01,135097901,"Fairview Park via Weber & Courtland",1,199712,80091
+8,16FALL-All-Weekday-01,135098001,"Fairview Park via Weber & Courtland",1,199716,80089
+8,16FALL-All-Weekday-01,135098101,"Fairview Park via Weber & Courtland",1,199713,80086
+8,16FALL-All-Weekday-01,135098201,"University/King via Crtlnd & Weber",0,199717,80083
+8,16FALL-All-Weekday-01,135098301,"Fairview Park via Westmount & Franklin",1,199714,80090
+8,16FALL-All-Weekday-01,135098401,"Fairview Park via Westmount & Franklin",1,199715,80088
+8,16FALL-All-Weekday-01,135098501,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135098601,"University/King via Franklin & Westmount",0,199716,80092
+8,16FALL-All-Weekday-01,135098701,"University/King via Franklin & Westmount",0,199713,80092
+8,16FALL-All-Weekday-01,135098801,"University/King via Franklin & Westmount",0,199717,80092
+8,16FALL-All-Weekday-01,135098901,"University/King via Franklin & Westmount",0,199714,80092
+8,16FALL-All-Weekday-01,135099001,"University/King via Franklin & Westmount",0,199715,80092
+8,16FALL-All-Weekday-01,135099101,"University/King via Franklin & Westmount",0,199700,80092
+8,16FALL-All-Weekday-01,135099201,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135099301,"University/King via Franklin & Westmount",0,199716,80092
+8,16FALL-All-Weekday-01,135099401,"University/King via Franklin & Westmount",0,199713,80092
+8,16FALL-All-Weekday-01,135099501,"University/King via Franklin & Westmount",0,199717,80092
+8,16FALL-All-Weekday-01,135099601,"University/King via Franklin & Westmount",0,199714,80092
+8,16FALL-All-Weekday-01,135099701,"University/King via Franklin & Westmount",0,199715,80092
+8,16FALL-All-Weekday-01,135099801,"University/King via Franklin & Westmount",0,199700,80092
+8,16FALL-All-Weekday-01,135099901,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135100001,"University/King via Franklin & Westmount",0,199716,80092
+8,16FALL-All-Weekday-01,135100101,"University/King via Franklin & Westmount",0,199713,80092
+8,16FALL-All-Weekday-01,135100201,"University/King via Franklin & Westmount",0,199717,80092
+8,16FALL-All-Weekday-01,135100301,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135100401,"University/King via Franklin & Westmount",0,199716,80092
+8,16FALL-All-Weekday-01,135100501,"University/King via Franklin & Westmount",0,199713,80092
+8,16FALL-All-Weekday-01,135100601,"University/King via Franklin & Westmount",0,199717,80092
+8,16FALL-All-Weekday-01,135100701,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135100801,"University/King via Franklin & Westmount",0,199716,80092
+8,16FALL-All-Weekday-01,135100901,"University/King via Franklin & Westmount",0,199713,80092
 8,16FALL-All-Weekday-01,135101001,"University/King via Westmount",0,199713,80014
 8,16FALL-All-Weekday-01,135101101,"University/King via Westmount",0,199716,80014
-8,16FALL-All-Weekday-01,135101201,"Fairview Park via Westmount & Franklin",1,199717,80071
-8,16FALL-All-Weekday-01,135101301,"Fairview Park via Westmount & Franklin",1,199700,80066
-8,16FALL-All-Weekday-01,135101401,"University/King via Crtlnd & Weber",0,199700,80073
-8,16FALL-All-Weekday-01,135101501,"University/King via Crtlnd & Weber",0,199715,80073
-8,16FALL-All-Weekday-01,135101601,"Fairview Park via Weber & Courtland",1,199716,80078
+8,16FALL-All-Weekday-01,135101201,"Fairview Park via Westmount & Franklin",1,199717,80090
+8,16FALL-All-Weekday-01,135101301,"Fairview Park via Westmount & Franklin",1,199700,80088
+8,16FALL-All-Weekday-01,135101401,"University/King via Crtlnd & Weber",0,199700,80082
+8,16FALL-All-Weekday-01,135101501,"University/King via Crtlnd & Weber",0,199715,80082
+8,16FALL-All-Weekday-01,135101601,"Fairview Park via Weber & Courtland",1,199716,80086
 8,16FALL-All-Weekday-01,135101701,"University/King via Westmount",0,199744,80014
 8,16FALL-All-Weekday-01,135101801,"University/King via Westmount",0,199745,80014
 8,16FALL-All-Weekday-01,135101901,"University/King via Westmount",0,199744,80014
 8,16FALL-All-Weekday-01,135102001,"University/King via Westmount",0,199745,80014
-8,16FALL-All-Weekday-01,135102101,"University/King via Weber",0,199743,80075
-8,16FALL-All-Weekday-01,135102201,"University/King via Weber",0,199746,80075
-8,16FALL-All-Weekday-01,135102301,"University/King via Weber",0,199743,80075
-8,16FALL-All-Weekday-01,135102401,"University/King via Weber",0,199746,80075
+8,16FALL-All-Weekday-01,135102101,"University/King via Weber",0,199743,80093
+8,16FALL-All-Weekday-01,135102201,"University/King via Weber",0,199746,80093
+8,16FALL-All-Weekday-01,135102301,"University/King via Weber",0,199743,80093
+8,16FALL-All-Weekday-01,135102401,"University/King via Weber",0,199746,80093
 8,16FALL-All-Weekday-01,135102501,"University/King via Westmount",0,199744,80014
 8,16FALL-All-Weekday-01,135102601,"University/King via Westmount",0,199719,80014
 8,16FALL-All-Weekday-01,135102701,"University/King via Westmount",0,199745,80014
@@ -962,12 +962,12 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16FALL-All-Weekday-01,135103001,"University/King",0,199687,80014
 8,16FALL-All-Weekday-01,135103101,"University/King",0,199750,80014
 8,16FALL-All-Weekday-01,135103201,"University/King via Westmount",0,199694,80014
-8,16FALL-All-Weekday-01,135103301,"University/King via Weber",0,199718,80075
-8,16FALL-All-Weekday-01,135103401,"University/King via Weber",0,199750,80075
-8,16FALL-All-Weekday-01,135103501,"University/King via Weber",0,199718,80075
-8,16FALL-All-Weekday-01,135103601,"University/King via Weber",0,199750,80075
-8,16FALL-All-Weekday-01,135103701,"University/King via Weber",0,199718,80075
-8,16FALL-All-Weekday-01,135103801,"University/King via Franklin & Westmount",0,199718,80052
+8,16FALL-All-Weekday-01,135103301,"University/King via Weber",0,199718,80093
+8,16FALL-All-Weekday-01,135103401,"University/King via Weber",0,199750,80093
+8,16FALL-All-Weekday-01,135103501,"University/King via Weber",0,199718,80093
+8,16FALL-All-Weekday-01,135103601,"University/King via Weber",0,199750,80093
+8,16FALL-All-Weekday-01,135103701,"University/King via Weber",0,199718,80093
+8,16FALL-All-Weekday-01,135103801,"University/King via Franklin & Westmount",0,199718,80092
 8,16FALL-All-Weekday-01,135103901,"Charles Terminal via Westmount",1,199743,80018
 8,16FALL-All-Weekday-01,135104001,"Charles Terminal via Westmount",1,199746,80018
 8,16FALL-All-Weekday-01,135104101,"Charles Terminal via Westmount",1,199700,80018
@@ -995,43 +995,43 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 8,16FALL-All-Weekday-01,135106301,"Charles Terminal via Weber",1,199744,80064
 8,16FALL-All-Weekday-01,135106401,"Charles Terminal via Weber",1,199716,80064
 8,16FALL-All-Weekday-01,135106501,"Charles Terminal via Weber",1,199712,80064
-8,16FALL-All-Weekday-01,135106601,"Charles Terminal via Courtland",0,199715,80020
+8,16FALL-All-Weekday-01,135106601,"Charles Terminal via Courtland",0,199715,80094
 8,16FALL-All-Weekday-01,135106701,"Westmount/Union",1,199718,80021
 8,16FALL-All-Weekday-01,135106801,"University/King via Weber",0,199746,80022
 8,16FALL-All-Weekday-01,135106901,"University/King via Weber",0,199745,80022
-8,16FALL-All-Weekday-01,135107001,"Fairview Park via Weber & Courtland",1,199716,80078
-8,16FALL-All-Weekday-01,135107101,"Fairview Park via Weber & Courtland",1,199717,80078
-8,16FALL-All-Weekday-01,135107201,"Fairview Park via Weber & Courtland",1,199713,80078
-8,16FALL-All-Weekday-01,135107301,"Fairview Park via Weber & Courtland",1,199712,80078
-8,16FALL-All-Weekday-01,135107401,"Fairview Park via Westmount & Franklin",1,199715,80066
-8,16FALL-All-Weekday-01,135107501,"Fairview Park via Westmount & Franklin",1,199714,80066
-8,16FALL-All-Weekday-01,135107601,"Fairview Park via Westmount & Franklin",1,199813,80066
-8,16FALL-All-Weekday-01,135107701,"Fairview Park via Westmount & Franklin",1,199700,80066
-8,16FALL-All-Weekday-01,135107801,"Fairview Park via Weber & Courtland",1,199716,80078
-8,16FALL-All-Weekday-01,135107901,"Fairview Park via Weber & Courtland",1,199712,80078
-8,16FALL-All-Weekday-01,135108001,"Fairview Park via Westmount & Franklin",1,199715,80066
-8,16FALL-All-Weekday-01,135108101,"Fairview Park via Westmount & Franklin",1,199714,80066
+8,16FALL-All-Weekday-01,135107001,"Fairview Park via Weber & Courtland",1,199716,80086
+8,16FALL-All-Weekday-01,135107101,"Fairview Park via Weber & Courtland",1,199717,80086
+8,16FALL-All-Weekday-01,135107201,"Fairview Park via Weber & Courtland",1,199713,80086
+8,16FALL-All-Weekday-01,135107301,"Fairview Park via Weber & Courtland",1,199712,80086
+8,16FALL-All-Weekday-01,135107401,"Fairview Park via Westmount & Franklin",1,199715,80088
+8,16FALL-All-Weekday-01,135107501,"Fairview Park via Westmount & Franklin",1,199714,80088
+8,16FALL-All-Weekday-01,135107601,"Fairview Park via Westmount & Franklin",1,199813,80088
+8,16FALL-All-Weekday-01,135107701,"Fairview Park via Westmount & Franklin",1,199700,80088
+8,16FALL-All-Weekday-01,135107801,"Fairview Park via Weber & Courtland",1,199716,80086
+8,16FALL-All-Weekday-01,135107901,"Fairview Park via Weber & Courtland",1,199712,80086
+8,16FALL-All-Weekday-01,135108001,"Fairview Park via Westmount & Franklin",1,199715,80088
+8,16FALL-All-Weekday-01,135108101,"Fairview Park via Westmount & Franklin",1,199714,80088
 8,16FALL-All-Weekday-01,135108201,"Charles Terminal via Weber",1,199745,80064
-8,16FALL-All-Weekday-01,135108301,"Fairview Park via Westmount & Franklin",1,199715,80066
-8,16FALL-All-Weekday-01,135108401,"Fairview Park via Westmount & Franklin",1,199714,80066
-8,16FALL-All-Weekday-01,135108501,"Fairview Park via Westmount & Franklin",1,199700,80066
-8,16FALL-All-Weekday-01,135108601,"Fairview Park via Westmount & Franklin",1,199714,80066
-8,16FALL-All-Weekday-01,135108701,"Fairview Park via Westmount & Franklin",1,199715,80066
-8,16FALL-All-Weekday-01,135108801,"Fairview Park via Westmount & Franklin",1,199714,80066
-8,16FALL-All-Weekday-01,135108901,"Fairview Park via Westmount & Franklin",1,199700,80066
-8,16FALL-All-Weekday-01,135109001,"Fairview Park via Westmount & Franklin",1,199714,80066
-8,16FALL-All-Weekday-01,135109101,"Fairview Park via Westmount & Franklin",1,199715,80066
-8,16FALL-All-Weekday-01,135109201,"Fairview Park via Westmount & Franklin",1,199715,80066
-8,16FALL-All-Weekday-01,135109301,"University/King via Franklin & Westmount",0,199713,80052
-8,16FALL-All-Weekday-01,135109401,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135109501,"University/King via Franklin & Westmount",0,199716,80052
-8,16FALL-All-Weekday-01,135109601,"University/King via Franklin & Westmount",0,199713,80052
-8,16FALL-All-Weekday-01,135109701,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135109801,"University/King via Franklin & Westmount",0,199713,80052
-8,16FALL-All-Weekday-01,135109901,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135110001,"University/King via Franklin & Westmount",0,199712,80052
-8,16FALL-All-Weekday-01,135110101,"University/King via Franklin & Westmount",0,199716,80052
-8,16FALL-All-Weekday-01,135110201,"Charles Terminal via Franklin",0,199713,80057
+8,16FALL-All-Weekday-01,135108301,"Fairview Park via Westmount & Franklin",1,199715,80088
+8,16FALL-All-Weekday-01,135108401,"Fairview Park via Westmount & Franklin",1,199714,80088
+8,16FALL-All-Weekday-01,135108501,"Fairview Park via Westmount & Franklin",1,199700,80088
+8,16FALL-All-Weekday-01,135108601,"Fairview Park via Westmount & Franklin",1,199714,80088
+8,16FALL-All-Weekday-01,135108701,"Fairview Park via Westmount & Franklin",1,199715,80088
+8,16FALL-All-Weekday-01,135108801,"Fairview Park via Westmount & Franklin",1,199714,80088
+8,16FALL-All-Weekday-01,135108901,"Fairview Park via Westmount & Franklin",1,199700,80088
+8,16FALL-All-Weekday-01,135109001,"Fairview Park via Westmount & Franklin",1,199714,80088
+8,16FALL-All-Weekday-01,135109101,"Fairview Park via Westmount & Franklin",1,199715,80088
+8,16FALL-All-Weekday-01,135109201,"Fairview Park via Westmount & Franklin",1,199715,80088
+8,16FALL-All-Weekday-01,135109301,"University/King via Franklin & Westmount",0,199713,80092
+8,16FALL-All-Weekday-01,135109401,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135109501,"University/King via Franklin & Westmount",0,199716,80092
+8,16FALL-All-Weekday-01,135109601,"University/King via Franklin & Westmount",0,199713,80092
+8,16FALL-All-Weekday-01,135109701,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135109801,"University/King via Franklin & Westmount",0,199713,80092
+8,16FALL-All-Weekday-01,135109901,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135110001,"University/King via Franklin & Westmount",0,199712,80092
+8,16FALL-All-Weekday-01,135110101,"University/King via Franklin & Westmount",0,199716,80092
+8,16FALL-All-Weekday-01,135110201,"Charles Terminal via Franklin",0,199713,80095
 27,16FALL-All-Weekday-01,135110301,"Quinte/Morrison",0,199781,270003
 27,16FALL-All-Weekday-01,135110401,"Quinte/Morrison",0,199787,270003
 27,16FALL-All-Weekday-01,135110501,"Quinte/Morrison",0,199782,270003
@@ -1102,88 +1102,88 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 27,16FALL-All-Weekday-01,135117001,"Fairview Park",1,199791,270004
 27,16FALL-All-Weekday-01,135117101,"Fairview Park",1,199782,270004
 27,16FALL-All-Weekday-01,135117201,"Fairview Park",1,199783,270004
-3,16FALL-All-Weekday-01,135117301,"Charles Terminal",1,199703,30001
-3,16FALL-All-Weekday-01,135117401,"Charles Terminal",1,199704,30001
-3,16FALL-All-Weekday-01,135117501,"Charles Terminal",1,199703,30001
-3,16FALL-All-Weekday-01,135117601,"Charles Terminal",1,205341,30001
-3,16FALL-All-Weekday-01,135117701,"Charles Terminal",1,199703,30001
-3,16FALL-All-Weekday-01,135117801,"Charles Terminal",1,205341,30001
-3,16FALL-All-Weekday-01,135117901,"Charles Terminal",1,199732,30001
-3,16FALL-All-Weekday-01,135118001,"Charles Terminal",1,205340,30001
-3,16FALL-All-Weekday-01,135118101,"Charles Terminal",1,199703,30001
-3,16FALL-All-Weekday-01,135118201,"Charles Terminal",1,205341,30001
-3,16FALL-All-Weekday-01,135118301,"Charles Terminal",1,199759,30001
-3,16FALL-All-Weekday-01,135118401,"Charles Terminal",1,199898,30001
-3,16FALL-All-Weekday-01,135118501,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135118601,"Charles Terminal",1,199899,30001
-3,16FALL-All-Weekday-01,135118701,"Charles Terminal",1,199704,30001
-3,16FALL-All-Weekday-01,135118801,"Charles Terminal",1,205340,30001
-3,16FALL-All-Weekday-01,135118901,"Charles Terminal",1,199703,30001
-3,16FALL-All-Weekday-01,135119001,"Charles Terminal",1,205341,30001
-3,16FALL-All-Weekday-01,135119101,"Charles Terminal",1,199759,30001
-3,16FALL-All-Weekday-01,135119201,"Charles Terminal",1,199898,30001
-3,16FALL-All-Weekday-01,135119301,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135119401,"Charles Terminal",1,199899,30001
-3,16FALL-All-Weekday-01,135119501,"Charles Terminal",1,199836,30001
-3,16FALL-All-Weekday-01,135119601,"Charles Terminal",1,199898,30001
-3,16FALL-All-Weekday-01,135119701,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135119801,"Charles Terminal",1,199898,30001
-3,16FALL-All-Weekday-01,135119901,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135120001,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135120101,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135120201,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135120301,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135120401,"Charles Terminal",1,199897,30001
-3,16FALL-All-Weekday-01,135120501,"Charles Terminal",1,199694,30001
-3,16FALL-All-Weekday-01,135120601,"Charles Terminal",1,199694,30001
-3,16FALL-All-Weekday-01,135120701,"Charles Terminal",1,199750,30001
-3,16FALL-All-Weekday-01,135120801,"Charles Terminal",1,199800,30001
-3,16FALL-All-Weekday-01,135120901,"Charles Terminal",1,205342,30001
-3,16FALL-All-Weekday-01,135121001,"Charles Terminal",1,199839,30001
-3,16FALL-All-Weekday-01,135121101,"Charles Terminal",1,199688,30001
-3,16FALL-All-Weekday-01,135121201,"Charles Terminal",1,199838,30001
+3,16FALL-All-Weekday-01,135117301,"Charles Terminal",1,199703,30019
+3,16FALL-All-Weekday-01,135117401,"Charles Terminal",1,199704,30019
+3,16FALL-All-Weekday-01,135117501,"Charles Terminal",1,199703,30019
+3,16FALL-All-Weekday-01,135117601,"Charles Terminal",1,205341,30019
+3,16FALL-All-Weekday-01,135117701,"Charles Terminal",1,199703,30019
+3,16FALL-All-Weekday-01,135117801,"Charles Terminal",1,205341,30019
+3,16FALL-All-Weekday-01,135117901,"Charles Terminal",1,199732,30019
+3,16FALL-All-Weekday-01,135118001,"Charles Terminal",1,205340,30019
+3,16FALL-All-Weekday-01,135118101,"Charles Terminal",1,199703,30019
+3,16FALL-All-Weekday-01,135118201,"Charles Terminal",1,205341,30019
+3,16FALL-All-Weekday-01,135118301,"Charles Terminal",1,199759,30019
+3,16FALL-All-Weekday-01,135118401,"Charles Terminal",1,199898,30019
+3,16FALL-All-Weekday-01,135118501,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135118601,"Charles Terminal",1,199899,30019
+3,16FALL-All-Weekday-01,135118701,"Charles Terminal",1,199704,30019
+3,16FALL-All-Weekday-01,135118801,"Charles Terminal",1,205340,30019
+3,16FALL-All-Weekday-01,135118901,"Charles Terminal",1,199703,30019
+3,16FALL-All-Weekday-01,135119001,"Charles Terminal",1,205341,30019
+3,16FALL-All-Weekday-01,135119101,"Charles Terminal",1,199759,30019
+3,16FALL-All-Weekday-01,135119201,"Charles Terminal",1,199898,30019
+3,16FALL-All-Weekday-01,135119301,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135119401,"Charles Terminal",1,199899,30019
+3,16FALL-All-Weekday-01,135119501,"Charles Terminal",1,199836,30019
+3,16FALL-All-Weekday-01,135119601,"Charles Terminal",1,199898,30019
+3,16FALL-All-Weekday-01,135119701,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135119801,"Charles Terminal",1,199898,30019
+3,16FALL-All-Weekday-01,135119901,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135120001,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135120101,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135120201,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135120301,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135120401,"Charles Terminal",1,199897,30019
+3,16FALL-All-Weekday-01,135120501,"Charles Terminal",1,199694,30019
+3,16FALL-All-Weekday-01,135120601,"Charles Terminal",1,199694,30019
+3,16FALL-All-Weekday-01,135120701,"Charles Terminal",1,199750,30019
+3,16FALL-All-Weekday-01,135120801,"Charles Terminal",1,199800,30019
+3,16FALL-All-Weekday-01,135120901,"Charles Terminal",1,205342,30019
+3,16FALL-All-Weekday-01,135121001,"Charles Terminal",1,199839,30019
+3,16FALL-All-Weekday-01,135121101,"Charles Terminal",1,199688,30019
+3,16FALL-All-Weekday-01,135121201,"Charles Terminal",1,199838,30019
 3,16FALL-All-Weekday-01,135121301,"Chandler",1,199897,30009
-3,16FALL-All-Weekday-01,135121401,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135121501,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135121601,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135121701,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135121801,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135121901,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135122001,"Forest Glen",0,199897,30018
-3,16FALL-All-Weekday-01,135122101,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135122201,"Forest Glen",0,199704,30018
-3,16FALL-All-Weekday-01,135122301,"Forest Glen",0,199836,30018
-3,16FALL-All-Weekday-01,135122401,"Forest Glen",0,199838,30018
-3,16FALL-All-Weekday-01,135122501,"Forest Glen",0,199899,30018
-3,16FALL-All-Weekday-01,135122601,"Forest Glen",0,199688,30018
-3,16FALL-All-Weekday-01,135122701,"Forest Glen",0,199897,30018
-3,16FALL-All-Weekday-01,135122801,"Forest Glen",0,199839,30018
-3,16FALL-All-Weekday-01,135122901,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135123001,"Forest Glen",0,199804,30018
-3,16FALL-All-Weekday-01,135123101,"Forest Glen",0,199836,30018
-3,16FALL-All-Weekday-01,135123201,"Forest Glen",0,199899,30018
-3,16FALL-All-Weekday-01,135123301,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135123401,"Forest Glen",0,205341,30018
-3,16FALL-All-Weekday-01,135123501,"Forest Glen",0,205340,30018
-3,16FALL-All-Weekday-01,135123601,"Forest Glen",0,199899,30018
-3,16FALL-All-Weekday-01,135123701,"Forest Glen",0,199898,30018
-3,16FALL-All-Weekday-01,135123801,"Forest Glen",0,199759,30018
-3,16FALL-All-Weekday-01,135123901,"Forest Glen",0,205341,30018
-3,16FALL-All-Weekday-01,135124001,"Forest Glen",0,199703,30018
-3,16FALL-All-Weekday-01,135124101,"Forest Glen",0,205341,30018
-3,16FALL-All-Weekday-01,135124201,"Forest Glen",0,199703,30018
-3,16FALL-All-Weekday-01,135124301,"Forest Glen",0,205341,30018
-3,16FALL-All-Weekday-01,135124401,"Forest Glen",0,199703,30018
-3,16FALL-All-Weekday-01,135124501,"Forest Glen",0,199838,30018
-3,16FALL-All-Weekday-01,135124601,"Forest Glen",0,199897,30018
-3,16FALL-All-Weekday-01,135124701,"Forest Glen",0,199759,30018
-3,16FALL-All-Weekday-01,135124801,"Forest Glen",0,199703,30018
-3,16FALL-All-Weekday-01,135124901,"Forest Glen",0,199704,30018
-3,16FALL-All-Weekday-01,135125001,"Forest Glen",0,199897,30018
+3,16FALL-All-Weekday-01,135121401,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135121501,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135121601,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135121701,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135121801,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135121901,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135122001,"Forest Glen",0,199897,30020
+3,16FALL-All-Weekday-01,135122101,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135122201,"Forest Glen",0,199704,30020
+3,16FALL-All-Weekday-01,135122301,"Forest Glen",0,199836,30020
+3,16FALL-All-Weekday-01,135122401,"Forest Glen",0,199838,30020
+3,16FALL-All-Weekday-01,135122501,"Forest Glen",0,199899,30020
+3,16FALL-All-Weekday-01,135122601,"Forest Glen",0,199688,30020
+3,16FALL-All-Weekday-01,135122701,"Forest Glen",0,199897,30020
+3,16FALL-All-Weekday-01,135122801,"Forest Glen",0,199839,30020
+3,16FALL-All-Weekday-01,135122901,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135123001,"Forest Glen",0,199804,30020
+3,16FALL-All-Weekday-01,135123101,"Forest Glen",0,199836,30020
+3,16FALL-All-Weekday-01,135123201,"Forest Glen",0,199899,30020
+3,16FALL-All-Weekday-01,135123301,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135123401,"Forest Glen",0,205341,30020
+3,16FALL-All-Weekday-01,135123501,"Forest Glen",0,205340,30020
+3,16FALL-All-Weekday-01,135123601,"Forest Glen",0,199899,30020
+3,16FALL-All-Weekday-01,135123701,"Forest Glen",0,199898,30020
+3,16FALL-All-Weekday-01,135123801,"Forest Glen",0,199759,30020
+3,16FALL-All-Weekday-01,135123901,"Forest Glen",0,205341,30020
+3,16FALL-All-Weekday-01,135124001,"Forest Glen",0,199703,30020
+3,16FALL-All-Weekday-01,135124101,"Forest Glen",0,205341,30020
+3,16FALL-All-Weekday-01,135124201,"Forest Glen",0,199703,30020
+3,16FALL-All-Weekday-01,135124301,"Forest Glen",0,205341,30020
+3,16FALL-All-Weekday-01,135124401,"Forest Glen",0,199703,30020
+3,16FALL-All-Weekday-01,135124501,"Forest Glen",0,199838,30020
+3,16FALL-All-Weekday-01,135124601,"Forest Glen",0,199897,30020
+3,16FALL-All-Weekday-01,135124701,"Forest Glen",0,199759,30020
+3,16FALL-All-Weekday-01,135124801,"Forest Glen",0,199703,30020
+3,16FALL-All-Weekday-01,135124901,"Forest Glen",0,199704,30020
+3,16FALL-All-Weekday-01,135125001,"Forest Glen",0,199897,30020
 3,16FALL-All-Weekday-01,135125101,"Forest Glen",0,199704,30003
 9851,16FALL-All-Weekday-01,135125201,"Northview Special",1,206372,98510003
 9801,16FALL-All-Weekday-01,135125301,"GCI Special",1,199877,98010002
-9931,16FALL-All-Weekday-01,135125401,"Huron Industrial Special",0,199694,99310004
+9931,16FALL-All-Weekday-01,135125401,"Huron Industrial Special",0,199694,99310005
 201,16FALL-All-Weekday-01,135125501,"Conestoga Mall",1,199734,2010001
 201,16FALL-All-Weekday-01,135125601,"Conestoga Mall",1,199737,2010001
 201,16FALL-All-Weekday-01,135125701,"Conestoga Mall",1,199736,2010001
@@ -1594,40 +1594,40 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 51,16FALL-All-Weekday-01,135166201,"Ainslie Terminal",0,199879,510003
 51,16FALL-All-Weekday-01,135166301,"Ainslie Terminal",0,199880,510003
 51,16FALL-All-Weekday-01,135166401,"Ainslie Terminal",0,199881,510003
-51,16FALL-All-Weekday-01,135166501,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135166601,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135166701,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135166801,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135166901,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135167001,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135167101,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135167201,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135167301,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135167401,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135167501,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135167601,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135167701,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135167801,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135167901,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135168001,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135168101,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135168201,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135168301,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135168401,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135168501,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135168601,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135168701,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135168801,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135168901,"Cambridge Centre",0,199881,510004
-51,16FALL-All-Weekday-01,135169001,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135169101,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135169201,"Cambridge Centre",0,199879,510004
-51,16FALL-All-Weekday-01,135169301,"Cambridge Centre",0,199881,510004
+51,16FALL-All-Weekday-01,135166501,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135166601,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135166701,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135166801,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135166901,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135167001,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135167101,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135167201,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135167301,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135167401,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135167501,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135167601,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135167701,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135167801,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135167901,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135168001,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135168101,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135168201,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135168301,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135168401,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135168501,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135168601,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135168701,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135168801,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135168901,"Ainslie Terminal",0,199881,510004
+51,16FALL-All-Weekday-01,135169001,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135169101,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135169201,"Ainslie Terminal",0,199879,510004
+51,16FALL-All-Weekday-01,135169301,"Ainslie Terminal",0,199881,510004
 51,16FALL-All-Weekday-01,135169401,"A - Fisher Mills",1,199880,510005
 51,16FALL-All-Weekday-01,135169501,"A - Fisher Mills",1,199879,510006
 51,16FALL-All-Weekday-01,135169601,"Ainslie Terminal",0,199881,510007
-51,16FALL-All-Weekday-01,135169701,"Cambridge Centre",0,199880,510004
-51,16FALL-All-Weekday-01,135169801,"Cambridge Centre",0,199879,510004
+51,16FALL-All-Weekday-01,135169701,"Ainslie Terminal",0,199880,510004
+51,16FALL-All-Weekday-01,135169801,"Ainslie Terminal",0,199879,510004
 51,16FALL-All-Weekday-01,135169901,"Holiday Inn Dr.",0,199879,510008
 51,16FALL-All-Weekday-01,135170001,"Ainslie Terminal",0,199882,510003
 51,16FALL-All-Weekday-01,135170101,"Ainslie Terminal",0,199883,510003
@@ -1901,68 +1901,68 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 57,16FALL-All-Weekday-01,135225801,"West",1,199770,570001
 57,16FALL-All-Weekday-01,135225901,"West",1,199770,570001
 57,16FALL-All-Weekday-01,135226001,"West",1,199770,570001
-22,16FALL-All-Weekday-01,135232901,"Highland Hills",1,199704,220007
-22,16FALL-All-Weekday-01,135233001,"Highland Hills",1,199899,220007
-22,16FALL-All-Weekday-01,135233101,"Highland Hills",1,199759,220007
-22,16FALL-All-Weekday-01,135233201,"Highland Hills",1,199898,220007
-22,16FALL-All-Weekday-01,135233301,"Highland Hills",1,199897,220007
-22,16FALL-All-Weekday-01,135233401,"Highland Hills",1,199899,220007
-22,16FALL-All-Weekday-01,135233501,"Highland Hills",1,199704,220007
-22,16FALL-All-Weekday-01,135233601,"Highland Hills",1,205340,220007
-22,16FALL-All-Weekday-01,135233701,"Highland Hills",1,199703,220007
-22,16FALL-All-Weekday-01,135233801,"Highland Hills",1,205341,220007
-22,16FALL-All-Weekday-01,135233901,"Highland Hills",1,199759,220007
-22,16FALL-All-Weekday-01,135234001,"Highland Hills",1,199898,220007
-22,16FALL-All-Weekday-01,135234101,"Highland Hills",1,199897,220007
-22,16FALL-All-Weekday-01,135234201,"Highland Hills",1,199899,220007
-22,16FALL-All-Weekday-01,135234301,"Highland Hills",1,199704,220007
-22,16FALL-All-Weekday-01,135234401,"Highland Hills",1,205340,220007
-22,16FALL-All-Weekday-01,135234501,"Highland Hills",1,199703,220007
-22,16FALL-All-Weekday-01,135234601,"Highland Hills",1,205341,220007
-22,16FALL-All-Weekday-01,135234701,"Highland Hills",1,199759,220007
-22,16FALL-All-Weekday-01,135234801,"Highland Hills",1,199704,220007
-22,16FALL-All-Weekday-01,135234901,"Highland Hills",1,205340,220007
-22,16FALL-All-Weekday-01,135235001,"Highland Hills",1,199703,220007
-22,16FALL-All-Weekday-01,135235101,"Highland Hills",1,205341,220007
-22,16FALL-All-Weekday-01,135235201,"Highland Hills",1,199759,220007
-22,16FALL-All-Weekday-01,135235301,"Highland Hills",1,205338,220007
-22,16FALL-All-Weekday-01,135235401,"Highland Hills",1,205340,220007
-22,16FALL-All-Weekday-01,135235501,"Highland Hills",1,205341,220007
-22,16FALL-All-Weekday-01,135235601,"Highland Hills",1,205338,220007
-22,16FALL-All-Weekday-01,135235701,"Highland Hills",1,205340,220007
-22,16FALL-All-Weekday-01,135235801,"Highland Hills",1,199897,220008
-22,16FALL-All-Weekday-01,135235901,"Highland Hills",1,199898,220009
-22,16FALL-All-Weekday-01,135236001,"Charles Terminal",0,205341,220010
-22,16FALL-All-Weekday-01,135236101,"Charles Terminal",0,205338,220010
-22,16FALL-All-Weekday-01,135236201,"Charles Terminal",0,199898,220010
-22,16FALL-All-Weekday-01,135236301,"Charles Terminal",0,205341,220010
-22,16FALL-All-Weekday-01,135236401,"Charles Terminal",0,199897,220010
-22,16FALL-All-Weekday-01,135236501,"Charles Terminal",0,199899,220010
-22,16FALL-All-Weekday-01,135236601,"Charles Terminal",0,199704,220010
-22,16FALL-All-Weekday-01,135236701,"Charles Terminal",0,199759,220010
-22,16FALL-All-Weekday-01,135236801,"Charles Terminal",0,199898,220010
-22,16FALL-All-Weekday-01,135236901,"Charles Terminal",0,199897,220010
-22,16FALL-All-Weekday-01,135237001,"Charles Terminal",0,199899,220010
-22,16FALL-All-Weekday-01,135237101,"Charles Terminal",0,199704,220010
-22,16FALL-All-Weekday-01,135237201,"Charles Terminal",0,205340,220010
-22,16FALL-All-Weekday-01,135237301,"Charles Terminal",0,199703,220010
-22,16FALL-All-Weekday-01,135237401,"Charles Terminal",0,205341,220010
-22,16FALL-All-Weekday-01,135237501,"Charles Terminal",0,199759,220010
-22,16FALL-All-Weekday-01,135237601,"Charles Terminal",0,199898,220010
-22,16FALL-All-Weekday-01,135237701,"Charles Terminal",0,199897,220010
-22,16FALL-All-Weekday-01,135237801,"Charles Terminal",0,199899,220010
-22,16FALL-All-Weekday-01,135237901,"Charles Terminal",0,199704,220010
-22,16FALL-All-Weekday-01,135238001,"Charles Terminal",0,205340,220010
-22,16FALL-All-Weekday-01,135238101,"Charles Terminal",0,199703,220010
-22,16FALL-All-Weekday-01,135238201,"Charles Terminal",0,205341,220010
-22,16FALL-All-Weekday-01,135238301,"Charles Terminal",0,199759,220010
-22,16FALL-All-Weekday-01,135238401,"Charles Terminal",0,199704,220010
-22,16FALL-All-Weekday-01,135238501,"Charles Terminal",0,205340,220010
-22,16FALL-All-Weekday-01,135238601,"Charles Terminal",0,199703,220010
-22,16FALL-All-Weekday-01,135238701,"Charles Terminal",0,205341,220010
-22,16FALL-All-Weekday-01,135238801,"Charles Terminal",0,199759,220010
-22,16FALL-All-Weekday-01,135238901,"Charles Terminal",0,205338,220010
-22,16FALL-All-Weekday-01,135239001,"Charles Terminal",0,205340,220010
+22,16FALL-All-Weekday-01,135232901,"Highland Hills",1,199704,220014
+22,16FALL-All-Weekday-01,135233001,"Highland Hills",1,199899,220015
+22,16FALL-All-Weekday-01,135233101,"Highland Hills",1,199759,220014
+22,16FALL-All-Weekday-01,135233201,"Highland Hills",1,199898,220015
+22,16FALL-All-Weekday-01,135233301,"Highland Hills",1,199897,220015
+22,16FALL-All-Weekday-01,135233401,"Highland Hills",1,199899,220015
+22,16FALL-All-Weekday-01,135233501,"Highland Hills",1,199704,220014
+22,16FALL-All-Weekday-01,135233601,"Highland Hills",1,205340,220014
+22,16FALL-All-Weekday-01,135233701,"Highland Hills",1,199703,220014
+22,16FALL-All-Weekday-01,135233801,"Highland Hills",1,205341,220014
+22,16FALL-All-Weekday-01,135233901,"Highland Hills",1,199759,220014
+22,16FALL-All-Weekday-01,135234001,"Highland Hills",1,199898,220014
+22,16FALL-All-Weekday-01,135234101,"Highland Hills",1,199897,220014
+22,16FALL-All-Weekday-01,135234201,"Highland Hills",1,199899,220014
+22,16FALL-All-Weekday-01,135234301,"Highland Hills",1,199704,220014
+22,16FALL-All-Weekday-01,135234401,"Highland Hills",1,205340,220015
+22,16FALL-All-Weekday-01,135234501,"Highland Hills",1,199703,220014
+22,16FALL-All-Weekday-01,135234601,"Highland Hills",1,205341,220014
+22,16FALL-All-Weekday-01,135234701,"Highland Hills",1,199759,220014
+22,16FALL-All-Weekday-01,135234801,"Highland Hills",1,199704,220014
+22,16FALL-All-Weekday-01,135234901,"Highland Hills",1,205340,220015
+22,16FALL-All-Weekday-01,135235001,"Highland Hills",1,199703,220015
+22,16FALL-All-Weekday-01,135235101,"Highland Hills",1,205341,220015
+22,16FALL-All-Weekday-01,135235201,"Highland Hills",1,199759,220015
+22,16FALL-All-Weekday-01,135235301,"Highland Hills",1,205338,220014
+22,16FALL-All-Weekday-01,135235401,"Highland Hills",1,205340,220014
+22,16FALL-All-Weekday-01,135235501,"Highland Hills",1,205341,220014
+22,16FALL-All-Weekday-01,135235601,"Highland Hills",1,205338,220014
+22,16FALL-All-Weekday-01,135235701,"Highland Hills",1,205340,220014
+22,16FALL-All-Weekday-01,135235801,"Highland Hills",1,199897,220016
+22,16FALL-All-Weekday-01,135235901,"Highland Hills",1,199898,220017
+22,16FALL-All-Weekday-01,135236001,"Charles Terminal",0,205341,220018
+22,16FALL-All-Weekday-01,135236101,"Charles Terminal",0,205338,220019
+22,16FALL-All-Weekday-01,135236201,"Charles Terminal",0,199898,220019
+22,16FALL-All-Weekday-01,135236301,"Charles Terminal",0,205341,220019
+22,16FALL-All-Weekday-01,135236401,"Charles Terminal",0,199897,220019
+22,16FALL-All-Weekday-01,135236501,"Charles Terminal",0,199899,220019
+22,16FALL-All-Weekday-01,135236601,"Charles Terminal",0,199704,220019
+22,16FALL-All-Weekday-01,135236701,"Charles Terminal",0,199759,220019
+22,16FALL-All-Weekday-01,135236801,"Charles Terminal",0,199898,220018
+22,16FALL-All-Weekday-01,135236901,"Charles Terminal",0,199897,220019
+22,16FALL-All-Weekday-01,135237001,"Charles Terminal",0,199899,220019
+22,16FALL-All-Weekday-01,135237101,"Charles Terminal",0,199704,220019
+22,16FALL-All-Weekday-01,135237201,"Charles Terminal",0,205340,220019
+22,16FALL-All-Weekday-01,135237301,"Charles Terminal",0,199703,220019
+22,16FALL-All-Weekday-01,135237401,"Charles Terminal",0,205341,220019
+22,16FALL-All-Weekday-01,135237501,"Charles Terminal",0,199759,220019
+22,16FALL-All-Weekday-01,135237601,"Charles Terminal",0,199898,220019
+22,16FALL-All-Weekday-01,135237701,"Charles Terminal",0,199897,220019
+22,16FALL-All-Weekday-01,135237801,"Charles Terminal",0,199899,220019
+22,16FALL-All-Weekday-01,135237901,"Charles Terminal",0,199704,220019
+22,16FALL-All-Weekday-01,135238001,"Charles Terminal",0,205340,220019
+22,16FALL-All-Weekday-01,135238101,"Charles Terminal",0,199703,220019
+22,16FALL-All-Weekday-01,135238201,"Charles Terminal",0,205341,220019
+22,16FALL-All-Weekday-01,135238301,"Charles Terminal",0,199759,220019
+22,16FALL-All-Weekday-01,135238401,"Charles Terminal",0,199704,220019
+22,16FALL-All-Weekday-01,135238501,"Charles Terminal",0,205340,220018
+22,16FALL-All-Weekday-01,135238601,"Charles Terminal",0,199703,220019
+22,16FALL-All-Weekday-01,135238701,"Charles Terminal",0,205341,220019
+22,16FALL-All-Weekday-01,135238801,"Charles Terminal",0,199759,220019
+22,16FALL-All-Weekday-01,135238901,"Charles Terminal",0,205338,220019
+22,16FALL-All-Weekday-01,135239001,"Charles Terminal",0,205340,220019
 63,16FALL-All-Weekday-01,135239101,"East",0,199711,630002
 63,16FALL-All-Weekday-01,135239201,"East",0,206340,630002
 63,16FALL-All-Weekday-01,135239301,"East",0,199711,630002
@@ -3332,71 +3332,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 72,16FALL-All-Weekday-01,139768301,"East",0,199705,720008
 72,16FALL-All-Weekday-01,139768401,"East",0,205475,720008
 72,16FALL-All-Weekday-01,139768501,"East",0,199705,720008
-55,16FALL-All-Weekday-01,139954901,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139955001,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139955101,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139955201,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139955301,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139955401,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139955501,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139955601,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139955701,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139955801,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139955901,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139956001,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139956101,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139956201,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139956301,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139956401,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139956501,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139956601,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139956701,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139956801,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139956901,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139957001,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139957101,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139957201,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139957301,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139957401,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139957501,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139957601,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139957701,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139957801,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139957901,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139958001,"West",1,206340,550007
-55,16FALL-All-Weekday-01,139958101,"West",1,199711,550007
-55,16FALL-All-Weekday-01,139958201,"West",1,199769,550007
-55,16FALL-All-Weekday-01,139958301,"West",1,199769,550007
-62,16FALL-All-Weekday-01,139961801,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139961901,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139962001,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139962101,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139962201,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139962301,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139962401,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139962501,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139962601,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139962701,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139962801,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139962901,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139963001,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139963101,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139963201,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139963301,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139963401,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139963501,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139963601,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139963701,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139963801,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139963901,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139964001,"West",1,206337,620005
-62,16FALL-All-Weekday-01,139964101,"West",1,206338,620005
-62,16FALL-All-Weekday-01,139964201,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139964301,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139964401,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139964501,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139964601,"West",1,206339,620005
-62,16FALL-All-Weekday-01,139964701,"West",1,206339,620005
 203,16FALL-All-Weekday-01,139985501,"Sportsworld",0,206367,2030021
 203,16FALL-All-Weekday-01,139985601,"Sportsworld",0,206365,2030021
 203,16FALL-All-Weekday-01,139985701,"Sportsworld",0,206368,2030021
@@ -3446,50 +3381,49 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 203,16FALL-All-Weekday-01,140124401,"Sportsworld",0,206365,2030021
 203,16FALL-All-Weekday-01,140124501,"Sportsworld",0,206367,2030021
 203,16FALL-All-Weekday-01,140124601,"Sportsworld",0,206365,2030021
-62,16FALL-All-Weekday-01,140284101,"West",1,199768,620005
 67,16FALL-All-Weekday-01,140287301,"North",0,206360,670002
 67,16FALL-All-Weekday-01,140287401,"North",0,206361,670002
 67,16FALL-All-Weekday-01,140287501,"North",0,206369,670002
 67,16FALL-All-Weekday-01,140287601,"North",0,206360,670002
 67,16FALL-All-Weekday-01,140287701,"North",0,206361,670002
 67,16FALL-All-Weekday-01,140287801,"Special",0,206370,670005
-67,16FALL-All-Weekday-01,140287901,"Special",0,206360,670002
-67,16FALL-All-Weekday-01,140288001,"Special",0,206369,670002
-67,16FALL-All-Weekday-01,140288101,"Special",0,206371,670002
-67,16FALL-All-Weekday-01,140288201,"Special",0,206360,670002
-67,16FALL-All-Weekday-01,140288301,"Special",0,206369,670002
-67,16FALL-All-Weekday-01,140288401,"Special",0,206371,670002
+67,16FALL-All-Weekday-01,140287901,"North",0,206360,670002
+67,16FALL-All-Weekday-01,140288001,"North",0,206369,670002
+67,16FALL-All-Weekday-01,140288101,"North",0,206371,670002
+67,16FALL-All-Weekday-01,140288201,"North",0,206360,670002
+67,16FALL-All-Weekday-01,140288301,"North",0,206369,670002
+67,16FALL-All-Weekday-01,140288401,"North",0,206371,670002
 67,16FALL-All-Weekday-01,140288501,"Special",0,206368,670005
 67,16FALL-All-Weekday-01,140288601,"Special",0,206368,670005
-64,16FALL-All-Weekday-01,140305301,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140305401,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140305501,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140305601,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140305701,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140305801,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140305901,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140306001,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140306101,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140306201,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140306301,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140306401,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140306501,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140306601,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140306701,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140306801,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140306901,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140307001,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140307101,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140307201,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140307301,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140307401,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140307501,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140307601,"1",0,199748,640005
-64,16FALL-All-Weekday-01,140307701,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140307801,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140307901,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140308001,"1",0,199749,640005
-64,16FALL-All-Weekday-01,140308101,"1",0,199749,640005
+64,16FALL-All-Weekday-01,140305301,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140305401,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140305501,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140305601,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140305701,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140305801,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140305901,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140306001,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140306101,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140306201,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140306301,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140306401,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140306501,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140306601,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140306701,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140306801,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140306901,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140307001,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140307101,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140307201,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140307301,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140307401,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140307501,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140307601,"1",0,199748,640006
+64,16FALL-All-Weekday-01,140307701,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140307801,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140307901,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140308001,"1",0,199749,640006
+64,16FALL-All-Weekday-01,140308101,"1",0,199749,640006
 31,16FALL-All-Weekday-01,140311701,"Clair Hills",0,206620,310002
 31,16FALL-All-Weekday-01,140311801,"Clair Hills",0,206620,310002
 31,16FALL-All-Weekday-01,140311901,"Clair Hills",0,205336,310002
@@ -3631,6 +3565,72 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 4,16FALL-All-Weekday-01,142071601,"Charles Terminal",1,205341,40016
 116,16FALL-All-Weekday-01,142072401,"Conestoga College",1,199807,1160001
 14,16FALL-All-Weekday-01,142259501,"1",0,199840,140016
+62,16FALL-All-Weekday-01,142267801,"West",1,199768,620007
+62,16FALL-All-Weekday-01,142267901,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142268001,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142268101,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142268201,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142268301,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142268401,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142268501,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142268601,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142268701,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142268801,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142268901,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142269001,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142269101,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142269201,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142269301,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142269401,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142269501,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142269601,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142269701,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142269801,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142269901,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142270001,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142270101,"West",1,206337,620008
+62,16FALL-All-Weekday-01,142270201,"West",1,206338,620008
+62,16FALL-All-Weekday-01,142270301,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142270401,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142270501,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142270601,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142270701,"West",1,206339,620008
+62,16FALL-All-Weekday-01,142270801,"West",1,206339,620008
+55,16FALL-All-Weekday-01,142272601,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142272701,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142272801,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142272901,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142273001,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142273101,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142273201,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142273301,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142273401,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142273501,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142273601,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142273701,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142273801,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142273901,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142274001,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142274101,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142274201,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142274301,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142274401,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142274501,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142274601,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142274701,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142274801,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142274901,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142275001,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142275101,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142275201,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142275301,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142275401,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142275501,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142275601,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142275701,"West",1,206340,550008
+55,16FALL-All-Weekday-01,142275801,"West",1,199711,550008
+55,16FALL-All-Weekday-01,142275901,"West",1,199769,550008
+55,16FALL-All-Weekday-01,142276101,"West",1,199769,550008
 200,16FALL-All-Saturday-01,134576651,"Conestoga Mall",0,199528,2000059
 200,16FALL-All-Saturday-01,134576751,"Conestoga Mall",0,199522,2000059
 200,16FALL-All-Saturday-01,134576851,"Conestoga Mall",0,199520,2000059
@@ -3728,208 +3728,208 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 200,16FALL-All-Saturday-01,134586051,"Ainslie Terminal",1,199528,2000061
 200,16FALL-All-Saturday-01,134586151,"Conestoga Mall",0,199524,2000065
 200,16FALL-All-Saturday-01,134586251,"Ainslie Terminal",1,199527,2000061
-3,16FALL-All-Saturday-01,134588951,"Charles Terminal",1,199552,30001
-3,16FALL-All-Saturday-01,134589051,"Charles Terminal",1,199517,30001
-3,16FALL-All-Saturday-01,134589151,"Charles Terminal",1,199518,30001
-3,16FALL-All-Saturday-01,134589251,"Charles Terminal",1,199517,30001
-3,16FALL-All-Saturday-01,134589351,"Charles Terminal",1,199539,30001
-3,16FALL-All-Saturday-01,134589451,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134589551,"Charles Terminal",1,199518,30001
-3,16FALL-All-Saturday-01,134589651,"Charles Terminal",1,199517,30001
-3,16FALL-All-Saturday-01,134589751,"Charles Terminal",1,199539,30001
-3,16FALL-All-Saturday-01,134589851,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134589951,"Charles Terminal",1,199518,30001
-3,16FALL-All-Saturday-01,134590051,"Charles Terminal",1,199517,30001
-3,16FALL-All-Saturday-01,134590151,"Charles Terminal",1,199539,30001
-3,16FALL-All-Saturday-01,134590251,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134590351,"Charles Terminal",1,199518,30001
-3,16FALL-All-Saturday-01,134590451,"Charles Terminal",1,199517,30001
-3,16FALL-All-Saturday-01,134590551,"Charles Terminal",1,199539,30001
-3,16FALL-All-Saturday-01,134590651,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134590751,"Charles Terminal",1,199518,30001
-3,16FALL-All-Saturday-01,134590851,"Charles Terminal",1,199517,30001
-3,16FALL-All-Saturday-01,134590951,"Charles Terminal",1,199539,30001
-3,16FALL-All-Saturday-01,134591051,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134591151,"Charles Terminal",1,199518,30001
-3,16FALL-All-Saturday-01,134591251,"Charles Terminal",1,199517,30001
-3,16FALL-All-Saturday-01,134591351,"Charles Terminal",1,199539,30001
-3,16FALL-All-Saturday-01,134591451,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134591551,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134591651,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134591751,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134591851,"Charles Terminal",1,199533,30001
-3,16FALL-All-Saturday-01,134591951,"Charles Terminal",1,199533,30001
+3,16FALL-All-Saturday-01,134588951,"Charles Terminal",1,199552,30019
+3,16FALL-All-Saturday-01,134589051,"Charles Terminal",1,199517,30019
+3,16FALL-All-Saturday-01,134589151,"Charles Terminal",1,199518,30019
+3,16FALL-All-Saturday-01,134589251,"Charles Terminal",1,199517,30019
+3,16FALL-All-Saturday-01,134589351,"Charles Terminal",1,199539,30019
+3,16FALL-All-Saturday-01,134589451,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134589551,"Charles Terminal",1,199518,30019
+3,16FALL-All-Saturday-01,134589651,"Charles Terminal",1,199517,30019
+3,16FALL-All-Saturday-01,134589751,"Charles Terminal",1,199539,30019
+3,16FALL-All-Saturday-01,134589851,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134589951,"Charles Terminal",1,199518,30019
+3,16FALL-All-Saturday-01,134590051,"Charles Terminal",1,199517,30019
+3,16FALL-All-Saturday-01,134590151,"Charles Terminal",1,199539,30019
+3,16FALL-All-Saturday-01,134590251,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134590351,"Charles Terminal",1,199518,30019
+3,16FALL-All-Saturday-01,134590451,"Charles Terminal",1,199517,30019
+3,16FALL-All-Saturday-01,134590551,"Charles Terminal",1,199539,30019
+3,16FALL-All-Saturday-01,134590651,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134590751,"Charles Terminal",1,199518,30019
+3,16FALL-All-Saturday-01,134590851,"Charles Terminal",1,199517,30019
+3,16FALL-All-Saturday-01,134590951,"Charles Terminal",1,199539,30019
+3,16FALL-All-Saturday-01,134591051,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134591151,"Charles Terminal",1,199518,30019
+3,16FALL-All-Saturday-01,134591251,"Charles Terminal",1,199517,30019
+3,16FALL-All-Saturday-01,134591351,"Charles Terminal",1,199539,30019
+3,16FALL-All-Saturday-01,134591451,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134591551,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134591651,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134591751,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134591851,"Charles Terminal",1,199533,30019
+3,16FALL-All-Saturday-01,134591951,"Charles Terminal",1,199533,30019
 3,16FALL-All-Saturday-01,134592051,"Chandler",1,199533,30009
-3,16FALL-All-Saturday-01,134592151,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134592251,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134592351,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134592451,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134592551,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134592651,"Forest Glen",0,199533,30018
-3,16FALL-All-Saturday-01,134592751,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134592851,"Forest Glen",0,199517,30018
-3,16FALL-All-Saturday-01,134592951,"Forest Glen",0,199518,30018
-3,16FALL-All-Saturday-01,134593051,"Forest Glen",0,199533,30018
-3,16FALL-All-Saturday-01,134593151,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134593251,"Forest Glen",0,199517,30018
-3,16FALL-All-Saturday-01,134593351,"Forest Glen",0,199518,30018
-3,16FALL-All-Saturday-01,134593451,"Forest Glen",0,199533,30018
-3,16FALL-All-Saturday-01,134593551,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134593651,"Forest Glen",0,199517,30018
-3,16FALL-All-Saturday-01,134593751,"Forest Glen",0,199518,30018
-3,16FALL-All-Saturday-01,134593851,"Forest Glen",0,199533,30018
-3,16FALL-All-Saturday-01,134593951,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134594051,"Forest Glen",0,199517,30018
-3,16FALL-All-Saturday-01,134594151,"Forest Glen",0,199518,30018
-3,16FALL-All-Saturday-01,134594251,"Forest Glen",0,199533,30018
-3,16FALL-All-Saturday-01,134594351,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134594451,"Forest Glen",0,199517,30018
-3,16FALL-All-Saturday-01,134594551,"Forest Glen",0,199518,30018
-3,16FALL-All-Saturday-01,134594651,"Forest Glen",0,199533,30018
-3,16FALL-All-Saturday-01,134594751,"Forest Glen",0,199539,30018
-3,16FALL-All-Saturday-01,134594851,"Forest Glen",0,199517,30018
-3,16FALL-All-Saturday-01,134594951,"Forest Glen",0,199539,30018
+3,16FALL-All-Saturday-01,134592151,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134592251,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134592351,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134592451,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134592551,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134592651,"Forest Glen",0,199533,30020
+3,16FALL-All-Saturday-01,134592751,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134592851,"Forest Glen",0,199517,30020
+3,16FALL-All-Saturday-01,134592951,"Forest Glen",0,199518,30020
+3,16FALL-All-Saturday-01,134593051,"Forest Glen",0,199533,30020
+3,16FALL-All-Saturday-01,134593151,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134593251,"Forest Glen",0,199517,30020
+3,16FALL-All-Saturday-01,134593351,"Forest Glen",0,199518,30020
+3,16FALL-All-Saturday-01,134593451,"Forest Glen",0,199533,30020
+3,16FALL-All-Saturday-01,134593551,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134593651,"Forest Glen",0,199517,30020
+3,16FALL-All-Saturday-01,134593751,"Forest Glen",0,199518,30020
+3,16FALL-All-Saturday-01,134593851,"Forest Glen",0,199533,30020
+3,16FALL-All-Saturday-01,134593951,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134594051,"Forest Glen",0,199517,30020
+3,16FALL-All-Saturday-01,134594151,"Forest Glen",0,199518,30020
+3,16FALL-All-Saturday-01,134594251,"Forest Glen",0,199533,30020
+3,16FALL-All-Saturday-01,134594351,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134594451,"Forest Glen",0,199517,30020
+3,16FALL-All-Saturday-01,134594551,"Forest Glen",0,199518,30020
+3,16FALL-All-Saturday-01,134594651,"Forest Glen",0,199533,30020
+3,16FALL-All-Saturday-01,134594751,"Forest Glen",0,199539,30020
+3,16FALL-All-Saturday-01,134594851,"Forest Glen",0,199517,30020
+3,16FALL-All-Saturday-01,134594951,"Forest Glen",0,199539,30020
 3,16FALL-All-Saturday-01,134595051,"Forest Glen",0,199518,30003
 3,16FALL-All-Saturday-01,134595151,"Forest Glen",0,199517,30003
-8,16FALL-All-Saturday-01,134595251,"University/King via Crtlnd & Weber",0,199575,80073
-8,16FALL-All-Saturday-01,134595351,"University/King via Crtlnd & Weber",0,199571,80073
-8,16FALL-All-Saturday-01,134595451,"University/King via Crtlnd & Weber",0,199572,80073
-8,16FALL-All-Saturday-01,134595551,"University/King via Crtlnd & Weber",0,199575,80073
-8,16FALL-All-Saturday-01,134595651,"University/King via Crtlnd & Weber",0,199571,80074
-8,16FALL-All-Saturday-01,134595751,"University/King via Crtlnd & Weber",0,199572,80074
-8,16FALL-All-Saturday-01,134595851,"University/King via Crtlnd & Weber",0,199575,80074
-8,16FALL-All-Saturday-01,134595951,"University/King via Crtlnd & Weber",0,199569,80073
-8,16FALL-All-Saturday-01,134596051,"University/King via Crtlnd & Weber",0,199570,80073
-8,16FALL-All-Saturday-01,134596151,"University/King via Crtlnd & Weber",0,199574,80073
-8,16FALL-All-Saturday-01,134596251,"University/King via Crtlnd & Weber",0,199573,80073
-8,16FALL-All-Saturday-01,134596351,"University/King via Crtlnd & Weber",0,199571,80073
-8,16FALL-All-Saturday-01,134596451,"University/King via Crtlnd & Weber",0,199572,80073
-8,16FALL-All-Saturday-01,134596551,"University/King via Crtlnd & Weber",0,199575,80073
-8,16FALL-All-Saturday-01,134596651,"University/King via Crtlnd & Weber",0,199569,80073
-8,16FALL-All-Saturday-01,134596751,"University/King via Crtlnd & Weber",0,199570,80073
-8,16FALL-All-Saturday-01,134596851,"University/King via Crtlnd & Weber",0,199574,80073
-8,16FALL-All-Saturday-01,134596951,"University/King via Crtlnd & Weber",0,199573,80073
-8,16FALL-All-Saturday-01,134597051,"University/King via Crtlnd & Weber",0,199571,80073
-8,16FALL-All-Saturday-01,134597151,"University/King via Crtlnd & Weber",0,199572,80073
-8,16FALL-All-Saturday-01,134597251,"University/King via Crtlnd & Weber",0,199575,80073
-8,16FALL-All-Saturday-01,134597351,"University/King via Crtlnd & Weber",0,199569,80073
-8,16FALL-All-Saturday-01,134597451,"University/King via Crtlnd & Weber",0,199570,80073
-8,16FALL-All-Saturday-01,134597551,"University/King via Crtlnd & Weber",0,199569,80073
-8,16FALL-All-Saturday-01,134597651,"University/King via Crtlnd & Weber",0,199570,80073
-8,16FALL-All-Saturday-01,134597751,"University/King via Crtlnd & Weber",0,199570,80073
-8,16FALL-All-Saturday-01,134597851,"University/King via Crtlnd & Weber",0,199575,80073
-8,16FALL-All-Saturday-01,134597951,"University/King via Crtlnd & Weber",0,199570,80073
-8,16FALL-All-Saturday-01,134598051,"University/King via Crtlnd & Weber",0,199575,80074
-8,16FALL-All-Saturday-01,134598151,"University/King via Crtlnd & Weber",0,199570,80074
-8,16FALL-All-Saturday-01,134598251,"University/King via Crtlnd & Weber",0,199572,80073
-8,16FALL-All-Saturday-01,134598351,"Fairview Park via Weber & Courtland",1,199573,80078
-8,16FALL-All-Saturday-01,134598451,"Fairview Park via Weber & Courtland",1,199573,80078
-8,16FALL-All-Saturday-01,134598551,"Fairview Park via Weber & Courtland",1,199571,80078
-8,16FALL-All-Saturday-01,134598651,"Fairview Park via Weber & Courtland",1,199573,80078
-8,16FALL-All-Saturday-01,134598751,"Fairview Park via Weber & Courtland",1,199571,80078
-8,16FALL-All-Saturday-01,134598851,"Fairview Park via Weber & Courtland",1,199573,80078
-8,16FALL-All-Saturday-01,134598951,"Fairview Park via Weber & Courtland",1,199573,80078
-8,16FALL-All-Saturday-01,134599051,"Fairview Park via Weber & Courtland",1,199570,80078
-8,16FALL-All-Saturday-01,134599151,"Fairview Park via Weber & Courtland",1,199574,80078
-8,16FALL-All-Saturday-01,134599251,"Fairview Park via Weber & Courtland",1,199573,80078
-8,16FALL-All-Saturday-01,134599351,"Fairview Park via Weber & Courtland",1,199570,80078
-8,16FALL-All-Saturday-01,134599451,"Fairview Park via Weber & Courtland",1,199574,80077
-8,16FALL-All-Saturday-01,134599551,"University/King via Crtlnd & Weber",0,199575,80073
-8,16FALL-All-Saturday-01,134599651,"University/King via Crtlnd & Weber",0,199575,80074
-8,16FALL-All-Saturday-01,134599751,"Fairview Park via Weber & Courtland",1,199572,80078
-8,16FALL-All-Saturday-01,134599851,"Fairview Park via Weber & Courtland",1,199571,80077
-8,16FALL-All-Saturday-01,134599951,"University/King via Franklin & Westmount",0,199569,80052
-8,16FALL-All-Saturday-01,134600051,"University/King via Franklin & Westmount",0,199571,80052
-8,16FALL-All-Saturday-01,134600151,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134600251,"University/King via Franklin & Westmount",0,199574,80052
-8,16FALL-All-Saturday-01,134600351,"University/King via Franklin & Westmount",0,199570,80052
-8,16FALL-All-Saturday-01,134600451,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134600551,"University/King via Franklin & Westmount",0,199574,80052
-8,16FALL-All-Saturday-01,134600651,"University/King via Franklin & Westmount",0,199572,80052
-8,16FALL-All-Saturday-01,134600751,"University/King via Franklin & Westmount",0,199574,80052
-8,16FALL-All-Saturday-01,134600851,"University/King via Franklin & Westmount",0,199572,80052
-8,16FALL-All-Saturday-01,134600951,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134601051,"University/King via Franklin & Westmount",0,199575,80052
-8,16FALL-All-Saturday-01,134601151,"University/King via Franklin & Westmount",0,199574,80052
-8,16FALL-All-Saturday-01,134601251,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134601351,"University/King via Franklin & Westmount",0,199571,80052
-8,16FALL-All-Saturday-01,134601451,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134601551,"Fairview Park via Weber & Courtland",1,199571,80077
-8,16FALL-All-Saturday-01,134601651,"University/King via Franklin & Westmount",0,199574,80052
-8,16FALL-All-Saturday-01,134601751,"University/King via Franklin & Westmount",0,199570,80052
-8,16FALL-All-Saturday-01,134601851,"University/King via Franklin & Westmount",0,199569,80052
-8,16FALL-All-Saturday-01,134601951,"University/King via Franklin & Westmount",0,199572,80052
-8,16FALL-All-Saturday-01,134602051,"University/King via Franklin & Westmount",0,199571,80052
-8,16FALL-All-Saturday-01,134602151,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134602251,"University/King via Franklin & Westmount",0,199570,80052
-8,16FALL-All-Saturday-01,134602351,"University/King via Franklin & Westmount",0,199575,80052
-8,16FALL-All-Saturday-01,134602451,"University/King via Franklin & Westmount",0,199570,80052
-8,16FALL-All-Saturday-01,134602551,"University/King via Franklin & Westmount",0,199570,80052
-8,16FALL-All-Saturday-01,134602651,"Fairview Park via Weber & Courtland",1,199573,80077
-8,16FALL-All-Saturday-01,134602751,"Fairview Park via Weber & Courtland",1,199573,80080
-8,16FALL-All-Saturday-01,134602851,"Fairview Park via Weber & Courtland",1,199570,80080
-8,16FALL-All-Saturday-01,134602951,"Fairview Park via Weber & Courtland",1,199574,80079
-8,16FALL-All-Saturday-01,134603051,"Fairview Park via Weber & Courtland",1,199573,80079
-8,16FALL-All-Saturday-01,134603151,"Fairview Park via Weber & Courtland",1,199571,80079
-8,16FALL-All-Saturday-01,134603251,"Fairview Park via Weber & Courtland",1,199572,80079
-8,16FALL-All-Saturday-01,134603351,"Fairview Park via Weber & Courtland",1,199575,80079
-8,16FALL-All-Saturday-01,134603451,"Fairview Park via Weber & Courtland",1,199569,80079
-8,16FALL-All-Saturday-01,134603551,"Fairview Park via Weber & Courtland",1,199570,80079
-8,16FALL-All-Saturday-01,134603651,"Fairview Park via Weber & Courtland",1,199574,80079
-8,16FALL-All-Saturday-01,134603751,"Fairview Park via Weber & Courtland",1,199573,80079
-8,16FALL-All-Saturday-01,134603851,"Fairview Park via Weber & Courtland",1,199571,80079
-8,16FALL-All-Saturday-01,134603951,"Fairview Park via Weber & Courtland",1,199572,80079
-8,16FALL-All-Saturday-01,134604051,"Fairview Park via Weber & Courtland",1,199575,80079
-8,16FALL-All-Saturday-01,134604151,"Fairview Park via Weber & Courtland",1,199569,80079
-8,16FALL-All-Saturday-01,134604251,"Fairview Park via Weber & Courtland",1,199570,80079
-8,16FALL-All-Saturday-01,134604351,"Fairview Park via Weber & Courtland",1,199574,80078
-8,16FALL-All-Saturday-01,134604451,"Fairview Park via Westmount & Franklin",1,199572,80066
-8,16FALL-All-Saturday-01,134604551,"Fairview Park via Westmount & Franklin",1,199571,80066
-8,16FALL-All-Saturday-01,134604651,"Fairview Park via Westmount & Franklin",1,199575,80066
-8,16FALL-All-Saturday-01,134604751,"Fairview Park via Westmount & Franklin",1,199571,80066
-8,16FALL-All-Saturday-01,134604851,"Fairview Park via Westmount & Franklin",1,199572,80066
-8,16FALL-All-Saturday-01,134604951,"Fairview Park via Westmount & Franklin",1,199575,80066
-8,16FALL-All-Saturday-01,134605051,"Fairview Park via Westmount & Franklin",1,199571,80071
-8,16FALL-All-Saturday-01,134605151,"Fairview Park via Westmount & Franklin",1,199572,80071
-8,16FALL-All-Saturday-01,134605251,"Fairview Park via Westmount & Franklin",1,199575,80071
-8,16FALL-All-Saturday-01,134605351,"Fairview Park via Westmount & Franklin",1,199569,80071
-8,16FALL-All-Saturday-01,134605451,"Fairview Park via Westmount & Franklin",1,199570,80071
-8,16FALL-All-Saturday-01,134605551,"Fairview Park via Westmount & Franklin",1,199574,80071
-8,16FALL-All-Saturday-01,134605651,"Fairview Park via Westmount & Franklin",1,199573,80071
-8,16FALL-All-Saturday-01,134605751,"Fairview Park via Westmount & Franklin",1,199571,80071
-8,16FALL-All-Saturday-01,134605851,"Fairview Park via Westmount & Franklin",1,199572,80071
-8,16FALL-All-Saturday-01,134605951,"Fairview Park via Westmount & Franklin",1,199575,80071
-8,16FALL-All-Saturday-01,134606051,"Fairview Park via Westmount & Franklin",1,199569,80071
-8,16FALL-All-Saturday-01,134606151,"Fairview Park via Westmount & Franklin",1,199570,80071
-8,16FALL-All-Saturday-01,134606251,"Fairview Park via Westmount & Franklin",1,199574,80071
-8,16FALL-All-Saturday-01,134606351,"Fairview Park via Westmount & Franklin",1,199573,80071
-8,16FALL-All-Saturday-01,134606451,"Fairview Park via Westmount & Franklin",1,199571,80071
-8,16FALL-All-Saturday-01,134606551,"Fairview Park via Westmount & Franklin",1,199572,80071
-8,16FALL-All-Saturday-01,134606651,"Fairview Park via Westmount & Franklin",1,199575,80071
-8,16FALL-All-Saturday-01,134606751,"Fairview Park via Westmount & Franklin",1,199569,80071
-8,16FALL-All-Saturday-01,134606851,"Charles Terminal via Courtland",0,199569,80020
+8,16FALL-All-Saturday-01,134595251,"University/King via Crtlnd & Weber",0,199575,80082
+8,16FALL-All-Saturday-01,134595351,"University/King via Crtlnd & Weber",0,199571,80082
+8,16FALL-All-Saturday-01,134595451,"University/King via Crtlnd & Weber",0,199572,80082
+8,16FALL-All-Saturday-01,134595551,"University/King via Crtlnd & Weber",0,199575,80082
+8,16FALL-All-Saturday-01,134595651,"University/King via Crtlnd & Weber",0,199571,80083
+8,16FALL-All-Saturday-01,134595751,"University/King via Crtlnd & Weber",0,199572,80083
+8,16FALL-All-Saturday-01,134595851,"University/King via Crtlnd & Weber",0,199575,80083
+8,16FALL-All-Saturday-01,134595951,"University/King via Crtlnd & Weber",0,199569,80082
+8,16FALL-All-Saturday-01,134596051,"University/King via Crtlnd & Weber",0,199570,80082
+8,16FALL-All-Saturday-01,134596151,"University/King via Crtlnd & Weber",0,199574,80082
+8,16FALL-All-Saturday-01,134596251,"University/King via Crtlnd & Weber",0,199573,80082
+8,16FALL-All-Saturday-01,134596351,"University/King via Crtlnd & Weber",0,199571,80082
+8,16FALL-All-Saturday-01,134596451,"University/King via Crtlnd & Weber",0,199572,80082
+8,16FALL-All-Saturday-01,134596551,"University/King via Crtlnd & Weber",0,199575,80082
+8,16FALL-All-Saturday-01,134596651,"University/King via Crtlnd & Weber",0,199569,80082
+8,16FALL-All-Saturday-01,134596751,"University/King via Crtlnd & Weber",0,199570,80082
+8,16FALL-All-Saturday-01,134596851,"University/King via Crtlnd & Weber",0,199574,80082
+8,16FALL-All-Saturday-01,134596951,"University/King via Crtlnd & Weber",0,199573,80082
+8,16FALL-All-Saturday-01,134597051,"University/King via Crtlnd & Weber",0,199571,80082
+8,16FALL-All-Saturday-01,134597151,"University/King via Crtlnd & Weber",0,199572,80082
+8,16FALL-All-Saturday-01,134597251,"University/King via Crtlnd & Weber",0,199575,80082
+8,16FALL-All-Saturday-01,134597351,"University/King via Crtlnd & Weber",0,199569,80082
+8,16FALL-All-Saturday-01,134597451,"University/King via Crtlnd & Weber",0,199570,80082
+8,16FALL-All-Saturday-01,134597551,"University/King via Crtlnd & Weber",0,199569,80082
+8,16FALL-All-Saturday-01,134597651,"University/King via Crtlnd & Weber",0,199570,80082
+8,16FALL-All-Saturday-01,134597751,"University/King via Crtlnd & Weber",0,199570,80082
+8,16FALL-All-Saturday-01,134597851,"University/King via Crtlnd & Weber",0,199575,80082
+8,16FALL-All-Saturday-01,134597951,"University/King via Crtlnd & Weber",0,199570,80082
+8,16FALL-All-Saturday-01,134598051,"University/King via Crtlnd & Weber",0,199575,80083
+8,16FALL-All-Saturday-01,134598151,"University/King via Crtlnd & Weber",0,199570,80083
+8,16FALL-All-Saturday-01,134598251,"University/King via Crtlnd & Weber",0,199572,80082
+8,16FALL-All-Saturday-01,134598351,"Fairview Park via Weber & Courtland",1,199573,80086
+8,16FALL-All-Saturday-01,134598451,"Fairview Park via Weber & Courtland",1,199573,80086
+8,16FALL-All-Saturday-01,134598551,"Fairview Park via Weber & Courtland",1,199571,80086
+8,16FALL-All-Saturday-01,134598651,"Fairview Park via Weber & Courtland",1,199573,80086
+8,16FALL-All-Saturday-01,134598751,"Fairview Park via Weber & Courtland",1,199571,80086
+8,16FALL-All-Saturday-01,134598851,"Fairview Park via Weber & Courtland",1,199573,80086
+8,16FALL-All-Saturday-01,134598951,"Fairview Park via Weber & Courtland",1,199573,80086
+8,16FALL-All-Saturday-01,134599051,"Fairview Park via Weber & Courtland",1,199570,80086
+8,16FALL-All-Saturday-01,134599151,"Fairview Park via Weber & Courtland",1,199574,80086
+8,16FALL-All-Saturday-01,134599251,"Fairview Park via Weber & Courtland",1,199573,80086
+8,16FALL-All-Saturday-01,134599351,"Fairview Park via Weber & Courtland",1,199570,80086
+8,16FALL-All-Saturday-01,134599451,"Fairview Park via Weber & Courtland",1,199574,80085
+8,16FALL-All-Saturday-01,134599551,"University/King via Crtlnd & Weber",0,199575,80082
+8,16FALL-All-Saturday-01,134599651,"University/King via Crtlnd & Weber",0,199575,80083
+8,16FALL-All-Saturday-01,134599751,"Fairview Park via Weber & Courtland",1,199572,80086
+8,16FALL-All-Saturday-01,134599851,"Fairview Park via Weber & Courtland",1,199571,80085
+8,16FALL-All-Saturday-01,134599951,"University/King via Franklin & Westmount",0,199569,80092
+8,16FALL-All-Saturday-01,134600051,"University/King via Franklin & Westmount",0,199571,80092
+8,16FALL-All-Saturday-01,134600151,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134600251,"University/King via Franklin & Westmount",0,199574,80092
+8,16FALL-All-Saturday-01,134600351,"University/King via Franklin & Westmount",0,199570,80092
+8,16FALL-All-Saturday-01,134600451,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134600551,"University/King via Franklin & Westmount",0,199574,80092
+8,16FALL-All-Saturday-01,134600651,"University/King via Franklin & Westmount",0,199572,80092
+8,16FALL-All-Saturday-01,134600751,"University/King via Franklin & Westmount",0,199574,80092
+8,16FALL-All-Saturday-01,134600851,"University/King via Franklin & Westmount",0,199572,80092
+8,16FALL-All-Saturday-01,134600951,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134601051,"University/King via Franklin & Westmount",0,199575,80092
+8,16FALL-All-Saturday-01,134601151,"University/King via Franklin & Westmount",0,199574,80092
+8,16FALL-All-Saturday-01,134601251,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134601351,"University/King via Franklin & Westmount",0,199571,80092
+8,16FALL-All-Saturday-01,134601451,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134601551,"Fairview Park via Weber & Courtland",1,199571,80085
+8,16FALL-All-Saturday-01,134601651,"University/King via Franklin & Westmount",0,199574,80092
+8,16FALL-All-Saturday-01,134601751,"University/King via Franklin & Westmount",0,199570,80092
+8,16FALL-All-Saturday-01,134601851,"University/King via Franklin & Westmount",0,199569,80092
+8,16FALL-All-Saturday-01,134601951,"University/King via Franklin & Westmount",0,199572,80092
+8,16FALL-All-Saturday-01,134602051,"University/King via Franklin & Westmount",0,199571,80092
+8,16FALL-All-Saturday-01,134602151,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134602251,"University/King via Franklin & Westmount",0,199570,80092
+8,16FALL-All-Saturday-01,134602351,"University/King via Franklin & Westmount",0,199575,80092
+8,16FALL-All-Saturday-01,134602451,"University/King via Franklin & Westmount",0,199570,80092
+8,16FALL-All-Saturday-01,134602551,"University/King via Franklin & Westmount",0,199570,80092
+8,16FALL-All-Saturday-01,134602651,"Fairview Park via Weber & Courtland",1,199573,80085
+8,16FALL-All-Saturday-01,134602751,"Fairview Park via Weber & Courtland",1,199573,80091
+8,16FALL-All-Saturday-01,134602851,"Fairview Park via Weber & Courtland",1,199570,80091
+8,16FALL-All-Saturday-01,134602951,"Fairview Park via Weber & Courtland",1,199574,80089
+8,16FALL-All-Saturday-01,134603051,"Fairview Park via Weber & Courtland",1,199573,80089
+8,16FALL-All-Saturday-01,134603151,"Fairview Park via Weber & Courtland",1,199571,80089
+8,16FALL-All-Saturday-01,134603251,"Fairview Park via Weber & Courtland",1,199572,80089
+8,16FALL-All-Saturday-01,134603351,"Fairview Park via Weber & Courtland",1,199575,80089
+8,16FALL-All-Saturday-01,134603451,"Fairview Park via Weber & Courtland",1,199569,80089
+8,16FALL-All-Saturday-01,134603551,"Fairview Park via Weber & Courtland",1,199570,80089
+8,16FALL-All-Saturday-01,134603651,"Fairview Park via Weber & Courtland",1,199574,80089
+8,16FALL-All-Saturday-01,134603751,"Fairview Park via Weber & Courtland",1,199573,80089
+8,16FALL-All-Saturday-01,134603851,"Fairview Park via Weber & Courtland",1,199571,80089
+8,16FALL-All-Saturday-01,134603951,"Fairview Park via Weber & Courtland",1,199572,80089
+8,16FALL-All-Saturday-01,134604051,"Fairview Park via Weber & Courtland",1,199575,80089
+8,16FALL-All-Saturday-01,134604151,"Fairview Park via Weber & Courtland",1,199569,80089
+8,16FALL-All-Saturday-01,134604251,"Fairview Park via Weber & Courtland",1,199570,80089
+8,16FALL-All-Saturday-01,134604351,"Fairview Park via Weber & Courtland",1,199574,80086
+8,16FALL-All-Saturday-01,134604451,"Fairview Park via Westmount & Franklin",1,199572,80088
+8,16FALL-All-Saturday-01,134604551,"Fairview Park via Westmount & Franklin",1,199571,80088
+8,16FALL-All-Saturday-01,134604651,"Fairview Park via Westmount & Franklin",1,199575,80088
+8,16FALL-All-Saturday-01,134604751,"Fairview Park via Westmount & Franklin",1,199571,80088
+8,16FALL-All-Saturday-01,134604851,"Fairview Park via Westmount & Franklin",1,199572,80088
+8,16FALL-All-Saturday-01,134604951,"Fairview Park via Westmount & Franklin",1,199575,80088
+8,16FALL-All-Saturday-01,134605051,"Fairview Park via Westmount & Franklin",1,199571,80090
+8,16FALL-All-Saturday-01,134605151,"Fairview Park via Westmount & Franklin",1,199572,80090
+8,16FALL-All-Saturday-01,134605251,"Fairview Park via Westmount & Franklin",1,199575,80090
+8,16FALL-All-Saturday-01,134605351,"Fairview Park via Westmount & Franklin",1,199569,80090
+8,16FALL-All-Saturday-01,134605451,"Fairview Park via Westmount & Franklin",1,199570,80090
+8,16FALL-All-Saturday-01,134605551,"Fairview Park via Westmount & Franklin",1,199574,80090
+8,16FALL-All-Saturday-01,134605651,"Fairview Park via Westmount & Franklin",1,199573,80090
+8,16FALL-All-Saturday-01,134605751,"Fairview Park via Westmount & Franklin",1,199571,80090
+8,16FALL-All-Saturday-01,134605851,"Fairview Park via Westmount & Franklin",1,199572,80090
+8,16FALL-All-Saturday-01,134605951,"Fairview Park via Westmount & Franklin",1,199575,80090
+8,16FALL-All-Saturday-01,134606051,"Fairview Park via Westmount & Franklin",1,199569,80090
+8,16FALL-All-Saturday-01,134606151,"Fairview Park via Westmount & Franklin",1,199570,80090
+8,16FALL-All-Saturday-01,134606251,"Fairview Park via Westmount & Franklin",1,199574,80090
+8,16FALL-All-Saturday-01,134606351,"Fairview Park via Westmount & Franklin",1,199573,80090
+8,16FALL-All-Saturday-01,134606451,"Fairview Park via Westmount & Franklin",1,199571,80090
+8,16FALL-All-Saturday-01,134606551,"Fairview Park via Westmount & Franklin",1,199572,80090
+8,16FALL-All-Saturday-01,134606651,"Fairview Park via Westmount & Franklin",1,199575,80090
+8,16FALL-All-Saturday-01,134606751,"Fairview Park via Westmount & Franklin",1,199569,80090
+8,16FALL-All-Saturday-01,134606851,"Charles Terminal via Courtland",0,199569,80094
 8,16FALL-All-Saturday-01,134606951,"Charles Terminal via Weber",1,199572,80064
-8,16FALL-All-Saturday-01,134607051,"Charles Terminal via Courtland",0,199575,80020
+8,16FALL-All-Saturday-01,134607051,"Charles Terminal via Courtland",0,199575,80094
 8,16FALL-All-Saturday-01,134607151,"Charles Terminal via Westmount",1,199570,80018
 8,16FALL-All-Saturday-01,134607251,"Charles Terminal via Weber",1,199571,80064
-8,16FALL-All-Saturday-01,134607351,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134607451,"University/King via Franklin & Westmount",0,199572,80052
-8,16FALL-All-Saturday-01,134607551,"University/King via Franklin & Westmount",0,199571,80052
-8,16FALL-All-Saturday-01,134607651,"University/King via Franklin & Westmount",0,199571,80052
-8,16FALL-All-Saturday-01,134607751,"University/King via Franklin & Westmount",0,199571,80052
-8,16FALL-All-Saturday-01,134607851,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134607951,"University/King via Franklin & Westmount",0,199571,80052
-8,16FALL-All-Saturday-01,134608051,"University/King via Franklin & Westmount",0,199573,80052
-8,16FALL-All-Saturday-01,134608151,"Charles Terminal via Franklin",0,199573,80057
-8,16FALL-All-Saturday-01,134608251,"Fairview Park via Westmount & Franklin",1,199570,80066
-8,16FALL-All-Saturday-01,134608351,"Fairview Park via Westmount & Franklin",1,199570,80066
-8,16FALL-All-Saturday-01,134608451,"Fairview Park via Westmount & Franklin",1,199569,80066
-8,16FALL-All-Saturday-01,134608551,"Fairview Park via Westmount & Franklin",1,199575,80066
-8,16FALL-All-Saturday-01,134608651,"Fairview Park via Westmount & Franklin",1,199575,80066
-8,16FALL-All-Saturday-01,134608751,"Fairview Park via Westmount & Franklin",1,199570,80066
-8,16FALL-All-Saturday-01,134608851,"Fairview Park via Westmount & Franklin",1,199575,80066
-8,16FALL-All-Saturday-01,134608951,"Fairview Park via Westmount & Franklin",1,199570,80066
-8,16FALL-All-Saturday-01,134609051,"Fairview Park via Westmount & Franklin",1,199575,80066
+8,16FALL-All-Saturday-01,134607351,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134607451,"University/King via Franklin & Westmount",0,199572,80092
+8,16FALL-All-Saturday-01,134607551,"University/King via Franklin & Westmount",0,199571,80092
+8,16FALL-All-Saturday-01,134607651,"University/King via Franklin & Westmount",0,199571,80092
+8,16FALL-All-Saturday-01,134607751,"University/King via Franklin & Westmount",0,199571,80092
+8,16FALL-All-Saturday-01,134607851,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134607951,"University/King via Franklin & Westmount",0,199571,80092
+8,16FALL-All-Saturday-01,134608051,"University/King via Franklin & Westmount",0,199573,80092
+8,16FALL-All-Saturday-01,134608151,"Charles Terminal via Franklin",0,199573,80095
+8,16FALL-All-Saturday-01,134608251,"Fairview Park via Westmount & Franklin",1,199570,80088
+8,16FALL-All-Saturday-01,134608351,"Fairview Park via Westmount & Franklin",1,199570,80088
+8,16FALL-All-Saturday-01,134608451,"Fairview Park via Westmount & Franklin",1,199569,80088
+8,16FALL-All-Saturday-01,134608551,"Fairview Park via Westmount & Franklin",1,199575,80088
+8,16FALL-All-Saturday-01,134608651,"Fairview Park via Westmount & Franklin",1,199575,80088
+8,16FALL-All-Saturday-01,134608751,"Fairview Park via Westmount & Franklin",1,199570,80088
+8,16FALL-All-Saturday-01,134608851,"Fairview Park via Westmount & Franklin",1,199575,80088
+8,16FALL-All-Saturday-01,134608951,"Fairview Park via Westmount & Franklin",1,199570,80088
+8,16FALL-All-Saturday-01,134609051,"Fairview Park via Westmount & Franklin",1,199575,80088
 11,16FALL-All-Saturday-01,134609151,"Charles Terminal",0,199487,110001
 11,16FALL-All-Saturday-01,134609251,"Forest Glen",1,199500,110002
 11,16FALL-All-Saturday-01,134609351,"Forest Glen",1,199487,110002
@@ -3993,32 +3993,32 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 11,16FALL-All-Saturday-01,134615151,"Charles Terminal",0,199539,110001
 11,16FALL-All-Saturday-01,134615251,"Charles Terminal",0,199539,110001
 11,16FALL-All-Saturday-01,134615351,"Charles Terminal",0,199539,110001
-22,16FALL-All-Saturday-01,134615451,"Highland Hills",1,199515,220007
-22,16FALL-All-Saturday-01,134615551,"Highland Hills",1,199514,220007
-22,16FALL-All-Saturday-01,134615651,"Highland Hills",1,199577,220007
-22,16FALL-All-Saturday-01,134615751,"Highland Hills",1,199515,220007
-22,16FALL-All-Saturday-01,134615851,"Highland Hills",1,199514,220007
-22,16FALL-All-Saturday-01,134615951,"Highland Hills",1,199577,220007
-22,16FALL-All-Saturday-01,134616051,"Highland Hills",1,199515,220007
-22,16FALL-All-Saturday-01,134616151,"Highland Hills",1,199514,220007
-22,16FALL-All-Saturday-01,134616251,"Highland Hills",1,199577,220007
-22,16FALL-All-Saturday-01,134616351,"Highland Hills",1,199515,220007
-22,16FALL-All-Saturday-01,134616451,"Highland Hills",1,199514,220007
-22,16FALL-All-Saturday-01,134616551,"Highland Hills",1,199500,220007
-22,16FALL-All-Saturday-01,134616651,"Highland Hills",1,199577,220008
-22,16FALL-All-Saturday-01,134616751,"Charles Terminal",0,199514,220010
-22,16FALL-All-Saturday-01,134616851,"Charles Terminal",0,199577,220010
-22,16FALL-All-Saturday-01,134616951,"Charles Terminal",0,199515,220010
-22,16FALL-All-Saturday-01,134617051,"Charles Terminal",0,199514,220010
-22,16FALL-All-Saturday-01,134617151,"Charles Terminal",0,199577,220010
-22,16FALL-All-Saturday-01,134617251,"Charles Terminal",0,199515,220010
-22,16FALL-All-Saturday-01,134617351,"Charles Terminal",0,199514,220010
-22,16FALL-All-Saturday-01,134617451,"Charles Terminal",0,199577,220010
-22,16FALL-All-Saturday-01,134617551,"Charles Terminal",0,199515,220010
-22,16FALL-All-Saturday-01,134617651,"Charles Terminal",0,199514,220010
-22,16FALL-All-Saturday-01,134617751,"Charles Terminal",0,199577,220010
-22,16FALL-All-Saturday-01,134617851,"Charles Terminal",0,199515,220010
-22,16FALL-All-Saturday-01,134617951,"Charles Terminal",0,199514,220010
+22,16FALL-All-Saturday-01,134615451,"Highland Hills",1,199515,220014
+22,16FALL-All-Saturday-01,134615551,"Highland Hills",1,199514,220014
+22,16FALL-All-Saturday-01,134615651,"Highland Hills",1,199577,220014
+22,16FALL-All-Saturday-01,134615751,"Highland Hills",1,199515,220014
+22,16FALL-All-Saturday-01,134615851,"Highland Hills",1,199514,220014
+22,16FALL-All-Saturday-01,134615951,"Highland Hills",1,199577,220014
+22,16FALL-All-Saturday-01,134616051,"Highland Hills",1,199515,220014
+22,16FALL-All-Saturday-01,134616151,"Highland Hills",1,199514,220014
+22,16FALL-All-Saturday-01,134616251,"Highland Hills",1,199577,220014
+22,16FALL-All-Saturday-01,134616351,"Highland Hills",1,199515,220014
+22,16FALL-All-Saturday-01,134616451,"Highland Hills",1,199514,220014
+22,16FALL-All-Saturday-01,134616551,"Highland Hills",1,199500,220014
+22,16FALL-All-Saturday-01,134616651,"Highland Hills",1,199577,220016
+22,16FALL-All-Saturday-01,134616751,"Charles Terminal",0,199514,220019
+22,16FALL-All-Saturday-01,134616851,"Charles Terminal",0,199577,220019
+22,16FALL-All-Saturday-01,134616951,"Charles Terminal",0,199515,220019
+22,16FALL-All-Saturday-01,134617051,"Charles Terminal",0,199514,220019
+22,16FALL-All-Saturday-01,134617151,"Charles Terminal",0,199577,220019
+22,16FALL-All-Saturday-01,134617251,"Charles Terminal",0,199515,220019
+22,16FALL-All-Saturday-01,134617351,"Charles Terminal",0,199514,220019
+22,16FALL-All-Saturday-01,134617451,"Charles Terminal",0,199577,220019
+22,16FALL-All-Saturday-01,134617551,"Charles Terminal",0,199515,220019
+22,16FALL-All-Saturday-01,134617651,"Charles Terminal",0,199514,220019
+22,16FALL-All-Saturday-01,134617751,"Charles Terminal",0,199577,220019
+22,16FALL-All-Saturday-01,134617851,"Charles Terminal",0,199515,220019
+22,16FALL-All-Saturday-01,134617951,"Charles Terminal",0,199514,220019
 10,16FALL-All-Saturday-01,134618051,"Conestoga College",1,199519,100017
 10,16FALL-All-Saturday-01,134618151,"Conestoga College",1,199519,100017
 10,16FALL-All-Saturday-01,134618251,"Fairview Park",0,199519,100009
@@ -4825,23 +4825,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 58,16FALL-All-Saturday-01,134721451,"North",0,199516,580001
 58,16FALL-All-Saturday-01,134721551,"North",0,199516,580001
 58,16FALL-All-Saturday-01,134721651,"North",0,199516,580001
-62,16FALL-All-Saturday-01,134721751,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134721851,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134721951,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722051,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722151,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722251,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722351,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722451,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722551,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722651,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722751,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722851,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134722951,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134723051,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134723151,"West",1,199516,620006
-62,16FALL-All-Saturday-01,134723251,"West",1,199528,620006
-62,16FALL-All-Saturday-01,134723351,"West",1,199516,620006
 23,16FALL-All-Saturday-01,134738651,"Stanley Park",0,199541,230001
 23,16FALL-All-Saturday-01,134738751,"Stanley Park",0,199541,230001
 23,16FALL-All-Saturday-01,134738851,"Stanley Park",0,199540,230001
@@ -5679,64 +5662,64 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 203,16FALL-All-Saturday-01,140298651,"Sportsworld",0,199561,2030025
 203,16FALL-All-Saturday-01,140298851,"Sportsworld",0,206619,2030025
 203,16FALL-All-Saturday-01,140298951,"Sportsworld",0,206619,2030025
-55,16FALL-All-Saturday-01,140299451,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140299551,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140299651,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140299751,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140299851,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140299951,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140300051,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140300151,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140300251,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140300351,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140300451,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140300551,"West",1,199484,550006
-55,16FALL-All-Saturday-01,140300651,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140300751,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140300851,"West",1,199484,550006
-55,16FALL-All-Saturday-01,140300951,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140301051,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140301151,"West",1,199484,550006
-55,16FALL-All-Saturday-01,140301251,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140301351,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140301451,"West",1,199484,550006
-55,16FALL-All-Saturday-01,140301551,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140301651,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140301751,"West",1,199484,550006
-55,16FALL-All-Saturday-01,140301851,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140301951,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140302051,"West",1,199484,550006
-55,16FALL-All-Saturday-01,140302151,"West",1,199483,550006
-55,16FALL-All-Saturday-01,140302251,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140302351,"West",1,199484,550006
-55,16FALL-All-Saturday-01,140302451,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140302551,"West",1,199486,550006
-55,16FALL-All-Saturday-01,140302651,"West",1,199483,550006
-64,16FALL-All-Saturday-01,140302751,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140302951,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140303051,"1",0,205409,640005
-64,16FALL-All-Saturday-01,140303151,"1",0,206614,640005
-64,16FALL-All-Saturday-01,140303251,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140303351,"1",0,205409,640005
-64,16FALL-All-Saturday-01,140303451,"1",0,206614,640005
-64,16FALL-All-Saturday-01,140303551,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140303651,"1",0,206614,640005
-64,16FALL-All-Saturday-01,140303751,"1",0,205409,640005
-64,16FALL-All-Saturday-01,140303851,"1",0,206614,640005
-64,16FALL-All-Saturday-01,140303951,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140304051,"1",0,205409,640005
-64,16FALL-All-Saturday-01,140304151,"1",0,206614,640005
-64,16FALL-All-Saturday-01,140304251,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140304351,"1",0,205409,640005
-64,16FALL-All-Saturday-01,140304451,"1",0,206614,640005
-64,16FALL-All-Saturday-01,140304551,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140304651,"1",0,205409,640005
-64,16FALL-All-Saturday-01,140304751,"1",0,206614,640005
-64,16FALL-All-Saturday-01,140304851,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140304951,"1",0,205409,640005
-64,16FALL-All-Saturday-01,140305051,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140305151,"1",0,199485,640005
-64,16FALL-All-Saturday-01,140305251,"1",0,199485,640005
+55,16FALL-All-Saturday-01,140299451,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140299551,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140299651,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140299751,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140299851,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140299951,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140300051,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140300151,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140300251,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140300351,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140300451,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140300551,"West",1,199484,550008
+55,16FALL-All-Saturday-01,140300651,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140300751,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140300851,"West",1,199484,550008
+55,16FALL-All-Saturday-01,140300951,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140301051,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140301151,"West",1,199484,550008
+55,16FALL-All-Saturday-01,140301251,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140301351,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140301451,"West",1,199484,550008
+55,16FALL-All-Saturday-01,140301551,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140301651,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140301751,"West",1,199484,550008
+55,16FALL-All-Saturday-01,140301851,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140301951,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140302051,"West",1,199484,550008
+55,16FALL-All-Saturday-01,140302151,"West",1,199483,550008
+55,16FALL-All-Saturday-01,140302251,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140302351,"West",1,199484,550008
+55,16FALL-All-Saturday-01,140302451,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140302551,"West",1,199486,550008
+55,16FALL-All-Saturday-01,140302651,"West",1,199483,550008
+64,16FALL-All-Saturday-01,140302751,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140302951,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140303051,"1",0,205409,640006
+64,16FALL-All-Saturday-01,140303151,"1",0,206614,640006
+64,16FALL-All-Saturday-01,140303251,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140303351,"1",0,205409,640006
+64,16FALL-All-Saturday-01,140303451,"1",0,206614,640006
+64,16FALL-All-Saturday-01,140303551,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140303651,"1",0,206614,640006
+64,16FALL-All-Saturday-01,140303751,"1",0,205409,640006
+64,16FALL-All-Saturday-01,140303851,"1",0,206614,640006
+64,16FALL-All-Saturday-01,140303951,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140304051,"1",0,205409,640006
+64,16FALL-All-Saturday-01,140304151,"1",0,206614,640006
+64,16FALL-All-Saturday-01,140304251,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140304351,"1",0,205409,640006
+64,16FALL-All-Saturday-01,140304451,"1",0,206614,640006
+64,16FALL-All-Saturday-01,140304551,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140304651,"1",0,205409,640006
+64,16FALL-All-Saturday-01,140304751,"1",0,206614,640006
+64,16FALL-All-Saturday-01,140304851,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140304951,"1",0,205409,640006
+64,16FALL-All-Saturday-01,140305051,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140305151,"1",0,199485,640006
+64,16FALL-All-Saturday-01,140305251,"1",0,199485,640006
 5,16FALL-All-Saturday-01,140326951,"Bridgeport",0,206708,50032
 5,16FALL-All-Saturday-01,140327051,"Bridgeport",0,206709,50033
 5,16FALL-All-Saturday-01,140327151,"Bridgeport",0,199506,50033
@@ -5798,115 +5781,132 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 5,16FALL-All-Saturday-01,140332751,"The Boardwalk",1,199506,50041
 5,16FALL-All-Saturday-01,140332851,"Uptown",0,199506,50026
 5,16FALL-All-Saturday-01,140332951,"The Boardwalk",1,199506,50042
-3,16FALL-All-Sunday-01,134839061,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839161,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839261,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839361,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839461,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839561,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839661,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839761,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839861,"Charles Terminal",1,199642,30001
-3,16FALL-All-Sunday-01,134839961,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840061,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840161,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840261,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840361,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840461,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840561,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840661,"Forest Glen",0,199642,30018
-3,16FALL-All-Sunday-01,134840761,"Forest Glen",0,199642,30018
-8,16FALL-All-Sunday-01,134840861,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134840961,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134841061,"University/King via Crtlnd & Weber",0,199597,80073
-8,16FALL-All-Sunday-01,134841161,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134841261,"University/King via Crtlnd & Weber",0,199597,80073
-8,16FALL-All-Sunday-01,134841361,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134841461,"University/King via Crtlnd & Weber",0,199597,80073
-8,16FALL-All-Sunday-01,134841561,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134841661,"University/King via Crtlnd & Weber",0,199597,80073
-8,16FALL-All-Sunday-01,134841761,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134841861,"University/King via Crtlnd & Weber",0,199597,80073
-8,16FALL-All-Sunday-01,134841961,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134842061,"University/King via Crtlnd & Weber",0,199598,80073
-8,16FALL-All-Sunday-01,134842161,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134842261,"University/King via Crtlnd & Weber",0,199598,80073
-8,16FALL-All-Sunday-01,134842361,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134842461,"University/King via Crtlnd & Weber",0,199598,80073
-8,16FALL-All-Sunday-01,134842561,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134842661,"University/King via Crtlnd & Weber",0,199598,80073
-8,16FALL-All-Sunday-01,134842761,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134842861,"University/King via Crtlnd & Weber",0,199598,80073
-8,16FALL-All-Sunday-01,134842961,"University/King via Crtlnd & Weber",0,199596,80073
-8,16FALL-All-Sunday-01,134843061,"Fairview Park via Weber & Courtland",1,199595,80077
-8,16FALL-All-Sunday-01,134843161,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134843261,"Fairview Park via Weber & Courtland",1,199595,80077
-8,16FALL-All-Sunday-01,134843361,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134843461,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134843561,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134843661,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134843761,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134843861,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134843961,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134844061,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134844161,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134844261,"University/King via Crtlnd & Weber",0,199597,80073
-8,16FALL-All-Sunday-01,134844361,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134844461,"Fairview Park via Weber & Courtland",1,199595,80077
-8,16FALL-All-Sunday-01,134844561,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134844661,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134844761,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134844861,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134844961,"Fairview Park via Weber & Courtland",1,199594,80078
-8,16FALL-All-Sunday-01,134845061,"Fairview Park via Weber & Courtland",1,199595,80078
-8,16FALL-All-Sunday-01,134845161,"Fairview Park via Weber & Courtland",1,199594,80078
+62,16FALL-All-Saturday-01,142270951,"West",1,199528,620008
+62,16FALL-All-Saturday-01,142271051,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271151,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271251,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271351,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271451,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271551,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271651,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271751,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271851,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142271951,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142272051,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142272151,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142272251,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142272351,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142272451,"West",1,199516,620008
+62,16FALL-All-Saturday-01,142272551,"West",1,199516,620008
+3,16FALL-All-Sunday-01,134839061,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839161,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839261,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839361,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839461,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839561,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839661,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839761,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839861,"Charles Terminal",1,199642,30019
+3,16FALL-All-Sunday-01,134839961,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840061,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840161,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840261,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840361,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840461,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840561,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840661,"Forest Glen",0,199642,30020
+3,16FALL-All-Sunday-01,134840761,"Forest Glen",0,199642,30020
+8,16FALL-All-Sunday-01,134840861,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134840961,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134841061,"University/King via Crtlnd & Weber",0,199597,80082
+8,16FALL-All-Sunday-01,134841161,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134841261,"University/King via Crtlnd & Weber",0,199597,80082
+8,16FALL-All-Sunday-01,134841361,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134841461,"University/King via Crtlnd & Weber",0,199597,80082
+8,16FALL-All-Sunday-01,134841561,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134841661,"University/King via Crtlnd & Weber",0,199597,80082
+8,16FALL-All-Sunday-01,134841761,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134841861,"University/King via Crtlnd & Weber",0,199597,80082
+8,16FALL-All-Sunday-01,134841961,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134842061,"University/King via Crtlnd & Weber",0,199598,80082
+8,16FALL-All-Sunday-01,134842161,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134842261,"University/King via Crtlnd & Weber",0,199598,80082
+8,16FALL-All-Sunday-01,134842361,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134842461,"University/King via Crtlnd & Weber",0,199598,80082
+8,16FALL-All-Sunday-01,134842561,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134842661,"University/King via Crtlnd & Weber",0,199598,80082
+8,16FALL-All-Sunday-01,134842761,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134842861,"University/King via Crtlnd & Weber",0,199598,80082
+8,16FALL-All-Sunday-01,134842961,"University/King via Crtlnd & Weber",0,199596,80082
+8,16FALL-All-Sunday-01,134843061,"Fairview Park via Weber & Courtland",1,199595,80085
+8,16FALL-All-Sunday-01,134843161,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134843261,"Fairview Park via Weber & Courtland",1,199595,80085
+8,16FALL-All-Sunday-01,134843361,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134843461,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134843561,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134843661,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134843761,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134843861,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134843961,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134844061,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134844161,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134844261,"University/King via Crtlnd & Weber",0,199597,80082
+8,16FALL-All-Sunday-01,134844361,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134844461,"Fairview Park via Weber & Courtland",1,199595,80085
+8,16FALL-All-Sunday-01,134844561,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134844661,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134844761,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134844861,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134844961,"Fairview Park via Weber & Courtland",1,199594,80086
+8,16FALL-All-Sunday-01,134845061,"Fairview Park via Weber & Courtland",1,199595,80086
+8,16FALL-All-Sunday-01,134845161,"Fairview Park via Weber & Courtland",1,199594,80086
 8,16FALL-All-Sunday-01,134845261,"Charles Terminal via Weber",1,199595,80064
 8,16FALL-All-Sunday-01,134845361,"Charles Terminal via Westmount",1,199596,80018
 8,16FALL-All-Sunday-01,134845461,"Charles Terminal via Westmount",1,199597,80018
-8,16FALL-All-Sunday-01,134845561,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134845661,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134845761,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134845861,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134845961,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134846061,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134846161,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134846261,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134846361,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134846461,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134846561,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134846661,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134846761,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134846861,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134846961,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134847061,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134847161,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134847261,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134847361,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134847461,"University/King via Franklin & Westmount",0,199594,80052
-8,16FALL-All-Sunday-01,134847561,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134847661,"University/King via Franklin & Westmount",0,199595,80052
-8,16FALL-All-Sunday-01,134847761,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134847861,"Fairview Park via Westmount & Franklin",1,199597,80066
-8,16FALL-All-Sunday-01,134847961,"Fairview Park via Westmount & Franklin",1,199598,80066
-8,16FALL-All-Sunday-01,134848061,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134848161,"Fairview Park via Westmount & Franklin",1,199598,80066
-8,16FALL-All-Sunday-01,134848261,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134848361,"Fairview Park via Westmount & Franklin",1,199598,80066
-8,16FALL-All-Sunday-01,134848461,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134848561,"Fairview Park via Westmount & Franklin",1,199598,80066
-8,16FALL-All-Sunday-01,134848661,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134848761,"Fairview Park via Westmount & Franklin",1,199598,80066
-8,16FALL-All-Sunday-01,134848861,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134848961,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134849061,"Fairview Park via Westmount & Franklin",1,199597,80066
-8,16FALL-All-Sunday-01,134849161,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134849261,"Fairview Park via Westmount & Franklin",1,199597,80066
-8,16FALL-All-Sunday-01,134849361,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134849461,"Fairview Park via Westmount & Franklin",1,199597,80066
-8,16FALL-All-Sunday-01,134849561,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134849661,"Fairview Park via Westmount & Franklin",1,199597,80066
-8,16FALL-All-Sunday-01,134849761,"Fairview Park via Westmount & Franklin",1,199596,80066
-8,16FALL-All-Sunday-01,134849861,"Fairview Park via Franklin",1,199598,80067
+8,16FALL-All-Sunday-01,134845561,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134845661,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134845761,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134845861,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134845961,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134846061,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134846161,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134846261,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134846361,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134846461,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134846561,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134846661,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134846761,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134846861,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134846961,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134847061,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134847161,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134847261,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134847361,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134847461,"University/King via Franklin & Westmount",0,199594,80092
+8,16FALL-All-Sunday-01,134847561,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134847661,"University/King via Franklin & Westmount",0,199595,80092
+8,16FALL-All-Sunday-01,134847761,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134847861,"Fairview Park via Westmount & Franklin",1,199597,80088
+8,16FALL-All-Sunday-01,134847961,"Fairview Park via Westmount & Franklin",1,199598,80088
+8,16FALL-All-Sunday-01,134848061,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134848161,"Fairview Park via Westmount & Franklin",1,199598,80088
+8,16FALL-All-Sunday-01,134848261,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134848361,"Fairview Park via Westmount & Franklin",1,199598,80088
+8,16FALL-All-Sunday-01,134848461,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134848561,"Fairview Park via Westmount & Franklin",1,199598,80088
+8,16FALL-All-Sunday-01,134848661,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134848761,"Fairview Park via Westmount & Franklin",1,199598,80088
+8,16FALL-All-Sunday-01,134848861,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134848961,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134849061,"Fairview Park via Westmount & Franklin",1,199597,80088
+8,16FALL-All-Sunday-01,134849161,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134849261,"Fairview Park via Westmount & Franklin",1,199597,80088
+8,16FALL-All-Sunday-01,134849361,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134849461,"Fairview Park via Westmount & Franklin",1,199597,80088
+8,16FALL-All-Sunday-01,134849561,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134849661,"Fairview Park via Westmount & Franklin",1,199597,80088
+8,16FALL-All-Sunday-01,134849761,"Fairview Park via Westmount & Franklin",1,199596,80088
+8,16FALL-All-Sunday-01,134849861,"Fairview Park via Franklin",1,199598,80087
 11,16FALL-All-Sunday-01,134849961,"Charles Terminal",0,199593,110007
 11,16FALL-All-Sunday-01,134850061,"Forest Glen",1,199593,110008
 11,16FALL-All-Sunday-01,134850161,"Forest Glen",1,199643,110008
@@ -6497,31 +6497,31 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,16FALL-All-Sunday-01,134930861,"Ainslie Terminal via Preston Parkway",1,199588,520024
 52,16FALL-All-Sunday-01,134930961,"Ainslie Terminal via Preston Parkway",1,199589,520024
 52,16FALL-All-Sunday-01,134931061,"Ainslie Terminal via Preston Parkway",1,199588,520024
-55,16FALL-All-Sunday-01,134931161,"West",1,199602,550005
-55,16FALL-All-Sunday-01,134931261,"West",1,199602,550005
-55,16FALL-All-Sunday-01,134931361,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134931461,"West",1,199602,550005
-55,16FALL-All-Sunday-01,134931561,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134931661,"West",1,199602,550005
-55,16FALL-All-Sunday-01,134931761,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134931861,"West",1,199602,550005
-55,16FALL-All-Sunday-01,134931961,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134932061,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134932161,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134932261,"West",1,199602,550005
-55,16FALL-All-Sunday-01,134932361,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134932461,"West",1,199602,550005
-55,16FALL-All-Sunday-01,134932561,"West",1,199600,550005
-55,16FALL-All-Sunday-01,134932661,"West",1,199602,550005
-22,16FALL-All-Sunday-01,134932761,"Highland Hills",1,199643,220012
-22,16FALL-All-Sunday-01,134932861,"Highland Hills",1,199593,220012
-22,16FALL-All-Sunday-01,134932961,"Highland Hills",1,199643,220012
-22,16FALL-All-Sunday-01,134933061,"Highland Hills",1,199593,220012
-22,16FALL-All-Sunday-01,134933161,"Highland Hills",1,199643,220012
-22,16FALL-All-Sunday-01,134933261,"Highland Hills",1,199593,220012
-22,16FALL-All-Sunday-01,134933361,"Highland Hills",1,199643,220012
-22,16FALL-All-Sunday-01,134933461,"Highland Hills",1,199643,220012
-22,16FALL-All-Sunday-01,134933561,"Highland Hills",1,199592,220012
+55,16FALL-All-Sunday-01,134931161,"West",1,199602,550009
+55,16FALL-All-Sunday-01,134931261,"West",1,199602,550009
+55,16FALL-All-Sunday-01,134931361,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134931461,"West",1,199602,550009
+55,16FALL-All-Sunday-01,134931561,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134931661,"West",1,199602,550009
+55,16FALL-All-Sunday-01,134931761,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134931861,"West",1,199602,550009
+55,16FALL-All-Sunday-01,134931961,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134932061,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134932161,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134932261,"West",1,199602,550009
+55,16FALL-All-Sunday-01,134932361,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134932461,"West",1,199602,550009
+55,16FALL-All-Sunday-01,134932561,"West",1,199600,550009
+55,16FALL-All-Sunday-01,134932661,"West",1,199602,550009
+22,16FALL-All-Sunday-01,134932761,"Highland Hills",1,199643,220020
+22,16FALL-All-Sunday-01,134932861,"Highland Hills",1,199593,220020
+22,16FALL-All-Sunday-01,134932961,"Highland Hills",1,199643,220020
+22,16FALL-All-Sunday-01,134933061,"Highland Hills",1,199593,220020
+22,16FALL-All-Sunday-01,134933161,"Highland Hills",1,199643,220020
+22,16FALL-All-Sunday-01,134933261,"Highland Hills",1,199593,220020
+22,16FALL-All-Sunday-01,134933361,"Highland Hills",1,199643,220020
+22,16FALL-All-Sunday-01,134933461,"Highland Hills",1,199643,220020
+22,16FALL-All-Sunday-01,134933561,"Highland Hills",1,199592,220020
 22,16FALL-All-Sunday-01,134933661,"Forest Glen",0,199643,220011
 22,16FALL-All-Sunday-01,134933761,"Forest Glen",0,199593,220011
 22,16FALL-All-Sunday-01,134933861,"Forest Glen",0,199643,220011
