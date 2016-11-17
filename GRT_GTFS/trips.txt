@@ -1,72 +1,72 @@
 route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
-52,16FALL-All-Weekday-01,134991001,"Fairview Park via Preston Parkway",0,199894,520026
-52,16FALL-All-Weekday-01,134991101,"Fairview Park via Preston Parkway",0,199892,520026
-52,16FALL-All-Weekday-01,134993901,"Fairview Park via Preston Parkway",0,199895,520026
-52,16FALL-All-Weekday-01,134994001,"Fairview Park via Preston Parkway",0,199890,520026
-52,16FALL-All-Weekday-01,134994101,"Fairview Park via Preston Parkway",0,199891,520026
-52,16FALL-All-Weekday-01,134994201,"Fairview Park via Preston Parkway",0,199895,520026
-52,16FALL-All-Weekday-01,134994301,"Fairview Park via Preston Parkway",0,199890,520026
-52,16FALL-All-Weekday-01,134994401,"Fairview Park via Preston Parkway",0,199891,520026
-52,16FALL-All-Weekday-01,134994501,"Fairview Park via Preston Parkway",0,199895,520026
-52,16FALL-All-Weekday-01,134994601,"Ainslie Terminal via Preston Parkway",1,199891,520023
-52,16FALL-All-Weekday-01,134995201,"Ainslie Terminal via Preston Parkway",1,199891,520024
-52,16FALL-All-Weekday-01,134995301,"Ainslie Terminal via Preston Parkway",1,199895,520024
-52,16FALL-All-Weekday-01,134995401,"Ainslie Terminal via Preston Parkway",1,199890,520024
-52,16FALL-All-Weekday-01,134995501,"Ainslie Terminal via Preston Parkway",1,199891,520024
-52,16FALL-All-Weekday-01,134995601,"Ainslie Terminal via Preston Parkway",1,199895,520024
-52,16FALL-All-Weekday-01,134995701,"Ainslie Terminal via Preston Parkway",1,199890,520024
-52,16FALL-All-Weekday-01,134995901,"Fairview Park via Cherry Blossom",0,199891,520027
-52,16FALL-All-Weekday-01,134996001,"Fairview Park via Cherry Blossom",0,199895,520027
-52,16FALL-All-Weekday-01,134996101,"Fairview Park via Cherry Blossom",0,199890,520027
-52,16FALL-All-Weekday-01,134996201,"Fairview Park via Cherry Blossom",0,199891,520027
-52,16FALL-All-Weekday-01,134996301,"Fairview Park via Cherry Blossom",0,199895,520027
-52,16FALL-All-Weekday-01,134996401,"Fairview Park via Cherry Blossom",0,199890,520027
-52,16FALL-All-Weekday-01,134996501,"Fairview Park via Cherry Blossom",0,199891,520027
-52,16FALL-All-Weekday-01,134996601,"Fairview Park via Cherry Blossom",0,199895,520027
-52,16FALL-All-Weekday-01,134996701,"Fairview Park via Cherry Blossom",0,199890,520027
-52,16FALL-All-Weekday-01,134996801,"Fairview Park via Cherry Blossom",0,199891,520027
-52,16FALL-All-Weekday-01,134996901,"Fairview Park via Cherry Blossom",0,199895,520027
-52,16FALL-All-Weekday-01,134997001,"Fairview Park via Cherry Blossom",0,199890,520027
-52,16FALL-All-Weekday-01,134997101,"Fairview Park via Cherry Blossom",0,199891,520027
-52,16FALL-All-Weekday-01,134997201,"Fairview Park via Cherry Blossom",0,199895,520027
-52,16FALL-All-Weekday-01,134997301,"Fairview Park via Cherry Blossom",0,199890,520027
-52,16FALL-All-Weekday-01,134997401,"Fairview Park via Cherry Blossom",0,199891,520027
-52,16FALL-All-Weekday-01,134997501,"Fairview Park via Cherry Blossom",0,199895,520027
-52,16FALL-All-Weekday-01,134997601,"Fairview Park via Cherry Blossom",0,199890,520027
-52,16FALL-All-Weekday-01,134997701,"Fairview Park via Cherry Blossom",0,199892,520027
-52,16FALL-All-Weekday-01,134997801,"Fairview Park via Cherry Blossom",0,199894,520027
-52,16FALL-All-Weekday-01,134997901,"Fairview Park via Cherry Blossom",0,199893,520027
-52,16FALL-All-Weekday-01,134998001,"Fairview Park via Cherry Blossom",0,210155,520027
-52,16FALL-All-Weekday-01,134998101,"Fairview Park via Cherry Blossom",0,199891,520027
-52,16FALL-All-Weekday-01,134998201,"Ainslie Terminal via Cherry Blossom",1,199895,520025
-52,16FALL-All-Weekday-01,134998301,"Fairview Park via Cherry Blossom",0,199890,520027
-52,16FALL-All-Weekday-01,134998401,"Ainslie Terminal via Preston Parkway",1,199891,520024
-52,16FALL-All-Weekday-01,134998501,"Fairview Park via Preston Parkway",0,199895,520028
-52,16FALL-All-Weekday-01,134998601,"Ainslie Terminal via Cherry Blossom",1,199890,520025
-52,16FALL-All-Weekday-01,134998701,"Ainslie Terminal via Cherry Blossom",1,199891,520025
-52,16FALL-All-Weekday-01,134998801,"Ainslie Terminal via Cherry Blossom",1,199895,520025
-52,16FALL-All-Weekday-01,134998901,"Ainslie Terminal via Cherry Blossom",1,199890,520025
-52,16FALL-All-Weekday-01,134999001,"Ainslie Terminal via Cherry Blossom",1,199891,520025
-52,16FALL-All-Weekday-01,134999101,"Ainslie Terminal via Cherry Blossom",1,199895,520025
-52,16FALL-All-Weekday-01,134999201,"Ainslie Terminal via Cherry Blossom",1,199890,520025
-52,16FALL-All-Weekday-01,134999301,"Ainslie Terminal via Cherry Blossom",1,199891,520025
-52,16FALL-All-Weekday-01,134999401,"Ainslie Terminal via Cherry Blossom",1,199895,520025
-52,16FALL-All-Weekday-01,134999501,"Ainslie Terminal via Cherry Blossom",1,199890,520025
-52,16FALL-All-Weekday-01,134999601,"Ainslie Terminal via Cherry Blossom",1,199891,520025
-52,16FALL-All-Weekday-01,134999701,"Ainslie Terminal via Cherry Blossom",1,199895,520025
-52,16FALL-All-Weekday-01,134999801,"Ainslie Terminal via Cherry Blossom",1,199890,520025
-52,16FALL-All-Weekday-01,134999901,"Ainslie Terminal via Cherry Blossom",1,199891,520025
-52,16FALL-All-Weekday-01,135000001,"Ainslie Terminal via Cherry Blossom",1,199895,520025
-52,16FALL-All-Weekday-01,135000101,"Ainslie Terminal via Cherry Blossom",1,199890,520025
-52,16FALL-All-Weekday-01,135000201,"Ainslie Terminal via Cherry Blossom",1,199891,520025
-52,16FALL-All-Weekday-01,135000301,"Ainslie Terminal via Preston Parkway",1,199893,520024
-52,16FALL-All-Weekday-01,135000401,"Ainslie Terminal via Preston Parkway",1,199892,520024
-52,16FALL-All-Weekday-01,135002101,"Ainslie Terminal via Cherry Blossom",1,199895,520025
-52,16FALL-All-Weekday-01,135002201,"Ainslie Terminal via Cherry Blossom",1,199890,520025
-52,16FALL-All-Weekday-01,135002301,"Ainslie Terminal via Cherry Blossom",1,199892,520025
-52,16FALL-All-Weekday-01,135002401,"Ainslie Terminal via Cherry Blossom",1,199894,520025
-52,16FALL-All-Weekday-01,135002501,"Ainslie Terminal via Cherry Blossom",1,199893,520025
-52,16FALL-All-Weekday-01,135002601,"Ainslie Terminal via Cherry Blossom",1,210155,520025
+52,16FALL-All-Weekday-01,134991001,"Fairview Park via Preston Parkway",0,199894,520033
+52,16FALL-All-Weekday-01,134991101,"Fairview Park via Preston Parkway",0,199892,520033
+52,16FALL-All-Weekday-01,134993901,"Fairview Park via Preston Parkway",0,199895,520033
+52,16FALL-All-Weekday-01,134994001,"Fairview Park via Preston Parkway",0,199890,520033
+52,16FALL-All-Weekday-01,134994101,"Fairview Park via Preston Parkway",0,199891,520033
+52,16FALL-All-Weekday-01,134994201,"Fairview Park via Preston Parkway",0,199895,520033
+52,16FALL-All-Weekday-01,134994301,"Fairview Park via Preston Parkway",0,199890,520033
+52,16FALL-All-Weekday-01,134994401,"Fairview Park via Preston Parkway",0,199891,520033
+52,16FALL-All-Weekday-01,134994501,"Fairview Park via Preston Parkway",0,199895,520033
+52,16FALL-All-Weekday-01,134994601,"Ainslie Terminal via Preston Parkway",1,199891,520034
+52,16FALL-All-Weekday-01,134995201,"Ainslie Terminal via Preston Parkway",1,199891,520035
+52,16FALL-All-Weekday-01,134995301,"Ainslie Terminal via Preston Parkway",1,199895,520035
+52,16FALL-All-Weekday-01,134995401,"Ainslie Terminal via Preston Parkway",1,199890,520035
+52,16FALL-All-Weekday-01,134995501,"Ainslie Terminal via Preston Parkway",1,199891,520035
+52,16FALL-All-Weekday-01,134995601,"Ainslie Terminal via Preston Parkway",1,199895,520035
+52,16FALL-All-Weekday-01,134995701,"Ainslie Terminal via Preston Parkway",1,199890,520035
+52,16FALL-All-Weekday-01,134995901,"Fairview Park via Cherry Blossom",0,199891,520036
+52,16FALL-All-Weekday-01,134996001,"Fairview Park via Cherry Blossom",0,199895,520036
+52,16FALL-All-Weekday-01,134996101,"Fairview Park via Cherry Blossom",0,199890,520036
+52,16FALL-All-Weekday-01,134996201,"Fairview Park via Cherry Blossom",0,199891,520036
+52,16FALL-All-Weekday-01,134996301,"Fairview Park via Cherry Blossom",0,199895,520036
+52,16FALL-All-Weekday-01,134996401,"Fairview Park via Cherry Blossom",0,199890,520036
+52,16FALL-All-Weekday-01,134996501,"Fairview Park via Cherry Blossom",0,199891,520036
+52,16FALL-All-Weekday-01,134996601,"Fairview Park via Cherry Blossom",0,199895,520036
+52,16FALL-All-Weekday-01,134996701,"Fairview Park via Cherry Blossom",0,199890,520036
+52,16FALL-All-Weekday-01,134996801,"Fairview Park via Cherry Blossom",0,199891,520036
+52,16FALL-All-Weekday-01,134996901,"Fairview Park via Cherry Blossom",0,199895,520036
+52,16FALL-All-Weekday-01,134997001,"Fairview Park via Cherry Blossom",0,199890,520036
+52,16FALL-All-Weekday-01,134997101,"Fairview Park via Cherry Blossom",0,199891,520036
+52,16FALL-All-Weekday-01,134997201,"Fairview Park via Cherry Blossom",0,199895,520036
+52,16FALL-All-Weekday-01,134997301,"Fairview Park via Cherry Blossom",0,199890,520036
+52,16FALL-All-Weekday-01,134997401,"Fairview Park via Cherry Blossom",0,199891,520036
+52,16FALL-All-Weekday-01,134997501,"Fairview Park via Cherry Blossom",0,199895,520036
+52,16FALL-All-Weekday-01,134997601,"Fairview Park via Cherry Blossom",0,199890,520036
+52,16FALL-All-Weekday-01,134997701,"Fairview Park via Cherry Blossom",0,199892,520036
+52,16FALL-All-Weekday-01,134997801,"Fairview Park via Cherry Blossom",0,199894,520036
+52,16FALL-All-Weekday-01,134997901,"Fairview Park via Cherry Blossom",0,199893,520036
+52,16FALL-All-Weekday-01,134998001,"Fairview Park via Cherry Blossom",0,210155,520036
+52,16FALL-All-Weekday-01,134998101,"Fairview Park via Cherry Blossom",0,199891,520036
+52,16FALL-All-Weekday-01,134998201,"Ainslie Terminal via Preston Parkway",1,199895,520035
+52,16FALL-All-Weekday-01,134998301,"Fairview Park via Cherry Blossom",0,199890,520036
+52,16FALL-All-Weekday-01,134998401,"Ainslie Terminal via Preston Parkway",1,199891,520035
+52,16FALL-All-Weekday-01,134998501,"Fairview Park via Preston Parkway",0,199895,520037
+52,16FALL-All-Weekday-01,134998601,"Ainslie Terminal via Preston Parkway",1,199890,520035
+52,16FALL-All-Weekday-01,134998701,"Ainslie Terminal via Preston Parkway",1,199891,520035
+52,16FALL-All-Weekday-01,134998801,"Ainslie Terminal via Cherry Blossom",1,199895,520038
+52,16FALL-All-Weekday-01,134998901,"Ainslie Terminal via Cherry Blossom",1,199890,520038
+52,16FALL-All-Weekday-01,134999001,"Ainslie Terminal via Cherry Blossom",1,199891,520038
+52,16FALL-All-Weekday-01,134999101,"Ainslie Terminal via Cherry Blossom",1,199895,520038
+52,16FALL-All-Weekday-01,134999201,"Ainslie Terminal via Cherry Blossom",1,199890,520038
+52,16FALL-All-Weekday-01,134999301,"Ainslie Terminal via Cherry Blossom",1,199891,520038
+52,16FALL-All-Weekday-01,134999401,"Ainslie Terminal via Cherry Blossom",1,199895,520038
+52,16FALL-All-Weekday-01,134999501,"Ainslie Terminal via Cherry Blossom",1,199890,520038
+52,16FALL-All-Weekday-01,134999601,"Ainslie Terminal via Cherry Blossom",1,199891,520038
+52,16FALL-All-Weekday-01,134999701,"Ainslie Terminal via Cherry Blossom",1,199895,520038
+52,16FALL-All-Weekday-01,134999801,"Ainslie Terminal via Cherry Blossom",1,199890,520038
+52,16FALL-All-Weekday-01,134999901,"Ainslie Terminal via Cherry Blossom",1,199891,520038
+52,16FALL-All-Weekday-01,135000001,"Ainslie Terminal via Cherry Blossom",1,199895,520038
+52,16FALL-All-Weekday-01,135000101,"Ainslie Terminal via Cherry Blossom",1,199890,520038
+52,16FALL-All-Weekday-01,135000201,"Ainslie Terminal via Cherry Blossom",1,199891,520038
+52,16FALL-All-Weekday-01,135000301,"Ainslie Terminal via Preston Parkway",1,199893,520035
+52,16FALL-All-Weekday-01,135000401,"Ainslie Terminal via Preston Parkway",1,199892,520035
+52,16FALL-All-Weekday-01,135002101,"Ainslie Terminal via Cherry Blossom",1,199895,520038
+52,16FALL-All-Weekday-01,135002201,"Ainslie Terminal via Cherry Blossom",1,199890,520038
+52,16FALL-All-Weekday-01,135002301,"Ainslie Terminal via Cherry Blossom",1,199892,520038
+52,16FALL-All-Weekday-01,135002401,"Ainslie Terminal via Cherry Blossom",1,199894,520038
+52,16FALL-All-Weekday-01,135002501,"Ainslie Terminal via Cherry Blossom",1,199893,520038
+52,16FALL-All-Weekday-01,135002601,"Ainslie Terminal via Cherry Blossom",1,210155,520038
 116,16FALL-All-Weekday-01,135003201,"Conestoga College",1,199888,1160001
 116,16FALL-All-Weekday-01,135003301,"Conestoga College",1,199732,1160001
 116,16FALL-All-Weekday-01,135003401,"Conestoga College",1,205340,1160001
@@ -2782,11 +2782,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Weekday-01,135334901,"C - Conestoga Mall",0,199817,70173
 7,16FALL-All-Weekday-01,135335001,"C - Conestoga Mall",0,199823,70173
 7,16FALL-All-Weekday-01,135335101,"C - Conestoga Mall",0,199826,70173
-7,16FALL-All-Weekday-01,135335201,"A - Fairview Park via Connaught",1,199818,70178
-7,16FALL-All-Weekday-01,135335301,"A - Fairview Park via Connaught",1,199819,70178
-7,16FALL-All-Weekday-01,135335401,"A - Fairview Park via Connaught",1,199815,70178
-7,16FALL-All-Weekday-01,135335501,"A - Fairview Park via Connaught",1,199816,70178
-7,16FALL-All-Weekday-01,135335601,"A - Fairview Park via Connaught",1,199817,70178
+7,16FALL-All-Weekday-01,135335201,"A - Fairview Park via Connaught",1,199818,70215
+7,16FALL-All-Weekday-01,135335301,"A - Fairview Park via Connaught",1,199819,70215
+7,16FALL-All-Weekday-01,135335401,"A - Fairview Park via Connaught",1,199815,70215
+7,16FALL-All-Weekday-01,135335501,"A - Fairview Park via Connaught",1,199816,70215
+7,16FALL-All-Weekday-01,135335601,"A - Fairview Park via Connaught",1,199817,70215
 7,16FALL-All-Weekday-01,135335701,"E - UW via Columbia",0,199813,70179
 7,16FALL-All-Weekday-01,135335801,"E - UW via Columbia",0,199833,70179
 7,16FALL-All-Weekday-01,135335901,"E - UW via Columbia",0,199818,70179
@@ -2812,17 +2812,17 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Weekday-01,135337901,"C - Conestoga Mall",0,199814,70173
 7,16FALL-All-Weekday-01,135338001,"C - Conestoga Mall",0,199815,70173
 7,16FALL-All-Weekday-01,135338101,"C - Conestoga Mall",0,199816,70173
-7,16FALL-All-Weekday-01,135338201,"A - Fairview Park via Connaught",1,199823,70178
-7,16FALL-All-Weekday-01,135338301,"A - Fairview Park via Connaught",1,199826,70178
-7,16FALL-All-Weekday-01,135338401,"A - Fairview Park via Connaught",1,199824,70178
-7,16FALL-All-Weekday-01,135338501,"A - Fairview Park via Connaught",1,199812,70178
-7,16FALL-All-Weekday-01,135338601,"A - Fairview Park via Connaught",1,199832,70178
-7,16FALL-All-Weekday-01,135338701,"A - Fairview Park via Connaught",1,199821,70178
-7,16FALL-All-Weekday-01,135338801,"A - Fairview Park via Connaught",1,199827,70178
-7,16FALL-All-Weekday-01,135338901,"A - Fairview Park via Connaught",1,199820,70178
-7,16FALL-All-Weekday-01,135339001,"A - Fairview Park via Connaught",1,199822,70178
-7,16FALL-All-Weekday-01,135339101,"A - Fairview Park via Connaught",1,199814,70181
-7,16FALL-All-Weekday-01,135339201,"A - Fairview Park via Connaught",1,199815,70178
+7,16FALL-All-Weekday-01,135338201,"A - Fairview Park via Connaught",1,199823,70215
+7,16FALL-All-Weekday-01,135338301,"A - Fairview Park via Connaught",1,199826,70215
+7,16FALL-All-Weekday-01,135338401,"A - Fairview Park via Connaught",1,199824,70215
+7,16FALL-All-Weekday-01,135338501,"A - Fairview Park via Connaught",1,199812,70215
+7,16FALL-All-Weekday-01,135338601,"A - Fairview Park via Connaught",1,199832,70215
+7,16FALL-All-Weekday-01,135338701,"A - Fairview Park via Connaught",1,199821,70215
+7,16FALL-All-Weekday-01,135338801,"A - Fairview Park via Connaught",1,199827,70215
+7,16FALL-All-Weekday-01,135338901,"A - Fairview Park via Connaught",1,199820,70215
+7,16FALL-All-Weekday-01,135339001,"A - Fairview Park via Connaught",1,199822,70215
+7,16FALL-All-Weekday-01,135339101,"A - Fairview Park via Connaught",1,199814,70216
+7,16FALL-All-Weekday-01,135339201,"A - Fairview Park via Connaught",1,199815,70215
 7,16FALL-All-Weekday-01,135339301,"C - Conestoga Mall",0,199816,70175
 7,16FALL-All-Weekday-01,135339401,"C - Conestoga Mall",0,199817,70175
 7,16FALL-All-Weekday-01,135339501,"C - Conestoga Mall",0,199823,70175
@@ -2854,13 +2854,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Weekday-01,135342101,"C - Conestoga Mall",0,199812,70173
 7,16FALL-All-Weekday-01,135342201,"C - Conestoga Mall",0,199832,70173
 7,16FALL-All-Weekday-01,135342301,"C - Conestoga Mall",0,199821,70173
-7,16FALL-All-Weekday-01,135342401,"A - Fairview Park via Connaught",1,199816,70178
-7,16FALL-All-Weekday-01,135342501,"A - Fairview Park via Connaught",1,199817,70178
-7,16FALL-All-Weekday-01,135342601,"A - Fairview Park via Connaught",1,199823,70178
-7,16FALL-All-Weekday-01,135342701,"A - Fairview Park via Connaught",1,199826,70178
-7,16FALL-All-Weekday-01,135342801,"A - Fairview Park via Connaught",1,199824,70178
-7,16FALL-All-Weekday-01,135342901,"A - Fairview Park via Connaught",1,199812,70181
-7,16FALL-All-Weekday-01,135343001,"A - Fairview Park via Connaught",1,199832,70181
+7,16FALL-All-Weekday-01,135342401,"A - Fairview Park via Connaught",1,199816,70215
+7,16FALL-All-Weekday-01,135342501,"A - Fairview Park via Connaught",1,199817,70215
+7,16FALL-All-Weekday-01,135342601,"A - Fairview Park via Connaught",1,199823,70215
+7,16FALL-All-Weekday-01,135342701,"A - Fairview Park via Connaught",1,199826,70215
+7,16FALL-All-Weekday-01,135342801,"A - Fairview Park via Connaught",1,199824,70215
+7,16FALL-All-Weekday-01,135342901,"A - Fairview Park via Connaught",1,199812,70216
+7,16FALL-All-Weekday-01,135343001,"A - Fairview Park via Connaught",1,199832,70216
 7,16FALL-All-Weekday-01,135343101,"E - UW via Columbia",0,199822,70179
 7,16FALL-All-Weekday-01,135343201,"E - UW via Columbia",0,199814,70179
 7,16FALL-All-Weekday-01,135343301,"E - UW via Columbia",0,199815,70179
@@ -2893,28 +2893,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Weekday-01,135346001,"C - Conestoga Mall",0,199815,70176
 7,16FALL-All-Weekday-01,135346101,"D - UW via University",0,199824,70177
 7,16FALL-All-Weekday-01,135346201,"B - Fairview Park via Weber",1,199815,70182
-7,16FALL-All-Weekday-01,135346301,"A - Fairview Park via Connaught",1,199824,70183
+7,16FALL-All-Weekday-01,135346301,"A - Fairview Park via Connaught",1,199824,70217
 7,16FALL-All-Weekday-01,135346401,"B - Fairview Park via Weber",1,199820,70182
-7,16FALL-All-Weekday-01,135346501,"A - Fairview Park via Connaught",1,199812,70183
+7,16FALL-All-Weekday-01,135346501,"A - Fairview Park via Connaught",1,199812,70217
 7,16FALL-All-Weekday-01,135346601,"B - Fairview Park via Weber",1,199829,70182
-7,16FALL-All-Weekday-01,135346701,"A - Fairview Park via Connaught",1,199832,70183
+7,16FALL-All-Weekday-01,135346701,"A - Fairview Park via Connaught",1,199832,70217
 7,16FALL-All-Weekday-01,135346801,"B - Fairview Park via Weber",1,199828,70182
-7,16FALL-All-Weekday-01,135346901,"A - Fairview Park via Connaught",1,199826,70183
+7,16FALL-All-Weekday-01,135346901,"A - Fairview Park via Connaught",1,199826,70217
 7,16FALL-All-Weekday-01,135347001,"B - Fairview Park via Weber",1,199815,70182
-7,16FALL-All-Weekday-01,135347101,"A - Fairview Park via Connaught",1,199824,70183
+7,16FALL-All-Weekday-01,135347101,"A - Fairview Park via Connaught",1,199824,70217
 7,16FALL-All-Weekday-01,135347201,"B - Fairview Park via Weber",1,199820,70182
-7,16FALL-All-Weekday-01,135347301,"A - Fairview Park via Connaught",1,199812,70183
+7,16FALL-All-Weekday-01,135347301,"A - Fairview Park via Connaught",1,199812,70217
 7,16FALL-All-Weekday-01,135347401,"B - Fairview Park via Weber",1,199829,70182
-7,16FALL-All-Weekday-01,135347501,"A - Fairview Park via Connaught",1,199832,70183
+7,16FALL-All-Weekday-01,135347501,"A - Fairview Park via Connaught",1,199832,70217
 7,16FALL-All-Weekday-01,135347601,"B - Fairview Park via Weber",1,199828,70182
-7,16FALL-All-Weekday-01,135347701,"A - Fairview Park via Connaught",1,199826,70183
+7,16FALL-All-Weekday-01,135347701,"A - Fairview Park via Connaught",1,199826,70217
 7,16FALL-All-Weekday-01,135347801,"B - Fairview Park via Weber",1,199815,70182
-7,16FALL-All-Weekday-01,135347901,"A - Fairview Park via Connaught",1,199824,70183
+7,16FALL-All-Weekday-01,135347901,"A - Fairview Park via Connaught",1,199824,70217
 7,16FALL-All-Weekday-01,135348001,"B - Fairview Park via Weber",1,199820,70182
-7,16FALL-All-Weekday-01,135348101,"A - Fairview Park via Connaught",1,199812,70183
+7,16FALL-All-Weekday-01,135348101,"A - Fairview Park via Connaught",1,199812,70217
 7,16FALL-All-Weekday-01,135348201,"B - Fairview Park via Weber",1,199829,70184
 7,16FALL-All-Weekday-01,135348301,"C - Conestoga Mall",0,199815,70175
-7,16FALL-All-Weekday-01,135348401,"A - Fairview Park via Connaught",1,199833,70178
+7,16FALL-All-Weekday-01,135348401,"A - Fairview Park via Connaught",1,199833,70215
 7,16FALL-All-Weekday-01,135348501,"E - UW via Columbia",0,199813,70185
 7,16FALL-All-Weekday-01,135348601,"E - UW via Columbia",0,199813,70185
 7,16FALL-All-Weekday-01,135348701,"E - UW via Columbia",0,199813,70185
@@ -2924,15 +2924,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Weekday-01,135349101,"E - UW via Columbia",0,199833,70185
 7,16FALL-All-Weekday-01,135349201,"E - UW via Columbia",0,199833,70185
 7,16FALL-All-Weekday-01,135349301,"E - UW via Columbia",0,199833,70185
-7,16FALL-All-Weekday-01,135349401,"Charles Terminal",1,199813,70186
-7,16FALL-All-Weekday-01,135349501,"Charles Terminal",1,199813,70186
-7,16FALL-All-Weekday-01,135349601,"Charles Terminal",1,199813,70186
-7,16FALL-All-Weekday-01,135349701,"Charles Terminal",1,199833,70186
-7,16FALL-All-Weekday-01,135349801,"Charles Terminal",1,199833,70186
-7,16FALL-All-Weekday-01,135349901,"Charles Terminal",1,199833,70186
-7,16FALL-All-Weekday-01,135350001,"Charles Terminal",1,199833,70186
-7,16FALL-All-Weekday-01,135350101,"Charles Terminal",1,199818,70186
-7,16FALL-All-Weekday-01,135350201,"Charles Terminal",1,199819,70186
+7,16FALL-All-Weekday-01,135349401,"Charles Terminal",1,199813,70218
+7,16FALL-All-Weekday-01,135349501,"Charles Terminal",1,199813,70218
+7,16FALL-All-Weekday-01,135349601,"Charles Terminal",1,199813,70218
+7,16FALL-All-Weekday-01,135349701,"Charles Terminal",1,199833,70218
+7,16FALL-All-Weekday-01,135349801,"Charles Terminal",1,199833,70218
+7,16FALL-All-Weekday-01,135349901,"Charles Terminal",1,199833,70218
+7,16FALL-All-Weekday-01,135350001,"Charles Terminal",1,199833,70218
+7,16FALL-All-Weekday-01,135350101,"Charles Terminal",1,199818,70218
+7,16FALL-All-Weekday-01,135350201,"Charles Terminal",1,199819,70218
 7,16FALL-All-Weekday-01,135350301,"E - UW via Columbia",0,199814,70179
 7,16FALL-All-Weekday-01,135350401,"C - Conestoga Mall",0,199832,70176
 7,16FALL-All-Weekday-01,135350501,"C - Conestoga Mall",0,199821,70176
@@ -2950,119 +2950,119 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Weekday-01,135351701,"E - UW via Columbia",0,199814,70185
 7,16FALL-All-Weekday-01,135351801,"E - UW via Columbia",0,199817,70185
 7,16FALL-All-Weekday-01,135351901,"E - UW via Columbia",0,199814,70185
-7,16FALL-All-Weekday-01,135352001,"A - Fairview Park via Connaught",1,199813,70190
+7,16FALL-All-Weekday-01,135352001,"A - Fairview Park via Connaught",1,199813,70219
 7,16FALL-All-Weekday-01,135352101,"B - Fairview Park via Weber",1,199815,70184
-7,16FALL-All-Weekday-01,135352201,"A - Fairview Park via Connaught",1,199814,70183
-7,16FALL-All-Weekday-01,135352301,"Charles Terminal",1,199817,70186
-7,16FALL-All-Weekday-01,135352401,"Charles Terminal",1,199823,70186
-7,16FALL-All-Weekday-01,135352501,"A - Fairview Park via Connaught",1,199826,70191
-7,16FALL-All-Weekday-01,135352601,"Charles Terminal",1,199814,70186
-7,16FALL-All-Weekday-01,135352701,"Charles Terminal",1,199817,70186
-7,16FALL-All-Weekday-01,135352801,"Charles Terminal",1,199814,70186
-7,16FALL-All-Weekday-01,135352901,"Charles Terminal",1,199817,70186
-7,16FALL-All-Weekday-01,135353001,"Charles Terminal",1,199814,70186
+7,16FALL-All-Weekday-01,135352201,"A - Fairview Park via Connaught",1,199814,70217
+7,16FALL-All-Weekday-01,135352301,"Charles Terminal",1,199817,70218
+7,16FALL-All-Weekday-01,135352401,"Charles Terminal",1,199823,70218
+7,16FALL-All-Weekday-01,135352501,"A - Fairview Park via Connaught",1,199826,70220
+7,16FALL-All-Weekday-01,135352601,"Charles Terminal",1,199814,70218
+7,16FALL-All-Weekday-01,135352701,"Charles Terminal",1,199817,70218
+7,16FALL-All-Weekday-01,135352801,"Charles Terminal",1,199814,70218
+7,16FALL-All-Weekday-01,135352901,"Charles Terminal",1,199817,70218
+7,16FALL-All-Weekday-01,135353001,"Charles Terminal",1,199814,70218
 7,16FALL-All-Weekday-01,135353101,"E - UW via Columbia",0,199866,70053
 7,16FALL-All-Weekday-01,135353201,"E - UW via Columbia",0,199873,70053
 7,16FALL-All-Weekday-01,135353301,"E - UW via Columbia",0,199869,70053
 7,16FALL-All-Weekday-01,135353401,"E - UW via Columbia",0,199922,70053
 7,16FALL-All-Weekday-01,135353501,"E - UW via Columbia",0,199834,70185
 7,16FALL-All-Weekday-01,135353601,"E - UW via Columbia",0,199780,70185
-7,16FALL-All-Weekday-01,135353701,"Charles Terminal",1,199780,70186
+7,16FALL-All-Weekday-01,135353701,"Charles Terminal",1,199780,70218
 7,16FALL-All-Weekday-01,135353801,"E - UW via Columbia",0,199833,70185
-7,16FALL-All-Weekday-01,135353901,"Charles Terminal",1,199834,70186
-7,16FALL-All-Weekday-01,135354001,"Charles Terminal",1,199833,70186
+7,16FALL-All-Weekday-01,135353901,"Charles Terminal",1,199834,70218
+7,16FALL-All-Weekday-01,135354001,"Charles Terminal",1,199833,70218
 7,16FALL-All-Weekday-01,135354101,"E - UW via Columbia",0,199825,70185
-7,16FALL-All-Weekday-01,135354201,"Charles Terminal",1,199825,70192
-7,16FALL-All-Weekday-01,135354301,"F - Fairview via Wilson",1,199828,70193
-7,16FALL-All-Weekday-01,135354401,"F - Fairview via Wilson",1,199829,70193
-7,16FALL-All-Weekday-01,135354501,"F - Fairview via Wilson",1,199820,70193
-7,16FALL-All-Weekday-01,135354601,"F - Fairview via Wilson",1,199827,70193
-7,16FALL-All-Weekday-01,135354701,"B - Fairview Park via Weber",1,199824,70194
-7,16FALL-All-Weekday-01,135354801,"B - Fairview Park via Weber",1,199826,70194
-7,16FALL-All-Weekday-01,135354901,"B - Fairview Park via Weber",1,199823,70194
-7,16FALL-All-Weekday-01,135355001,"B - Fairview Park via Weber",1,199828,70194
-7,16FALL-All-Weekday-01,135355101,"B - Fairview Park via Weber",1,199820,70195
-7,16FALL-All-Weekday-01,135355201,"B - Fairview Park via Weber",1,199821,70194
-7,16FALL-All-Weekday-01,135355301,"B - Fairview Park via Weber",1,199829,70195
-7,16FALL-All-Weekday-01,135355401,"B - Fairview Park via Weber",1,199827,70194
-7,16FALL-All-Weekday-01,135355501,"B - Fairview Park via Weber",1,199832,70194
-7,16FALL-All-Weekday-01,135355601,"B - Fairview Park via Weber",1,199812,70194
-7,16FALL-All-Weekday-01,135355701,"B - Fairview Park via Weber",1,199824,70194
-7,16FALL-All-Weekday-01,135355801,"B - Fairview Park via Weber",1,199826,70194
-7,16FALL-All-Weekday-01,135355901,"B - Fairview Park via Weber",1,199823,70194
-7,16FALL-All-Weekday-01,135356001,"B - Fairview Park via Weber",1,199816,70194
-7,16FALL-All-Weekday-01,135356101,"B - Fairview Park via Weber",1,199817,70194
-7,16FALL-All-Weekday-01,135356201,"F - Fairview via Wilson",1,199821,70193
-7,16FALL-All-Weekday-01,135356301,"F - Fairview via Wilson",1,199832,70196
-7,16FALL-All-Weekday-01,135356401,"F - Fairview via Wilson",1,199812,70193
-7,16FALL-All-Weekday-01,135356501,"F - Fairview via Wilson",1,199824,70193
-7,16FALL-All-Weekday-01,135356601,"F - Fairview via Wilson",1,199826,70193
-7,16FALL-All-Weekday-01,135356701,"F - Fairview via Wilson",1,199823,70193
-7,16FALL-All-Weekday-01,135356801,"F - Fairview via Wilson",1,199817,70193
-7,16FALL-All-Weekday-01,135356901,"F - Fairview via Wilson",1,199816,70193
-7,16FALL-All-Weekday-01,135357001,"F - Fairview via Wilson",1,199815,70193
-7,16FALL-All-Weekday-01,135357101,"F - Fairview via Wilson",1,199822,70193
-7,16FALL-All-Weekday-01,135357201,"F - Fairview via Wilson",1,199814,70193
-7,16FALL-All-Weekday-01,135357301,"F - Fairview via Wilson",1,199820,70193
-7,16FALL-All-Weekday-01,135357401,"F - Fairview via Wilson",1,199827,70193
-7,16FALL-All-Weekday-01,135357501,"F - Fairview via Wilson",1,199821,70193
-7,16FALL-All-Weekday-01,135357601,"F - Fairview via Wilson",1,199832,70193
-7,16FALL-All-Weekday-01,135357701,"F - Fairview via Wilson",1,199812,70193
-7,16FALL-All-Weekday-01,135357801,"B - Fairview Park via Weber",1,199815,70194
-7,16FALL-All-Weekday-01,135357901,"B - Fairview Park via Weber",1,199814,70194
-7,16FALL-All-Weekday-01,135358001,"B - Fairview Park via Weber",1,199822,70194
-7,16FALL-All-Weekday-01,135358101,"B - Fairview Park via Weber",1,199820,70194
-7,16FALL-All-Weekday-01,135358201,"B - Fairview Park via Weber",1,199827,70194
-7,16FALL-All-Weekday-01,135358301,"B - Fairview Park via Weber",1,199832,70194
-7,16FALL-All-Weekday-01,135358401,"F - Fairview via Wilson",1,199822,70196
-7,16FALL-All-Weekday-01,135358501,"B - Fairview Park via Weber",1,199817,70194
-7,16FALL-All-Weekday-01,135358601,"B - Fairview Park via Weber",1,199816,70194
-7,16FALL-All-Weekday-01,135358701,"F - Fairview via Wilson",1,199831,70193
-7,16FALL-All-Weekday-01,135358801,"B - Fairview Park via Weber",1,199812,70195
-7,16FALL-All-Weekday-01,135358901,"F - Fairview via Wilson",1,199830,70193
-7,16FALL-All-Weekday-01,135359001,"B - Fairview Park via Weber",1,199821,70195
+7,16FALL-All-Weekday-01,135354201,"Charles Terminal",1,199825,70221
+7,16FALL-All-Weekday-01,135354301,"F - Fairview via Wilson",1,199828,70222
+7,16FALL-All-Weekday-01,135354401,"F - Fairview via Wilson",1,199829,70222
+7,16FALL-All-Weekday-01,135354501,"F - Fairview via Wilson",1,199820,70222
+7,16FALL-All-Weekday-01,135354601,"F - Fairview via Wilson",1,199827,70222
+7,16FALL-All-Weekday-01,135354701,"B - Fairview Park via Weber",1,199824,70223
+7,16FALL-All-Weekday-01,135354801,"B - Fairview Park via Weber",1,199826,70223
+7,16FALL-All-Weekday-01,135354901,"B - Fairview Park via Weber",1,199823,70223
+7,16FALL-All-Weekday-01,135355001,"B - Fairview Park via Weber",1,199828,70223
+7,16FALL-All-Weekday-01,135355101,"B - Fairview Park via Weber",1,199820,70224
+7,16FALL-All-Weekday-01,135355201,"B - Fairview Park via Weber",1,199821,70223
+7,16FALL-All-Weekday-01,135355301,"B - Fairview Park via Weber",1,199829,70224
+7,16FALL-All-Weekday-01,135355401,"B - Fairview Park via Weber",1,199827,70223
+7,16FALL-All-Weekday-01,135355501,"B - Fairview Park via Weber",1,199832,70223
+7,16FALL-All-Weekday-01,135355601,"B - Fairview Park via Weber",1,199812,70223
+7,16FALL-All-Weekday-01,135355701,"B - Fairview Park via Weber",1,199824,70223
+7,16FALL-All-Weekday-01,135355801,"B - Fairview Park via Weber",1,199826,70223
+7,16FALL-All-Weekday-01,135355901,"B - Fairview Park via Weber",1,199823,70223
+7,16FALL-All-Weekday-01,135356001,"B - Fairview Park via Weber",1,199816,70223
+7,16FALL-All-Weekday-01,135356101,"B - Fairview Park via Weber",1,199817,70223
+7,16FALL-All-Weekday-01,135356201,"F - Fairview via Wilson",1,199821,70222
+7,16FALL-All-Weekday-01,135356301,"F - Fairview via Wilson",1,199832,70225
+7,16FALL-All-Weekday-01,135356401,"F - Fairview via Wilson",1,199812,70222
+7,16FALL-All-Weekday-01,135356501,"F - Fairview via Wilson",1,199824,70222
+7,16FALL-All-Weekday-01,135356601,"F - Fairview via Wilson",1,199826,70222
+7,16FALL-All-Weekday-01,135356701,"F - Fairview via Wilson",1,199823,70222
+7,16FALL-All-Weekday-01,135356801,"F - Fairview via Wilson",1,199817,70222
+7,16FALL-All-Weekday-01,135356901,"F - Fairview via Wilson",1,199816,70222
+7,16FALL-All-Weekday-01,135357001,"F - Fairview via Wilson",1,199815,70222
+7,16FALL-All-Weekday-01,135357101,"F - Fairview via Wilson",1,199822,70222
+7,16FALL-All-Weekday-01,135357201,"F - Fairview via Wilson",1,199814,70222
+7,16FALL-All-Weekday-01,135357301,"F - Fairview via Wilson",1,199820,70222
+7,16FALL-All-Weekday-01,135357401,"F - Fairview via Wilson",1,199827,70222
+7,16FALL-All-Weekday-01,135357501,"F - Fairview via Wilson",1,199821,70222
+7,16FALL-All-Weekday-01,135357601,"F - Fairview via Wilson",1,199832,70222
+7,16FALL-All-Weekday-01,135357701,"F - Fairview via Wilson",1,199812,70222
+7,16FALL-All-Weekday-01,135357801,"B - Fairview Park via Weber",1,199815,70223
+7,16FALL-All-Weekday-01,135357901,"B - Fairview Park via Weber",1,199814,70223
+7,16FALL-All-Weekday-01,135358001,"B - Fairview Park via Weber",1,199822,70223
+7,16FALL-All-Weekday-01,135358101,"B - Fairview Park via Weber",1,199820,70223
+7,16FALL-All-Weekday-01,135358201,"B - Fairview Park via Weber",1,199827,70223
+7,16FALL-All-Weekday-01,135358301,"B - Fairview Park via Weber",1,199832,70223
+7,16FALL-All-Weekday-01,135358401,"F - Fairview via Wilson",1,199822,70225
+7,16FALL-All-Weekday-01,135358501,"B - Fairview Park via Weber",1,199817,70223
+7,16FALL-All-Weekday-01,135358601,"B - Fairview Park via Weber",1,199816,70223
+7,16FALL-All-Weekday-01,135358701,"F - Fairview via Wilson",1,199831,70222
+7,16FALL-All-Weekday-01,135358801,"B - Fairview Park via Weber",1,199812,70224
+7,16FALL-All-Weekday-01,135358901,"F - Fairview via Wilson",1,199830,70222
+7,16FALL-All-Weekday-01,135359001,"B - Fairview Park via Weber",1,199821,70224
 7,16FALL-All-Weekday-01,135359101,"F - Fairview via Wilson",1,199824,70156
-7,16FALL-All-Weekday-01,135359201,"B - Fairview Park via Weber",1,199820,70197
-7,16FALL-All-Weekday-01,135359301,"B - Fairview Park via Weber",1,199822,70197
-7,16FALL-All-Weekday-01,135359401,"B - Fairview Park via Weber",1,199814,70197
-7,16FALL-All-Weekday-01,135359501,"B - Fairview Park via Weber",1,199813,70197
-7,16FALL-All-Weekday-01,135359601,"B - Fairview Park via Weber",1,199833,70197
-7,16FALL-All-Weekday-01,135359701,"B - Fairview Park via Weber",1,199813,70198
-7,16FALL-All-Weekday-01,135359801,"B - Fairview Park via Weber",1,199828,70197
-7,16FALL-All-Weekday-01,135359901,"B - Fairview Park via Weber",1,199830,70197
-7,16FALL-All-Weekday-01,135360001,"B - Fairview Park via Weber",1,199831,70197
-7,16FALL-All-Weekday-01,135360101,"B - Fairview Park via Weber",1,199822,70197
-7,16FALL-All-Weekday-01,135360201,"B - Fairview Park via Weber",1,199814,70197
-7,16FALL-All-Weekday-01,135360301,"B - Fairview Park via Weber",1,199815,70197
-7,16FALL-All-Weekday-01,135360401,"B - Fairview Park via Weber",1,199816,70197
-7,16FALL-All-Weekday-01,135360501,"Charles Terminal",1,199826,70199
-7,16FALL-All-Weekday-01,135360601,"Charles Terminal",1,199832,70199
-7,16FALL-All-Weekday-01,135360701,"Charles Terminal",1,199828,70200
+7,16FALL-All-Weekday-01,135359201,"B - Fairview Park via Weber",1,199820,70226
+7,16FALL-All-Weekday-01,135359301,"B - Fairview Park via Weber",1,199822,70226
+7,16FALL-All-Weekday-01,135359401,"B - Fairview Park via Weber",1,199814,70226
+7,16FALL-All-Weekday-01,135359501,"B - Fairview Park via Weber",1,199813,70226
+7,16FALL-All-Weekday-01,135359601,"B - Fairview Park via Weber",1,199833,70226
+7,16FALL-All-Weekday-01,135359701,"B - Fairview Park via Weber",1,199813,70227
+7,16FALL-All-Weekday-01,135359801,"B - Fairview Park via Weber",1,199828,70226
+7,16FALL-All-Weekday-01,135359901,"B - Fairview Park via Weber",1,199830,70226
+7,16FALL-All-Weekday-01,135360001,"B - Fairview Park via Weber",1,199831,70226
+7,16FALL-All-Weekday-01,135360101,"B - Fairview Park via Weber",1,199822,70226
+7,16FALL-All-Weekday-01,135360201,"B - Fairview Park via Weber",1,199814,70226
+7,16FALL-All-Weekday-01,135360301,"B - Fairview Park via Weber",1,199815,70226
+7,16FALL-All-Weekday-01,135360401,"B - Fairview Park via Weber",1,199816,70226
+7,16FALL-All-Weekday-01,135360501,"Charles Terminal",1,199826,70228
+7,16FALL-All-Weekday-01,135360601,"Charles Terminal",1,199832,70228
+7,16FALL-All-Weekday-01,135360701,"Charles Terminal",1,199828,70229
 7,16FALL-All-Weekday-01,135360801,"D - UW via University",0,199817,70201
 7,16FALL-All-Weekday-01,135360901,"D - UW via University",0,199807,70201
 7,16FALL-All-Weekday-01,135361001,"D - UW via University",0,199800,70202
-7,16FALL-All-Weekday-01,135361101,"Charles Terminal",1,199817,70203
-7,16FALL-All-Weekday-01,135361201,"Charles Terminal",1,199821,70203
-7,16FALL-All-Weekday-01,135361301,"Charles Terminal",1,199814,70203
+7,16FALL-All-Weekday-01,135361101,"Charles Terminal",1,199817,70230
+7,16FALL-All-Weekday-01,135361201,"Charles Terminal",1,199821,70230
+7,16FALL-All-Weekday-01,135361301,"Charles Terminal",1,199814,70230
 7,16FALL-All-Weekday-01,135361401,"D - UW via University",0,199833,70204
 7,16FALL-All-Weekday-01,135361501,"D - UW via University",0,199825,70204
 7,16FALL-All-Weekday-01,135361601,"D - UW via University",0,199780,70204
 7,16FALL-All-Weekday-01,135361701,"D - UW via University",0,199834,70204
 7,16FALL-All-Weekday-01,135361801,"D - UW via University",0,199835,70204
 7,16FALL-All-Weekday-01,135361901,"D - UW via University",0,199833,70204
-7,16FALL-All-Weekday-01,135362001,"Charles Terminal",1,199833,70205
-7,16FALL-All-Weekday-01,135362101,"Charles Terminal",1,199825,70205
-7,16FALL-All-Weekday-01,135362201,"Charles Terminal",1,199780,70205
-7,16FALL-All-Weekday-01,135362301,"Charles Terminal",1,199834,70205
-7,16FALL-All-Weekday-01,135362401,"Charles Terminal",1,199835,70205
-7,16FALL-All-Weekday-01,135362501,"Charles Terminal",1,199780,70186
+7,16FALL-All-Weekday-01,135362001,"Charles Terminal",1,199833,70231
+7,16FALL-All-Weekday-01,135362101,"Charles Terminal",1,199825,70231
+7,16FALL-All-Weekday-01,135362201,"Charles Terminal",1,199780,70231
+7,16FALL-All-Weekday-01,135362301,"Charles Terminal",1,199834,70231
+7,16FALL-All-Weekday-01,135362401,"Charles Terminal",1,199835,70231
+7,16FALL-All-Weekday-01,135362501,"Charles Terminal",1,199780,70218
 7,16FALL-All-Weekday-01,135362601,"E - UW via Columbia",0,199835,70185
 7,16FALL-All-Weekday-01,135362701,"E - UW via Columbia",0,199780,70185
-7,16FALL-All-Weekday-01,135362801,"Charles Terminal",1,199835,70186
+7,16FALL-All-Weekday-01,135362801,"Charles Terminal",1,199835,70218
 7,16FALL-All-Weekday-01,135362901,"D - UW via University",0,199818,70204
-7,16FALL-All-Weekday-01,135363001,"Charles Terminal",1,199818,70199
-7,16FALL-All-Weekday-01,135363101,"Charles Terminal",1,199834,70205
-7,16FALL-All-Weekday-01,135363201,"Charles Terminal",1,199835,70205
+7,16FALL-All-Weekday-01,135363001,"Charles Terminal",1,199818,70228
+7,16FALL-All-Weekday-01,135363101,"Charles Terminal",1,199834,70231
+7,16FALL-All-Weekday-01,135363201,"Charles Terminal",1,199835,70231
 7,16FALL-All-Weekday-01,135363301,"E - UW via Columbia",0,199790,70053
 7,16FALL-All-Weekday-01,135363401,"E - UW via Columbia",0,199808,70053
 7,16FALL-All-Weekday-01,135363501,"E - UW via Columbia",0,199789,70053
@@ -3070,9 +3070,9 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Weekday-01,135363701,"E - UW via Columbia",0,199686,70185
 7,16FALL-All-Weekday-01-0000100,135363801,"C - Conestoga Mall",0,199721,70206
 7,16FALL-All-Weekday-01-0000100,135363901,"C - Conestoga Mall",0,199721,70206
-7,16FALL-All-Weekday-01-0000100,135364001,"Charles Terminal",1,199721,70203
-7,16FALL-All-Weekday-01-0000100,135364101,"Charles Terminal",1,199721,70203
-7,16FALL-All-Weekday-01-0000100,135364201,"Charles Terminal",1,199721,70203
+7,16FALL-All-Weekday-01-0000100,135364001,"Charles Terminal",1,199721,70230
+7,16FALL-All-Weekday-01-0000100,135364101,"Charles Terminal",1,199721,70230
+7,16FALL-All-Weekday-01-0000100,135364201,"Charles Terminal",1,199721,70230
 77,16FALL-All-Weekday-01,139537701,"New Hamburg",1,205404,770001
 77,16FALL-All-Weekday-01,139537801,"New Hamburg",1,205404,770001
 77,16FALL-All-Weekday-01,139537901,"New Hamburg",1,205404,770001
@@ -3577,60 +3577,102 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 61,16FALL-All-Weekday-01,143432001,"Conestoga College",1,210141,610008
 61,16FALL-All-Weekday-01,143432101,"Conestoga College",1,206373,610008
 61,16FALL-All-Weekday-01,143432201,"Conestoga College",1,210141,610008
-52,16FALL-All-Weekday-01,143495501,"Fairview Park via Cherry Blossom",0,199892,520029
-52,16FALL-All-Weekday-01,143495601,"Fairview Park via Cherry Blossom",0,199890,520029
-52,16FALL-All-Weekday-01,143495701,"Fairview Park via Cherry Blossom",0,199895,520029
-52,16FALL-All-Weekday-01,143495801,"Fairview Park via Cherry Blossom",0,199891,520029
-52,16FALL-All-Weekday-01,143495901,"Fairview Park via Cherry Blossom",0,210155,520029
-52,16FALL-All-Weekday-01,143496001,"Fairview Park via Cherry Blossom",0,199893,520029
-52,16FALL-All-Weekday-01,143496101,"Fairview Park via Cherry Blossom",0,199894,520029
-52,16FALL-All-Weekday-01,143496201,"Fairview Park via Cherry Blossom",0,199892,520029
-52,16FALL-All-Weekday-01,143496301,"Fairview Park via Cherry Blossom",0,199893,520029
-52,16FALL-All-Weekday-01,143496401,"Fairview Park via Cherry Blossom",0,199894,520029
-52,16FALL-All-Weekday-01,143496501,"Fairview Park via Cherry Blossom",0,199892,520029
-52,16FALL-All-Weekday-01,143496601,"Fairview Park via Cherry Blossom",0,199893,520029
-52,16FALL-All-Weekday-01,143496701,"Fairview Park via Cherry Blossom",0,199894,520029
-52,16FALL-All-Weekday-01,143496801,"Fairview Park via Cherry Blossom",0,199892,520029
-52,16FALL-All-Weekday-01,143496901,"Fairview Park via Cherry Blossom",0,199893,520029
-52,16FALL-All-Weekday-01,143497001,"Fairview Park via Cherry Blossom",0,199894,520029
-52,16FALL-All-Weekday-01,143497101,"Fairview Park via Cherry Blossom",0,199892,520029
-52,16FALL-All-Weekday-01,143497201,"Fairview Park via Cherry Blossom",0,199893,520029
-52,16FALL-All-Weekday-01,143497301,"Fairview Park via Cherry Blossom",0,199894,520029
-52,16FALL-All-Weekday-01,143497401,"Fairview Park via Cherry Blossom",0,199892,520029
-52,16FALL-All-Weekday-01,143497501,"Fairview Park via Cherry Blossom",0,199893,520029
-52,16FALL-All-Weekday-01,143497601,"Fairview Park via Cherry Blossom",0,199891,520029
-52,16FALL-All-Weekday-01,143497701,"Fairview Park via Cherry Blossom",0,199890,520029
-52,16FALL-All-Weekday-01,143497801,"Fairview Park via Cherry Blossom",0,199895,520029
-52,16FALL-All-Weekday-01,143497901,"Fairview Park via Cherry Blossom",0,199891,520029
-52,16FALL-All-Weekday-01,143498001,"Fairview Park via Cherry Blossom",0,199890,520029
-52,16FALL-All-Weekday-01,143498101,"Fairview Park via Cherry Blossom",0,199895,520029
-52,16FALL-All-Weekday-01,143498201,"Ainslie Terminal via Cherry Blossom",1,199891,520030
-52,16FALL-All-Weekday-01,143498301,"Ainslie Terminal via Cherry Blossom",1,199890,520030
-52,16FALL-All-Weekday-01,143498401,"Ainslie Terminal via Cherry Blossom",1,199895,520030
-52,16FALL-All-Weekday-01,143498501,"Ainslie Terminal via Cherry Blossom",1,199891,520030
-52,16FALL-All-Weekday-01,143498601,"Ainslie Terminal via Cherry Blossom",1,199890,520030
-52,16FALL-All-Weekday-01,143498701,"Ainslie Terminal via Cherry Blossom",1,199893,520030
-52,16FALL-All-Weekday-01,143498801,"Ainslie Terminal via Cherry Blossom",1,199894,520030
-52,16FALL-All-Weekday-01,143498901,"Ainslie Terminal via Cherry Blossom",1,199892,520030
-52,16FALL-All-Weekday-01,143499001,"Ainslie Terminal via Cherry Blossom",1,199893,520030
-52,16FALL-All-Weekday-01,143499101,"Ainslie Terminal via Cherry Blossom",1,199894,520030
-52,16FALL-All-Weekday-01,143499201,"Ainslie Terminal via Cherry Blossom",1,199892,520030
-52,16FALL-All-Weekday-01,143499301,"Ainslie Terminal via Cherry Blossom",1,199893,520030
-52,16FALL-All-Weekday-01,143499401,"Ainslie Terminal via Cherry Blossom",1,199894,520030
-52,16FALL-All-Weekday-01,143499501,"Ainslie Terminal via Cherry Blossom",1,199892,520030
-52,16FALL-All-Weekday-01,143499601,"Ainslie Terminal via Cherry Blossom",1,199893,520030
-52,16FALL-All-Weekday-01,143499701,"Ainslie Terminal via Cherry Blossom",1,199894,520030
-52,16FALL-All-Weekday-01,143499801,"Ainslie Terminal via Cherry Blossom",1,199892,520030
-52,16FALL-All-Weekday-01,143499901,"Ainslie Terminal via Cherry Blossom",1,199893,520030
-52,16FALL-All-Weekday-01,143500001,"Ainslie Terminal via Cherry Blossom",1,199894,520030
-52,16FALL-All-Weekday-01,143500101,"Ainslie Terminal via Cherry Blossom",1,199892,520030
-52,16FALL-All-Weekday-01,143500201,"Ainslie Terminal via Cherry Blossom",1,199893,520030
-52,16FALL-All-Weekday-01,143500301,"Ainslie Terminal via Cherry Blossom",1,199894,520030
-52,16FALL-All-Weekday-01,143500401,"Ainslie Terminal via Cherry Blossom",1,210155,520030
-52,16FALL-All-Weekday-01,143500501,"Ainslie Terminal via Cherry Blossom",1,199890,520030
-52,16FALL-All-Weekday-01,143500601,"Ainslie Terminal via Cherry Blossom",1,199895,520030
-52,16FALL-All-Weekday-01,143500701,"Ainslie Terminal via Cherry Blossom",1,199891,520030
-52,16FALL-All-Weekday-01,143500801,"Ainslie Terminal via Cherry Blossom",1,199895,520030
+52,16FALL-All-Weekday-01,143495501,"Fairview Park via Cherry Blossom",0,199892,520039
+52,16FALL-All-Weekday-01,143495601,"Fairview Park via Cherry Blossom",0,199890,520039
+52,16FALL-All-Weekday-01,143495701,"Fairview Park via Cherry Blossom",0,199895,520039
+52,16FALL-All-Weekday-01,143495801,"Fairview Park via Cherry Blossom",0,199891,520039
+52,16FALL-All-Weekday-01,143495901,"Fairview Park via Cherry Blossom",0,210155,520039
+52,16FALL-All-Weekday-01,143496001,"Fairview Park via Cherry Blossom",0,199893,520039
+52,16FALL-All-Weekday-01,143496101,"Fairview Park via Cherry Blossom",0,199894,520039
+52,16FALL-All-Weekday-01,143496201,"Fairview Park via Cherry Blossom",0,199892,520039
+52,16FALL-All-Weekday-01,143496301,"Fairview Park via Cherry Blossom",0,199893,520039
+52,16FALL-All-Weekday-01,143496401,"Fairview Park via Cherry Blossom",0,199894,520039
+52,16FALL-All-Weekday-01,143496501,"Fairview Park via Cherry Blossom",0,199892,520039
+52,16FALL-All-Weekday-01,143496601,"Fairview Park via Cherry Blossom",0,199893,520039
+52,16FALL-All-Weekday-01,143496701,"Fairview Park via Cherry Blossom",0,199894,520039
+52,16FALL-All-Weekday-01,143496801,"Fairview Park via Cherry Blossom",0,199892,520039
+52,16FALL-All-Weekday-01,143496901,"Fairview Park via Cherry Blossom",0,199893,520039
+52,16FALL-All-Weekday-01,143497001,"Fairview Park via Cherry Blossom",0,199894,520039
+52,16FALL-All-Weekday-01,143497101,"Fairview Park via Cherry Blossom",0,199892,520039
+52,16FALL-All-Weekday-01,143497201,"Fairview Park via Cherry Blossom",0,199893,520039
+52,16FALL-All-Weekday-01,143497301,"Fairview Park via Cherry Blossom",0,199894,520039
+52,16FALL-All-Weekday-01,143497401,"Fairview Park via Cherry Blossom",0,199892,520039
+52,16FALL-All-Weekday-01,143497501,"Fairview Park via Preston Parkway",0,199893,520033
+52,16FALL-All-Weekday-01,143497601,"Fairview Park via Preston Parkway",0,199891,520033
+52,16FALL-All-Weekday-01,143497701,"Fairview Park via Preston Parkway",0,199890,520033
+52,16FALL-All-Weekday-01,143497801,"Fairview Park via Preston Parkway",0,199895,520033
+52,16FALL-All-Weekday-01,143497901,"Fairview Park via Preston Parkway",0,199891,520033
+52,16FALL-All-Weekday-01,143498001,"Fairview Park via Cherry Blossom",0,199890,520039
+52,16FALL-All-Weekday-01,143498101,"Fairview Park via Cherry Blossom",0,199895,520039
+52,16FALL-All-Weekday-01,143498201,"Ainslie Terminal via Cherry Blossom",1,199891,520040
+52,16FALL-All-Weekday-01,143498301,"Ainslie Terminal via Cherry Blossom",1,199890,520035
+52,16FALL-All-Weekday-01,143498401,"Ainslie Terminal via Cherry Blossom",1,199895,520035
+52,16FALL-All-Weekday-01,143498501,"Ainslie Terminal via Cherry Blossom",1,199891,520035
+52,16FALL-All-Weekday-01,143498601,"Ainslie Terminal via Cherry Blossom",1,199890,520040
+52,16FALL-All-Weekday-01,143498701,"Ainslie Terminal via Cherry Blossom",1,199893,520040
+52,16FALL-All-Weekday-01,143498801,"Ainslie Terminal via Cherry Blossom",1,199894,520040
+52,16FALL-All-Weekday-01,143498901,"Ainslie Terminal via Cherry Blossom",1,199892,520040
+52,16FALL-All-Weekday-01,143499001,"Ainslie Terminal via Cherry Blossom",1,199893,520040
+52,16FALL-All-Weekday-01,143499101,"Ainslie Terminal via Cherry Blossom",1,199894,520040
+52,16FALL-All-Weekday-01,143499201,"Ainslie Terminal via Cherry Blossom",1,199892,520040
+52,16FALL-All-Weekday-01,143499301,"Ainslie Terminal via Cherry Blossom",1,199893,520040
+52,16FALL-All-Weekday-01,143499401,"Ainslie Terminal via Cherry Blossom",1,199894,520040
+52,16FALL-All-Weekday-01,143499501,"Ainslie Terminal via Cherry Blossom",1,199892,520040
+52,16FALL-All-Weekday-01,143499601,"Ainslie Terminal via Cherry Blossom",1,199893,520040
+52,16FALL-All-Weekday-01,143499701,"Ainslie Terminal via Cherry Blossom",1,199894,520040
+52,16FALL-All-Weekday-01,143499801,"Ainslie Terminal via Cherry Blossom",1,199892,520040
+52,16FALL-All-Weekday-01,143499901,"Ainslie Terminal via Cherry Blossom",1,199893,520040
+52,16FALL-All-Weekday-01,143500001,"Ainslie Terminal via Cherry Blossom",1,199894,520040
+52,16FALL-All-Weekday-01,143500101,"Ainslie Terminal via Cherry Blossom",1,199892,520040
+52,16FALL-All-Weekday-01,143500201,"Ainslie Terminal via Cherry Blossom",1,199893,520040
+52,16FALL-All-Weekday-01,143500301,"Ainslie Terminal via Cherry Blossom",1,199894,520040
+52,16FALL-All-Weekday-01,143500401,"Ainslie Terminal via Cherry Blossom",1,210155,520040
+52,16FALL-All-Weekday-01,143500501,"Ainslie Terminal via Cherry Blossom",1,199890,520040
+52,16FALL-All-Weekday-01,143500601,"Ainslie Terminal via Cherry Blossom",1,199895,520040
+52,16FALL-All-Weekday-01,143500701,"Ainslie Terminal via Cherry Blossom",1,199891,520040
+52,16FALL-All-Weekday-01,143500801,"Ainslie Terminal via Cherry Blossom",1,199895,520040
+52,16FALL-All-Weekday-01,143511301,"Special",0,,520031
+52,16FALL-All-Weekday-01,143511401,"Special",0,,520031
+52,16FALL-All-Weekday-01,143511501,"Special",0,,520031
+52,16FALL-All-Weekday-01,143511601,"Special",0,,520031
+52,16FALL-All-Weekday-01,143511701,"Special",0,,520031
+52,16FALL-All-Weekday-01,143511801,"Special",0,,520031
+52,16FALL-All-Weekday-01,143511901,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512001,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512101,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512201,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512301,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512401,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512501,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512601,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512701,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512801,"Special",0,,520031
+52,16FALL-All-Weekday-01,143512901,"Special",0,,520031
+52,16FALL-All-Weekday-01,143513001,"Special",0,,520031
+52,16FALL-All-Weekday-01,143513101,"Special",0,,520031
+52,16FALL-All-Weekday-01,143513201,"Special",0,,520031
+52,16FALL-All-Weekday-01,143513301,"Special",0,,520031
+52,16FALL-All-Weekday-01,143513401,"Special",1,,520032
+52,16FALL-All-Weekday-01,143513501,"Special",1,,520032
+52,16FALL-All-Weekday-01,143513601,"Special",1,,520032
+52,16FALL-All-Weekday-01,143513701,"Special",1,,520032
+52,16FALL-All-Weekday-01,143513801,"Special",1,,520032
+52,16FALL-All-Weekday-01,143513901,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514001,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514101,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514201,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514301,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514401,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514501,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514601,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514701,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514801,"Special",1,,520032
+52,16FALL-All-Weekday-01,143514901,"Special",1,,520032
+52,16FALL-All-Weekday-01,143515001,"Special",1,,520032
+52,16FALL-All-Weekday-01,143515101,"Special",1,,520032
+52,16FALL-All-Weekday-01,143515201,"Special",1,,520032
+52,16FALL-All-Weekday-01,143515301,"Special",1,,520032
+52,16FALL-All-Weekday-01,143515401,"Special",1,,520032
 200,16FALL-All-Saturday-01,134576651,"Conestoga Mall",0,199528,2000075
 200,16FALL-All-Saturday-01,134576751,"Conestoga Mall",0,199522,2000075
 200,16FALL-All-Saturday-01,134576851,"Conestoga Mall",0,199520,2000075
@@ -4069,43 +4111,43 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,16FALL-All-Saturday-01,134622751,"Conestoga College",1,199519,100017
 10,16FALL-All-Saturday-01,134622851,"Conestoga College",1,199519,100017
 10,16FALL-All-Saturday-01,134622951,"Conestoga College",1,199519,100017
-52,16FALL-All-Saturday-01,134623051,"Fairview Park via Preston Parkway",0,199482,520026
-52,16FALL-All-Saturday-01,134623151,"Fairview Park via Preston Parkway",0,199481,520026
-52,16FALL-All-Saturday-01,134623251,"Fairview Park via Preston Parkway",0,199482,520026
-52,16FALL-All-Saturday-01,134624551,"Fairview Park via Preston Parkway",0,199481,520026
-52,16FALL-All-Saturday-01,134624651,"Fairview Park via Preston Parkway",0,199482,520026
-52,16FALL-All-Saturday-01,134624751,"Fairview Park via Preston Parkway",0,199481,520026
-52,16FALL-All-Saturday-01,134624851,"Fairview Park via Preston Parkway",0,199482,520026
-52,16FALL-All-Saturday-01,134624951,"Fairview Park via Preston Parkway",0,199481,520026
-52,16FALL-All-Saturday-01,134625051,"Fairview Park via Preston Parkway",0,199482,520026
-52,16FALL-All-Saturday-01,134625151,"Ainslie Terminal via Preston Parkway",1,199480,520024
-52,16FALL-All-Saturday-01,134625251,"Ainslie Terminal via Preston Parkway",1,199481,520024
-52,16FALL-All-Saturday-01,134625351,"Ainslie Terminal via Preston Parkway",1,199482,520024
-52,16FALL-All-Saturday-01,134625451,"Ainslie Terminal via Preston Parkway",1,199480,520024
-52,16FALL-All-Saturday-01,134625551,"Ainslie Terminal via Preston Parkway",1,199481,520024
-52,16FALL-All-Saturday-01,134625651,"Ainslie Terminal via Preston Parkway",1,199482,520024
-52,16FALL-All-Saturday-01,134627551,"Ainslie Terminal via Preston Parkway",1,199480,520024
-52,16FALL-All-Saturday-01,134627651,"Ainslie Terminal via Preston Parkway",1,199481,520024
-52,16FALL-All-Saturday-01,134627751,"Ainslie Terminal via Preston Parkway",1,199482,520024
-52,16FALL-All-Saturday-01,134627851,"Ainslie Terminal via Preston Parkway",1,199480,520024
-52,16FALL-All-Saturday-01,134627951,"Ainslie Terminal via Preston Parkway",1,199481,520024
-52,16FALL-All-Saturday-01,134628051,"Ainslie Terminal via Preston Parkway",1,199482,520024
-52,16FALL-All-Saturday-01,134628151,"Ainslie Terminal via Preston Parkway",1,199480,520024
-52,16FALL-All-Saturday-01,134628251,"Ainslie Terminal via Preston Parkway",1,199481,520024
-52,16FALL-All-Saturday-01,134628351,"Ainslie Terminal via Preston Parkway",1,199482,520024
-52,16FALL-All-Saturday-01,134628451,"Fairview Park via Preston Parkway",0,199481,520026
-52,16FALL-All-Saturday-01,134628551,"Fairview Park via Preston Parkway",0,199482,520026
-52,16FALL-All-Saturday-01,134628651,"Ainslie Terminal via Preston Parkway",1,199480,520024
-52,16FALL-All-Saturday-01,134628751,"Ainslie Terminal via Preston Parkway",1,199481,520024
-52,16FALL-All-Saturday-01,134628851,"Ainslie Terminal via Preston Parkway",1,199482,520023
-52,16FALL-All-Saturday-01,134628951,"Fairview Park via Preston Parkway",0,199481,520026
-52,16FALL-All-Saturday-01,134629051,"Fairview Park via Preston Parkway",0,199480,520026
-52,16FALL-All-Saturday-01,134629251,"Fairview Park via Preston Parkway",0,199480,520026
-52,16FALL-All-Saturday-01,134629851,"Fairview Park via Preston Parkway",0,199480,520026
-52,16FALL-All-Saturday-01,134629951,"Fairview Park via Preston Parkway",0,199480,520026
-52,16FALL-All-Saturday-01,134630051,"Fairview Park via Preston Parkway",0,199480,520026
-52,16FALL-All-Saturday-01,134630151,"Fairview Park via Preston Parkway",0,199480,520026
-52,16FALL-All-Saturday-01,134630251,"Ainslie Terminal via Preston Parkway",1,199482,520024
+52,16FALL-All-Saturday-01,134623051,"Fairview Park via Preston Parkway",0,199482,520033
+52,16FALL-All-Saturday-01,134623151,"Fairview Park via Preston Parkway",0,199481,520033
+52,16FALL-All-Saturday-01,134623251,"Fairview Park via Preston Parkway",0,199482,520033
+52,16FALL-All-Saturday-01,134624551,"Fairview Park via Preston Parkway",0,199481,520039
+52,16FALL-All-Saturday-01,134624651,"Fairview Park via Preston Parkway",0,199482,520033
+52,16FALL-All-Saturday-01,134624751,"Fairview Park via Preston Parkway",0,199481,520033
+52,16FALL-All-Saturday-01,134624851,"Fairview Park via Preston Parkway",0,199482,520033
+52,16FALL-All-Saturday-01,134624951,"Fairview Park via Preston Parkway",0,199481,520033
+52,16FALL-All-Saturday-01,134625051,"Fairview Park via Preston Parkway",0,199482,520033
+52,16FALL-All-Saturday-01,134625151,"Ainslie Terminal via Preston Parkway",1,199480,520035
+52,16FALL-All-Saturday-01,134625251,"Ainslie Terminal via Preston Parkway",1,199481,520035
+52,16FALL-All-Saturday-01,134625351,"Ainslie Terminal via Preston Parkway",1,199482,520035
+52,16FALL-All-Saturday-01,134625451,"Ainslie Terminal via Preston Parkway",1,199480,520035
+52,16FALL-All-Saturday-01,134625551,"Ainslie Terminal via Preston Parkway",1,199481,520035
+52,16FALL-All-Saturday-01,134625651,"Ainslie Terminal via Preston Parkway",1,199482,520035
+52,16FALL-All-Saturday-01,134627551,"Ainslie Terminal via Preston Parkway",1,199480,520040
+52,16FALL-All-Saturday-01,134627651,"Ainslie Terminal via Preston Parkway",1,199481,520035
+52,16FALL-All-Saturday-01,134627751,"Ainslie Terminal via Preston Parkway",1,199482,520035
+52,16FALL-All-Saturday-01,134627851,"Ainslie Terminal via Preston Parkway",1,199480,520035
+52,16FALL-All-Saturday-01,134627951,"Ainslie Terminal via Preston Parkway",1,199481,520035
+52,16FALL-All-Saturday-01,134628051,"Ainslie Terminal via Preston Parkway",1,199482,520035
+52,16FALL-All-Saturday-01,134628151,"Ainslie Terminal via Preston Parkway",1,199480,520035
+52,16FALL-All-Saturday-01,134628251,"Ainslie Terminal via Preston Parkway",1,199481,520035
+52,16FALL-All-Saturday-01,134628351,"Ainslie Terminal via Preston Parkway",1,199482,520035
+52,16FALL-All-Saturday-01,134628451,"Fairview Park via Preston Parkway",0,199481,520033
+52,16FALL-All-Saturday-01,134628551,"Fairview Park via Preston Parkway",0,199482,520033
+52,16FALL-All-Saturday-01,134628651,"Ainslie Terminal via Preston Parkway",1,199480,520035
+52,16FALL-All-Saturday-01,134628751,"Ainslie Terminal via Preston Parkway",1,199481,520035
+52,16FALL-All-Saturday-01,134628851,"Ainslie Terminal via Preston Parkway",1,199482,520034
+52,16FALL-All-Saturday-01,134628951,"Fairview Park via Preston Parkway",0,199481,520033
+52,16FALL-All-Saturday-01,134629051,"Fairview Park via Preston Parkway",0,199480,520033
+52,16FALL-All-Saturday-01,134629251,"Fairview Park via Preston Parkway",0,199480,520033
+52,16FALL-All-Saturday-01,134629851,"Fairview Park via Preston Parkway",0,199480,520033
+52,16FALL-All-Saturday-01,134629951,"Fairview Park via Preston Parkway",0,199480,520033
+52,16FALL-All-Saturday-01,134630051,"Fairview Park via Preston Parkway",0,199480,520033
+52,16FALL-All-Saturday-01,134630151,"Fairview Park via Preston Parkway",0,199480,520033
+52,16FALL-All-Saturday-01,134630251,"Ainslie Terminal via Preston Parkway",1,199482,520035
 54,16FALL-All-Saturday-01,134630351,"East",0,199491,540001
 54,16FALL-All-Saturday-01,134630451,"East",0,199491,540001
 54,16FALL-All-Saturday-01,134630551,"East",0,199491,540001
@@ -5166,28 +5208,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Saturday-01,134779251,"C - Conestoga Mall",0,199549,70173
 7,16FALL-All-Saturday-01,134779351,"C - Conestoga Mall",0,199548,70173
 7,16FALL-All-Saturday-01,134779451,"C - Conestoga Mall",0,199547,70173
-7,16FALL-All-Saturday-01,134779551,"A - Fairview Park via Connaught",1,199550,70178
-7,16FALL-All-Saturday-01,134779651,"A - Fairview Park via Connaught",1,199545,70178
-7,16FALL-All-Saturday-01,134779751,"A - Fairview Park via Connaught",1,199546,70178
-7,16FALL-All-Saturday-01,134779851,"A - Fairview Park via Connaught",1,199558,70178
-7,16FALL-All-Saturday-01,134779951,"A - Fairview Park via Connaught",1,199554,70178
-7,16FALL-All-Saturday-01,134780051,"A - Fairview Park via Connaught",1,199557,70178
-7,16FALL-All-Saturday-01,134780151,"A - Fairview Park via Connaught",1,199559,70178
-7,16FALL-All-Saturday-01,134780251,"A - Fairview Park via Connaught",1,199549,70178
-7,16FALL-All-Saturday-01,134780351,"A - Fairview Park via Connaught",1,199548,70178
-7,16FALL-All-Saturday-01,134780451,"A - Fairview Park via Connaught",1,199547,70178
-7,16FALL-All-Saturday-01,134780551,"A - Fairview Park via Connaught",1,199553,70178
-7,16FALL-All-Saturday-01,134780651,"A - Fairview Park via Connaught",1,199551,70178
-7,16FALL-All-Saturday-01,134780751,"A - Fairview Park via Connaught",1,199552,70178
-7,16FALL-All-Saturday-01,134780851,"A - Fairview Park via Connaught",1,199550,70178
-7,16FALL-All-Saturday-01,134780951,"A - Fairview Park via Connaught",1,199545,70178
-7,16FALL-All-Saturday-01,134781051,"A - Fairview Park via Connaught",1,199546,70178
-7,16FALL-All-Saturday-01,134781151,"A - Fairview Park via Connaught",1,199558,70178
-7,16FALL-All-Saturday-01,134781251,"A - Fairview Park via Connaught",1,199554,70178
-7,16FALL-All-Saturday-01,134781351,"A - Fairview Park via Connaught",1,199557,70178
-7,16FALL-All-Saturday-01,134781451,"A - Fairview Park via Connaught",1,199559,70178
-7,16FALL-All-Saturday-01,134781551,"A - Fairview Park via Connaught",1,199549,70178
-7,16FALL-All-Saturday-01,134781651,"A - Fairview Park via Connaught",1,199548,70181
+7,16FALL-All-Saturday-01,134779551,"A - Fairview Park via Connaught",1,199550,70215
+7,16FALL-All-Saturday-01,134779651,"A - Fairview Park via Connaught",1,199545,70215
+7,16FALL-All-Saturday-01,134779751,"A - Fairview Park via Connaught",1,199546,70215
+7,16FALL-All-Saturday-01,134779851,"A - Fairview Park via Connaught",1,199558,70215
+7,16FALL-All-Saturday-01,134779951,"A - Fairview Park via Connaught",1,199554,70215
+7,16FALL-All-Saturday-01,134780051,"A - Fairview Park via Connaught",1,199557,70215
+7,16FALL-All-Saturday-01,134780151,"A - Fairview Park via Connaught",1,199559,70215
+7,16FALL-All-Saturday-01,134780251,"A - Fairview Park via Connaught",1,199549,70215
+7,16FALL-All-Saturday-01,134780351,"A - Fairview Park via Connaught",1,199548,70215
+7,16FALL-All-Saturday-01,134780451,"A - Fairview Park via Connaught",1,199547,70215
+7,16FALL-All-Saturday-01,134780551,"A - Fairview Park via Connaught",1,199553,70215
+7,16FALL-All-Saturday-01,134780651,"A - Fairview Park via Connaught",1,199551,70215
+7,16FALL-All-Saturday-01,134780751,"A - Fairview Park via Connaught",1,199552,70215
+7,16FALL-All-Saturday-01,134780851,"A - Fairview Park via Connaught",1,199550,70215
+7,16FALL-All-Saturday-01,134780951,"A - Fairview Park via Connaught",1,199545,70215
+7,16FALL-All-Saturday-01,134781051,"A - Fairview Park via Connaught",1,199546,70215
+7,16FALL-All-Saturday-01,134781151,"A - Fairview Park via Connaught",1,199558,70215
+7,16FALL-All-Saturday-01,134781251,"A - Fairview Park via Connaught",1,199554,70215
+7,16FALL-All-Saturday-01,134781351,"A - Fairview Park via Connaught",1,199557,70215
+7,16FALL-All-Saturday-01,134781451,"A - Fairview Park via Connaught",1,199559,70215
+7,16FALL-All-Saturday-01,134781551,"A - Fairview Park via Connaught",1,199549,70215
+7,16FALL-All-Saturday-01,134781651,"A - Fairview Park via Connaught",1,199548,70216
 7,16FALL-All-Saturday-01,134781751,"C - Conestoga Mall",0,199553,70175
 7,16FALL-All-Saturday-01,134781851,"C - Conestoga Mall",0,199551,70175
 7,16FALL-All-Saturday-01,134781951,"C - Conestoga Mall",0,199552,70175
@@ -5246,7 +5288,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Saturday-01,134787251,"D - UW via University",0,199555,70180
 7,16FALL-All-Saturday-01,134787351,"C - Conestoga Mall",0,199545,70173
 7,16FALL-All-Saturday-01,134787451,"A - Fairview Park via Connaught",1,199547,70164
-7,16FALL-All-Saturday-01,134787551,"A - Fairview Park via Connaught",1,199552,70178
+7,16FALL-All-Saturday-01,134787551,"A - Fairview Park via Connaught",1,199552,70215
 7,16FALL-All-Saturday-01,134787651,"D - UW via University",0,199559,70177
 7,16FALL-All-Saturday-01,134787751,"C - Conestoga Mall",0,199547,70175
 7,16FALL-All-Saturday-01,134787851,"C - Conestoga Mall",0,199545,70176
@@ -5267,10 +5309,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Saturday-01,134789351,"E - UW via Columbia",0,199555,70185
 7,16FALL-All-Saturday-01,134789451,"E - UW via Columbia",0,199556,70185
 7,16FALL-All-Saturday-01,134789551,"E - UW via Columbia",0,199555,70185
-7,16FALL-All-Saturday-01,134789651,"F - Fairview via Wilson",1,199549,70213
+7,16FALL-All-Saturday-01,134789651,"F - Fairview via Wilson",1,199549,70233
 7,16FALL-All-Saturday-01,134789751,"A - Fairview Park via Connaught",1,199553,70166
-7,16FALL-All-Saturday-01,134789851,"A - Fairview Park via Connaught",1,199551,70178
-7,16FALL-All-Saturday-01,134789951,"F - Fairview via Wilson",1,199548,70214
+7,16FALL-All-Saturday-01,134789851,"A - Fairview Park via Connaught",1,199551,70215
+7,16FALL-All-Saturday-01,134789951,"F - Fairview via Wilson",1,199548,70234
 7,16FALL-All-Saturday-01,134790051,"B - Fairview Park via Weber",1,199554,70182
 7,16FALL-All-Saturday-01,134790151,"B - Fairview Park via Weber",1,199545,70182
 7,16FALL-All-Saturday-01,134790251,"B - Fairview Park via Weber",1,199551,70182
@@ -5283,92 +5325,92 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Saturday-01,134790951,"B - Fairview Park via Weber",1,199545,70182
 7,16FALL-All-Saturday-01,134791051,"B - Fairview Park via Weber",1,199551,70182
 7,16FALL-All-Saturday-01,134791151,"B - Fairview Park via Weber",1,199552,70184
-7,16FALL-All-Saturday-01,134791251,"A - Fairview Park via Connaught",1,199559,70183
-7,16FALL-All-Saturday-01,134791351,"A - Fairview Park via Connaught",1,199549,70183
-7,16FALL-All-Saturday-01,134791451,"A - Fairview Park via Connaught",1,199548,70183
-7,16FALL-All-Saturday-01,134791551,"A - Fairview Park via Connaught",1,199557,70183
-7,16FALL-All-Saturday-01,134791651,"A - Fairview Park via Connaught",1,199559,70183
-7,16FALL-All-Saturday-01,134791751,"A - Fairview Park via Connaught",1,199549,70183
-7,16FALL-All-Saturday-01,134791851,"A - Fairview Park via Connaught",1,199548,70183
-7,16FALL-All-Saturday-01,134791951,"A - Fairview Park via Connaught",1,199557,70183
-7,16FALL-All-Saturday-01,134792051,"A - Fairview Park via Connaught",1,199559,70183
-7,16FALL-All-Saturday-01,134792151,"A - Fairview Park via Connaught",1,199549,70183
-7,16FALL-All-Saturday-01,134792251,"A - Fairview Park via Connaught",1,199557,70191
+7,16FALL-All-Saturday-01,134791251,"A - Fairview Park via Connaught",1,199559,70217
+7,16FALL-All-Saturday-01,134791351,"A - Fairview Park via Connaught",1,199549,70217
+7,16FALL-All-Saturday-01,134791451,"A - Fairview Park via Connaught",1,199548,70217
+7,16FALL-All-Saturday-01,134791551,"A - Fairview Park via Connaught",1,199557,70217
+7,16FALL-All-Saturday-01,134791651,"A - Fairview Park via Connaught",1,199559,70217
+7,16FALL-All-Saturday-01,134791751,"A - Fairview Park via Connaught",1,199549,70217
+7,16FALL-All-Saturday-01,134791851,"A - Fairview Park via Connaught",1,199548,70217
+7,16FALL-All-Saturday-01,134791951,"A - Fairview Park via Connaught",1,199557,70217
+7,16FALL-All-Saturday-01,134792051,"A - Fairview Park via Connaught",1,199559,70217
+7,16FALL-All-Saturday-01,134792151,"A - Fairview Park via Connaught",1,199549,70217
+7,16FALL-All-Saturday-01,134792251,"A - Fairview Park via Connaught",1,199557,70220
 7,16FALL-All-Saturday-01,134792351,"Charles Terminal",0,199549,70148
 7,16FALL-All-Saturday-01,134793951,"E - UW via Columbia",0,199557,70189
 7,16FALL-All-Saturday-01,134794051,"E - UW via Columbia",0,199554,70189
-7,16FALL-All-Saturday-01,134794251,"B - Fairview Park via Weber",1,199546,70195
+7,16FALL-All-Saturday-01,134794251,"B - Fairview Park via Weber",1,199546,70224
 7,16FALL-All-Saturday-01,134794351,"B - Fairview Park via Weber",1,199550,70084
-7,16FALL-All-Saturday-01,134794451,"B - Fairview Park via Weber",1,199549,70194
-7,16FALL-All-Saturday-01,134794551,"B - Fairview Park via Weber",1,199548,70194
-7,16FALL-All-Saturday-01,134794651,"B - Fairview Park via Weber",1,199547,70194
-7,16FALL-All-Saturday-01,134794751,"B - Fairview Park via Weber",1,199553,70194
-7,16FALL-All-Saturday-01,134794851,"B - Fairview Park via Weber",1,199551,70194
-7,16FALL-All-Saturday-01,134794951,"B - Fairview Park via Weber",1,199552,70194
-7,16FALL-All-Saturday-01,134795051,"B - Fairview Park via Weber",1,199550,70194
-7,16FALL-All-Saturday-01,134795151,"B - Fairview Park via Weber",1,199545,70194
-7,16FALL-All-Saturday-01,134795251,"B - Fairview Park via Weber",1,199546,70194
-7,16FALL-All-Saturday-01,134795351,"B - Fairview Park via Weber",1,199558,70194
-7,16FALL-All-Saturday-01,134795451,"B - Fairview Park via Weber",1,199554,70194
-7,16FALL-All-Saturday-01,134795551,"B - Fairview Park via Weber",1,199557,70194
-7,16FALL-All-Saturday-01,134795651,"B - Fairview Park via Weber",1,199559,70194
-7,16FALL-All-Saturday-01,134795751,"B - Fairview Park via Weber",1,199549,70194
-7,16FALL-All-Saturday-01,134795851,"B - Fairview Park via Weber",1,199548,70194
-7,16FALL-All-Saturday-01,134795951,"B - Fairview Park via Weber",1,199547,70194
-7,16FALL-All-Saturday-01,134796051,"B - Fairview Park via Weber",1,199553,70194
-7,16FALL-All-Saturday-01,134796151,"B - Fairview Park via Weber",1,199551,70194
-7,16FALL-All-Saturday-01,134796251,"B - Fairview Park via Weber",1,199552,70194
-7,16FALL-All-Saturday-01,134796351,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134796451,"B - Fairview Park via Weber",1,199545,70208
-7,16FALL-All-Saturday-01,134796551,"F - Fairview via Wilson",1,199551,70193
-7,16FALL-All-Saturday-01,134796651,"F - Fairview via Wilson",1,199547,70193
-7,16FALL-All-Saturday-01,134796751,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134796851,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134796951,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134797051,"B - Fairview Park via Weber",1,199557,70197
-7,16FALL-All-Saturday-01,134797151,"B - Fairview Park via Weber",1,199554,70197
-7,16FALL-All-Saturday-01,134797251,"B - Fairview Park via Weber",1,199559,70197
+7,16FALL-All-Saturday-01,134794451,"B - Fairview Park via Weber",1,199549,70223
+7,16FALL-All-Saturday-01,134794551,"B - Fairview Park via Weber",1,199548,70223
+7,16FALL-All-Saturday-01,134794651,"B - Fairview Park via Weber",1,199547,70223
+7,16FALL-All-Saturday-01,134794751,"B - Fairview Park via Weber",1,199553,70223
+7,16FALL-All-Saturday-01,134794851,"B - Fairview Park via Weber",1,199551,70223
+7,16FALL-All-Saturday-01,134794951,"B - Fairview Park via Weber",1,199552,70223
+7,16FALL-All-Saturday-01,134795051,"B - Fairview Park via Weber",1,199550,70223
+7,16FALL-All-Saturday-01,134795151,"B - Fairview Park via Weber",1,199545,70223
+7,16FALL-All-Saturday-01,134795251,"B - Fairview Park via Weber",1,199546,70223
+7,16FALL-All-Saturday-01,134795351,"B - Fairview Park via Weber",1,199558,70223
+7,16FALL-All-Saturday-01,134795451,"B - Fairview Park via Weber",1,199554,70223
+7,16FALL-All-Saturday-01,134795551,"B - Fairview Park via Weber",1,199557,70223
+7,16FALL-All-Saturday-01,134795651,"B - Fairview Park via Weber",1,199559,70223
+7,16FALL-All-Saturday-01,134795751,"B - Fairview Park via Weber",1,199549,70223
+7,16FALL-All-Saturday-01,134795851,"B - Fairview Park via Weber",1,199548,70223
+7,16FALL-All-Saturday-01,134795951,"B - Fairview Park via Weber",1,199547,70223
+7,16FALL-All-Saturday-01,134796051,"B - Fairview Park via Weber",1,199553,70223
+7,16FALL-All-Saturday-01,134796151,"B - Fairview Park via Weber",1,199551,70223
+7,16FALL-All-Saturday-01,134796251,"B - Fairview Park via Weber",1,199552,70223
+7,16FALL-All-Saturday-01,134796351,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134796451,"B - Fairview Park via Weber",1,199545,70236
+7,16FALL-All-Saturday-01,134796551,"F - Fairview via Wilson",1,199551,70222
+7,16FALL-All-Saturday-01,134796651,"F - Fairview via Wilson",1,199547,70222
+7,16FALL-All-Saturday-01,134796751,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134796851,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134796951,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134797051,"B - Fairview Park via Weber",1,199557,70226
+7,16FALL-All-Saturday-01,134797151,"B - Fairview Park via Weber",1,199554,70226
+7,16FALL-All-Saturday-01,134797251,"B - Fairview Park via Weber",1,199559,70226
 7,16FALL-All-Saturday-01,134797351,"B - Fairview Park via Weber",1,199558,70159
-7,16FALL-All-Saturday-01,134797451,"F - Fairview via Wilson",1,199553,70193
-7,16FALL-All-Saturday-01,134797551,"F - Fairview via Wilson",1,199550,70193
-7,16FALL-All-Saturday-01,134797651,"F - Fairview via Wilson",1,199558,70193
-7,16FALL-All-Saturday-01,134797751,"F - Fairview via Wilson",1,199554,70193
-7,16FALL-All-Saturday-01,134797851,"F - Fairview via Wilson",1,199552,70193
-7,16FALL-All-Saturday-01,134797951,"F - Fairview via Wilson",1,199545,70193
-7,16FALL-All-Saturday-01,134798051,"F - Fairview via Wilson",1,199546,70193
-7,16FALL-All-Saturday-01,134798151,"Charles Terminal",1,199556,70199
-7,16FALL-All-Saturday-01,134798251,"Charles Terminal",1,199555,70199
-7,16FALL-All-Saturday-01,134798351,"F - Fairview via Wilson",1,199545,70193
-7,16FALL-All-Saturday-01,134798451,"F - Fairview via Wilson",1,199550,70193
-7,16FALL-All-Saturday-01,134798551,"F - Fairview via Wilson",1,199552,70193
-7,16FALL-All-Saturday-01,134798651,"F - Fairview via Wilson",1,199551,70193
-7,16FALL-All-Saturday-01,134798751,"F - Fairview via Wilson",1,199553,70193
-7,16FALL-All-Saturday-01,134798851,"F - Fairview via Wilson",1,199547,70193
-7,16FALL-All-Saturday-01,134798951,"F - Fairview via Wilson",1,199548,70193
-7,16FALL-All-Saturday-01,134799051,"F - Fairview via Wilson",1,199549,70193
-7,16FALL-All-Saturday-01,134799151,"F - Fairview via Wilson",1,199559,70193
-7,16FALL-All-Saturday-01,134799251,"F - Fairview via Wilson",1,199557,70193
-7,16FALL-All-Saturday-01,134799351,"F - Fairview via Wilson",1,199558,70193
-7,16FALL-All-Saturday-01,134799451,"F - Fairview via Wilson",1,199546,70193
-7,16FALL-All-Saturday-01,134799551,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134799651,"Charles Terminal",1,199550,70209
-7,16FALL-All-Saturday-01,134799751,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134799851,"Charles Terminal",1,199556,70207
+7,16FALL-All-Saturday-01,134797451,"F - Fairview via Wilson",1,199553,70222
+7,16FALL-All-Saturday-01,134797551,"F - Fairview via Wilson",1,199550,70222
+7,16FALL-All-Saturday-01,134797651,"F - Fairview via Wilson",1,199558,70222
+7,16FALL-All-Saturday-01,134797751,"F - Fairview via Wilson",1,199554,70222
+7,16FALL-All-Saturday-01,134797851,"F - Fairview via Wilson",1,199552,70222
+7,16FALL-All-Saturday-01,134797951,"F - Fairview via Wilson",1,199545,70222
+7,16FALL-All-Saturday-01,134798051,"F - Fairview via Wilson",1,199546,70222
+7,16FALL-All-Saturday-01,134798151,"Charles Terminal",1,199556,70228
+7,16FALL-All-Saturday-01,134798251,"Charles Terminal",1,199555,70228
+7,16FALL-All-Saturday-01,134798351,"F - Fairview via Wilson",1,199545,70222
+7,16FALL-All-Saturday-01,134798451,"F - Fairview via Wilson",1,199550,70222
+7,16FALL-All-Saturday-01,134798551,"F - Fairview via Wilson",1,199552,70222
+7,16FALL-All-Saturday-01,134798651,"F - Fairview via Wilson",1,199551,70222
+7,16FALL-All-Saturday-01,134798751,"F - Fairview via Wilson",1,199553,70222
+7,16FALL-All-Saturday-01,134798851,"F - Fairview via Wilson",1,199547,70222
+7,16FALL-All-Saturday-01,134798951,"F - Fairview via Wilson",1,199548,70222
+7,16FALL-All-Saturday-01,134799051,"F - Fairview via Wilson",1,199549,70222
+7,16FALL-All-Saturday-01,134799151,"F - Fairview via Wilson",1,199559,70222
+7,16FALL-All-Saturday-01,134799251,"F - Fairview via Wilson",1,199557,70222
+7,16FALL-All-Saturday-01,134799351,"F - Fairview via Wilson",1,199558,70222
+7,16FALL-All-Saturday-01,134799451,"F - Fairview via Wilson",1,199546,70222
+7,16FALL-All-Saturday-01,134799551,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134799651,"Charles Terminal",1,199550,70237
+7,16FALL-All-Saturday-01,134799751,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134799851,"Charles Terminal",1,199556,70235
 7,16FALL-All-Saturday-01,134799951,"F - Fairview via Wilson",1,199556,70156
-7,16FALL-All-Saturday-01,134800051,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134800151,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134800251,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134800351,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134800451,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134800551,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134800651,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134800751,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134800851,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134800951,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134801051,"Charles Terminal",1,199555,70207
-7,16FALL-All-Saturday-01,134801151,"Charles Terminal",1,199556,70207
-7,16FALL-All-Saturday-01,134801251,"Charles Terminal",1,199548,70210
-7,16FALL-All-Saturday-01,134801351,"Charles Terminal",1,199557,70210
+7,16FALL-All-Saturday-01,134800051,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134800151,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134800251,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134800351,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134800451,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134800551,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134800651,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134800751,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134800851,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134800951,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134801051,"Charles Terminal",1,199555,70235
+7,16FALL-All-Saturday-01,134801151,"Charles Terminal",1,199556,70235
+7,16FALL-All-Saturday-01,134801251,"Charles Terminal",1,199548,70232
+7,16FALL-All-Saturday-01,134801351,"Charles Terminal",1,199557,70232
 7,16FALL-All-Saturday-01,134801451,"Charles Terminal",1,199554,70211
 51,16FALL-All-Saturday-01,134801551,"B - Melran",1,199567,510001
 51,16FALL-All-Saturday-01,134801651,"B - Melran",1,199568,510001
@@ -5762,42 +5804,78 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 62,16FALL-All-Saturday-01,142272351,"West",1,199516,620008
 62,16FALL-All-Saturday-01,142272451,"West",1,199516,620008
 62,16FALL-All-Saturday-01,142272551,"West",1,199516,620008
-52,16FALL-All-Saturday-01,143500951,"Fairview Park via Cherry Blossom",0,199480,520029
-52,16FALL-All-Saturday-01,143501051,"Fairview Park via Cherry Blossom",0,199482,520029
-52,16FALL-All-Saturday-01,143501151,"Fairview Park via Cherry Blossom",0,199480,520029
-52,16FALL-All-Saturday-01,143501251,"Fairview Park via Cherry Blossom",0,199482,520029
-52,16FALL-All-Saturday-01,143501351,"Fairview Park via Cherry Blossom",0,199480,520029
-52,16FALL-All-Saturday-01,143501451,"Fairview Park via Cherry Blossom",0,199482,520029
-52,16FALL-All-Saturday-01,143501551,"Fairview Park via Cherry Blossom",0,199480,520029
-52,16FALL-All-Saturday-01,143501651,"Fairview Park via Cherry Blossom",0,199482,520029
-52,16FALL-All-Saturday-01,143501751,"Fairview Park via Cherry Blossom",0,199480,520029
-52,16FALL-All-Saturday-01,143501851,"Fairview Park via Cherry Blossom",0,199482,520029
-52,16FALL-All-Saturday-01,143501951,"Fairview Park via Cherry Blossom",0,199480,520029
-52,16FALL-All-Saturday-01,143502051,"Fairview Park via Cherry Blossom",0,199482,520029
-52,16FALL-All-Saturday-01,143502151,"Ainslie Terminal via Cherry Blossom",1,199482,520030
-52,16FALL-All-Saturday-01,143502251,"Ainslie Terminal via Cherry Blossom",1,199481,520030
-52,16FALL-All-Saturday-01,143502351,"Ainslie Terminal via Cherry Blossom",1,199480,520030
-52,16FALL-All-Saturday-01,143502451,"Ainslie Terminal via Cherry Blossom",1,199482,520030
-52,16FALL-All-Saturday-01,143502551,"Ainslie Terminal via Cherry Blossom",1,199481,520030
-52,16FALL-All-Saturday-01,143502651,"Ainslie Terminal via Cherry Blossom",1,199480,520030
-52,16FALL-All-Saturday-01,143502751,"Ainslie Terminal via Cherry Blossom",1,199482,520030
-52,16FALL-All-Saturday-01,143502851,"Ainslie Terminal via Cherry Blossom",1,199481,520030
-52,16FALL-All-Saturday-01,143502951,"Ainslie Terminal via Cherry Blossom",1,199480,520030
-52,16FALL-All-Saturday-01,143503051,"Ainslie Terminal via Cherry Blossom",1,199482,520030
-52,16FALL-All-Saturday-01,143503151,"Ainslie Terminal via Cherry Blossom",1,199481,520030
-52,16FALL-All-Saturday-01,143503251,"Ainslie Terminal via Cherry Blossom",1,199480,520030
-52,16FALL-All-Saturday-01,143503351,"Ainslie Terminal via Cherry Blossom",1,199482,520030
-52,16FALL-All-Saturday-01,143503451,"Ainslie Terminal via Cherry Blossom",1,199481,520030
-52,16FALL-All-Saturday-01,143503551,"Ainslie Terminal via Cherry Blossom",1,199480,520030
-52,16FALL-All-Saturday-01,143503651,"Ainslie Terminal via Cherry Blossom",1,199482,520030
-52,16FALL-All-Saturday-01,143503751,"Ainslie Terminal via Cherry Blossom",1,199481,520030
-52,16FALL-All-Saturday-01,143503851,"Ainslie Terminal via Cherry Blossom",1,199480,520030
-52,16FALL-All-Saturday-01,143503951,"Fairview Park via Cherry Blossom",0,199481,520029
-52,16FALL-All-Saturday-01,143504051,"Fairview Park via Cherry Blossom",0,199481,520029
-52,16FALL-All-Saturday-01,143504151,"Fairview Park via Cherry Blossom",0,199481,520029
-52,16FALL-All-Saturday-01,143504251,"Fairview Park via Cherry Blossom",0,199481,520029
-52,16FALL-All-Saturday-01,143504351,"Fairview Park via Cherry Blossom",0,199481,520029
-52,16FALL-All-Saturday-01,143504451,"Fairview Park via Cherry Blossom",0,199481,520029
+52,16FALL-All-Saturday-01,143500951,"Fairview Park via Cherry Blossom",0,199480,520039
+52,16FALL-All-Saturday-01,143501051,"Fairview Park via Cherry Blossom",0,199482,520039
+52,16FALL-All-Saturday-01,143501151,"Fairview Park via Cherry Blossom",0,199480,520039
+52,16FALL-All-Saturday-01,143501251,"Fairview Park via Cherry Blossom",0,199482,520039
+52,16FALL-All-Saturday-01,143501351,"Fairview Park via Cherry Blossom",0,199480,520039
+52,16FALL-All-Saturday-01,143501451,"Fairview Park via Cherry Blossom",0,199482,520039
+52,16FALL-All-Saturday-01,143501551,"Fairview Park via Cherry Blossom",0,199480,520039
+52,16FALL-All-Saturday-01,143501651,"Fairview Park via Cherry Blossom",0,199482,520039
+52,16FALL-All-Saturday-01,143501751,"Fairview Park via Cherry Blossom",0,199480,520039
+52,16FALL-All-Saturday-01,143501851,"Fairview Park via Cherry Blossom",0,199482,520039
+52,16FALL-All-Saturday-01,143501951,"Fairview Park via Cherry Blossom",0,199480,520039
+52,16FALL-All-Saturday-01,143502051,"Fairview Park via Cherry Blossom",0,199482,520039
+52,16FALL-All-Saturday-01,143502151,"Ainslie Terminal via Cherry Blossom",1,199482,520040
+52,16FALL-All-Saturday-01,143502251,"Ainslie Terminal via Cherry Blossom",1,199481,520040
+52,16FALL-All-Saturday-01,143502351,"Ainslie Terminal via Cherry Blossom",1,199480,520040
+52,16FALL-All-Saturday-01,143502451,"Ainslie Terminal via Cherry Blossom",1,199482,520040
+52,16FALL-All-Saturday-01,143502551,"Ainslie Terminal via Cherry Blossom",1,199481,520040
+52,16FALL-All-Saturday-01,143502651,"Ainslie Terminal via Cherry Blossom",1,199480,520040
+52,16FALL-All-Saturday-01,143502751,"Ainslie Terminal via Cherry Blossom",1,199482,520040
+52,16FALL-All-Saturday-01,143502851,"Ainslie Terminal via Cherry Blossom",1,199481,520040
+52,16FALL-All-Saturday-01,143502951,"Ainslie Terminal via Cherry Blossom",1,199480,520040
+52,16FALL-All-Saturday-01,143503051,"Ainslie Terminal via Cherry Blossom",1,199482,520040
+52,16FALL-All-Saturday-01,143503151,"Ainslie Terminal via Cherry Blossom",1,199481,520040
+52,16FALL-All-Saturday-01,143503251,"Ainslie Terminal via Cherry Blossom",1,199480,520040
+52,16FALL-All-Saturday-01,143503351,"Ainslie Terminal via Cherry Blossom",1,199482,520040
+52,16FALL-All-Saturday-01,143503451,"Ainslie Terminal via Cherry Blossom",1,199481,520040
+52,16FALL-All-Saturday-01,143503551,"Ainslie Terminal via Cherry Blossom",1,199480,520040
+52,16FALL-All-Saturday-01,143503651,"Ainslie Terminal via Cherry Blossom",1,199482,520040
+52,16FALL-All-Saturday-01,143503751,"Ainslie Terminal via Cherry Blossom",1,199481,520040
+52,16FALL-All-Saturday-01,143503851,"Ainslie Terminal via Cherry Blossom",1,199480,520040
+52,16FALL-All-Saturday-01,143503951,"Fairview Park via Cherry Blossom",0,199481,520039
+52,16FALL-All-Saturday-01,143504051,"Fairview Park via Cherry Blossom",0,199481,520039
+52,16FALL-All-Saturday-01,143504151,"Fairview Park via Cherry Blossom",0,199481,520039
+52,16FALL-All-Saturday-01,143504251,"Fairview Park via Cherry Blossom",0,199481,520039
+52,16FALL-All-Saturday-01,143504351,"Fairview Park via Cherry Blossom",0,199481,520039
+52,16FALL-All-Saturday-01,143504451,"Fairview Park via Cherry Blossom",0,199481,520033
+52,16FALL-All-Saturday-01,143515551,"Special",0,,520031
+52,16FALL-All-Saturday-01,143515651,"Special",0,,520031
+52,16FALL-All-Saturday-01,143515751,"Special",0,,520031
+52,16FALL-All-Saturday-01,143515851,"Special",0,,520031
+52,16FALL-All-Saturday-01,143515951,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516051,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516151,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516251,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516351,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516451,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516551,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516651,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516751,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516851,"Special",0,,520031
+52,16FALL-All-Saturday-01,143516951,"Special",0,,520031
+52,16FALL-All-Saturday-01,143517051,"Special",0,,520031
+52,16FALL-All-Saturday-01,143517151,"Special",0,,520031
+52,16FALL-All-Saturday-01,143517251,"Special",0,,520031
+52,16FALL-All-Saturday-01,143517351,"Special",1,,520032
+52,16FALL-All-Saturday-01,143517451,"Special",1,,520032
+52,16FALL-All-Saturday-01,143517551,"Special",1,,520032
+52,16FALL-All-Saturday-01,143517651,"Special",1,,520032
+52,16FALL-All-Saturday-01,143517751,"Special",1,,520032
+52,16FALL-All-Saturday-01,143517851,"Special",1,,520032
+52,16FALL-All-Saturday-01,143517951,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518051,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518151,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518251,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518351,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518451,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518551,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518651,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518751,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518851,"Special",1,,520032
+52,16FALL-All-Saturday-01,143518951,"Special",1,,520032
+52,16FALL-All-Saturday-01,143519051,"Special",1,,520032
 3,16FALL-All-Sunday-01,134839061,"Charles Terminal",1,199642,30023
 3,16FALL-All-Sunday-01,134839161,"Charles Terminal",1,199642,30023
 3,16FALL-All-Sunday-01,134839261,"Charles Terminal",1,199642,30023
@@ -6449,55 +6527,55 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 54,16FALL-All-Sunday-01,134925961,"East",0,199588,540001
 54,16FALL-All-Sunday-01,134926061,"East",0,199589,540001
 54,16FALL-All-Sunday-01,134926161,"East",0,199655,540001
-52,16FALL-All-Sunday-01,134926261,"Fairview Park via Preston Parkway",0,199587,520026
-52,16FALL-All-Sunday-01,134926361,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134926461,"Fairview Park via Preston Parkway",0,199587,520026
-52,16FALL-All-Sunday-01,134926561,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134926661,"Fairview Park via Preston Parkway",0,199587,520026
-52,16FALL-All-Sunday-01,134926761,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134926861,"Fairview Park via Preston Parkway",0,199587,520026
-52,16FALL-All-Sunday-01,134926961,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134927061,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134927161,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134927261,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134927361,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134927461,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134927561,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134927661,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134927761,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134927861,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134927961,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134928061,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134928161,"Fairview Park via Preston Parkway",0,199587,520026
-52,16FALL-All-Sunday-01,134928261,"Fairview Park via Preston Parkway",0,199587,520026
-52,16FALL-All-Sunday-01,134928361,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134928461,"Fairview Park via Preston Parkway",0,199587,520026
-52,16FALL-All-Sunday-01,134928561,"Fairview Park via Preston Parkway",0,199590,520026
-52,16FALL-All-Sunday-01,134928661,"Fairview Park via Preston Parkway",0,199602,520026
-52,16FALL-All-Sunday-01,134928761,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134928861,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134928961,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134929061,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134929161,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134929261,"Ainslie Terminal via Preston Parkway",1,199587,520024
-52,16FALL-All-Sunday-01,134929361,"Ainslie Terminal via Preston Parkway",1,199590,520024
-52,16FALL-All-Sunday-01,134929461,"Ainslie Terminal via Preston Parkway",1,199602,520024
-52,16FALL-All-Sunday-01,134929561,"Fairview Park via Preston Parkway",0,199588,520026
-52,16FALL-All-Sunday-01,134929661,"Fairview Park via Preston Parkway",0,199589,520026
-52,16FALL-All-Sunday-01,134929761,"Fairview Park via Preston Parkway",0,199588,520026
-52,16FALL-All-Sunday-01,134929861,"Fairview Park via Preston Parkway",0,199589,520026
-52,16FALL-All-Sunday-01,134929961,"Fairview Park via Preston Parkway",0,199588,520026
-52,16FALL-All-Sunday-01,134930061,"Fairview Park via Preston Parkway",0,199589,520026
-52,16FALL-All-Sunday-01,134930161,"Fairview Park via Preston Parkway",0,199588,520026
-52,16FALL-All-Sunday-01,134930261,"Fairview Park via Preston Parkway",0,199589,520026
-52,16FALL-All-Sunday-01,134930361,"Ainslie Terminal via Preston Parkway",1,199589,520024
-52,16FALL-All-Sunday-01,134930461,"Ainslie Terminal via Preston Parkway",1,199588,520024
-52,16FALL-All-Sunday-01,134930561,"Ainslie Terminal via Preston Parkway",1,199589,520024
-52,16FALL-All-Sunday-01,134930661,"Ainslie Terminal via Preston Parkway",1,199588,520024
-52,16FALL-All-Sunday-01,134930761,"Ainslie Terminal via Preston Parkway",1,199589,520024
-52,16FALL-All-Sunday-01,134930861,"Ainslie Terminal via Preston Parkway",1,199588,520024
-52,16FALL-All-Sunday-01,134930961,"Ainslie Terminal via Preston Parkway",1,199589,520024
-52,16FALL-All-Sunday-01,134931061,"Ainslie Terminal via Preston Parkway",1,199588,520024
+52,16FALL-All-Sunday-01,134926261,"Fairview Park via Preston Parkway",0,199587,520033
+52,16FALL-All-Sunday-01,134926361,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134926461,"Fairview Park via Preston Parkway",0,199587,520033
+52,16FALL-All-Sunday-01,134926561,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134926661,"Fairview Park via Preston Parkway",0,199587,520033
+52,16FALL-All-Sunday-01,134926761,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134926861,"Fairview Park via Preston Parkway",0,199587,520033
+52,16FALL-All-Sunday-01,134926961,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134927061,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134927161,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134927261,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134927361,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134927461,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134927561,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134927661,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134927761,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134927861,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134927961,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134928061,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134928161,"Fairview Park via Preston Parkway",0,199587,520033
+52,16FALL-All-Sunday-01,134928261,"Fairview Park via Preston Parkway",0,199587,520033
+52,16FALL-All-Sunday-01,134928361,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134928461,"Fairview Park via Preston Parkway",0,199587,520033
+52,16FALL-All-Sunday-01,134928561,"Fairview Park via Preston Parkway",0,199590,520033
+52,16FALL-All-Sunday-01,134928661,"Fairview Park via Preston Parkway",0,199602,520033
+52,16FALL-All-Sunday-01,134928761,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134928861,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134928961,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134929061,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134929161,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134929261,"Ainslie Terminal via Preston Parkway",1,199587,520035
+52,16FALL-All-Sunday-01,134929361,"Ainslie Terminal via Preston Parkway",1,199590,520035
+52,16FALL-All-Sunday-01,134929461,"Ainslie Terminal via Preston Parkway",1,199602,520035
+52,16FALL-All-Sunday-01,134929561,"Fairview Park via Preston Parkway",0,199588,520033
+52,16FALL-All-Sunday-01,134929661,"Fairview Park via Preston Parkway",0,199589,520033
+52,16FALL-All-Sunday-01,134929761,"Fairview Park via Preston Parkway",0,199588,520033
+52,16FALL-All-Sunday-01,134929861,"Fairview Park via Preston Parkway",0,199589,520033
+52,16FALL-All-Sunday-01,134929961,"Fairview Park via Preston Parkway",0,199588,520033
+52,16FALL-All-Sunday-01,134930061,"Fairview Park via Preston Parkway",0,199589,520033
+52,16FALL-All-Sunday-01,134930161,"Fairview Park via Preston Parkway",0,199588,520033
+52,16FALL-All-Sunday-01,134930261,"Fairview Park via Preston Parkway",0,199589,520033
+52,16FALL-All-Sunday-01,134930361,"Ainslie Terminal via Preston Parkway",1,199589,520035
+52,16FALL-All-Sunday-01,134930461,"Ainslie Terminal via Preston Parkway",1,199588,520035
+52,16FALL-All-Sunday-01,134930561,"Ainslie Terminal via Preston Parkway",1,199589,520035
+52,16FALL-All-Sunday-01,134930661,"Ainslie Terminal via Preston Parkway",1,199588,520035
+52,16FALL-All-Sunday-01,134930761,"Ainslie Terminal via Preston Parkway",1,199589,520035
+52,16FALL-All-Sunday-01,134930861,"Ainslie Terminal via Preston Parkway",1,199588,520035
+52,16FALL-All-Sunday-01,134930961,"Ainslie Terminal via Preston Parkway",1,199589,520035
+52,16FALL-All-Sunday-01,134931061,"Ainslie Terminal via Preston Parkway",1,199588,520035
 55,16FALL-All-Sunday-01,134931161,"West",1,199602,550009
 55,16FALL-All-Sunday-01,134931261,"West",1,199602,550009
 55,16FALL-All-Sunday-01,134931361,"West",1,199600,550009
@@ -6795,41 +6873,41 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Sunday-01,134960561,"D - UW via University",0,199635,70177
 7,16FALL-All-Sunday-01,134960661,"D - UW via University",0,199638,70177
 7,16FALL-All-Sunday-01,134960761,"D - UW via University",0,199634,70177
-7,16FALL-All-Sunday-01,134960861,"A - Fairview Park via Connaught",1,199639,70183
-7,16FALL-All-Sunday-01,134960961,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134961061,"A - Fairview Park via Connaught",1,199638,70183
-7,16FALL-All-Sunday-01,134961161,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134961261,"A - Fairview Park via Connaught",1,199639,70183
-7,16FALL-All-Sunday-01,134961361,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134961461,"A - Fairview Park via Connaught",1,199638,70183
-7,16FALL-All-Sunday-01,134961561,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134961661,"A - Fairview Park via Connaught",1,199639,70183
-7,16FALL-All-Sunday-01,134961761,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134961861,"A - Fairview Park via Connaught",1,199638,70183
-7,16FALL-All-Sunday-01,134961961,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134962061,"A - Fairview Park via Connaught",1,199639,70183
-7,16FALL-All-Sunday-01,134962161,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134962261,"A - Fairview Park via Connaught",1,199638,70183
-7,16FALL-All-Sunday-01,134962361,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134962461,"A - Fairview Park via Connaught",1,199639,70183
-7,16FALL-All-Sunday-01,134962561,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134962661,"A - Fairview Park via Connaught",1,199638,70183
-7,16FALL-All-Sunday-01,134962761,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134962861,"A - Fairview Park via Connaught",1,199639,70183
-7,16FALL-All-Sunday-01,134962961,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134963061,"A - Fairview Park via Connaught",1,199638,70183
-7,16FALL-All-Sunday-01,134963161,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134963261,"A - Fairview Park via Connaught",1,199639,70183
-7,16FALL-All-Sunday-01,134963361,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134963461,"A - Fairview Park via Connaught",1,199638,70183
-7,16FALL-All-Sunday-01,134963561,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134963661,"A - Fairview Park via Connaught",1,199639,70183
+7,16FALL-All-Sunday-01,134960861,"A - Fairview Park via Connaught",1,199639,70217
+7,16FALL-All-Sunday-01,134960961,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134961061,"A - Fairview Park via Connaught",1,199638,70217
+7,16FALL-All-Sunday-01,134961161,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134961261,"A - Fairview Park via Connaught",1,199639,70217
+7,16FALL-All-Sunday-01,134961361,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134961461,"A - Fairview Park via Connaught",1,199638,70217
+7,16FALL-All-Sunday-01,134961561,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134961661,"A - Fairview Park via Connaught",1,199639,70217
+7,16FALL-All-Sunday-01,134961761,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134961861,"A - Fairview Park via Connaught",1,199638,70217
+7,16FALL-All-Sunday-01,134961961,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134962061,"A - Fairview Park via Connaught",1,199639,70217
+7,16FALL-All-Sunday-01,134962161,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134962261,"A - Fairview Park via Connaught",1,199638,70217
+7,16FALL-All-Sunday-01,134962361,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134962461,"A - Fairview Park via Connaught",1,199639,70217
+7,16FALL-All-Sunday-01,134962561,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134962661,"A - Fairview Park via Connaught",1,199638,70217
+7,16FALL-All-Sunday-01,134962761,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134962861,"A - Fairview Park via Connaught",1,199639,70217
+7,16FALL-All-Sunday-01,134962961,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134963061,"A - Fairview Park via Connaught",1,199638,70217
+7,16FALL-All-Sunday-01,134963161,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134963261,"A - Fairview Park via Connaught",1,199639,70217
+7,16FALL-All-Sunday-01,134963361,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134963461,"A - Fairview Park via Connaught",1,199638,70217
+7,16FALL-All-Sunday-01,134963561,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134963661,"A - Fairview Park via Connaught",1,199639,70217
 7,16FALL-All-Sunday-01,134963761,"C - Conestoga Mall",0,199641,70176
 7,16FALL-All-Sunday-01,134963861,"D - UW via University",0,199639,70177
 7,16FALL-All-Sunday-01,134963961,"D - UW via University",0,199635,70177
-7,16FALL-All-Sunday-01,134964061,"A - Fairview Park via Connaught",1,199634,70183
-7,16FALL-All-Sunday-01,134964161,"A - Fairview Park via Connaught",1,199635,70183
-7,16FALL-All-Sunday-01,134964261,"A - Fairview Park via Connaught",1,199638,70183
+7,16FALL-All-Sunday-01,134964061,"A - Fairview Park via Connaught",1,199634,70217
+7,16FALL-All-Sunday-01,134964161,"A - Fairview Park via Connaught",1,199635,70217
+7,16FALL-All-Sunday-01,134964261,"A - Fairview Park via Connaught",1,199638,70217
 7,16FALL-All-Sunday-01,134964361,"B - Fairview Park via Weber",1,199636,70182
 7,16FALL-All-Sunday-01,134964461,"B - Fairview Park via Weber",1,199640,70184
 7,16FALL-All-Sunday-01,134964561,"A - Fairview Park via Connaught",1,199638,70032
@@ -6839,10 +6917,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,16FALL-All-Sunday-01,134964961,"B - Fairview Park via Weber",1,199640,70031
 7,16FALL-All-Sunday-01,134965061,"Charles Terminal",0,199638,70148
 7,16FALL-All-Sunday-01,134965161,"Charles Terminal",0,199641,70168
-7,16FALL-All-Sunday-01,134965261,"Charles Terminal",1,199612,70200
-7,16FALL-All-Sunday-01,134965361,"Charles Terminal",1,199620,70200
-7,16FALL-All-Sunday-01,134965461,"Charles Terminal",1,199634,70210
-7,16FALL-All-Sunday-01,134965561,"Charles Terminal",1,199639,70210
+7,16FALL-All-Sunday-01,134965261,"Charles Terminal",1,199612,70229
+7,16FALL-All-Sunday-01,134965361,"Charles Terminal",1,199620,70229
+7,16FALL-All-Sunday-01,134965461,"Charles Terminal",1,199634,70232
+7,16FALL-All-Sunday-01,134965561,"Charles Terminal",1,199639,70232
 7,16FALL-All-Sunday-01,134965661,"Charles Terminal",1,199637,70211
 51,16FALL-All-Sunday-01,134965761,"Ainslie Terminal",0,199602,510003
 51,16FALL-All-Sunday-01,134965861,"Ainslie Terminal",0,199600,510003
