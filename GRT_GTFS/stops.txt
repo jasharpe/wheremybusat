@@ -790,7 +790,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1886,1886,"King / Cameron",,  43.446079, -80.480636,,,0,
 1887,1887,"King / Cedar",,  43.447344, -80.483579,,,0,
 1903,1903,"Victoria / Margaret",,  43.456228, -80.489186,,,0,
-1907,1907,"Uptown Waterloo",,  43.464087, -80.521920,,,0,place_KWW
 1910,1910,"King / Elgin",,  43.470100, -80.523579,,,0,
 1911,1911,"King / Marshall",,  43.472470, -80.524054,,,0,
 1912,1912,"Victoria / Margaret",,  43.456550, -80.488844,,,0,
@@ -1749,7 +1748,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3129,3129,"Victoria / Fischer-Hallman",,  43.436314, -80.529725,,,0,
 3130,3130,"Victoria / Stoke",,  43.435086, -80.533269,,,0,
 3132,3132,"Victoria / Westforest",,  43.433321, -80.539831,,,0,
-3140,3140,"Highland Hills",,  43.430272, -80.525213,,,0,place_HHM
 3142,3142,"Victoria / Fischer-Hallman",,  43.436543, -80.528541,,,0,
 3143,3143,"Fischer-Hallman / Victoria",,  43.436843, -80.529202,,,0,
 3144,3144,"Fischer-Hallman / Stoke",,  43.439462, -80.535435,,,0,
@@ -2089,6 +2087,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3683,3683,"University / Seagram",,  43.468939, -80.539140,,,0,
 3685,3685,"Erbsville / Erb",,  43.447900, -80.572632,,,0,
 3687,3687,"Erb / Erbsville",,  43.448332, -80.565666,,,0,
+3689,3689,"Erbsville / Erb",,  43.447999, -80.572483,,,0,
 3690,3690,"Erbsville / Royal Beech",,  43.451364, -80.571865,,,0,
 3691,3691,"Path To Erbsville",,  43.453282, -80.571927,,,0,
 3692,3692,"Keats Way / Keatswood",,  43.455817, -80.573219,,,0,
@@ -2097,7 +2096,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3695,3695,"Keats Way / Brynhurst",,  43.456713, -80.564869,,,0,
 3697,3697,"Lake Louise / Kelso",,  43.490676, -80.581309,,,0,
 3698,3698,"Lake Louise / Pinery",,  43.492559, -80.581605,,,0,
-3699,3699,"U.W. -  Davis Centre",,  43.473515, -80.541776,,,0,
 3715,3715,"Eastwood C.I.",,  43.439272, -80.461306,,,0,place_ECI
 3720,3720,"Grand River Hospital - Mount Hope Street",,  43.456159, -80.514492,,,0,
 3723,3723,"860 Trillium Dr",,  43.400139, -80.484672,,,0,
@@ -2233,6 +2231,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3900,3900,"Lexington / Davenport",,  43.493051, -80.512576,,,0,
 3901,3901,"The Boardwalk / Lifestyle Way",,  43.437644, -80.562930,,,0,
 3902,3902,"Path To Cardiff",,  43.439840, -80.562791,,,0,
+3903,3903,"Ira Needles / Thorndale",,  43.442434, -80.565650,,,0,
 3904,3904,"Ira Needles / Thorndale",,  43.442331, -80.565810,,,0,
 3905,3905,"Ira Needles / Erb",,  43.446092, -80.570729,,,0,
 3906,3906,"Ira Needles / Erb",,  43.445416, -80.570480,,,0,
@@ -2266,7 +2265,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3943,3943,"University / Phillip",,  43.472149, -80.535716,,,0,
 3945,3945,"University / Sunview",,  43.473156, -80.532914,,,0,
 3949,3949,"Laurelwood / Bearinger",,  43.474796, -80.572541,,,0,
-3951,3951,"Charles Terminal",,  43.449545, -80.492533,,,0,place_CST
 3953,3953,"Doon Mills / Woodsmere",,  43.382853, -80.428510,,,0,
 3954,3954,"Doon Village / Anvil",,  43.390773, -80.438548,,,0,
 3955,3955,"Doon Mills / Apple Ridge",,  43.387201, -80.435420,,,0,
@@ -2313,7 +2311,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4012,4012,"Columbia / Erbsville",,  43.461946, -80.581186,,,0,
 4013,4013,"Columbia / Cavendish",,  43.463893, -80.576576,,,0,
 4014,4014,"Laurelwood / Blue Beech",,  43.470290, -80.594731,,,0,
-4015,4015,"Uptown Waterloo",,  43.463941, -80.522184,,,0,place_KWS
 4016,4016,"Bridge / Chesapeake",,  43.509082, -80.517909,,,0,
 4017,4017,"Columbia / Salzburg",,  43.460368, -80.582848,,,0,
 4018,4018,"Columbia / Salzburg",,  43.460465, -80.582531,,,0,
