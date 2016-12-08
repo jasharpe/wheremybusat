@@ -1,1 +1,2 @@
 service_id,date,exception_type
+16XMAS-All-Weekday-01,20161226,2
