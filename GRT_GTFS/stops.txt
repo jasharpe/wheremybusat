@@ -49,10 +49,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1052,1052,"Fairway / River",,  43.434718, -80.427955,,,0,
 1053,1053,"Fairway / Idle Creek",,  43.441445, -80.417826,,,0,
 1057,1057,"Ottawa / Lackner",,  43.456410, -80.432057,,,0,
+1058,1058,"Cambridge Centre - Bay 2",,  43.392529, -80.322482,,,0,place_CBC
 1059,1059,"Oldfield / Jadestone",,  43.452388, -80.430785,,,0,
 1060,1060,"Oldfield / Drumoak",,  43.450771, -80.429873,,,0,
 1061,1061,"Oldfield / Springmount",,  43.448874, -80.426888,,,0,
 1062,1062,"Oldfield / Lackner",,  43.449797, -80.424073,,,0,
+1063,1063,"Cambridge Centre - Bay 3",,  43.392495, -80.322734,,,0,place_CBC
+1064,1064,"Cambridge Centre - Bay 5",,  43.392858, -80.322707,,,0,place_CBC
+1065,1065,"Cambridge Centre - Bay 6",,  43.392901, -80.322464,,,0,place_CBC
+1066,1066,"Cambridge Centre - Bay 7",,  43.392958, -80.322822,,,0,place_CBC
+1067,1067,"Cambridge Centre - Bay 8",,  43.393002, -80.322530,,,0,place_CBC
 1068,1068,"River / Bradley",,  43.445866, -80.441338,,,0,
 1069,1069,"River / Conway",,  43.447185, -80.442154,,,0,
 1070,1070,"River / Stanley Park Mall",,  43.449523, -80.443344,,,0,
@@ -272,7 +278,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1317,1317,"Heritage Bible College",,  43.417510, -80.324274,,,0,
 1318,1318,"Conestoga / Lena",,  43.392677, -80.315289,,,0,
 1319,1319,"Conestoga Transit Garage",,  43.394837, -80.316673,,,0,
-1320,1320,"Bishop / Collier-Macmillan",,  43.395933, -80.320846,,,0,
 1321,1321,"Bishop / Hespeler",,  43.394990, -80.325759,,,0,
 1322,1322,"Industrial / Bishop",,  43.394785, -80.329244,,,0,
 1323,1323,"1367 Industrial",,  43.396499, -80.329768,,,0,
@@ -622,7 +627,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1702,1702,"Wabanaki / Manitou",,  43.408285, -80.447476,,,0,
 1703,1703,"Manitou / Sasaga",,  43.407094, -80.448796,,,0,
 1704,1704,"421 Manitou",,  43.404084, -80.448367,,,0,
-1705,1705,"Manitou / Cayuga",,  43.401479, -80.447785,,,0,
+1705,1705,"Manitou / Cayuga",,  43.400950, -80.447690,,,0,
 1706,1706,"Doon Village / Millwood",,  43.398035, -80.446829,,,0,
 1707,1707,"Doon Village / Wheatfield Park",,  43.393464, -80.443808,,,0,
 1708,1708,"Doon Village / Bechtel",,  43.391783, -80.440749,,,0,
@@ -672,8 +677,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1753,1753,"Doon Village / Bechtel",,  43.391890, -80.440600,,,0,
 1754,1754,"Doon Village / Wheatfield Park",,  43.393580, -80.443622,,,0,
 1755,1755,"Doon Village / Farrier",,  43.398286, -80.446703,,,0,
-1756,1756,"Manitou / Cayuga",,  43.401848, -80.447695,,,0,
-1757,1757,"334 Manitou",,  43.405480, -80.448354,,,0,
+1756,1756,"Manitou / Cayuga",,  43.400217, -80.447178,,,0,
+1757,1757,"Manitou / 400 Block",,  43.405482, -80.448087,,,0,
 1758,1758,"Manitou / Wabanaki",,  43.406948, -80.448538,,,0,
 1759,1759,"Wabanaki / Kevco",,  43.408779, -80.443458,,,0,
 1760,1760,"Wabanaki / Wilson",,  43.409263, -80.441280,,,0,
@@ -2017,8 +2022,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3520,3520,"Dover / Rose",,  43.393221, -80.367600,,,0,
 3521,3521,"Rose / Westminster",,  43.390785, -80.363477,,,0,place_PRHS
 3522,3522,"Laurel / North",,  43.400857, -80.354715,,,0,
-3524,3524,"Fountain / Blair",,  43.385720, -80.390864,,,0,
-3525,3525,"Fountain / Blair",,  43.385390, -80.391399,,,0,
 3526,3526,"Westminster / Laurel",,  43.399442, -80.354495,,,0,
 3527,3527,"Hespeler / Abbotsford",,  43.380185, -80.319393,,,0,
 3531,3531,"Maple Grove / Saltsman",,  43.421934, -80.383793,,,0,
@@ -2119,7 +2122,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3683,3683,"University / Seagram",,  43.468939, -80.539140,,,0,
 3685,3685,"Erbsville / Erb",,  43.447900, -80.572632,,,0,
 3687,3687,"Erb / Erbsville",,  43.448332, -80.565666,,,0,
-3689,3689,"Erbsville / Erb",,  43.447999, -80.572483,,,0,
 3690,3690,"Erbsville / Royal Beech",,  43.451364, -80.571865,,,0,
 3691,3691,"Path To Erbsville",,  43.453282, -80.571927,,,0,
 3692,3692,"Keats Way / Keatswood",,  43.455817, -80.573219,,,0,
@@ -2353,7 +2355,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4012,4012,"Columbia / Erbsville",,  43.461946, -80.581186,,,0,
 4013,4013,"Columbia / Cavendish",,  43.463893, -80.576576,,,0,
 4014,4014,"Laurelwood / Blue Beech",,  43.470290, -80.594731,,,0,
-4015,4015,"Uptown Waterloo",,  43.463941, -80.522184,,,0,place_KWS
 4016,4016,"Bridge / Chesapeake",,  43.509082, -80.517909,,,0,
 4017,4017,"Columbia / Salzburg",,  43.460368, -80.582848,,,0,
 4018,4018,"Columbia / Salzburg",,  43.460465, -80.582531,,,0,
@@ -2450,21 +2451,21 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5027,5027,"Scott / Duke",,  43.449811, -80.485222,,,0,
 5028,5028,"Park / Allen",,  43.458821, -80.520479,,,0,
 5029,5029,"Park / Allen",,  43.458690, -80.520507,,,0,
-5030,5030,"Caroline / Willis",,  43.462857, -80.524084,,,0,
 5031,5031,"Park / Norman",,  43.459570, -80.522021,,,0,
 5036,5036,"Park / Union",,  43.456764, -80.516336,,,0,
 5056,5056,"Regina / Willis",,  43.463937, -80.520879,,,0,
 5057,5057,"Regina / Willis",,  43.463963, -80.520692,,,0,
 5058,5058,"William / Caroline",,  43.461044, -80.522184,,,0,place_KWW
 5059,5059,"Regina / Dupont",,  43.466089, -80.521337,,,0,
-5065,5065,"King / Bridgeport",,  43.467813, -80.523212,,,0,
 6019,6019,"Pinebush - Southbound",,  43.407581, -80.328185,,,0,
+6020,6020,"Cambridge Centre - Southbound",,  43.392605, -80.322274,,,0,place_CBC
 6021,6021,"Canamera - Southbound",,  43.385250, -80.321055,,,0,
 6022,6022,"Delta - Southbound",,  43.373813, -80.318847,,,0,
 6023,6023,"Pinebush - Southbound",,  43.407203, -80.328043,,,0,
 6101,6101,"Ainslie Terminal",,  43.357642, -80.313444,,,0,place_AST
 6102,6102,"Delta - Northbound",,  43.372911, -80.318258,,,0,
 6103,6103,"Canamera - Northbound",,  43.386289, -80.320911,,,0,
+6104,6104,"Cambridge Centre - Northbound",,  43.392708, -80.322961,,,0,place_CBC
 6105,6105,"Pinebush - Northbound",,  43.407749, -80.327774,,,0,
 7000,7000,"Snyders / Notre Dame",,  43.413404, -80.606216,,,0,
 7001,7001,"Snyders / Notre Dame",,  43.413341, -80.605695,,,0,
@@ -2490,10 +2491,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7025,7025,"Peel / Highway 7/8",,  43.373416, -80.704357,,,0,
 7033,7033,"No Frills Grocery Store",,  43.370367, -80.703937,,,0,
 7035,7035,"Waterloo / Forrest",,  43.387798, -80.710968,,,0,
-7037,7037,"Highland / Trussler",,  43.421315, -80.558582,,,0,
-7038,7038,"Snyders / 500 Block",,  43.407226, -80.646279,,,0,
-7039,7039,"Snyders / 500 Block",,  43.407136, -80.645915,,,0,
-7040,7040,"Highland / Trussler",,  43.420881, -80.559194,,,0,
 place_AST,,"Ainslie Terminal",,  43.357455, -80.313250,,,1,
 place_CBC,,"Cambridge Centre",,  43.391253, -80.319713,,,1,
 place_CCD,,"Conestoga College Doon",,  43.390371, -80.403560,,,1,
