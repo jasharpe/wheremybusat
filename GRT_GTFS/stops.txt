@@ -115,7 +115,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1128,1128,"Conestoga Mall",,  43.498071, -80.528838,,,0,place_CML
 1129,1129,"Conestoga Mall",,  43.498070, -80.528418,,,0,place_CML
 1130,1130,"Conestoga Mall",,  43.498035, -80.528777,,,0,place_CML
+1131,1131,"Northfield / King",,  43.501631, -80.533932,,,0,
+1132,1132,"Northfield / Colby",,  43.500294, -80.537430,,,0,
 1133,1133,"Chesapeake / Seawind",,  43.510669, -80.513894,,,0,
+1134,1134,"Northfield / Parkside",,  43.497320, -80.545678,,,0,
+1135,1135,"Northfield / Weber",,  43.496172, -80.548989,,,0,
 1136,1136,"Northfield / Weber",,  43.495584, -80.550713,,,0,
 1137,1137,"Northfield / Northgate",,  43.494480, -80.553763,,,0,
 1138,1138,"Northfield / Skylark",,  43.493625, -80.556182,,,0,
@@ -235,6 +239,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1268,1268,"Winston / Gunn",,  43.421371, -80.304453,,,0,
 1269,1269,"Winston / Westbury",,  43.421738, -80.307093,,,0,
 1274,1274,"Queen / Rooshill",,  43.424285, -80.323334,,,0,
+1275,1275,"Bishop / Collier-Macmillan",,  43.395862, -80.320330,,,0,
 1276,1276,"Groh / Holiday Inn",,  43.419159, -80.325985,,,0,
 1277,1277,"Ottawa / Lackner",,  43.456710, -80.431618,,,0,
 1278,1278,"Groh / Holiday Inn",,  43.419115, -80.326121,,,0,
@@ -278,6 +283,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1317,1317,"Heritage Bible College",,  43.417510, -80.324274,,,0,
 1318,1318,"Conestoga / Lena",,  43.392677, -80.315289,,,0,
 1319,1319,"Conestoga Transit Garage",,  43.394837, -80.316673,,,0,
+1320,1320,"Bishop / Collier-Macmillan",,  43.395933, -80.320846,,,0,
 1321,1321,"Bishop / Hespeler",,  43.394990, -80.325759,,,0,
 1322,1322,"Industrial / Bishop",,  43.394785, -80.329244,,,0,
 1323,1323,"1367 Industrial",,  43.396499, -80.329768,,,0,
@@ -338,13 +344,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1382,1382,"Munch / Kovac",,  43.384013, -80.313646,,,0,
 1383,1383,"Munch / Sekura",,  43.383192, -80.317803,,,0,
 1384,1384,"Hespeler / Munch",,  43.383323, -80.320222,,,0,
-1385,1385,"Cambridge Centre",,  43.391226, -80.319615,,,0,place_CBC
-1386,1386,"Cambridge Centre",,  43.391252, -80.319429,,,0,place_CBC
-1387,1387,"Cambridge Centre",,  43.391295, -80.319157,,,0,place_CBC
-1388,1388,"Cambridge Centre",,  43.391404, -80.319378,,,0,place_CBC
-1389,1389,"Cambridge Centre",,  43.391352, -80.319663,,,0,place_CBC
-1390,1390,"Cambridge Centre",,  43.391309, -80.319947,,,0,place_CBC
-1391,1391,"Cambridge Centre",,  43.391274, -80.320207,,,0,place_CBC
 1392,1392,"Dunbar / Hespeler",,  43.390424, -80.324106,,,0,
 1393,1393,"Dunbar / Briarwood",,  43.390007, -80.326691,,,0,
 1394,1394,"Dunbar / Daleview",,  43.389354, -80.328921,,,0,
@@ -380,7 +379,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1425,1425,"Langs / Hespeler",,  43.401151, -80.327605,,,0,
 1426,1426,"Hespeler / Langs",,  43.400754, -80.325905,,,0,
 1427,1427,"480 Hespeler",,  43.397452, -80.324880,,,0,
-1428,1428,"Hespeler / Bishop",,  43.395927, -80.324353,,,0,
 1429,1429,"Langs / Industrial",,  43.400418, -80.331589,,,0,
 1430,1430,"Langs / Trico",,  43.399634, -80.336093,,,0,
 1431,1431,"Langs / Walter",,  43.398847, -80.340263,,,0,
@@ -408,7 +406,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1455,1455,"King / Westminster",,  43.396070, -80.358569,,,0,
 1456,1456,"Smartcentres Cambridge",,  43.411698, -80.323622,,,0,
 1457,1457,"Smartcentres South",,  43.410245, -80.322910,,,0,
-1458,1458,"Hespeler / Eagle",,  43.406690, -80.327914,,,0,
 1459,1459,"588 Hespeler",,  43.404164, -80.327065,,,0,
 1460,1460,"Hespeler / Wauchope",,  43.381161, -80.319962,,,0,
 1461,1461,"Hespeler / Wilmot",,  43.379808, -80.319594,,,0,
@@ -526,9 +523,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1581,1581,"Preston / Fountain",,  43.390832, -80.375317,,,0,
 1582,1582,"Fountain / Bauman",,  43.395369, -80.373456,,,0,
 1583,1583,"Fountain / Shantz Hill",,  43.397707, -80.371209,,,0,
-1584,1584,"King / Fountain",,  43.399817, -80.368446,,,0,
-1585,1585,"King / Chopin",,  43.399029, -80.364453,,,0,
-1586,1586,"King / Waterloo",,  43.397255, -80.361199,,,0,
 1587,1587,"King / Westminster",,  43.395617, -80.358067,,,0,
 1588,1588,"King / Lowther",,  43.394179, -80.355292,,,0,
 1589,1589,"King / Dolph",,  43.392959, -80.352959,,,0,
@@ -2022,6 +2016,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3520,3520,"Dover / Rose",,  43.393221, -80.367600,,,0,
 3521,3521,"Rose / Westminster",,  43.390785, -80.363477,,,0,place_PRHS
 3522,3522,"Laurel / North",,  43.400857, -80.354715,,,0,
+3524,3524,"Fountain / Blair",,  43.385720, -80.390864,,,0,
 3526,3526,"Westminster / Laurel",,  43.399442, -80.354495,,,0,
 3527,3527,"Hespeler / Abbotsford",,  43.380185, -80.319393,,,0,
 3531,3531,"Maple Grove / Saltsman",,  43.421934, -80.383793,,,0,
@@ -2191,6 +2186,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3797,3797,"Cambridge Centre",,  43.391108, -80.319456,,,0,place_CBC
 3799,3799,"Conestoga Mall",,  43.498071, -80.528653,,,0,place_CML
 3800,3800,"Conestoga Mall",,  43.498415, -80.529132,,,0,place_CML
+3801,3801,"Conestoga College / Pinnacle",,  43.385896, -80.412394,,,0,
+3803,3803,"Conestoga College Residence",,  43.384395, -80.411236,,,0,
 3805,3805,"Blair / Esther",,  43.373864, -80.336239,,,0,
 3807,3807,"Farmers Market / Walmart",,  43.510661, -80.549376,,,0,
 3808,3808,"King / Printery",,  43.528045, -80.555335,,,0,
@@ -2304,7 +2301,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3937,3937,"Cherry Blossom / Barnes",,  43.415805, -80.384201,,,0,
 3939,3939,"Maple Grove / Cherry Blossom",,  43.416532, -80.387183,,,0,
 3940,3940,"Cherry Blossom / Saltsman",,  43.414008, -80.379971,,,0,
-3941,3941,"Fountain / A.T.S.",,  43.408685, -80.373207,,,0,
 3942,3942,"Fountain / Marmel",,  43.403834, -80.370293,,,0,
 3943,3943,"University / Phillip",,  43.472149, -80.535716,,,0,
 3945,3945,"University / Sunview",,  43.473156, -80.532914,,,0,
@@ -2435,7 +2431,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5004,5004,"Park / Dominion",,  43.452204, -80.507884,,,0,
 5005,5005,"Water / King",,  43.451514, -80.494579,,,0,
 5006,5006,"Water / King",,  43.451504, -80.494734,,,0,
-5007,5007,"Bridgeport / Albert",,  43.467407, -80.525071,,,0,place_KWS
 5008,5008,"Weber / East",,  43.444603, -80.468015,,,0,
 5009,5009,"Weber / Ottawa",,  43.444185, -80.467540,,,0,
 5010,5010,"Joseph / Water",,  43.449702, -80.495471,,,0,
