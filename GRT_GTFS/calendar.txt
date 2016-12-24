@@ -1,5 +1,5 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-16XMAS-All-Weekday-01,1,1,1,1,1,0,0,20161222,20161230
+16XMAS-All-Weekday-01,1,1,1,1,1,0,0,20161223,20161230
 16XMAS-All-Saturday-01,0,0,0,0,0,1,0,20161224,20161224
 16XMAS-All-Holiday1-01,1,1,1,1,1,1,1,20161225,20161225
 16XMAS-All-Holiday1-01-1111111,1,1,1,1,1,1,1,20161225,20161225

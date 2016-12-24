@@ -2347,6 +2347,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4012,4012,"Columbia / Erbsville",,  43.461946, -80.581186,,,0,
 4013,4013,"Columbia / Cavendish",,  43.463893, -80.576576,,,0,
 4014,4014,"Laurelwood / Blue Beech",,  43.470290, -80.594731,,,0,
+4015,4015,"Uptown Waterloo",,  43.463941, -80.522184,,,0,place_KWS
 4016,4016,"Bridge / Chesapeake",,  43.509082, -80.517909,,,0,
 4017,4017,"Columbia / Salzburg",,  43.460368, -80.582848,,,0,
 4018,4018,"Columbia / Salzburg",,  43.460465, -80.582531,,,0,
