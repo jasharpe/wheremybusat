@@ -8,11 +8,15 @@ import collections
 import os
 import heapq
 import lib
+import sys
+from memory_profiler import profile
+
 
 app = Flask(__name__)
 # Allows sorted and int to be used in templates.
 app.jinja_env.globals.update(sorted=sorted, int=int)
 
+@profile
 def read_to_dict(filename):
   return lib.read_csv_file_with_header(os.path.join(os.path.dirname(__file__), "GRT_GTFS/{}".format(filename)))
 
