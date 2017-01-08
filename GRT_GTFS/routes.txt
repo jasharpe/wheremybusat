@@ -46,6 +46,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 78,78,HANSON,3,2e3092,ffffff
 91,91,LATE NIGHT LOOP,3,,
 92,92,UNIVERSITY LOOP,3,,
+99,52,DETOUR SHUTTLE,3,,
 110,110,COLLEGE EXPRESS,3,,
 111,111,COLLEGE EXPRESS,3,,
 116,116,COLLEGE EXPRESS,3,,
