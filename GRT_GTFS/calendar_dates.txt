@@ -1,6 +1,4 @@
 service_id,date,exception_type
-17WINT-All-Sunday-01,20170220,1
-17WINT-All-Sunday-01,20170414,1
 17WINT-All-Weekday-01,20170220,2
 17WINT-All-Weekday-01-0101000,20170220,2
 17WINT-All-Weekday-01-0000100,20170220,2
@@ -11,3 +9,5 @@ service_id,date,exception_type
 17WINT-All-Weekday-01-0000100,20170414,2
 17WINT-All-Weekday-01-1111000,20170414,2
 17WINT-All-Weekday-01-0001100,20170414,2
+17WINT-All-Sunday-01,20170220,1
+17WINT-All-Sunday-01,20170414,1
