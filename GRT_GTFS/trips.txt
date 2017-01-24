@@ -168,49 +168,49 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 59,17WINT-All-Weekday-01,142612601,"East",0,209839,590001
 59,17WINT-All-Weekday-01,142612701,"East",0,209676,590001
 59,17WINT-All-Weekday-01,142612801,"East",0,209676,590001
-77,17WINT-All-Weekday-01,142616301,"New Hamburg",1,209832,770009
-77,17WINT-All-Weekday-01,142616401,"New Hamburg",1,209832,770009
-77,17WINT-All-Weekday-01,142616501,"New Hamburg",1,209832,770009
-77,17WINT-All-Weekday-01,142616601,"New Hamburg",1,209833,770009
-77,17WINT-All-Weekday-01,142616701,"New Hamburg",1,209833,770009
-77,17WINT-All-Weekday-01,142616801,"New Hamburg",1,209833,770009
-77,17WINT-All-Weekday-01,142616901,"New Hamburg",1,209833,770009
-77,17WINT-All-Weekday-01,142617001,"The Boardwalk",0,209832,770010
-77,17WINT-All-Weekday-01,142617101,"The Boardwalk",0,209832,770010
-77,17WINT-All-Weekday-01,142617201,"The Boardwalk",0,209832,770010
-77,17WINT-All-Weekday-01,142617301,"The Boardwalk",0,209833,770010
-77,17WINT-All-Weekday-01,142617401,"The Boardwalk",0,209833,770010
-77,17WINT-All-Weekday-01,142617501,"The Boardwalk",0,209833,770010
-77,17WINT-All-Weekday-01,142617601,"The Boardwalk",0,209833,770010
+77,17WINT-All-Weekday-01,142616301,"New Hamburg",1,209832,770011
+77,17WINT-All-Weekday-01,142616401,"New Hamburg",1,209832,770011
+77,17WINT-All-Weekday-01,142616501,"New Hamburg",1,209832,770011
+77,17WINT-All-Weekday-01,142616601,"New Hamburg",1,209833,770011
+77,17WINT-All-Weekday-01,142616701,"New Hamburg",1,209833,770011
+77,17WINT-All-Weekday-01,142616801,"New Hamburg",1,209833,770011
+77,17WINT-All-Weekday-01,142616901,"New Hamburg",1,209833,770011
+77,17WINT-All-Weekday-01,142617001,"The Boardwalk",0,209832,770012
+77,17WINT-All-Weekday-01,142617101,"The Boardwalk",0,209832,770012
+77,17WINT-All-Weekday-01,142617201,"The Boardwalk",0,209832,770012
+77,17WINT-All-Weekday-01,142617301,"The Boardwalk",0,209833,770012
+77,17WINT-All-Weekday-01,142617401,"The Boardwalk",0,209833,770012
+77,17WINT-All-Weekday-01,142617501,"The Boardwalk",0,209833,770012
+77,17WINT-All-Weekday-01,142617601,"The Boardwalk",0,209833,770012
 7,17WINT-All-Weekday-01,142617701,"D - UW via University",0,209719,70196
-7,17WINT-All-Weekday-01,142617801,"C - Conestoga Mall",0,209720,70197
+7,17WINT-All-Weekday-01,142617801,"C - Conestoga Mall",0,209720,70252
 7,17WINT-All-Weekday-01,142617901,"E - UW via Columbia",0,209725,70198
-7,17WINT-All-Weekday-01,142618001,"C - Conestoga Mall",0,209738,70199
-7,17WINT-All-Weekday-01,142618101,"C - Conestoga Mall",0,209778,70200
+7,17WINT-All-Weekday-01,142618001,"C - Conestoga Mall",0,209738,70253
+7,17WINT-All-Weekday-01,142618101,"C - Conestoga Mall",0,209778,70254
 7,17WINT-All-Weekday-01,142618201,"D - UW via University",0,209721,70196
 7,17WINT-All-Weekday-01,142618301,"B - Fairview Park via Weber",1,209738,70022
 7,17WINT-All-Weekday-01,142618401,"A - Fairview Park via Connaught",1,209711,70023
 7,17WINT-All-Weekday-01,142618501,"B - Fairview Park via Weber",1,209722,70022
 7,17WINT-All-Weekday-01,142618601,"B - Fairview Park via Weber",1,209724,70024
 7,17WINT-All-Weekday-01,142618701,"F - Fairview Park via Wilson",1,209726,70025
-7,17WINT-All-Weekday-01,142618801,"C - Conestoga Mall",0,209711,70201
-7,17WINT-All-Weekday-01,142618901,"C - Conestoga Mall",0,209732,70202
-7,17WINT-All-Weekday-01,142619001,"C - Conestoga Mall",0,209725,70202
-7,17WINT-All-Weekday-01,142619101,"C - Conestoga Mall",0,209727,70202
-7,17WINT-All-Weekday-01,142619201,"C - Conestoga Mall",0,209719,70203
+7,17WINT-All-Weekday-01,142618801,"C - Conestoga Mall",0,209711,70255
+7,17WINT-All-Weekday-01,142618901,"C - Conestoga Mall",0,209732,70256
+7,17WINT-All-Weekday-01,142619001,"C - Conestoga Mall",0,209725,70256
+7,17WINT-All-Weekday-01,142619101,"C - Conestoga Mall",0,209727,70256
+7,17WINT-All-Weekday-01,142619201,"C - Conestoga Mall",0,209719,70257
 7,17WINT-All-Weekday-01,142619301,"D - UW via University",0,209729,70204
 7,17WINT-All-Weekday-01,142619401,"D - UW via University",0,209717,70205
 7,17WINT-All-Weekday-01,142619501,"D - UW via University",0,209737,70204
 7,17WINT-All-Weekday-01,142619601,"D - UW via University",0,209726,70205
-7,17WINT-All-Weekday-01,142619701,"C - Conestoga Mall",0,209721,70206
-7,17WINT-All-Weekday-01,142619801,"C - Conestoga Mall",0,209722,70206
-7,17WINT-All-Weekday-01,142619901,"C - Conestoga Mall",0,209728,70206
-7,17WINT-All-Weekday-01,142620001,"C - Conestoga Mall",0,209731,70206
-7,17WINT-All-Weekday-01,142620101,"A - Fairview Park via Connaught",1,209723,70207
-7,17WINT-All-Weekday-01,142620201,"A - Fairview Park via Connaught",1,209724,70207
-7,17WINT-All-Weekday-01,142620301,"A - Fairview Park via Connaught",1,209720,70207
-7,17WINT-All-Weekday-01,142620401,"A - Fairview Park via Connaught",1,209721,70207
-7,17WINT-All-Weekday-01,142620501,"A - Fairview Park via Connaught",1,209722,70207
+7,17WINT-All-Weekday-01,142619701,"C - Conestoga Mall",0,209721,70258
+7,17WINT-All-Weekday-01,142619801,"C - Conestoga Mall",0,209722,70258
+7,17WINT-All-Weekday-01,142619901,"C - Conestoga Mall",0,209728,70258
+7,17WINT-All-Weekday-01,142620001,"C - Conestoga Mall",0,209731,70258
+7,17WINT-All-Weekday-01,142620101,"A - Fairview Park via Connaught",1,209723,70259
+7,17WINT-All-Weekday-01,142620201,"A - Fairview Park via Connaught",1,209724,70259
+7,17WINT-All-Weekday-01,142620301,"A - Fairview Park via Connaught",1,209720,70259
+7,17WINT-All-Weekday-01,142620401,"A - Fairview Park via Connaught",1,209721,70259
+7,17WINT-All-Weekday-01,142620501,"A - Fairview Park via Connaught",1,209722,70259
 7,17WINT-All-Weekday-01,142620601,"E - UW via Columbia",0,209718,70208
 7,17WINT-All-Weekday-01,142620701,"E - UW via Columbia",0,209738,70208
 7,17WINT-All-Weekday-01,142620801,"E - UW via Columbia",0,209723,70208
@@ -226,44 +226,44 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142621801,"D - UW via University",0,209731,70210
 7,17WINT-All-Weekday-01,142621901,"D - UW via University",0,209729,70210
 7,17WINT-All-Weekday-01,142622001,"D - UW via University",0,209717,70210
-7,17WINT-All-Weekday-01,142622101,"C - Conestoga Mall",0,209729,70206
-7,17WINT-All-Weekday-01,142622201,"C - Conestoga Mall",0,209717,70206
-7,17WINT-All-Weekday-01,142622301,"C - Conestoga Mall",0,209737,70206
-7,17WINT-All-Weekday-01,142622401,"C - Conestoga Mall",0,209726,70206
-7,17WINT-All-Weekday-01,142622501,"C - Conestoga Mall",0,209732,70206
-7,17WINT-All-Weekday-01,142622601,"C - Conestoga Mall",0,209725,70206
-7,17WINT-All-Weekday-01,142622701,"C - Conestoga Mall",0,209727,70206
-7,17WINT-All-Weekday-01,142622801,"C - Conestoga Mall",0,209719,70206
-7,17WINT-All-Weekday-01,142622901,"C - Conestoga Mall",0,209720,70206
-7,17WINT-All-Weekday-01,142623001,"C - Conestoga Mall",0,209721,70206
-7,17WINT-All-Weekday-01,142623101,"A - Fairview Park via Connaught",1,209728,70207
-7,17WINT-All-Weekday-01,142623201,"A - Fairview Park via Connaught",1,209731,70207
-7,17WINT-All-Weekday-01,142623301,"A - Fairview Park via Connaught",1,209729,70207
-7,17WINT-All-Weekday-01,142623401,"A - Fairview Park via Connaught",1,209717,70207
-7,17WINT-All-Weekday-01,142623501,"A - Fairview Park via Connaught",1,209737,70207
-7,17WINT-All-Weekday-01,142623601,"A - Fairview Park via Connaught",1,209726,70207
-7,17WINT-All-Weekday-01,142623701,"A - Fairview Park via Connaught",1,209732,70207
-7,17WINT-All-Weekday-01,142623801,"A - Fairview Park via Connaught",1,209725,70207
-7,17WINT-All-Weekday-01,142623901,"A - Fairview Park via Connaught",1,209727,70207
-7,17WINT-All-Weekday-01,142624001,"A - Fairview Park via Connaught",1,209719,70211
-7,17WINT-All-Weekday-01,142624101,"A - Fairview Park via Connaught",1,209720,70207
-7,17WINT-All-Weekday-01,142624201,"C - Conestoga Mall",0,209721,70212
-7,17WINT-All-Weekday-01,142624301,"C - Conestoga Mall",0,209722,70212
-7,17WINT-All-Weekday-01,142624401,"C - Conestoga Mall",0,209728,70212
-7,17WINT-All-Weekday-01,142624501,"C - Conestoga Mall",0,209731,70212
-7,17WINT-All-Weekday-01,142624601,"C - Conestoga Mall",0,209729,70212
-7,17WINT-All-Weekday-01,142624701,"C - Conestoga Mall",0,209717,70212
-7,17WINT-All-Weekday-01,142624801,"C - Conestoga Mall",0,209737,70212
-7,17WINT-All-Weekday-01,142624901,"C - Conestoga Mall",0,209726,70212
-7,17WINT-All-Weekday-01,142625001,"C - Conestoga Mall",0,209732,70201
-7,17WINT-All-Weekday-01,142625101,"C - Conestoga Mall",0,209725,70212
-7,17WINT-All-Weekday-01,142625201,"C - Conestoga Mall",0,209734,70202
-7,17WINT-All-Weekday-01,142625301,"C - Conestoga Mall",0,209733,70202
-7,17WINT-All-Weekday-01,142625401,"C - Conestoga Mall",0,209735,70202
-7,17WINT-All-Weekday-01,142625501,"C - Conestoga Mall",0,209736,70202
-7,17WINT-All-Weekday-01,142625601,"C - Conestoga Mall",0,209727,70202
-7,17WINT-All-Weekday-01,142625701,"C - Conestoga Mall",0,209719,70202
-7,17WINT-All-Weekday-01,142625801,"C - Conestoga Mall",0,209720,70203
+7,17WINT-All-Weekday-01,142622101,"C - Conestoga Mall",0,209729,70258
+7,17WINT-All-Weekday-01,142622201,"C - Conestoga Mall",0,209717,70258
+7,17WINT-All-Weekday-01,142622301,"C - Conestoga Mall",0,209737,70258
+7,17WINT-All-Weekday-01,142622401,"C - Conestoga Mall",0,209726,70258
+7,17WINT-All-Weekday-01,142622501,"C - Conestoga Mall",0,209732,70258
+7,17WINT-All-Weekday-01,142622601,"C - Conestoga Mall",0,209725,70258
+7,17WINT-All-Weekday-01,142622701,"C - Conestoga Mall",0,209727,70258
+7,17WINT-All-Weekday-01,142622801,"C - Conestoga Mall",0,209719,70258
+7,17WINT-All-Weekday-01,142622901,"C - Conestoga Mall",0,209720,70258
+7,17WINT-All-Weekday-01,142623001,"C - Conestoga Mall",0,209721,70258
+7,17WINT-All-Weekday-01,142623101,"A - Fairview Park via Connaught",1,209728,70259
+7,17WINT-All-Weekday-01,142623201,"A - Fairview Park via Connaught",1,209731,70259
+7,17WINT-All-Weekday-01,142623301,"A - Fairview Park via Connaught",1,209729,70259
+7,17WINT-All-Weekday-01,142623401,"A - Fairview Park via Connaught",1,209717,70259
+7,17WINT-All-Weekday-01,142623501,"A - Fairview Park via Connaught",1,209737,70259
+7,17WINT-All-Weekday-01,142623601,"A - Fairview Park via Connaught",1,209726,70259
+7,17WINT-All-Weekday-01,142623701,"A - Fairview Park via Connaught",1,209732,70259
+7,17WINT-All-Weekday-01,142623801,"A - Fairview Park via Connaught",1,209725,70259
+7,17WINT-All-Weekday-01,142623901,"A - Fairview Park via Connaught",1,209727,70259
+7,17WINT-All-Weekday-01,142624001,"A - Fairview Park via Connaught",1,209719,70260
+7,17WINT-All-Weekday-01,142624101,"A - Fairview Park via Connaught",1,209720,70259
+7,17WINT-All-Weekday-01,142624201,"C - Conestoga Mall",0,209721,70261
+7,17WINT-All-Weekday-01,142624301,"C - Conestoga Mall",0,209722,70261
+7,17WINT-All-Weekday-01,142624401,"C - Conestoga Mall",0,209728,70261
+7,17WINT-All-Weekday-01,142624501,"C - Conestoga Mall",0,209731,70261
+7,17WINT-All-Weekday-01,142624601,"C - Conestoga Mall",0,209729,70261
+7,17WINT-All-Weekday-01,142624701,"C - Conestoga Mall",0,209717,70261
+7,17WINT-All-Weekday-01,142624801,"C - Conestoga Mall",0,209737,70261
+7,17WINT-All-Weekday-01,142624901,"C - Conestoga Mall",0,209726,70261
+7,17WINT-All-Weekday-01,142625001,"C - Conestoga Mall",0,209732,70255
+7,17WINT-All-Weekday-01,142625101,"C - Conestoga Mall",0,209725,70261
+7,17WINT-All-Weekday-01,142625201,"C - Conestoga Mall",0,209734,70256
+7,17WINT-All-Weekday-01,142625301,"C - Conestoga Mall",0,209733,70256
+7,17WINT-All-Weekday-01,142625401,"C - Conestoga Mall",0,209735,70256
+7,17WINT-All-Weekday-01,142625501,"C - Conestoga Mall",0,209736,70256
+7,17WINT-All-Weekday-01,142625601,"C - Conestoga Mall",0,209727,70256
+7,17WINT-All-Weekday-01,142625701,"C - Conestoga Mall",0,209719,70256
+7,17WINT-All-Weekday-01,142625801,"C - Conestoga Mall",0,209720,70257
 7,17WINT-All-Weekday-01,142625901,"D - UW via University",0,209737,70204
 7,17WINT-All-Weekday-01,142626001,"D - UW via University",0,209726,70204
 7,17WINT-All-Weekday-01,142626101,"D - UW via University",0,209732,70204
@@ -271,20 +271,20 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142626301,"D - UW via University",0,209734,70204
 7,17WINT-All-Weekday-01,142626401,"D - UW via University",0,209733,70204
 7,17WINT-All-Weekday-01,142626501,"D - UW via University",0,209729,70204
-7,17WINT-All-Weekday-01,142626601,"C - Conestoga Mall",0,209722,70206
-7,17WINT-All-Weekday-01,142626701,"C - Conestoga Mall",0,209728,70206
-7,17WINT-All-Weekday-01,142626801,"C - Conestoga Mall",0,209731,70206
-7,17WINT-All-Weekday-01,142626901,"C - Conestoga Mall",0,209729,70206
-7,17WINT-All-Weekday-01,142627001,"C - Conestoga Mall",0,209717,70206
-7,17WINT-All-Weekday-01,142627101,"C - Conestoga Mall",0,209737,70199
-7,17WINT-All-Weekday-01,142627201,"C - Conestoga Mall",0,209726,70206
-7,17WINT-All-Weekday-01,142627301,"A - Fairview Park via Connaught",1,209721,70207
-7,17WINT-All-Weekday-01,142627401,"A - Fairview Park via Connaught",1,209722,70207
-7,17WINT-All-Weekday-01,142627501,"A - Fairview Park via Connaught",1,209728,70207
-7,17WINT-All-Weekday-01,142627601,"A - Fairview Park via Connaught",1,209731,70207
-7,17WINT-All-Weekday-01,142627701,"A - Fairview Park via Connaught",1,209729,70207
-7,17WINT-All-Weekday-01,142627801,"A - Fairview Park via Connaught",1,209717,70211
-7,17WINT-All-Weekday-01,142627901,"A - Fairview Park via Connaught",1,209737,70211
+7,17WINT-All-Weekday-01,142626601,"C - Conestoga Mall",0,209722,70258
+7,17WINT-All-Weekday-01,142626701,"C - Conestoga Mall",0,209728,70258
+7,17WINT-All-Weekday-01,142626801,"C - Conestoga Mall",0,209731,70258
+7,17WINT-All-Weekday-01,142626901,"C - Conestoga Mall",0,209729,70258
+7,17WINT-All-Weekday-01,142627001,"C - Conestoga Mall",0,209717,70258
+7,17WINT-All-Weekday-01,142627101,"C - Conestoga Mall",0,209737,70253
+7,17WINT-All-Weekday-01,142627201,"C - Conestoga Mall",0,209726,70258
+7,17WINT-All-Weekday-01,142627301,"A - Fairview Park via Connaught",1,209721,70259
+7,17WINT-All-Weekday-01,142627401,"A - Fairview Park via Connaught",1,209722,70259
+7,17WINT-All-Weekday-01,142627501,"A - Fairview Park via Connaught",1,209728,70259
+7,17WINT-All-Weekday-01,142627601,"A - Fairview Park via Connaught",1,209731,70259
+7,17WINT-All-Weekday-01,142627701,"A - Fairview Park via Connaught",1,209729,70259
+7,17WINT-All-Weekday-01,142627801,"A - Fairview Park via Connaught",1,209717,70260
+7,17WINT-All-Weekday-01,142627901,"A - Fairview Park via Connaught",1,209737,70260
 7,17WINT-All-Weekday-01,142628001,"E - UW via Columbia",0,209727,70208
 7,17WINT-All-Weekday-01,142628101,"E - UW via Columbia",0,209719,70208
 7,17WINT-All-Weekday-01,142628201,"E - UW via Columbia",0,209720,70208
@@ -292,53 +292,53 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142628401,"E - UW via Columbia",0,209722,70208
 7,17WINT-All-Weekday-01,142628501,"E - UW via Columbia",0,209728,70208
 7,17WINT-All-Weekday-01,142628601,"E - UW via Columbia",0,209731,70209
-7,17WINT-All-Weekday-01,142628701,"C - Conestoga Mall",0,209725,70202
+7,17WINT-All-Weekday-01,142628701,"C - Conestoga Mall",0,209725,70256
 7,17WINT-All-Weekday-01,142628801,"D - UW via University",0,209717,70204
-7,17WINT-All-Weekday-01,142628901,"C - Conestoga Mall",0,209734,70202
+7,17WINT-All-Weekday-01,142628901,"C - Conestoga Mall",0,209734,70256
 7,17WINT-All-Weekday-01,142629001,"D - UW via University",0,209737,70204
-7,17WINT-All-Weekday-01,142629101,"C - Conestoga Mall",0,209733,70203
+7,17WINT-All-Weekday-01,142629101,"C - Conestoga Mall",0,209733,70257
 7,17WINT-All-Weekday-01,142629201,"D - UW via University",0,209731,70204
-7,17WINT-All-Weekday-01,142629301,"C - Conestoga Mall",0,209720,70203
+7,17WINT-All-Weekday-01,142629301,"C - Conestoga Mall",0,209720,70257
 7,17WINT-All-Weekday-01,142629401,"D - UW via University",0,209729,70204
-7,17WINT-All-Weekday-01,142629501,"C - Conestoga Mall",0,209725,70203
+7,17WINT-All-Weekday-01,142629501,"C - Conestoga Mall",0,209725,70257
 7,17WINT-All-Weekday-01,142629601,"D - UW via University",0,209717,70204
-7,17WINT-All-Weekday-01,142629701,"C - Conestoga Mall",0,209734,70202
+7,17WINT-All-Weekday-01,142629701,"C - Conestoga Mall",0,209734,70256
 7,17WINT-All-Weekday-01,142629801,"D - UW via University",0,209737,70204
-7,17WINT-All-Weekday-01,142629901,"C - Conestoga Mall",0,209733,70202
+7,17WINT-All-Weekday-01,142629901,"C - Conestoga Mall",0,209733,70256
 7,17WINT-All-Weekday-01,142630001,"D - UW via University",0,209731,70204
-7,17WINT-All-Weekday-01,142630101,"C - Conestoga Mall",0,209720,70202
+7,17WINT-All-Weekday-01,142630101,"C - Conestoga Mall",0,209720,70256
 7,17WINT-All-Weekday-01,142630201,"D - UW via University",0,209729,70204
-7,17WINT-All-Weekday-01,142630301,"C - Conestoga Mall",0,209725,70202
+7,17WINT-All-Weekday-01,142630301,"C - Conestoga Mall",0,209725,70256
 7,17WINT-All-Weekday-01,142630401,"D - UW via University",0,209717,70204
-7,17WINT-All-Weekday-01,142630501,"C - Conestoga Mall",0,209734,70202
+7,17WINT-All-Weekday-01,142630501,"C - Conestoga Mall",0,209734,70256
 7,17WINT-All-Weekday-01,142630601,"D - UW via University",0,209737,70204
-7,17WINT-All-Weekday-01,142630701,"C - Conestoga Mall",0,209733,70202
+7,17WINT-All-Weekday-01,142630701,"C - Conestoga Mall",0,209733,70256
 7,17WINT-All-Weekday-01,142630801,"D - UW via University",0,209731,70204
-7,17WINT-All-Weekday-01,142630901,"C - Conestoga Mall",0,209720,70202
+7,17WINT-All-Weekday-01,142630901,"C - Conestoga Mall",0,209720,70256
 7,17WINT-All-Weekday-01,142631001,"D - UW via University",0,209729,70205
-7,17WINT-All-Weekday-01,142631101,"B - Fairview Park via Weber",1,209720,70213
+7,17WINT-All-Weekday-01,142631101,"B - Fairview Park via Weber",1,209720,70262
 7,17WINT-All-Weekday-01,142631201,"A - Fairview Park via Connaught",1,209729,70214
-7,17WINT-All-Weekday-01,142631301,"B - Fairview Park via Weber",1,209725,70213
+7,17WINT-All-Weekday-01,142631301,"B - Fairview Park via Weber",1,209725,70262
 7,17WINT-All-Weekday-01,142631401,"A - Fairview Park via Connaught",1,209717,70214
-7,17WINT-All-Weekday-01,142631501,"B - Fairview Park via Weber",1,209734,70213
+7,17WINT-All-Weekday-01,142631501,"B - Fairview Park via Weber",1,209734,70262
 7,17WINT-All-Weekday-01,142631601,"A - Fairview Park via Connaught",1,209737,70214
-7,17WINT-All-Weekday-01,142631701,"B - Fairview Park via Weber",1,209733,70213
+7,17WINT-All-Weekday-01,142631701,"B - Fairview Park via Weber",1,209733,70262
 7,17WINT-All-Weekday-01,142631801,"A - Fairview Park via Connaught",1,209731,70214
-7,17WINT-All-Weekday-01,142631901,"B - Fairview Park via Weber",1,209720,70213
+7,17WINT-All-Weekday-01,142631901,"B - Fairview Park via Weber",1,209720,70262
 7,17WINT-All-Weekday-01,142632001,"A - Fairview Park via Connaught",1,209729,70214
-7,17WINT-All-Weekday-01,142632101,"B - Fairview Park via Weber",1,209725,70213
+7,17WINT-All-Weekday-01,142632101,"B - Fairview Park via Weber",1,209725,70262
 7,17WINT-All-Weekday-01,142632201,"A - Fairview Park via Connaught",1,209717,70214
-7,17WINT-All-Weekday-01,142632301,"B - Fairview Park via Weber",1,209734,70213
+7,17WINT-All-Weekday-01,142632301,"B - Fairview Park via Weber",1,209734,70262
 7,17WINT-All-Weekday-01,142632401,"A - Fairview Park via Connaught",1,209737,70214
-7,17WINT-All-Weekday-01,142632501,"B - Fairview Park via Weber",1,209733,70213
+7,17WINT-All-Weekday-01,142632501,"B - Fairview Park via Weber",1,209733,70262
 7,17WINT-All-Weekday-01,142632601,"A - Fairview Park via Connaught",1,209731,70214
-7,17WINT-All-Weekday-01,142632701,"B - Fairview Park via Weber",1,209720,70213
+7,17WINT-All-Weekday-01,142632701,"B - Fairview Park via Weber",1,209720,70262
 7,17WINT-All-Weekday-01,142632801,"A - Fairview Park via Connaught",1,209729,70214
-7,17WINT-All-Weekday-01,142632901,"B - Fairview Park via Weber",1,209725,70213
+7,17WINT-All-Weekday-01,142632901,"B - Fairview Park via Weber",1,209725,70262
 7,17WINT-All-Weekday-01,142633001,"A - Fairview Park via Connaught",1,209717,70214
-7,17WINT-All-Weekday-01,142633101,"B - Fairview Park via Weber",1,209734,70215
-7,17WINT-All-Weekday-01,142633201,"C - Conestoga Mall",0,209720,70212
-7,17WINT-All-Weekday-01,142633301,"A - Fairview Park via Connaught",1,209738,70207
+7,17WINT-All-Weekday-01,142633101,"B - Fairview Park via Weber",1,209734,70263
+7,17WINT-All-Weekday-01,142633201,"C - Conestoga Mall",0,209720,70261
+7,17WINT-All-Weekday-01,142633301,"A - Fairview Park via Connaught",1,209738,70259
 7,17WINT-All-Weekday-01,142633401,"E - UW via Columbia",0,209718,70216
 7,17WINT-All-Weekday-01,142633501,"E - UW via Columbia",0,209718,70216
 7,17WINT-All-Weekday-01,142633601,"E - UW via Columbia",0,209718,70216
@@ -358,13 +358,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142635001,"Charles Terminal",1,209723,70217
 7,17WINT-All-Weekday-01,142635101,"Charles Terminal",1,209724,70217
 7,17WINT-All-Weekday-01,142635201,"E - UW via Columbia",0,209719,70209
-7,17WINT-All-Weekday-01,142635301,"C - Conestoga Mall",0,209737,70203
-7,17WINT-All-Weekday-01,142635401,"C - Conestoga Mall",0,209726,70202
-7,17WINT-All-Weekday-01,142635501,"C - Conestoga Mall",0,209724,70199
-7,17WINT-All-Weekday-01,142635601,"C - Conestoga Mall",0,209720,70206
-7,17WINT-All-Weekday-01,142635701,"C - Conestoga Mall",0,209723,70201
+7,17WINT-All-Weekday-01,142635301,"C - Conestoga Mall",0,209737,70257
+7,17WINT-All-Weekday-01,142635401,"C - Conestoga Mall",0,209726,70256
+7,17WINT-All-Weekday-01,142635501,"C - Conestoga Mall",0,209724,70253
+7,17WINT-All-Weekday-01,142635601,"C - Conestoga Mall",0,209720,70258
+7,17WINT-All-Weekday-01,142635701,"C - Conestoga Mall",0,209723,70255
 7,17WINT-All-Weekday-01,142635801,"D - UW via University",0,209728,70196
-7,17WINT-All-Weekday-01,142635901,"C - Conestoga Mall",0,209651,70218
+7,17WINT-All-Weekday-01,142635901,"C - Conestoga Mall",0,209651,70264
 7,17WINT-All-Weekday-01,142636001,"D - UW via University",0,209731,70219
 7,17WINT-All-Weekday-01,142636101,"E - UW via Columbia",0,209727,70220
 7,17WINT-All-Weekday-01,142636201,"Charles Terminal",0,209717,70176
@@ -375,7 +375,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142636701,"E - UW via Columbia",0,209722,70216
 7,17WINT-All-Weekday-01,142636801,"E - UW via Columbia",0,209719,70216
 7,17WINT-All-Weekday-01,142636901,"A - Fairview Park via Connaught",1,209718,70221
-7,17WINT-All-Weekday-01,142637001,"B - Fairview Park via Weber",1,209720,70215
+7,17WINT-All-Weekday-01,142637001,"B - Fairview Park via Weber",1,209720,70263
 7,17WINT-All-Weekday-01,142637101,"A - Fairview Park via Connaught",1,209719,70214
 7,17WINT-All-Weekday-01,142637201,"Charles Terminal",1,209722,70217
 7,17WINT-All-Weekday-01,142637301,"Charles Terminal",1,209728,70217
@@ -396,10 +396,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142638901,"Charles Terminal",1,209738,70217
 7,17WINT-All-Weekday-01,142639001,"E - UW via Columbia",0,209730,70216
 7,17WINT-All-Weekday-01,142639101,"Charles Terminal",1,209730,70223
-7,17WINT-All-Weekday-01,142639201,"F - Fairview Park via Wilson",1,209733,70224
-7,17WINT-All-Weekday-01,142639301,"F - Fairview Park via Wilson",1,209734,70224
-7,17WINT-All-Weekday-01,142639401,"F - Fairview Park via Wilson",1,209725,70224
-7,17WINT-All-Weekday-01,142639501,"F - Fairview Park via Wilson",1,209732,70224
+7,17WINT-All-Weekday-01,142639201,"F - Fairview Park via Wilson",1,209733,70265
+7,17WINT-All-Weekday-01,142639301,"F - Fairview Park via Wilson",1,209734,70265
+7,17WINT-All-Weekday-01,142639401,"F - Fairview Park via Wilson",1,209725,70265
+7,17WINT-All-Weekday-01,142639501,"F - Fairview Park via Wilson",1,209732,70265
 7,17WINT-All-Weekday-01,142639601,"B - Fairview Park via Weber",1,209729,70225
 7,17WINT-All-Weekday-01,142639701,"B - Fairview Park via Weber",1,209731,70225
 7,17WINT-All-Weekday-01,142639801,"B - Fairview Park via Weber",1,209728,70225
@@ -415,34 +415,34 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142640801,"B - Fairview Park via Weber",1,209728,70225
 7,17WINT-All-Weekday-01,142640901,"B - Fairview Park via Weber",1,209721,70225
 7,17WINT-All-Weekday-01,142641001,"B - Fairview Park via Weber",1,209722,70225
-7,17WINT-All-Weekday-01,142641101,"F - Fairview Park via Wilson",1,209726,70224
-7,17WINT-All-Weekday-01,142641201,"F - Fairview Park via Wilson",1,209737,70227
-7,17WINT-All-Weekday-01,142641301,"F - Fairview Park via Wilson",1,209717,70224
-7,17WINT-All-Weekday-01,142641401,"F - Fairview Park via Wilson",1,209729,70224
-7,17WINT-All-Weekday-01,142641501,"F - Fairview Park via Wilson",1,209731,70224
-7,17WINT-All-Weekday-01,142641601,"F - Fairview Park via Wilson",1,209728,70224
-7,17WINT-All-Weekday-01,142641701,"F - Fairview Park via Wilson",1,209722,70224
-7,17WINT-All-Weekday-01,142641801,"F - Fairview Park via Wilson",1,209721,70224
-7,17WINT-All-Weekday-01,142641901,"F - Fairview Park via Wilson",1,209720,70224
-7,17WINT-All-Weekday-01,142642001,"F - Fairview Park via Wilson",1,209727,70224
-7,17WINT-All-Weekday-01,142642101,"F - Fairview Park via Wilson",1,209719,70224
-7,17WINT-All-Weekday-01,142642201,"F - Fairview Park via Wilson",1,209725,70224
-7,17WINT-All-Weekday-01,142642301,"F - Fairview Park via Wilson",1,209732,70224
-7,17WINT-All-Weekday-01,142642401,"F - Fairview Park via Wilson",1,209726,70224
-7,17WINT-All-Weekday-01,142642501,"F - Fairview Park via Wilson",1,209737,70224
-7,17WINT-All-Weekday-01,142642601,"F - Fairview Park via Wilson",1,209717,70224
+7,17WINT-All-Weekday-01,142641101,"F - Fairview Park via Wilson",1,209726,70265
+7,17WINT-All-Weekday-01,142641201,"F - Fairview Park via Wilson",1,209737,70266
+7,17WINT-All-Weekday-01,142641301,"F - Fairview Park via Wilson",1,209717,70265
+7,17WINT-All-Weekday-01,142641401,"F - Fairview Park via Wilson",1,209729,70265
+7,17WINT-All-Weekday-01,142641501,"F - Fairview Park via Wilson",1,209731,70265
+7,17WINT-All-Weekday-01,142641601,"F - Fairview Park via Wilson",1,209728,70265
+7,17WINT-All-Weekday-01,142641701,"F - Fairview Park via Wilson",1,209722,70265
+7,17WINT-All-Weekday-01,142641801,"F - Fairview Park via Wilson",1,209721,70265
+7,17WINT-All-Weekday-01,142641901,"F - Fairview Park via Wilson",1,209720,70265
+7,17WINT-All-Weekday-01,142642001,"F - Fairview Park via Wilson",1,209727,70265
+7,17WINT-All-Weekday-01,142642101,"F - Fairview Park via Wilson",1,209719,70265
+7,17WINT-All-Weekday-01,142642201,"F - Fairview Park via Wilson",1,209725,70265
+7,17WINT-All-Weekday-01,142642301,"F - Fairview Park via Wilson",1,209732,70265
+7,17WINT-All-Weekday-01,142642401,"F - Fairview Park via Wilson",1,209726,70265
+7,17WINT-All-Weekday-01,142642501,"F - Fairview Park via Wilson",1,209737,70265
+7,17WINT-All-Weekday-01,142642601,"F - Fairview Park via Wilson",1,209717,70265
 7,17WINT-All-Weekday-01,142642701,"B - Fairview Park via Weber",1,209720,70225
 7,17WINT-All-Weekday-01,142642801,"B - Fairview Park via Weber",1,209719,70225
 7,17WINT-All-Weekday-01,142642901,"B - Fairview Park via Weber",1,209727,70225
 7,17WINT-All-Weekday-01,142643001,"B - Fairview Park via Weber",1,209725,70225
 7,17WINT-All-Weekday-01,142643101,"B - Fairview Park via Weber",1,209732,70225
 7,17WINT-All-Weekday-01,142643201,"B - Fairview Park via Weber",1,209737,70225
-7,17WINT-All-Weekday-01,142643301,"F - Fairview Park via Wilson",1,209727,70227
+7,17WINT-All-Weekday-01,142643301,"F - Fairview Park via Wilson",1,209727,70266
 7,17WINT-All-Weekday-01,142643401,"B - Fairview Park via Weber",1,209722,70225
 7,17WINT-All-Weekday-01,142643501,"B - Fairview Park via Weber",1,209721,70225
-7,17WINT-All-Weekday-01,142643601,"F - Fairview Park via Wilson",1,209736,70224
+7,17WINT-All-Weekday-01,142643601,"F - Fairview Park via Wilson",1,209736,70265
 7,17WINT-All-Weekday-01,142643701,"B - Fairview Park via Weber",1,209717,70226
-7,17WINT-All-Weekday-01,142643801,"F - Fairview Park via Wilson",1,209735,70224
+7,17WINT-All-Weekday-01,142643801,"F - Fairview Park via Wilson",1,209735,70265
 7,17WINT-All-Weekday-01,142643901,"B - Fairview Park via Weber",1,209726,70226
 7,17WINT-All-Weekday-01,142644001,"F - Fairview Park via Wilson",1,209729,70054
 7,17WINT-All-Weekday-01,142644101,"B - Fairview Park via Weber",1,209725,70228
@@ -460,13 +460,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142645301,"B - Fairview Park via Weber",1,209721,70228
 7,17WINT-All-Weekday-01,142645401,"Charles Terminal",1,209731,70230
 7,17WINT-All-Weekday-01,142645501,"Charles Terminal",1,209737,70230
-7,17WINT-All-Weekday-01,142645601,"Charles Terminal",1,209733,70231
+7,17WINT-All-Weekday-01,142645601,"Charles Terminal",1,209733,70267
 7,17WINT-All-Weekday-01,142645701,"D - UW via University",0,209722,70232
 7,17WINT-All-Weekday-01,142645801,"D - UW via University",0,209712,70233
 7,17WINT-All-Weekday-01,142645901,"D - UW via University",0,209705,70234
-7,17WINT-All-Weekday-01,142646001,"Charles Terminal",1,209722,70235
-7,17WINT-All-Weekday-01,142646101,"Charles Terminal",1,209726,70235
-7,17WINT-All-Weekday-01,142646201,"Charles Terminal",1,209719,70235
+7,17WINT-All-Weekday-01,142646001,"Charles Terminal",1,209722,70268
+7,17WINT-All-Weekday-01,142646101,"Charles Terminal",1,209726,70268
+7,17WINT-All-Weekday-01,142646201,"Charles Terminal",1,209719,70268
 7,17WINT-All-Weekday-01,142646301,"D - UW via University",0,209738,70236
 7,17WINT-All-Weekday-01,142646401,"D - UW via University",0,209730,70236
 7,17WINT-All-Weekday-01,142646501,"D - UW via University",0,209686,70236
@@ -491,11 +491,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Weekday-01,142648401,"E - UW via Columbia",0,209695,70113
 7,17WINT-All-Weekday-01,142648501,"E - UW via Columbia",0,209771,70113
 7,17WINT-All-Weekday-01,142648601,"E - UW via Columbia",0,209611,70238
-7,17WINT-All-Weekday-01-0000100,142648701,"C - Conestoga Mall",0,209636,70239
-7,17WINT-All-Weekday-01-0000100,142648801,"C - Conestoga Mall",0,209636,70239
-7,17WINT-All-Weekday-01-0000100,142648901,"Charles Terminal",1,209636,70235
-7,17WINT-All-Weekday-01-0000100,142649001,"Charles Terminal",1,209636,70235
-7,17WINT-All-Weekday-01-0000100,142649101,"Charles Terminal",1,209636,70235
+7,17WINT-All-Weekday-01-0000100,142648701,"C - Conestoga Mall",0,209636,70269
+7,17WINT-All-Weekday-01-0000100,142648801,"C - Conestoga Mall",0,209636,70269
+7,17WINT-All-Weekday-01-0000100,142648901,"Charles Terminal",1,209636,70268
+7,17WINT-All-Weekday-01-0000100,142649001,"Charles Terminal",1,209636,70268
+7,17WINT-All-Weekday-01-0000100,142649101,"Charles Terminal",1,209636,70268
 9903,17WINT-All-Weekday-01,142649201,"St. Mary's Express",0,209713,99030007
 9903,17WINT-All-Weekday-01,142649301,"UW Special",0,209713,99030005
 34,17WINT-All-Weekday-01,142649401,"Shirley/Victoria",0,209666,340020
@@ -503,25 +503,25 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 34,17WINT-All-Weekday-01,142649601,"Shirley/Victoria",0,209800,340020
 34,17WINT-All-Weekday-01,142649701,"Shirley/Victoria",0,209802,340020
 34,17WINT-All-Weekday-01,142649801,"Shirley/Victoria",0,209622,340020
-34,17WINT-All-Weekday-01,142649901,"Charles Terminal",1,209622,340023
-34,17WINT-All-Weekday-01,142650001,"Charles Terminal",1,209666,340023
-34,17WINT-All-Weekday-01,142650101,"Charles Terminal",1,209801,340023
-34,17WINT-All-Weekday-01,142650201,"Charles Terminal",1,209800,340023
-34,17WINT-All-Weekday-01,142650301,"Charles Terminal",1,209802,340023
+34,17WINT-All-Weekday-01,142649901,"Charles Terminal",1,209622,340024
+34,17WINT-All-Weekday-01,142650001,"Charles Terminal",1,209666,340024
+34,17WINT-All-Weekday-01,142650101,"Charles Terminal",1,209801,340024
+34,17WINT-All-Weekday-01,142650201,"Charles Terminal",1,209800,340024
+34,17WINT-All-Weekday-01,142650301,"Charles Terminal",1,209802,340024
 34,17WINT-All-Weekday-01,142650401,"Shirley/Victoria",0,209709,340020
 34,17WINT-All-Weekday-01,142650501,"Shirley/Victoria",0,209622,340020
 34,17WINT-All-Weekday-01,142650601,"Shirley/Victoria",0,209829,340020
 34,17WINT-All-Weekday-01,142650701,"Shirley/Victoria",0,209621,340020
 34,17WINT-All-Weekday-01,142650801,"Shirley/Victoria",0,209830,340020
 34,17WINT-All-Weekday-01,142650901,"Shirley/Victoria",0,209666,340020
-34,17WINT-All-Weekday-01,142651001,"Charles Terminal",1,209709,340023
-34,17WINT-All-Weekday-01,142651101,"Charles Terminal",1,209622,340023
-34,17WINT-All-Weekday-01,142651201,"Charles Terminal",1,209829,340023
-34,17WINT-All-Weekday-01,142651301,"Charles Terminal",1,209621,340023
-34,17WINT-All-Weekday-01,142651401,"Charles Terminal",1,209830,340023
-34,17WINT-All-Weekday-01,142651501,"Charles Terminal",1,209666,340023
+34,17WINT-All-Weekday-01,142651001,"Charles Terminal",1,209709,340024
+34,17WINT-All-Weekday-01,142651101,"Charles Terminal",1,209622,340024
+34,17WINT-All-Weekday-01,142651201,"Charles Terminal",1,209829,340024
+34,17WINT-All-Weekday-01,142651301,"Charles Terminal",1,209621,340024
+34,17WINT-All-Weekday-01,142651401,"Charles Terminal",1,209830,340024
+34,17WINT-All-Weekday-01,142651501,"Charles Terminal",1,209666,340024
 34,17WINT-All-Weekday-01,142651601,"Shirley/Victoria",0,209665,340022
-34,17WINT-All-Weekday-01,142651701,"Charles Terminal",1,209665,340023
+34,17WINT-All-Weekday-01,142651701,"Charles Terminal",1,209665,340024
 34,17WINT-All-Weekday-01,142651801,"Shirley/Victoria",0,209665,340003
 204,17WINT-All-Weekday-01,142651901,"The Boardwalk",1,209685,2040036
 204,17WINT-All-Weekday-01,142652001,"The Boardwalk",1,209682,2040036
@@ -1057,183 +1057,183 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 12,17WINT-All-Weekday-01,142705101,"Fairview Park",1,209698,120037
 12,17WINT-All-Weekday-01,142705201,"Fairview Park",1,209692,120040
 12,17WINT-All-Weekday-01,142705301,"University/King",0,209696,120009
-200,17WINT-All-Weekday-01,142705401,"Conestoga Mall",0,209755,2000488
-200,17WINT-All-Weekday-01,142705501,"Conestoga Mall",0,209754,2000506
-200,17WINT-All-Weekday-01,142705601,"Conestoga Mall",0,209752,2000506
-200,17WINT-All-Weekday-01,142705701,"Conestoga Mall",0,209752,2000507
-200,17WINT-All-Weekday-01,142705801,"Conestoga Mall",0,209754,2000507
-200,17WINT-All-Weekday-01,142705901,"Conestoga Mall",0,209751,2000507
-200,17WINT-All-Weekday-01,142706001,"Conestoga Mall",0,209767,2000507
-200,17WINT-All-Weekday-01,142706101,"Conestoga Mall",0,209756,2000508
-200,17WINT-All-Weekday-01,142706201,"Ainslie Terminal",1,209753,2000498
-200,17WINT-All-Weekday-01,142706301,"Ainslie Terminal",1,209758,2000498
-200,17WINT-All-Weekday-01,142706401,"Ainslie Terminal",1,209755,2000498
-200,17WINT-All-Weekday-01,142706501,"Ainslie Terminal",1,209751,2000498
-200,17WINT-All-Weekday-01,142706601,"Ainslie Terminal",1,209761,2000498
-200,17WINT-All-Weekday-01,142706701,"Ainslie Terminal",1,209757,2000498
+200,17WINT-All-Weekday-01,142705401,"Conestoga Mall",0,209755,2000511
+200,17WINT-All-Weekday-01,142705501,"Conestoga Mall",0,209754,2000512
+200,17WINT-All-Weekday-01,142705601,"Conestoga Mall",0,209752,2000512
+200,17WINT-All-Weekday-01,142705701,"Conestoga Mall",0,209752,2000513
+200,17WINT-All-Weekday-01,142705801,"Conestoga Mall",0,209754,2000513
+200,17WINT-All-Weekday-01,142705901,"Conestoga Mall",0,209751,2000513
+200,17WINT-All-Weekday-01,142706001,"Conestoga Mall",0,209767,2000513
+200,17WINT-All-Weekday-01,142706101,"Conestoga Mall",0,209756,2000514
+200,17WINT-All-Weekday-01,142706201,"Ainslie Terminal",1,209753,2000515
+200,17WINT-All-Weekday-01,142706301,"Ainslie Terminal",1,209758,2000515
+200,17WINT-All-Weekday-01,142706401,"Ainslie Terminal",1,209755,2000515
+200,17WINT-All-Weekday-01,142706501,"Ainslie Terminal",1,209751,2000515
+200,17WINT-All-Weekday-01,142706601,"Ainslie Terminal",1,209761,2000515
+200,17WINT-All-Weekday-01,142706701,"Ainslie Terminal",1,209757,2000515
 200,17WINT-All-Weekday-01,142706801,"Ainslie Terminal",1,209752,2000504
-200,17WINT-All-Weekday-01,142706901,"Conestoga Mall",0,209763,2000507
-200,17WINT-All-Weekday-01,142707001,"Conestoga Mall",0,209766,2000507
-200,17WINT-All-Weekday-01,142707101,"Conestoga Mall",0,209760,2000506
-200,17WINT-All-Weekday-01,142707201,"Conestoga Mall",0,209762,2000507
-200,17WINT-All-Weekday-01,142707301,"Conestoga Mall",0,209764,2000507
-200,17WINT-All-Weekday-01,142707401,"Conestoga Mall",0,209758,2000506
-200,17WINT-All-Weekday-01,142707501,"Conestoga Mall",0,209767,2000506
-200,17WINT-All-Weekday-01,142707601,"Conestoga Mall",0,209755,2000507
-200,17WINT-All-Weekday-01,142707701,"Conestoga Mall",0,209782,2000507
-200,17WINT-All-Weekday-01,142707801,"Conestoga Mall",0,209751,2000507
-200,17WINT-All-Weekday-01,142707901,"Conestoga Mall",0,209768,2000506
-200,17WINT-All-Weekday-01,142708001,"Conestoga Mall",0,209761,2000507
-200,17WINT-All-Weekday-01,142708101,"Conestoga Mall",0,209756,2000507
-200,17WINT-All-Weekday-01,142708201,"Conestoga Mall",0,209763,2000507
-200,17WINT-All-Weekday-01,142708301,"Conestoga Mall",0,209757,2000507
-200,17WINT-All-Weekday-01,142708401,"Conestoga Mall",0,209766,2000507
-200,17WINT-All-Weekday-01,142708501,"Conestoga Mall",0,209752,2000507
-200,17WINT-All-Weekday-01,142708601,"Conestoga Mall",0,209759,2000507
-200,17WINT-All-Weekday-01,142708701,"Conestoga Mall",0,209681,2000507
-200,17WINT-All-Weekday-01,142708801,"Conestoga Mall",0,209754,2000507
-200,17WINT-All-Weekday-01,142708901,"Conestoga Mall",0,209760,2000507
-200,17WINT-All-Weekday-01,142709001,"Conestoga Mall",0,209753,2000507
-200,17WINT-All-Weekday-01,142709101,"Conestoga Mall",0,209762,2000507
-200,17WINT-All-Weekday-01,142709201,"Conestoga Mall",0,209764,2000507
-200,17WINT-All-Weekday-01,142709301,"Conestoga Mall",0,209758,2000507
-200,17WINT-All-Weekday-01,142709401,"Conestoga Mall",0,209767,2000507
-200,17WINT-All-Weekday-01,142709501,"Conestoga Mall",0,209755,2000507
-200,17WINT-All-Weekday-01,142709601,"Conestoga Mall",0,209782,2000507
-200,17WINT-All-Weekday-01,142709701,"Conestoga Mall",0,209751,2000507
-200,17WINT-All-Weekday-01,142709801,"Conestoga Mall",0,209768,2000507
-200,17WINT-All-Weekday-01,142709901,"Conestoga Mall",0,209761,2000507
-200,17WINT-All-Weekday-01,142710001,"Conestoga Mall",0,209756,2000507
-200,17WINT-All-Weekday-01,142710101,"Conestoga Mall",0,209763,2000507
-200,17WINT-All-Weekday-01,142710201,"Conestoga Mall",0,209757,2000507
-200,17WINT-All-Weekday-01,142710301,"Conestoga Mall",0,209766,2000507
-200,17WINT-All-Weekday-01,142710401,"Conestoga Mall",0,209752,2000507
-200,17WINT-All-Weekday-01,142710501,"Conestoga Mall",0,209759,2000507
-200,17WINT-All-Weekday-01,142710601,"Conestoga Mall",0,209681,2000507
-200,17WINT-All-Weekday-01,142710701,"Conestoga Mall",0,209754,2000507
-200,17WINT-All-Weekday-01,142710801,"Conestoga Mall",0,209760,2000507
-200,17WINT-All-Weekday-01,142710901,"Conestoga Mall",0,209753,2000507
-200,17WINT-All-Weekday-01,142711001,"Conestoga Mall",0,209762,2000507
-200,17WINT-All-Weekday-01,142711101,"Conestoga Mall",0,209764,2000507
-200,17WINT-All-Weekday-01,142711201,"Conestoga Mall",0,209758,2000507
-200,17WINT-All-Weekday-01,142711301,"Conestoga Mall",0,209767,2000507
-200,17WINT-All-Weekday-01,142711401,"Conestoga Mall",0,209755,2000507
-200,17WINT-All-Weekday-01,142711501,"Conestoga Mall",0,209782,2000507
-200,17WINT-All-Weekday-01,142711601,"Conestoga Mall",0,209751,2000507
-200,17WINT-All-Weekday-01,142711701,"Conestoga Mall",0,209768,2000507
-200,17WINT-All-Weekday-01,142711801,"Conestoga Mall",0,209761,2000507
-200,17WINT-All-Weekday-01,142711901,"Conestoga Mall",0,209756,2000507
-200,17WINT-All-Weekday-01,142712001,"Conestoga Mall",0,209763,2000507
-200,17WINT-All-Weekday-01,142712101,"Conestoga Mall",0,209757,2000507
-200,17WINT-All-Weekday-01,142712201,"Conestoga Mall",0,209766,2000507
-200,17WINT-All-Weekday-01,142712301,"Conestoga Mall",0,209791,2000507
-200,17WINT-All-Weekday-01,142712401,"Conestoga Mall",0,209752,2000507
-200,17WINT-All-Weekday-01,142712501,"Conestoga Mall",0,209759,2000507
-200,17WINT-All-Weekday-01,142712601,"Conestoga Mall",0,209681,2000507
-200,17WINT-All-Weekday-01,142712701,"Conestoga Mall",0,209754,2000507
-200,17WINT-All-Weekday-01,142712801,"Conestoga Mall",0,209760,2000507
-200,17WINT-All-Weekday-01,142712901,"Conestoga Mall",0,209753,2000507
-200,17WINT-All-Weekday-01,142713001,"Conestoga Mall",0,209769,2000507
-200,17WINT-All-Weekday-01,142713101,"Conestoga Mall",0,209762,2000507
-200,17WINT-All-Weekday-01,142713201,"Conestoga Mall",0,209764,2000507
-200,17WINT-All-Weekday-01,142713301,"Conestoga Mall",0,209758,2000507
-200,17WINT-All-Weekday-01,142713401,"Conestoga Mall",0,209767,2000507
-200,17WINT-All-Weekday-01,142713501,"Conestoga Mall",0,209755,2000507
-200,17WINT-All-Weekday-01,142713601,"Conestoga Mall",0,209751,2000507
-200,17WINT-All-Weekday-01,142713701,"Conestoga Mall",0,209768,2000507
-200,17WINT-All-Weekday-01,142713801,"Conestoga Mall",0,209756,2000507
-200,17WINT-All-Weekday-01,142713901,"Conestoga Mall",0,209759,2000507
-200,17WINT-All-Weekday-01,142714001,"Conestoga Mall",0,209762,2000507
-200,17WINT-All-Weekday-01,142714101,"Ainslie Terminal",1,209754,2000498
-200,17WINT-All-Weekday-01,142714201,"Ainslie Terminal",1,209760,2000498
-200,17WINT-All-Weekday-01,142714301,"Ainslie Terminal",1,209753,2000498
-200,17WINT-All-Weekday-01,142714401,"Ainslie Terminal",1,209762,2000498
-200,17WINT-All-Weekday-01,142714501,"Ainslie Terminal",1,209764,2000498
-200,17WINT-All-Weekday-01,142714601,"Conestoga Mall",0,209759,2000508
-200,17WINT-All-Weekday-01,142714701,"Ainslie Terminal",1,209766,2000498
-200,17WINT-All-Weekday-01,142714801,"Ainslie Terminal",1,209752,2000498
-200,17WINT-All-Weekday-01,142714901,"Ainslie Terminal",1,209759,2000498
-200,17WINT-All-Weekday-01,142715001,"Ainslie Terminal",1,209681,2000498
-200,17WINT-All-Weekday-01,142715101,"Ainslie Terminal",1,209754,2000498
-200,17WINT-All-Weekday-01,142715201,"Ainslie Terminal",1,209760,2000498
-200,17WINT-All-Weekday-01,142715301,"Ainslie Terminal",1,209753,2000498
-200,17WINT-All-Weekday-01,142715401,"Ainslie Terminal",1,209762,2000498
-200,17WINT-All-Weekday-01,142715501,"Ainslie Terminal",1,209764,2000498
-200,17WINT-All-Weekday-01,142715601,"Ainslie Terminal",1,209758,2000498
-200,17WINT-All-Weekday-01,142715701,"Ainslie Terminal",1,209767,2000498
-200,17WINT-All-Weekday-01,142715801,"Ainslie Terminal",1,209755,2000498
-200,17WINT-All-Weekday-01,142715901,"Ainslie Terminal",1,209782,2000498
-200,17WINT-All-Weekday-01,142716001,"Ainslie Terminal",1,209751,2000498
-200,17WINT-All-Weekday-01,142716101,"Ainslie Terminal",1,209761,2000498
-200,17WINT-All-Weekday-01,142716201,"Ainslie Terminal",1,209756,2000498
-200,17WINT-All-Weekday-01,142716301,"Ainslie Terminal",1,209763,2000498
-200,17WINT-All-Weekday-01,142716401,"Ainslie Terminal",1,209757,2000498
-200,17WINT-All-Weekday-01,142716501,"Ainslie Terminal",1,209766,2000498
-200,17WINT-All-Weekday-01,142716601,"Ainslie Terminal",1,209752,2000498
-200,17WINT-All-Weekday-01,142716701,"Ainslie Terminal",1,209759,2000498
-200,17WINT-All-Weekday-01,142716801,"Ainslie Terminal",1,209681,2000498
-200,17WINT-All-Weekday-01,142716901,"Ainslie Terminal",1,209754,2000498
-200,17WINT-All-Weekday-01,142717001,"Ainslie Terminal",1,209760,2000498
-200,17WINT-All-Weekday-01,142717101,"Ainslie Terminal",1,209753,2000498
-200,17WINT-All-Weekday-01,142717201,"Ainslie Terminal",1,209762,2000498
-200,17WINT-All-Weekday-01,142717301,"Ainslie Terminal",1,209764,2000498
-200,17WINT-All-Weekday-01,142717401,"Ainslie Terminal",1,209758,2000498
-200,17WINT-All-Weekday-01,142717501,"Ainslie Terminal",1,209767,2000498
-200,17WINT-All-Weekday-01,142717601,"Ainslie Terminal",1,209755,2000498
-200,17WINT-All-Weekday-01,142717701,"Ainslie Terminal",1,209782,2000498
-200,17WINT-All-Weekday-01,142717801,"Ainslie Terminal",1,209751,2000498
-200,17WINT-All-Weekday-01,142717901,"Ainslie Terminal",1,209768,2000498
-200,17WINT-All-Weekday-01,142718001,"Ainslie Terminal",1,209761,2000498
-200,17WINT-All-Weekday-01,142718101,"Ainslie Terminal",1,209756,2000498
-200,17WINT-All-Weekday-01,142718201,"Ainslie Terminal",1,209763,2000498
-200,17WINT-All-Weekday-01,142718301,"Ainslie Terminal",1,209757,2000498
-200,17WINT-All-Weekday-01,142718401,"Ainslie Terminal",1,209766,2000498
-200,17WINT-All-Weekday-01,142718501,"Ainslie Terminal",1,209752,2000498
-200,17WINT-All-Weekday-01,142718601,"Ainslie Terminal",1,209759,2000498
-200,17WINT-All-Weekday-01,142718701,"Ainslie Terminal",1,209681,2000498
-200,17WINT-All-Weekday-01,142718801,"Ainslie Terminal",1,209754,2000498
-200,17WINT-All-Weekday-01,142718901,"Ainslie Terminal",1,209760,2000498
-200,17WINT-All-Weekday-01,142719001,"Ainslie Terminal",1,209753,2000498
-200,17WINT-All-Weekday-01,142719101,"Ainslie Terminal",1,209769,2000498
-200,17WINT-All-Weekday-01,142719201,"Ainslie Terminal",1,209762,2000498
-200,17WINT-All-Weekday-01,142719301,"Ainslie Terminal",1,209764,2000498
-200,17WINT-All-Weekday-01,142719401,"Ainslie Terminal",1,209758,2000498
-200,17WINT-All-Weekday-01,142719501,"Ainslie Terminal",1,209767,2000498
-200,17WINT-All-Weekday-01,142719601,"Ainslie Terminal",1,209755,2000498
-200,17WINT-All-Weekday-01,142719701,"Ainslie Terminal",1,209782,2000498
-200,17WINT-All-Weekday-01,142719801,"Ainslie Terminal",1,209751,2000498
-200,17WINT-All-Weekday-01,142719901,"Ainslie Terminal",1,209768,2000498
-200,17WINT-All-Weekday-01,142720001,"Ainslie Terminal",1,209761,2000498
-200,17WINT-All-Weekday-01,142720101,"Ainslie Terminal",1,209756,2000498
-200,17WINT-All-Weekday-01,142720201,"Ainslie Terminal",1,209763,2000498
-200,17WINT-All-Weekday-01,142720301,"Ainslie Terminal",1,209757,2000498
-200,17WINT-All-Weekday-01,142720401,"Ainslie Terminal",1,209766,2000498
-200,17WINT-All-Weekday-01,142720501,"Ainslie Terminal",1,209791,2000498
-200,17WINT-All-Weekday-01,142720601,"Ainslie Terminal",1,209752,2000498
-200,17WINT-All-Weekday-01,142720701,"Ainslie Terminal",1,209759,2000498
-200,17WINT-All-Weekday-01,142720801,"Ainslie Terminal",1,209681,2000498
-200,17WINT-All-Weekday-01,142720901,"Ainslie Terminal",1,209767,2000498
-200,17WINT-All-Weekday-01,142721001,"Ainslie Terminal",1,209755,2000498
-200,17WINT-All-Weekday-01,142721101,"Ainslie Terminal",1,209751,2000498
-200,17WINT-All-Weekday-01,142721201,"Ainslie Terminal",1,209756,2000498
-200,17WINT-All-Weekday-01,142721301,"Ainslie Terminal",1,209763,2000498
-200,17WINT-All-Weekday-01,142721401,"Ainslie Terminal",1,209752,2000498
-200,17WINT-All-Weekday-01,142721501,"Ainslie Terminal",1,209754,2000498
-200,17WINT-All-Weekday-01,142721601,"Ainslie Terminal",1,209762,2000498
-200,17WINT-All-Weekday-01,142721701,"Ainslie Terminal",1,209767,2000498
-200,17WINT-All-Weekday-01,142721801,"Ainslie Terminal",1,209768,2000498
-200,17WINT-All-Weekday-01,142721901,"Conestoga Mall",0,209753,2000506
-200,17WINT-All-Weekday-01,142722001,"Conestoga Mall",0,209751,2000506
-200,17WINT-All-Weekday-01,142722101,"Conestoga Mall",0,209752,2000507
-200,17WINT-All-Weekday-01,142722201,"Ainslie Terminal",1,209751,2000498
-200,17WINT-All-Weekday-01,142722301,"Conestoga Mall",0,209763,2000507
-200,17WINT-All-Weekday-01,142722401,"Ainslie Terminal",1,209756,2000498
-200,17WINT-All-Weekday-01,142722501,"Ainslie Terminal",1,209763,2000498
+200,17WINT-All-Weekday-01,142706901,"Conestoga Mall",0,209763,2000513
+200,17WINT-All-Weekday-01,142707001,"Conestoga Mall",0,209766,2000513
+200,17WINT-All-Weekday-01,142707101,"Conestoga Mall",0,209760,2000512
+200,17WINT-All-Weekday-01,142707201,"Conestoga Mall",0,209762,2000513
+200,17WINT-All-Weekday-01,142707301,"Conestoga Mall",0,209764,2000513
+200,17WINT-All-Weekday-01,142707401,"Conestoga Mall",0,209758,2000512
+200,17WINT-All-Weekday-01,142707501,"Conestoga Mall",0,209767,2000512
+200,17WINT-All-Weekday-01,142707601,"Conestoga Mall",0,209755,2000513
+200,17WINT-All-Weekday-01,142707701,"Conestoga Mall",0,209782,2000513
+200,17WINT-All-Weekday-01,142707801,"Conestoga Mall",0,209751,2000513
+200,17WINT-All-Weekday-01,142707901,"Conestoga Mall",0,209768,2000512
+200,17WINT-All-Weekday-01,142708001,"Conestoga Mall",0,209761,2000513
+200,17WINT-All-Weekday-01,142708101,"Conestoga Mall",0,209756,2000513
+200,17WINT-All-Weekday-01,142708201,"Conestoga Mall",0,209763,2000513
+200,17WINT-All-Weekday-01,142708301,"Conestoga Mall",0,209757,2000513
+200,17WINT-All-Weekday-01,142708401,"Conestoga Mall",0,209766,2000513
+200,17WINT-All-Weekday-01,142708501,"Conestoga Mall",0,209752,2000513
+200,17WINT-All-Weekday-01,142708601,"Conestoga Mall",0,209759,2000513
+200,17WINT-All-Weekday-01,142708701,"Conestoga Mall",0,209681,2000513
+200,17WINT-All-Weekday-01,142708801,"Conestoga Mall",0,209754,2000513
+200,17WINT-All-Weekday-01,142708901,"Conestoga Mall",0,209760,2000513
+200,17WINT-All-Weekday-01,142709001,"Conestoga Mall",0,209753,2000513
+200,17WINT-All-Weekday-01,142709101,"Conestoga Mall",0,209762,2000513
+200,17WINT-All-Weekday-01,142709201,"Conestoga Mall",0,209764,2000513
+200,17WINT-All-Weekday-01,142709301,"Conestoga Mall",0,209758,2000513
+200,17WINT-All-Weekday-01,142709401,"Conestoga Mall",0,209767,2000513
+200,17WINT-All-Weekday-01,142709501,"Conestoga Mall",0,209755,2000513
+200,17WINT-All-Weekday-01,142709601,"Conestoga Mall",0,209782,2000513
+200,17WINT-All-Weekday-01,142709701,"Conestoga Mall",0,209751,2000513
+200,17WINT-All-Weekday-01,142709801,"Conestoga Mall",0,209768,2000513
+200,17WINT-All-Weekday-01,142709901,"Conestoga Mall",0,209761,2000513
+200,17WINT-All-Weekday-01,142710001,"Conestoga Mall",0,209756,2000513
+200,17WINT-All-Weekday-01,142710101,"Conestoga Mall",0,209763,2000513
+200,17WINT-All-Weekday-01,142710201,"Conestoga Mall",0,209757,2000513
+200,17WINT-All-Weekday-01,142710301,"Conestoga Mall",0,209766,2000513
+200,17WINT-All-Weekday-01,142710401,"Conestoga Mall",0,209752,2000513
+200,17WINT-All-Weekday-01,142710501,"Conestoga Mall",0,209759,2000513
+200,17WINT-All-Weekday-01,142710601,"Conestoga Mall",0,209681,2000513
+200,17WINT-All-Weekday-01,142710701,"Conestoga Mall",0,209754,2000513
+200,17WINT-All-Weekday-01,142710801,"Conestoga Mall",0,209760,2000513
+200,17WINT-All-Weekday-01,142710901,"Conestoga Mall",0,209753,2000513
+200,17WINT-All-Weekday-01,142711001,"Conestoga Mall",0,209762,2000513
+200,17WINT-All-Weekday-01,142711101,"Conestoga Mall",0,209764,2000513
+200,17WINT-All-Weekday-01,142711201,"Conestoga Mall",0,209758,2000513
+200,17WINT-All-Weekday-01,142711301,"Conestoga Mall",0,209767,2000513
+200,17WINT-All-Weekday-01,142711401,"Conestoga Mall",0,209755,2000513
+200,17WINT-All-Weekday-01,142711501,"Conestoga Mall",0,209782,2000513
+200,17WINT-All-Weekday-01,142711601,"Conestoga Mall",0,209751,2000513
+200,17WINT-All-Weekday-01,142711701,"Conestoga Mall",0,209768,2000513
+200,17WINT-All-Weekday-01,142711801,"Conestoga Mall",0,209761,2000513
+200,17WINT-All-Weekday-01,142711901,"Conestoga Mall",0,209756,2000513
+200,17WINT-All-Weekday-01,142712001,"Conestoga Mall",0,209763,2000513
+200,17WINT-All-Weekday-01,142712101,"Conestoga Mall",0,209757,2000513
+200,17WINT-All-Weekday-01,142712201,"Conestoga Mall",0,209766,2000513
+200,17WINT-All-Weekday-01,142712301,"Conestoga Mall",0,209791,2000513
+200,17WINT-All-Weekday-01,142712401,"Conestoga Mall",0,209752,2000513
+200,17WINT-All-Weekday-01,142712501,"Conestoga Mall",0,209759,2000513
+200,17WINT-All-Weekday-01,142712601,"Conestoga Mall",0,209681,2000513
+200,17WINT-All-Weekday-01,142712701,"Conestoga Mall",0,209754,2000513
+200,17WINT-All-Weekday-01,142712801,"Conestoga Mall",0,209760,2000513
+200,17WINT-All-Weekday-01,142712901,"Conestoga Mall",0,209753,2000513
+200,17WINT-All-Weekday-01,142713001,"Conestoga Mall",0,209769,2000513
+200,17WINT-All-Weekday-01,142713101,"Conestoga Mall",0,209762,2000513
+200,17WINT-All-Weekday-01,142713201,"Conestoga Mall",0,209764,2000513
+200,17WINT-All-Weekday-01,142713301,"Conestoga Mall",0,209758,2000513
+200,17WINT-All-Weekday-01,142713401,"Conestoga Mall",0,209767,2000513
+200,17WINT-All-Weekday-01,142713501,"Conestoga Mall",0,209755,2000513
+200,17WINT-All-Weekday-01,142713601,"Conestoga Mall",0,209751,2000513
+200,17WINT-All-Weekday-01,142713701,"Conestoga Mall",0,209768,2000513
+200,17WINT-All-Weekday-01,142713801,"Conestoga Mall",0,209756,2000513
+200,17WINT-All-Weekday-01,142713901,"Conestoga Mall",0,209759,2000513
+200,17WINT-All-Weekday-01,142714001,"Conestoga Mall",0,209762,2000513
+200,17WINT-All-Weekday-01,142714101,"Ainslie Terminal",1,209754,2000515
+200,17WINT-All-Weekday-01,142714201,"Ainslie Terminal",1,209760,2000515
+200,17WINT-All-Weekday-01,142714301,"Ainslie Terminal",1,209753,2000515
+200,17WINT-All-Weekday-01,142714401,"Ainslie Terminal",1,209762,2000515
+200,17WINT-All-Weekday-01,142714501,"Ainslie Terminal",1,209764,2000515
+200,17WINT-All-Weekday-01,142714601,"Conestoga Mall",0,209759,2000514
+200,17WINT-All-Weekday-01,142714701,"Ainslie Terminal",1,209766,2000515
+200,17WINT-All-Weekday-01,142714801,"Ainslie Terminal",1,209752,2000515
+200,17WINT-All-Weekday-01,142714901,"Ainslie Terminal",1,209759,2000515
+200,17WINT-All-Weekday-01,142715001,"Ainslie Terminal",1,209681,2000515
+200,17WINT-All-Weekday-01,142715101,"Ainslie Terminal",1,209754,2000515
+200,17WINT-All-Weekday-01,142715201,"Ainslie Terminal",1,209760,2000515
+200,17WINT-All-Weekday-01,142715301,"Ainslie Terminal",1,209753,2000515
+200,17WINT-All-Weekday-01,142715401,"Ainslie Terminal",1,209762,2000515
+200,17WINT-All-Weekday-01,142715501,"Ainslie Terminal",1,209764,2000515
+200,17WINT-All-Weekday-01,142715601,"Ainslie Terminal",1,209758,2000515
+200,17WINT-All-Weekday-01,142715701,"Ainslie Terminal",1,209767,2000515
+200,17WINT-All-Weekday-01,142715801,"Ainslie Terminal",1,209755,2000515
+200,17WINT-All-Weekday-01,142715901,"Ainslie Terminal",1,209782,2000515
+200,17WINT-All-Weekday-01,142716001,"Ainslie Terminal",1,209751,2000515
+200,17WINT-All-Weekday-01,142716101,"Ainslie Terminal",1,209761,2000515
+200,17WINT-All-Weekday-01,142716201,"Ainslie Terminal",1,209756,2000515
+200,17WINT-All-Weekday-01,142716301,"Ainslie Terminal",1,209763,2000515
+200,17WINT-All-Weekday-01,142716401,"Ainslie Terminal",1,209757,2000515
+200,17WINT-All-Weekday-01,142716501,"Ainslie Terminal",1,209766,2000515
+200,17WINT-All-Weekday-01,142716601,"Ainslie Terminal",1,209752,2000515
+200,17WINT-All-Weekday-01,142716701,"Ainslie Terminal",1,209759,2000515
+200,17WINT-All-Weekday-01,142716801,"Ainslie Terminal",1,209681,2000515
+200,17WINT-All-Weekday-01,142716901,"Ainslie Terminal",1,209754,2000515
+200,17WINT-All-Weekday-01,142717001,"Ainslie Terminal",1,209760,2000515
+200,17WINT-All-Weekday-01,142717101,"Ainslie Terminal",1,209753,2000515
+200,17WINT-All-Weekday-01,142717201,"Ainslie Terminal",1,209762,2000515
+200,17WINT-All-Weekday-01,142717301,"Ainslie Terminal",1,209764,2000515
+200,17WINT-All-Weekday-01,142717401,"Ainslie Terminal",1,209758,2000515
+200,17WINT-All-Weekday-01,142717501,"Ainslie Terminal",1,209767,2000515
+200,17WINT-All-Weekday-01,142717601,"Ainslie Terminal",1,209755,2000515
+200,17WINT-All-Weekday-01,142717701,"Ainslie Terminal",1,209782,2000515
+200,17WINT-All-Weekday-01,142717801,"Ainslie Terminal",1,209751,2000515
+200,17WINT-All-Weekday-01,142717901,"Ainslie Terminal",1,209768,2000515
+200,17WINT-All-Weekday-01,142718001,"Ainslie Terminal",1,209761,2000515
+200,17WINT-All-Weekday-01,142718101,"Ainslie Terminal",1,209756,2000515
+200,17WINT-All-Weekday-01,142718201,"Ainslie Terminal",1,209763,2000515
+200,17WINT-All-Weekday-01,142718301,"Ainslie Terminal",1,209757,2000515
+200,17WINT-All-Weekday-01,142718401,"Ainslie Terminal",1,209766,2000515
+200,17WINT-All-Weekday-01,142718501,"Ainslie Terminal",1,209752,2000515
+200,17WINT-All-Weekday-01,142718601,"Ainslie Terminal",1,209759,2000515
+200,17WINT-All-Weekday-01,142718701,"Ainslie Terminal",1,209681,2000515
+200,17WINT-All-Weekday-01,142718801,"Ainslie Terminal",1,209754,2000515
+200,17WINT-All-Weekday-01,142718901,"Ainslie Terminal",1,209760,2000515
+200,17WINT-All-Weekday-01,142719001,"Ainslie Terminal",1,209753,2000515
+200,17WINT-All-Weekday-01,142719101,"Ainslie Terminal",1,209769,2000515
+200,17WINT-All-Weekday-01,142719201,"Ainslie Terminal",1,209762,2000515
+200,17WINT-All-Weekday-01,142719301,"Ainslie Terminal",1,209764,2000515
+200,17WINT-All-Weekday-01,142719401,"Ainslie Terminal",1,209758,2000515
+200,17WINT-All-Weekday-01,142719501,"Ainslie Terminal",1,209767,2000515
+200,17WINT-All-Weekday-01,142719601,"Ainslie Terminal",1,209755,2000515
+200,17WINT-All-Weekday-01,142719701,"Ainslie Terminal",1,209782,2000515
+200,17WINT-All-Weekday-01,142719801,"Ainslie Terminal",1,209751,2000515
+200,17WINT-All-Weekday-01,142719901,"Ainslie Terminal",1,209768,2000515
+200,17WINT-All-Weekday-01,142720001,"Ainslie Terminal",1,209761,2000515
+200,17WINT-All-Weekday-01,142720101,"Ainslie Terminal",1,209756,2000515
+200,17WINT-All-Weekday-01,142720201,"Ainslie Terminal",1,209763,2000515
+200,17WINT-All-Weekday-01,142720301,"Ainslie Terminal",1,209757,2000515
+200,17WINT-All-Weekday-01,142720401,"Ainslie Terminal",1,209766,2000515
+200,17WINT-All-Weekday-01,142720501,"Ainslie Terminal",1,209791,2000515
+200,17WINT-All-Weekday-01,142720601,"Ainslie Terminal",1,209752,2000515
+200,17WINT-All-Weekday-01,142720701,"Ainslie Terminal",1,209759,2000515
+200,17WINT-All-Weekday-01,142720801,"Ainslie Terminal",1,209681,2000515
+200,17WINT-All-Weekday-01,142720901,"Ainslie Terminal",1,209767,2000515
+200,17WINT-All-Weekday-01,142721001,"Ainslie Terminal",1,209755,2000515
+200,17WINT-All-Weekday-01,142721101,"Ainslie Terminal",1,209751,2000515
+200,17WINT-All-Weekday-01,142721201,"Ainslie Terminal",1,209756,2000515
+200,17WINT-All-Weekday-01,142721301,"Ainslie Terminal",1,209763,2000515
+200,17WINT-All-Weekday-01,142721401,"Ainslie Terminal",1,209752,2000515
+200,17WINT-All-Weekday-01,142721501,"Ainslie Terminal",1,209754,2000515
+200,17WINT-All-Weekday-01,142721601,"Ainslie Terminal",1,209762,2000515
+200,17WINT-All-Weekday-01,142721701,"Ainslie Terminal",1,209767,2000515
+200,17WINT-All-Weekday-01,142721801,"Ainslie Terminal",1,209768,2000515
+200,17WINT-All-Weekday-01,142721901,"Conestoga Mall",0,209753,2000512
+200,17WINT-All-Weekday-01,142722001,"Conestoga Mall",0,209751,2000512
+200,17WINT-All-Weekday-01,142722101,"Conestoga Mall",0,209752,2000513
+200,17WINT-All-Weekday-01,142722201,"Ainslie Terminal",1,209751,2000515
+200,17WINT-All-Weekday-01,142722301,"Conestoga Mall",0,209763,2000513
+200,17WINT-All-Weekday-01,142722401,"Ainslie Terminal",1,209756,2000515
+200,17WINT-All-Weekday-01,142722501,"Ainslie Terminal",1,209763,2000515
 200,17WINT-All-Weekday-01,142722601,"Ainslie Terminal",1,209754,2000501
-200,17WINT-All-Weekday-01,142722701,"Conestoga Mall",0,209765,2000509
+200,17WINT-All-Weekday-01,142722701,"Conestoga Mall",0,209765,2000516
 200,17WINT-All-Weekday-01,142722801,"UW",0,209765,2000496
-200,17WINT-All-Weekday-01,142722901,"Conestoga Mall",0,209780,2000100
-200,17WINT-All-Weekday-01,142723001,"Conestoga Mall",0,209757,2000506
+200,17WINT-All-Weekday-01,142722901,"Conestoga Mall",0,209780,2000517
+200,17WINT-All-Weekday-01,142723001,"Conestoga Mall",0,209757,2000512
 60,17WINT-All-Weekday-01,142723101,"East",0,210165,600008
 60,17WINT-All-Weekday-01,142723201,"East",0,210166,600008
 60,17WINT-All-Weekday-01,142723301,"East",0,210171,600008
@@ -2557,7 +2557,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 10,17WINT-All-Weekday-01,142874101,"Conestoga College",1,209693,100004
 10,17WINT-All-Weekday-01,142874201,"Fairview Park",0,209688,100009
 10,17WINT-All-Weekday-01,142874301,"Conestoga College",1,209638,100007
-9,17WINT-All-Weekday-01,142874501,"University/King",1,209717,90085
+9,17WINT-All-Weekday-01,142874501,"University/King",1,209717,90091
 9,17WINT-All-Weekday-01,142874601,"Conestoga Mall",0,209641,90076
 9,17WINT-All-Weekday-01,142874701,"Conestoga Mall",0,209642,90076
 9,17WINT-All-Weekday-01,142874801,"Conestoga Mall",0,209745,90076
@@ -2616,7 +2616,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,17WINT-All-Weekday-01,142880101,"Conestoga Mall",0,209641,90076
 9,17WINT-All-Weekday-01,142880201,"Conestoga Mall",0,209615,90076
 9,17WINT-All-Weekday-01,142880301,"Conestoga Mall",0,209620,90076
-9,17WINT-All-Weekday-01,142880401,"Laurier",1,209615,90086
+9,17WINT-All-Weekday-01,142880401,"Laurier",1,209615,90092
 9,17WINT-All-Weekday-01,142880501,"Cedarbrae/Glen Forrest",0,209771,90048
 9,17WINT-All-Weekday-01-1111000,142880601,"McCormick",0,209636,90049
 9,17WINT-All-Weekday-01,142880701,"Conestoga Mall",0,209746,90076
@@ -2627,54 +2627,54 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,17WINT-All-Weekday-01,142881201,"Cedarbrae/Glen Forrest",0,209780,90048
 9,17WINT-All-Weekday-01,142881301,"Northfield/Weber",0,209780,90090
 9,17WINT-All-Weekday-01,142881401,"Cedarbrae/Glen Forrest",0,209809,90048
-9,17WINT-All-Weekday-01,142881501,"UW",1,209704,90087
-9,17WINT-All-Weekday-01,142881601,"UW",1,209747,90087
-9,17WINT-All-Weekday-01,142881701,"UW",1,209615,90087
-9,17WINT-All-Weekday-01,142881801,"UW",1,209641,90087
-9,17WINT-All-Weekday-01,142881901,"UW",1,209642,90087
-9,17WINT-All-Weekday-01,142882001,"UW",1,209746,90087
-9,17WINT-All-Weekday-01,142882101,"UW",1,209771,90087
-9,17WINT-All-Weekday-01,142882201,"UW",1,209745,90087
-9,17WINT-All-Weekday-01,142882301,"UW",1,209615,90087
-9,17WINT-All-Weekday-01,142882401,"UW",1,209772,90087
-9,17WINT-All-Weekday-01,142882501,"UW",1,209775,90087
-9,17WINT-All-Weekday-01,142882601,"UW",1,209641,90087
-9,17WINT-All-Weekday-01,142882701,"UW",1,209680,90087
-9,17WINT-All-Weekday-01,142882801,"UW",1,209746,90087
-9,17WINT-All-Weekday-01,142882901,"UW",1,209745,90087
-9,17WINT-All-Weekday-01,142883001,"UW",1,209747,90087
-9,17WINT-All-Weekday-01,142883101,"UW",1,209615,90087
-9,17WINT-All-Weekday-01,142883201,"UW",1,209641,90087
-9,17WINT-All-Weekday-01,142883301,"UW",1,209746,90087
-9,17WINT-All-Weekday-01,142883401,"UW",1,209745,90087
-9,17WINT-All-Weekday-01,142883501,"UW",1,209747,90087
-9,17WINT-All-Weekday-01,142883601,"UW",1,209615,90087
-9,17WINT-All-Weekday-01,142883701,"UW",1,209746,90087
-9,17WINT-All-Weekday-01,142883801,"UW",1,209749,90087
-9,17WINT-All-Weekday-01,142883901,"UW",1,209615,90087
-9,17WINT-All-Weekday-01,142884001,"UW",1,209773,90087
-9,17WINT-All-Weekday-01,142884101,"UW",1,209641,90087
-9,17WINT-All-Weekday-01,142884201,"UW",1,209643,90087
-9,17WINT-All-Weekday-01,142884301,"UW",1,209745,90087
-9,17WINT-All-Weekday-01,142884401,"UW",1,209645,90087
-9,17WINT-All-Weekday-01,142884501,"UW",1,209745,90087
-9,17WINT-All-Weekday-01,142884601,"UW",1,209775,90087
-9,17WINT-All-Weekday-01,142884701,"UW",1,209747,90087
-9,17WINT-All-Weekday-01,142884801,"UW",1,209749,90087
-9,17WINT-All-Weekday-01,142884901,"UW",1,209641,90087
-9,17WINT-All-Weekday-01,142885001,"UW",1,209746,90087
-9,17WINT-All-Weekday-01,142885101,"UW",1,209745,90087
-9,17WINT-All-Weekday-01,142885201,"UW",1,209747,90087
-9,17WINT-All-Weekday-01,142885301,"UW",1,209615,90087
-9,17WINT-All-Weekday-01,142885401,"UW",1,209745,90087
-9,17WINT-All-Weekday-01,142885501,"UW",1,209747,90087
+9,17WINT-All-Weekday-01,142881501,"UW",1,209704,90093
+9,17WINT-All-Weekday-01,142881601,"UW",1,209747,90093
+9,17WINT-All-Weekday-01,142881701,"UW",1,209615,90093
+9,17WINT-All-Weekday-01,142881801,"UW",1,209641,90093
+9,17WINT-All-Weekday-01,142881901,"UW",1,209642,90093
+9,17WINT-All-Weekday-01,142882001,"UW",1,209746,90093
+9,17WINT-All-Weekday-01,142882101,"UW",1,209771,90093
+9,17WINT-All-Weekday-01,142882201,"UW",1,209745,90093
+9,17WINT-All-Weekday-01,142882301,"UW",1,209615,90093
+9,17WINT-All-Weekday-01,142882401,"UW",1,209772,90093
+9,17WINT-All-Weekday-01,142882501,"UW",1,209775,90093
+9,17WINT-All-Weekday-01,142882601,"UW",1,209641,90093
+9,17WINT-All-Weekday-01,142882701,"UW",1,209680,90093
+9,17WINT-All-Weekday-01,142882801,"UW",1,209746,90093
+9,17WINT-All-Weekday-01,142882901,"UW",1,209745,90093
+9,17WINT-All-Weekday-01,142883001,"UW",1,209747,90093
+9,17WINT-All-Weekday-01,142883101,"UW",1,209615,90093
+9,17WINT-All-Weekday-01,142883201,"UW",1,209641,90093
+9,17WINT-All-Weekday-01,142883301,"UW",1,209746,90093
+9,17WINT-All-Weekday-01,142883401,"UW",1,209745,90093
+9,17WINT-All-Weekday-01,142883501,"UW",1,209747,90093
+9,17WINT-All-Weekday-01,142883601,"UW",1,209615,90093
+9,17WINT-All-Weekday-01,142883701,"UW",1,209746,90093
+9,17WINT-All-Weekday-01,142883801,"UW",1,209749,90093
+9,17WINT-All-Weekday-01,142883901,"UW",1,209615,90093
+9,17WINT-All-Weekday-01,142884001,"UW",1,209773,90093
+9,17WINT-All-Weekday-01,142884101,"UW",1,209641,90093
+9,17WINT-All-Weekday-01,142884201,"UW",1,209643,90093
+9,17WINT-All-Weekday-01,142884301,"UW",1,209745,90093
+9,17WINT-All-Weekday-01,142884401,"UW",1,209645,90093
+9,17WINT-All-Weekday-01,142884501,"UW",1,209745,90093
+9,17WINT-All-Weekday-01,142884601,"UW",1,209775,90093
+9,17WINT-All-Weekday-01,142884701,"UW",1,209747,90093
+9,17WINT-All-Weekday-01,142884801,"UW",1,209749,90093
+9,17WINT-All-Weekday-01,142884901,"UW",1,209641,90093
+9,17WINT-All-Weekday-01,142885001,"UW",1,209746,90093
+9,17WINT-All-Weekday-01,142885101,"UW",1,209745,90093
+9,17WINT-All-Weekday-01,142885201,"UW",1,209747,90093
+9,17WINT-All-Weekday-01,142885301,"UW",1,209615,90093
+9,17WINT-All-Weekday-01,142885401,"UW",1,209745,90093
+9,17WINT-All-Weekday-01,142885501,"UW",1,209747,90093
 9,17WINT-All-Weekday-01,142885601,"UW",1,209777,90067
 9,17WINT-All-Weekday-01,142885701,"UW",1,209776,90067
 9,17WINT-All-Weekday-01,142885801,"UW",1,209779,90067
 9,17WINT-All-Weekday-01,142885901,"UW",1,209776,90067
 9,17WINT-All-Weekday-01,142886001,"UW",1,209774,90068
 9,17WINT-All-Weekday-01,142886101,"UW",1,209777,90069
-9,17WINT-All-Weekday-01,142886201,"UW",1,209615,90087
+9,17WINT-All-Weekday-01,142886201,"UW",1,209615,90093
 9,17WINT-All-Weekday-01,142886301,"UW",1,209773,90069
 9,17WINT-All-Weekday-01,142886401,"UW",1,209773,90069
 9,17WINT-All-Weekday-01,142886501,"UW",1,209776,90069
@@ -2684,10 +2684,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,17WINT-All-Weekday-01,142886901,"UW",1,209773,90069
 9,17WINT-All-Weekday-01,142887001,"UW",1,209773,90069
 9,17WINT-All-Weekday-01,142887101,"UW",1,209776,90069
-9,17WINT-All-Weekday-01,142887201,"UW",1,209641,90087
-9,17WINT-All-Weekday-01,142887301,"UW",1,209747,90087
-9,17WINT-All-Weekday-01,142887401,"UW",1,209620,90087
-9,17WINT-All-Weekday-01,142887501,"UW",1,209746,90087
+9,17WINT-All-Weekday-01,142887201,"UW",1,209641,90093
+9,17WINT-All-Weekday-01,142887301,"UW",1,209747,90093
+9,17WINT-All-Weekday-01,142887401,"UW",1,209620,90093
+9,17WINT-All-Weekday-01,142887501,"UW",1,209746,90093
 9,17WINT-All-Weekday-01,142887601,"UW",1,209778,90069
 9,17WINT-All-Weekday-01,142887701,"UW",1,209778,90069
 9,17WINT-All-Weekday-01,142887801,"UW",1,209777,90069
@@ -2695,13 +2695,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,17WINT-All-Weekday-01,142888001,"UW",1,209776,90069
 9,17WINT-All-Weekday-01,142888101,"UW",1,209779,90068
 9,17WINT-All-Weekday-01,142888201,"UW",1,209772,90069
-9,17WINT-All-Weekday-01,142888301,"UW",1,209645,90087
-9,17WINT-All-Weekday-01,142888401,"UW",1,209641,90087
+9,17WINT-All-Weekday-01,142888301,"UW",1,209645,90093
+9,17WINT-All-Weekday-01,142888401,"UW",1,209641,90093
 9,17WINT-All-Weekday-01,142888501,"UW",1,209783,90069
-9,17WINT-All-Weekday-01,142888601,"UW",1,209746,90089
-21,17WINT-All-Weekday-01,142888701,"Conestoga Mall",1,209636,210005
+9,17WINT-All-Weekday-01,142888601,"UW",1,209746,90094
+21,17WINT-All-Weekday-01,142888701,"Conestoga Mall",1,209636,210008
 21,17WINT-All-Weekday-01,142888801,"Arthur/Church",0,209637,210004
-21,17WINT-All-Weekday-01,142888901,"Conestoga Mall",1,209636,210005
+21,17WINT-All-Weekday-01,142888901,"Conestoga Mall",1,209636,210008
 21,17WINT-All-Weekday-01,142889001,"Arthur/Church",0,209636,210004
 21,17WINT-All-Weekday-01,142889101,"Arthur/Church",0,209636,210004
 21,17WINT-All-Weekday-01,142889201,"Arthur/Church",0,209636,210004
@@ -2718,28 +2718,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 21,17WINT-All-Weekday-01,142890301,"Arthur/Church",0,209637,210004
 21,17WINT-All-Weekday-01,142890401,"Arthur/Church",0,209636,210004
 21,17WINT-All-Weekday-01,142890501,"Arthur/Church",0,209636,210004
-21,17WINT-All-Weekday-01,142890601,"Conestoga Mall",1,209637,210005
-21,17WINT-All-Weekday-01,142890701,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142890801,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142890901,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142891001,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142891101,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142891201,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142891301,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142891401,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142891501,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142891601,"Conestoga Mall",1,210142,210005
-21,17WINT-All-Weekday-01,142891701,"Conestoga Mall",1,210142,210005
-21,17WINT-All-Weekday-01,142891801,"Conestoga Mall",1,210142,210005
-21,17WINT-All-Weekday-01,142891901,"Conestoga Mall",1,210142,210005
-21,17WINT-All-Weekday-01,142892001,"Conestoga Mall",1,209637,210005
-21,17WINT-All-Weekday-01,142892101,"Conestoga Mall",1,209637,210005
-21,17WINT-All-Weekday-01,142892201,"Conestoga Mall",1,209636,210005
+21,17WINT-All-Weekday-01,142890601,"Conestoga Mall",1,209637,210008
+21,17WINT-All-Weekday-01,142890701,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142890801,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142890901,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142891001,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142891101,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142891201,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142891301,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142891401,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142891501,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142891601,"Conestoga Mall",1,210142,210008
+21,17WINT-All-Weekday-01,142891701,"Conestoga Mall",1,210142,210008
+21,17WINT-All-Weekday-01,142891801,"Conestoga Mall",1,210142,210008
+21,17WINT-All-Weekday-01,142891901,"Conestoga Mall",1,210142,210008
+21,17WINT-All-Weekday-01,142892001,"Conestoga Mall",1,209637,210008
+21,17WINT-All-Weekday-01,142892101,"Conestoga Mall",1,209637,210008
+21,17WINT-All-Weekday-01,142892201,"Conestoga Mall",1,209636,210008
 21,17WINT-All-Weekday-01,142892301,"Arthur/Church",0,209636,210004
 21,17WINT-All-Weekday-01,142892401,"Arthur/Church",0,209636,210006
 21,17WINT-All-Weekday-01,142892501,"Arthur/Church",0,209636,210004
-21,17WINT-All-Weekday-01,142892601,"Conestoga Mall",1,209636,210005
-21,17WINT-All-Weekday-01,142892701,"Conestoga Mall",1,209636,210005
+21,17WINT-All-Weekday-01,142892601,"Conestoga Mall",1,209636,210008
+21,17WINT-All-Weekday-01,142892701,"Conestoga Mall",1,209636,210008
 21,17WINT-All-Weekday-01,142892801,"Arthur/Church",0,209636,210004
 55,17WINT-All-Weekday-01,142892901,"West",1,209839,550008
 55,17WINT-All-Weekday-01,142893001,"West",1,209626,550008
@@ -3222,128 +3222,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 116,17WINT-All-Weekday-01,142948501,"Forest Glen",0,209790,1160002
 116,17WINT-All-Weekday-01,142948601,"Conestoga College",1,209635,1160001
 116,17WINT-All-Weekday-01,142948701,"Conestoga College",1,209790,1160001
-52,17WINT-All-Weekday-01,142948901,"Fairview Park via Preston Parkway",0,209798,520061
-52,17WINT-All-Weekday-01,142949001,"Fairview Park via Preston Parkway",0,209796,520061
-52,17WINT-All-Weekday-01,142949101,"Fairview Park via Preston Parkway",0,209797,520061
-52,17WINT-All-Weekday-01,142949201,"Fairview Park via Preston Parkway",0,209796,520061
-52,17WINT-All-Weekday-01,142949301,"Fairview Park via Preston Parkway",0,209798,520061
-52,17WINT-All-Weekday-01,142949401,"Fairview Park via Preston Parkway",0,209797,520061
-52,17WINT-All-Weekday-01,142949501,"Fairview Park via Preston Parkway",0,209796,520061
-52,17WINT-All-Weekday-01,142949601,"Fairview Park via Preston Parkway",0,209798,520061
-52,17WINT-All-Weekday-01,142949701,"Fairview Park via Preston Parkway",0,209797,520061
-52,17WINT-All-Weekday-01,142949801,"Fairview Park via Preston Parkway",0,209796,520061
-52,17WINT-All-Weekday-01,142949901,"Fairview Park via Preston Parkway",0,209798,520061
-52,17WINT-All-Weekday-01,142950001,"Fairview Park via Preston Parkway",0,209797,520061
-52,17WINT-All-Weekday-01,142950101,"Fairview Park via Preston Parkway",0,209796,520061
-52,17WINT-All-Weekday-01,142950201,"Fairview Park via Preston Parkway",0,209798,520061
-52,17WINT-All-Weekday-01,142950301,"Fairview Park via Preston Parkway",0,209797,520061
-52,17WINT-All-Weekday-01,142950401,"Fairview Park via Preston Parkway",0,209796,520061
-52,17WINT-All-Weekday-01,142950501,"Fairview Park via Preston Parkway",0,209798,520061
-52,17WINT-All-Weekday-01,142950601,"Fairview Park via Preston Parkway",0,209797,520061
-52,17WINT-All-Weekday-01,142950701,"Fairview Park via Preston Parkway",0,210173,520061
-52,17WINT-All-Weekday-01,142950801,"Fairview Park via Preston Parkway",0,209795,520061
-52,17WINT-All-Weekday-01,142950901,"Fairview Park via Preston Parkway",0,209799,520061
-52,17WINT-All-Weekday-01,142951001,"Fairview Park via Preston Parkway",0,209794,520061
-52,17WINT-All-Weekday-01,142951101,"Fairview Park via Preston Parkway",0,209796,520061
-52,17WINT-All-Weekday-01,142951201,"Fairview Park via Preston Parkway",0,209799,520061
-52,17WINT-All-Weekday-01,142951301,"Fairview Park via Preston Parkway",0,209794,520061
-52,17WINT-All-Weekday-01,142951401,"Fairview Park via Preston Parkway",0,209795,520061
-52,17WINT-All-Weekday-01,142951501,"Fairview Park via Preston Parkway",0,209799,520061
-52,17WINT-All-Weekday-01,142951601,"Fairview Park via Preston Parkway",0,209794,520061
-52,17WINT-All-Weekday-01,142951701,"Fairview Park via Preston Parkway",0,209795,520061
-52,17WINT-All-Weekday-01,142951801,"Fairview Park via Preston Parkway",0,209799,520061
-52,17WINT-All-Weekday-01,142951901,"Fairview Park via Preston Parkway",0,209794,520061
-52,17WINT-All-Weekday-01,142952001,"Fairview Park via Preston Parkway",0,209795,520061
-52,17WINT-All-Weekday-01,142952101,"Fairview Park via Preston Parkway",0,209799,520061
-52,17WINT-All-Weekday-01,142952201,"Fairview Park via Preston Parkway",0,209794,520061
-52,17WINT-All-Weekday-01,142952301,"Fairview Park via Preston Parkway",0,209795,520061
-52,17WINT-All-Weekday-01,142952401,"Fairview Park via Preston Parkway",0,209799,520061
-52,17WINT-All-Weekday-01,142952501,"Ainslie Terminal via Preston Parkway",1,209795,520071
-52,17WINT-All-Weekday-01,142952601,"Ainslie Terminal via Preston Parkway",1,209795,520072
-52,17WINT-All-Weekday-01,142952701,"Ainslie Terminal via Preston Parkway",1,209794,520072
-52,17WINT-All-Weekday-01,142952801,"Ainslie Terminal via Preston Parkway",1,209795,520072
-52,17WINT-All-Weekday-01,142952901,"Ainslie Terminal via Preston Parkway",1,209799,520072
-52,17WINT-All-Weekday-01,142953001,"Ainslie Terminal via Preston Parkway",1,209794,520072
-52,17WINT-All-Weekday-01,142953101,"Ainslie Terminal via Preston Parkway",1,209795,520072
-52,17WINT-All-Weekday-01,142953201,"Ainslie Terminal via Preston Parkway",1,209799,520072
-52,17WINT-All-Weekday-01,142953301,"Ainslie Terminal via Preston Parkway",1,209794,520072
-52,17WINT-All-Weekday-01,142953401,"Ainslie Terminal via Preston Parkway",1,209795,520072
-52,17WINT-All-Weekday-01,142953501,"Ainslie Terminal via Preston Parkway",1,209799,520072
-52,17WINT-All-Weekday-01,142953601,"Ainslie Terminal via Preston Parkway",1,209794,520072
-52,17WINT-All-Weekday-01,142953701,"Ainslie Terminal via Preston Parkway",1,209799,520072
-52,17WINT-All-Weekday-01,142953801,"Fairview Park via Cherry Blossom",0,209795,520062
-52,17WINT-All-Weekday-01,142953901,"Fairview Park via Cherry Blossom",0,209799,520062
-52,17WINT-All-Weekday-01,142954001,"Fairview Park via Cherry Blossom",0,209794,520062
-52,17WINT-All-Weekday-01,142954101,"Fairview Park via Cherry Blossom",0,209795,520062
-52,17WINT-All-Weekday-01,142954201,"Fairview Park via Cherry Blossom",0,209799,520062
-52,17WINT-All-Weekday-01,142954301,"Fairview Park via Cherry Blossom",0,209794,520062
-52,17WINT-All-Weekday-01,142954401,"Fairview Park via Cherry Blossom",0,209795,520062
-52,17WINT-All-Weekday-01,142954501,"Fairview Park via Cherry Blossom",0,209799,520062
-52,17WINT-All-Weekday-01,142954601,"Fairview Park via Cherry Blossom",0,209794,520062
-52,17WINT-All-Weekday-01,142954701,"Fairview Park via Cherry Blossom",0,209795,520062
-52,17WINT-All-Weekday-01,142954801,"Fairview Park via Cherry Blossom",0,209799,520062
-52,17WINT-All-Weekday-01,142954901,"Fairview Park via Cherry Blossom",0,209794,520062
-52,17WINT-All-Weekday-01,142955001,"Fairview Park via Cherry Blossom",0,209795,520062
-52,17WINT-All-Weekday-01,142955101,"Fairview Park via Cherry Blossom",0,209799,520062
-52,17WINT-All-Weekday-01,142955201,"Fairview Park via Cherry Blossom",0,209794,520062
-52,17WINT-All-Weekday-01,142955301,"Fairview Park via Cherry Blossom",0,209795,520062
-52,17WINT-All-Weekday-01,142955401,"Fairview Park via Cherry Blossom",0,209799,520062
-52,17WINT-All-Weekday-01,142955501,"Fairview Park via Cherry Blossom",0,209794,520062
-52,17WINT-All-Weekday-01,142955601,"Fairview Park via Cherry Blossom",0,209796,520062
-52,17WINT-All-Weekday-01,142955701,"Fairview Park via Cherry Blossom",0,209798,520062
-52,17WINT-All-Weekday-01,142955801,"Fairview Park via Cherry Blossom",0,209797,520062
-52,17WINT-All-Weekday-01,142955901,"Fairview Park via Cherry Blossom",0,210173,520062
-52,17WINT-All-Weekday-01,142956001,"Fairview Park via Cherry Blossom",0,209795,520062
-52,17WINT-All-Weekday-01,142956101,"Ainslie Terminal via Cherry Blossom",1,209799,520073
-52,17WINT-All-Weekday-01,142956201,"Fairview Park via Cherry Blossom",0,209794,520062
-52,17WINT-All-Weekday-01,142956301,"Ainslie Terminal via Preston Parkway",1,209795,520072
-52,17WINT-All-Weekday-01,142956401,"Fairview Park via Preston Parkway",0,209799,520022
-52,17WINT-All-Weekday-01,142956501,"Ainslie Terminal via Cherry Blossom",1,209794,520073
-52,17WINT-All-Weekday-01,142956601,"Ainslie Terminal via Cherry Blossom",1,209795,520073
-52,17WINT-All-Weekday-01,142956701,"Ainslie Terminal via Cherry Blossom",1,209799,520073
-52,17WINT-All-Weekday-01,142956801,"Ainslie Terminal via Cherry Blossom",1,209794,520073
-52,17WINT-All-Weekday-01,142956901,"Ainslie Terminal via Cherry Blossom",1,209795,520073
-52,17WINT-All-Weekday-01,142957001,"Ainslie Terminal via Cherry Blossom",1,209799,520073
-52,17WINT-All-Weekday-01,142957101,"Ainslie Terminal via Cherry Blossom",1,209794,520073
-52,17WINT-All-Weekday-01,142957201,"Ainslie Terminal via Cherry Blossom",1,209795,520073
-52,17WINT-All-Weekday-01,142957301,"Ainslie Terminal via Cherry Blossom",1,209799,520073
-52,17WINT-All-Weekday-01,142957401,"Ainslie Terminal via Cherry Blossom",1,209794,520073
-52,17WINT-All-Weekday-01,142957501,"Ainslie Terminal via Cherry Blossom",1,209795,520073
-52,17WINT-All-Weekday-01,142957601,"Ainslie Terminal via Cherry Blossom",1,209799,520073
-52,17WINT-All-Weekday-01,142957701,"Ainslie Terminal via Cherry Blossom",1,209794,520073
-52,17WINT-All-Weekday-01,142957801,"Ainslie Terminal via Cherry Blossom",1,209795,520073
-52,17WINT-All-Weekday-01,142957901,"Ainslie Terminal via Cherry Blossom",1,209799,520073
-52,17WINT-All-Weekday-01,142958001,"Ainslie Terminal via Cherry Blossom",1,209794,520073
-52,17WINT-All-Weekday-01,142958101,"Ainslie Terminal via Cherry Blossom",1,209795,520073
-52,17WINT-All-Weekday-01,142958201,"Ainslie Terminal via Preston Parkway",1,209797,520072
-52,17WINT-All-Weekday-01,142958301,"Ainslie Terminal via Preston Parkway",1,209796,520072
-52,17WINT-All-Weekday-01,142958401,"Ainslie Terminal via Preston Parkway",1,209798,520072
-52,17WINT-All-Weekday-01,142958501,"Ainslie Terminal via Preston Parkway",1,209797,520072
-52,17WINT-All-Weekday-01,142958601,"Ainslie Terminal via Preston Parkway",1,209796,520072
-52,17WINT-All-Weekday-01,142958701,"Ainslie Terminal via Preston Parkway",1,209798,520072
-52,17WINT-All-Weekday-01,142958801,"Ainslie Terminal via Preston Parkway",1,209797,520072
-52,17WINT-All-Weekday-01,142958901,"Ainslie Terminal via Preston Parkway",1,209796,520072
-52,17WINT-All-Weekday-01,142959001,"Ainslie Terminal via Preston Parkway",1,209798,520072
-52,17WINT-All-Weekday-01,142959101,"Ainslie Terminal via Preston Parkway",1,209797,520072
-52,17WINT-All-Weekday-01,142959201,"Ainslie Terminal via Preston Parkway",1,209796,520072
-52,17WINT-All-Weekday-01,142959301,"Ainslie Terminal via Preston Parkway",1,209798,520072
-52,17WINT-All-Weekday-01,142959401,"Ainslie Terminal via Preston Parkway",1,209797,520072
-52,17WINT-All-Weekday-01,142959501,"Ainslie Terminal via Preston Parkway",1,209796,520072
-52,17WINT-All-Weekday-01,142959601,"Ainslie Terminal via Preston Parkway",1,209798,520072
-52,17WINT-All-Weekday-01,142959701,"Ainslie Terminal via Preston Parkway",1,209797,520072
-52,17WINT-All-Weekday-01,142959801,"Ainslie Terminal via Preston Parkway",1,209796,520072
-52,17WINT-All-Weekday-01,142959901,"Ainslie Terminal via Preston Parkway",1,209798,520072
-52,17WINT-All-Weekday-01,142960001,"Ainslie Terminal via Cherry Blossom",1,209799,520073
-52,17WINT-All-Weekday-01,142960101,"Ainslie Terminal via Cherry Blossom",1,209794,520073
-52,17WINT-All-Weekday-01,142960201,"Ainslie Terminal via Cherry Blossom",1,209796,520073
-52,17WINT-All-Weekday-01,142960301,"Ainslie Terminal via Cherry Blossom",1,209798,520073
-52,17WINT-All-Weekday-01,142960401,"Ainslie Terminal via Cherry Blossom",1,209797,520073
-52,17WINT-All-Weekday-01,142960501,"Ainslie Terminal via Cherry Blossom",1,210173,520073
-52,17WINT-All-Weekday-01,142960601,"Ainslie Terminal via Cherry Blossom",1,209797,520072
-52,17WINT-All-Weekday-01,142960701,"Ainslie Terminal via Preston Parkway",1,210173,520072
-52,17WINT-All-Weekday-01,142960801,"Ainslie Terminal via Preston Parkway",1,209795,520072
-52,17WINT-All-Weekday-01,142960901,"Ainslie Terminal via Preston Parkway",1,209799,520072
-52,17WINT-All-Weekday-01,142961001,"Ainslie Terminal via Preston Parkway",1,209794,520072
 203,17WINT-All-Weekday-01,143440701,"Sportsworld",0,210169,2030040
 203,17WINT-All-Weekday-01,143440801,"Sportsworld",0,210172,2030040
 203,17WINT-All-Weekday-01,143440901,"Sportsworld",0,210168,2030040
@@ -3717,6 +3595,128 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 75,17WINT-All-Weekday-01,145019701,"East",0,210168,750008
 75,17WINT-All-Weekday-01,145019801,"East",0,210168,750008
 75,17WINT-All-Weekday-01,145019901,"East",0,210169,750008
+52,17WINT-All-Weekday-01,145020201,"Fairview Park via Preston Parkway",0,209798,520061
+52,17WINT-All-Weekday-01,145020301,"Fairview Park via Preston Parkway",0,209796,520061
+52,17WINT-All-Weekday-01,145020401,"Fairview Park via Preston Parkway",0,209797,520061
+52,17WINT-All-Weekday-01,145020501,"Fairview Park via Preston Parkway",0,209796,520061
+52,17WINT-All-Weekday-01,145020601,"Fairview Park via Preston Parkway",0,209798,520061
+52,17WINT-All-Weekday-01,145020701,"Fairview Park via Preston Parkway",0,209797,520061
+52,17WINT-All-Weekday-01,145020801,"Fairview Park via Preston Parkway",0,209796,520061
+52,17WINT-All-Weekday-01,145020901,"Fairview Park via Preston Parkway",0,209798,520061
+52,17WINT-All-Weekday-01,145021001,"Fairview Park via Preston Parkway",0,209797,520061
+52,17WINT-All-Weekday-01,145021101,"Fairview Park via Preston Parkway",0,209796,520061
+52,17WINT-All-Weekday-01,145021201,"Fairview Park via Preston Parkway",0,209798,520061
+52,17WINT-All-Weekday-01,145021301,"Fairview Park via Preston Parkway",0,209797,520061
+52,17WINT-All-Weekday-01,145021401,"Fairview Park via Preston Parkway",0,209796,520061
+52,17WINT-All-Weekday-01,145021501,"Fairview Park via Preston Parkway",0,209798,520061
+52,17WINT-All-Weekday-01,145021601,"Fairview Park via Preston Parkway",0,209797,520061
+52,17WINT-All-Weekday-01,145021701,"Fairview Park via Preston Parkway",0,209796,520061
+52,17WINT-All-Weekday-01,145021801,"Fairview Park via Preston Parkway",0,209798,520061
+52,17WINT-All-Weekday-01,145021901,"Fairview Park via Preston Parkway",0,209797,520061
+52,17WINT-All-Weekday-01,145022001,"Fairview Park via Preston Parkway",0,210173,520061
+52,17WINT-All-Weekday-01,145022101,"Fairview Park via Preston Parkway",0,209795,520061
+52,17WINT-All-Weekday-01,145022201,"Fairview Park via Preston Parkway",0,209799,520061
+52,17WINT-All-Weekday-01,145022301,"Fairview Park via Preston Parkway",0,209794,520061
+52,17WINT-All-Weekday-01,145022401,"Fairview Park via Preston Parkway",0,209796,520061
+52,17WINT-All-Weekday-01,145022501,"Fairview Park via Preston Parkway",0,209799,520061
+52,17WINT-All-Weekday-01,145022601,"Fairview Park via Preston Parkway",0,209794,520061
+52,17WINT-All-Weekday-01,145022701,"Fairview Park via Preston Parkway",0,209795,520061
+52,17WINT-All-Weekday-01,145022801,"Fairview Park via Preston Parkway",0,209799,520061
+52,17WINT-All-Weekday-01,145022901,"Fairview Park via Preston Parkway",0,209794,520061
+52,17WINT-All-Weekday-01,145023001,"Fairview Park via Preston Parkway",0,209795,520061
+52,17WINT-All-Weekday-01,145023101,"Fairview Park via Preston Parkway",0,209799,520061
+52,17WINT-All-Weekday-01,145023201,"Fairview Park via Preston Parkway",0,209794,520061
+52,17WINT-All-Weekday-01,145023301,"Fairview Park via Preston Parkway",0,209795,520061
+52,17WINT-All-Weekday-01,145023401,"Fairview Park via Preston Parkway",0,209799,520061
+52,17WINT-All-Weekday-01,145023601,"Fairview Park via Preston Parkway",0,209795,520061
+52,17WINT-All-Weekday-01,145023701,"Fairview Park via Preston Parkway",0,209799,520061
+52,17WINT-All-Weekday-01,145023801,"Ainslie Terminal via Preston Parkway",1,209795,520019
+52,17WINT-All-Weekday-01,145023901,"Ainslie Terminal via Preston Parkway",1,209795,520017
+52,17WINT-All-Weekday-01,145024001,"Ainslie Terminal via Preston Parkway",1,209794,520017
+52,17WINT-All-Weekday-01,145024101,"Ainslie Terminal via Preston Parkway",1,209795,520017
+52,17WINT-All-Weekday-01,145024201,"Ainslie Terminal via Preston Parkway",1,209799,520017
+52,17WINT-All-Weekday-01,145024301,"Ainslie Terminal via Preston Parkway",1,209794,520017
+52,17WINT-All-Weekday-01,145024401,"Ainslie Terminal via Preston Parkway",1,209795,520017
+52,17WINT-All-Weekday-01,145024501,"Ainslie Terminal via Preston Parkway",1,209799,520017
+52,17WINT-All-Weekday-01,145024601,"Ainslie Terminal via Preston Parkway",1,209794,520017
+52,17WINT-All-Weekday-01,145024701,"Ainslie Terminal via Preston Parkway",1,209795,520017
+52,17WINT-All-Weekday-01,145024801,"Ainslie Terminal via Preston Parkway",1,209799,520017
+52,17WINT-All-Weekday-01,145024901,"Ainslie Terminal via Preston Parkway",1,209794,520017
+52,17WINT-All-Weekday-01,145025001,"Ainslie Terminal via Preston Parkway",1,209799,520017
+52,17WINT-All-Weekday-01,145025101,"Fairview Park via Cherry Blossom",0,209795,520062
+52,17WINT-All-Weekday-01,145025201,"Fairview Park via Cherry Blossom",0,209799,520062
+52,17WINT-All-Weekday-01,145025301,"Fairview Park via Cherry Blossom",0,209794,520062
+52,17WINT-All-Weekday-01,145025401,"Fairview Park via Cherry Blossom",0,209795,520062
+52,17WINT-All-Weekday-01,145025501,"Fairview Park via Cherry Blossom",0,209799,520062
+52,17WINT-All-Weekday-01,145025601,"Fairview Park via Cherry Blossom",0,209794,520062
+52,17WINT-All-Weekday-01,145025701,"Fairview Park via Cherry Blossom",0,209795,520062
+52,17WINT-All-Weekday-01,145025801,"Fairview Park via Cherry Blossom",0,209799,520062
+52,17WINT-All-Weekday-01,145025901,"Fairview Park via Cherry Blossom",0,209794,520062
+52,17WINT-All-Weekday-01,145026001,"Fairview Park via Cherry Blossom",0,209795,520062
+52,17WINT-All-Weekday-01,145026101,"Fairview Park via Cherry Blossom",0,209799,520062
+52,17WINT-All-Weekday-01,145026201,"Fairview Park via Cherry Blossom",0,209794,520062
+52,17WINT-All-Weekday-01,145026301,"Fairview Park via Cherry Blossom",0,209795,520062
+52,17WINT-All-Weekday-01,145026401,"Fairview Park via Cherry Blossom",0,209799,520062
+52,17WINT-All-Weekday-01,145026501,"Fairview Park via Cherry Blossom",0,209794,520062
+52,17WINT-All-Weekday-01,145026601,"Fairview Park via Cherry Blossom",0,209795,520062
+52,17WINT-All-Weekday-01,145026701,"Fairview Park via Cherry Blossom",0,209799,520062
+52,17WINT-All-Weekday-01,145026801,"Fairview Park via Cherry Blossom",0,209794,520062
+52,17WINT-All-Weekday-01,145026901,"Fairview Park via Cherry Blossom",0,209796,520062
+52,17WINT-All-Weekday-01,145027001,"Fairview Park via Cherry Blossom",0,209798,520062
+52,17WINT-All-Weekday-01,145027101,"Fairview Park via Cherry Blossom",0,209797,520062
+52,17WINT-All-Weekday-01,145027201,"Fairview Park via Cherry Blossom",0,210173,520062
+52,17WINT-All-Weekday-01,145027301,"Fairview Park via Cherry Blossom",0,209795,520062
+52,17WINT-All-Weekday-01,145027401,"Ainslie Terminal via Cherry Blossom",1,209799,520074
+52,17WINT-All-Weekday-01,145027501,"Fairview Park via Cherry Blossom",0,209794,520062
+52,17WINT-All-Weekday-01,145027601,"Ainslie Terminal via Preston Parkway",1,209795,520017
+52,17WINT-All-Weekday-01,145027701,"Fairview Park via Preston Parkway",0,209799,520022
+52,17WINT-All-Weekday-01,145027801,"Ainslie Terminal via Cherry Blossom",1,209794,520074
+52,17WINT-All-Weekday-01,145027901,"Ainslie Terminal via Cherry Blossom",1,209795,520074
+52,17WINT-All-Weekday-01,145028001,"Ainslie Terminal via Cherry Blossom",1,209799,520074
+52,17WINT-All-Weekday-01,145028101,"Ainslie Terminal via Cherry Blossom",1,209794,520074
+52,17WINT-All-Weekday-01,145028201,"Ainslie Terminal via Cherry Blossom",1,209795,520074
+52,17WINT-All-Weekday-01,145028301,"Ainslie Terminal via Cherry Blossom",1,209799,520074
+52,17WINT-All-Weekday-01,145028401,"Ainslie Terminal via Cherry Blossom",1,209794,520074
+52,17WINT-All-Weekday-01,145028501,"Ainslie Terminal via Cherry Blossom",1,209795,520074
+52,17WINT-All-Weekday-01,145028601,"Ainslie Terminal via Cherry Blossom",1,209799,520074
+52,17WINT-All-Weekday-01,145028701,"Ainslie Terminal via Cherry Blossom",1,209794,520074
+52,17WINT-All-Weekday-01,145028801,"Ainslie Terminal via Cherry Blossom",1,209795,520074
+52,17WINT-All-Weekday-01,145028901,"Ainslie Terminal via Cherry Blossom",1,209799,520074
+52,17WINT-All-Weekday-01,145029001,"Ainslie Terminal via Cherry Blossom",1,209794,520074
+52,17WINT-All-Weekday-01,145029101,"Ainslie Terminal via Cherry Blossom",1,209795,520074
+52,17WINT-All-Weekday-01,145029201,"Ainslie Terminal via Cherry Blossom",1,209799,520074
+52,17WINT-All-Weekday-01,145029301,"Ainslie Terminal via Cherry Blossom",1,209794,520074
+52,17WINT-All-Weekday-01,145029401,"Ainslie Terminal via Cherry Blossom",1,209795,520074
+52,17WINT-All-Weekday-01,145029501,"Ainslie Terminal via Preston Parkway",1,209797,520017
+52,17WINT-All-Weekday-01,145029601,"Ainslie Terminal via Preston Parkway",1,209796,520017
+52,17WINT-All-Weekday-01,145029701,"Ainslie Terminal via Preston Parkway",1,209798,520017
+52,17WINT-All-Weekday-01,145029801,"Ainslie Terminal via Preston Parkway",1,209797,520017
+52,17WINT-All-Weekday-01,145029901,"Ainslie Terminal via Preston Parkway",1,209796,520017
+52,17WINT-All-Weekday-01,145030001,"Ainslie Terminal via Preston Parkway",1,209798,520017
+52,17WINT-All-Weekday-01,145030101,"Ainslie Terminal via Preston Parkway",1,209797,520017
+52,17WINT-All-Weekday-01,145030201,"Ainslie Terminal via Preston Parkway",1,209796,520017
+52,17WINT-All-Weekday-01,145030301,"Ainslie Terminal via Preston Parkway",1,209798,520017
+52,17WINT-All-Weekday-01,145030401,"Ainslie Terminal via Preston Parkway",1,209797,520017
+52,17WINT-All-Weekday-01,145030501,"Ainslie Terminal via Preston Parkway",1,209796,520017
+52,17WINT-All-Weekday-01,145030601,"Ainslie Terminal via Preston Parkway",1,209798,520017
+52,17WINT-All-Weekday-01,145030701,"Ainslie Terminal via Preston Parkway",1,209797,520017
+52,17WINT-All-Weekday-01,145030801,"Ainslie Terminal via Preston Parkway",1,209796,520017
+52,17WINT-All-Weekday-01,145030901,"Ainslie Terminal via Preston Parkway",1,209798,520017
+52,17WINT-All-Weekday-01,145031001,"Ainslie Terminal via Preston Parkway",1,209797,520017
+52,17WINT-All-Weekday-01,145031101,"Ainslie Terminal via Preston Parkway",1,209796,520017
+52,17WINT-All-Weekday-01,145031201,"Ainslie Terminal via Preston Parkway",1,209798,520017
+52,17WINT-All-Weekday-01,145031301,"Ainslie Terminal via Cherry Blossom",1,209799,520074
+52,17WINT-All-Weekday-01,145031401,"Ainslie Terminal via Cherry Blossom",1,209794,520074
+52,17WINT-All-Weekday-01,145031501,"Ainslie Terminal via Cherry Blossom",1,209796,520074
+52,17WINT-All-Weekday-01,145031601,"Ainslie Terminal via Cherry Blossom",1,209798,520074
+52,17WINT-All-Weekday-01,145031701,"Ainslie Terminal via Cherry Blossom",1,209797,520074
+52,17WINT-All-Weekday-01,145031801,"Ainslie Terminal via Cherry Blossom",1,210173,520074
+52,17WINT-All-Weekday-01,145031901,"Ainslie Terminal via Cherry Blossom",1,209797,520017
+52,17WINT-All-Weekday-01,145032001,"Ainslie Terminal via Preston Parkway",1,210173,520017
+52,17WINT-All-Weekday-01,145032101,"Ainslie Terminal via Preston Parkway",1,209795,520017
+52,17WINT-All-Weekday-01,145032201,"Ainslie Terminal via Preston Parkway",1,209799,520017
+52,17WINT-All-Weekday-01,145032301,"Ainslie Terminal via Preston Parkway",1,209794,520017
+52,17WINT-All-Weekday-01,145032401,"Fairview Park via Preston Parkway",0,209794,520062
 51,17WINT-All-Saturday-01,143028851,"B - Melran",1,210030,510038
 51,17WINT-All-Saturday-01,143028951,"B - Melran",1,210031,510038
 51,17WINT-All-Saturday-01,143029051,"B - Melran",1,210029,510038
@@ -3857,70 +3857,70 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Saturday-01,143042551,"D - UW via University",0,210015,70210
 7,17WINT-All-Saturday-01,143042651,"D - UW via University",0,210016,70210
 7,17WINT-All-Saturday-01,143042751,"D - UW via University",0,210014,70210
-7,17WINT-All-Saturday-01,143042851,"C - Conestoga Mall",0,210010,70206
-7,17WINT-All-Saturday-01,143042951,"C - Conestoga Mall",0,210022,70206
-7,17WINT-All-Saturday-01,143043051,"C - Conestoga Mall",0,210018,70206
-7,17WINT-All-Saturday-01,143043151,"C - Conestoga Mall",0,210021,70206
-7,17WINT-All-Saturday-01,143043251,"C - Conestoga Mall",0,210023,70206
-7,17WINT-All-Saturday-01,143043351,"C - Conestoga Mall",0,210013,70206
-7,17WINT-All-Saturday-01,143043451,"C - Conestoga Mall",0,210012,70206
-7,17WINT-All-Saturday-01,143043551,"C - Conestoga Mall",0,210011,70206
-7,17WINT-All-Saturday-01,143043651,"C - Conestoga Mall",0,210017,70206
-7,17WINT-All-Saturday-01,143043751,"C - Conestoga Mall",0,210015,70206
-7,17WINT-All-Saturday-01,143043851,"C - Conestoga Mall",0,210016,70206
-7,17WINT-All-Saturday-01,143043951,"C - Conestoga Mall",0,210014,70206
-7,17WINT-All-Saturday-01,143044051,"C - Conestoga Mall",0,210009,70206
-7,17WINT-All-Saturday-01,143044151,"C - Conestoga Mall",0,210010,70206
-7,17WINT-All-Saturday-01,143044251,"C - Conestoga Mall",0,210022,70206
-7,17WINT-All-Saturday-01,143044351,"C - Conestoga Mall",0,210018,70206
-7,17WINT-All-Saturday-01,143044451,"C - Conestoga Mall",0,210021,70206
-7,17WINT-All-Saturday-01,143044551,"C - Conestoga Mall",0,210023,70206
-7,17WINT-All-Saturday-01,143044651,"C - Conestoga Mall",0,210013,70206
-7,17WINT-All-Saturday-01,143044751,"C - Conestoga Mall",0,210012,70206
-7,17WINT-All-Saturday-01,143044851,"C - Conestoga Mall",0,210011,70206
-7,17WINT-All-Saturday-01,143044951,"A - Fairview Park via Connaught",1,210014,70207
-7,17WINT-All-Saturday-01,143045051,"A - Fairview Park via Connaught",1,210009,70207
-7,17WINT-All-Saturday-01,143045151,"A - Fairview Park via Connaught",1,210010,70207
-7,17WINT-All-Saturday-01,143045251,"A - Fairview Park via Connaught",1,210022,70207
-7,17WINT-All-Saturday-01,143045351,"A - Fairview Park via Connaught",1,210018,70207
-7,17WINT-All-Saturday-01,143045451,"A - Fairview Park via Connaught",1,210021,70207
-7,17WINT-All-Saturday-01,143045551,"A - Fairview Park via Connaught",1,210023,70207
-7,17WINT-All-Saturday-01,143045651,"A - Fairview Park via Connaught",1,210013,70207
-7,17WINT-All-Saturday-01,143045751,"A - Fairview Park via Connaught",1,210012,70207
-7,17WINT-All-Saturday-01,143045851,"A - Fairview Park via Connaught",1,210011,70207
-7,17WINT-All-Saturday-01,143045951,"A - Fairview Park via Connaught",1,210017,70207
-7,17WINT-All-Saturday-01,143046051,"A - Fairview Park via Connaught",1,210015,70207
-7,17WINT-All-Saturday-01,143046151,"A - Fairview Park via Connaught",1,210016,70207
-7,17WINT-All-Saturday-01,143046251,"A - Fairview Park via Connaught",1,210014,70207
-7,17WINT-All-Saturday-01,143046351,"A - Fairview Park via Connaught",1,210009,70207
-7,17WINT-All-Saturday-01,143046451,"A - Fairview Park via Connaught",1,210010,70207
-7,17WINT-All-Saturday-01,143046551,"A - Fairview Park via Connaught",1,210022,70207
-7,17WINT-All-Saturday-01,143046651,"A - Fairview Park via Connaught",1,210018,70207
-7,17WINT-All-Saturday-01,143046751,"A - Fairview Park via Connaught",1,210021,70207
-7,17WINT-All-Saturday-01,143046851,"A - Fairview Park via Connaught",1,210023,70207
-7,17WINT-All-Saturday-01,143046951,"A - Fairview Park via Connaught",1,210013,70207
-7,17WINT-All-Saturday-01,143047051,"A - Fairview Park via Connaught",1,210012,70211
-7,17WINT-All-Saturday-01,143047151,"C - Conestoga Mall",0,210017,70201
-7,17WINT-All-Saturday-01,143047251,"C - Conestoga Mall",0,210015,70201
-7,17WINT-All-Saturday-01,143047351,"C - Conestoga Mall",0,210016,70212
-7,17WINT-All-Saturday-01,143047451,"C - Conestoga Mall",0,210014,70212
-7,17WINT-All-Saturday-01,143047551,"C - Conestoga Mall",0,210009,70212
-7,17WINT-All-Saturday-01,143047651,"C - Conestoga Mall",0,210010,70212
-7,17WINT-All-Saturday-01,143047751,"C - Conestoga Mall",0,210022,70212
-7,17WINT-All-Saturday-01,143047851,"C - Conestoga Mall",0,210018,70212
-7,17WINT-All-Saturday-01,143047951,"C - Conestoga Mall",0,210021,70212
-7,17WINT-All-Saturday-01,143048051,"C - Conestoga Mall",0,210023,70212
-7,17WINT-All-Saturday-01,143048151,"C - Conestoga Mall",0,210013,70212
-7,17WINT-All-Saturday-01,143048251,"C - Conestoga Mall",0,210012,70212
-7,17WINT-All-Saturday-01,143048351,"C - Conestoga Mall",0,210011,70212
-7,17WINT-All-Saturday-01,143048451,"C - Conestoga Mall",0,210017,70212
-7,17WINT-All-Saturday-01,143048551,"C - Conestoga Mall",0,210015,70212
-7,17WINT-All-Saturday-01,143048651,"C - Conestoga Mall",0,210016,70212
-7,17WINT-All-Saturday-01,143048751,"C - Conestoga Mall",0,210014,70212
-7,17WINT-All-Saturday-01,143048851,"C - Conestoga Mall",0,210009,70212
-7,17WINT-All-Saturday-01,143048951,"C - Conestoga Mall",0,210010,70212
-7,17WINT-All-Saturday-01,143049051,"C - Conestoga Mall",0,210022,70212
-7,17WINT-All-Saturday-01,143049151,"C - Conestoga Mall",0,210018,70212
+7,17WINT-All-Saturday-01,143042851,"C - Conestoga Mall",0,210010,70258
+7,17WINT-All-Saturday-01,143042951,"C - Conestoga Mall",0,210022,70258
+7,17WINT-All-Saturday-01,143043051,"C - Conestoga Mall",0,210018,70258
+7,17WINT-All-Saturday-01,143043151,"C - Conestoga Mall",0,210021,70258
+7,17WINT-All-Saturday-01,143043251,"C - Conestoga Mall",0,210023,70258
+7,17WINT-All-Saturday-01,143043351,"C - Conestoga Mall",0,210013,70258
+7,17WINT-All-Saturday-01,143043451,"C - Conestoga Mall",0,210012,70258
+7,17WINT-All-Saturday-01,143043551,"C - Conestoga Mall",0,210011,70258
+7,17WINT-All-Saturday-01,143043651,"C - Conestoga Mall",0,210017,70258
+7,17WINT-All-Saturday-01,143043751,"C - Conestoga Mall",0,210015,70258
+7,17WINT-All-Saturday-01,143043851,"C - Conestoga Mall",0,210016,70258
+7,17WINT-All-Saturday-01,143043951,"C - Conestoga Mall",0,210014,70258
+7,17WINT-All-Saturday-01,143044051,"C - Conestoga Mall",0,210009,70258
+7,17WINT-All-Saturday-01,143044151,"C - Conestoga Mall",0,210010,70258
+7,17WINT-All-Saturday-01,143044251,"C - Conestoga Mall",0,210022,70258
+7,17WINT-All-Saturday-01,143044351,"C - Conestoga Mall",0,210018,70258
+7,17WINT-All-Saturday-01,143044451,"C - Conestoga Mall",0,210021,70258
+7,17WINT-All-Saturday-01,143044551,"C - Conestoga Mall",0,210023,70258
+7,17WINT-All-Saturday-01,143044651,"C - Conestoga Mall",0,210013,70258
+7,17WINT-All-Saturday-01,143044751,"C - Conestoga Mall",0,210012,70258
+7,17WINT-All-Saturday-01,143044851,"C - Conestoga Mall",0,210011,70258
+7,17WINT-All-Saturday-01,143044951,"A - Fairview Park via Connaught",1,210014,70259
+7,17WINT-All-Saturday-01,143045051,"A - Fairview Park via Connaught",1,210009,70259
+7,17WINT-All-Saturday-01,143045151,"A - Fairview Park via Connaught",1,210010,70259
+7,17WINT-All-Saturday-01,143045251,"A - Fairview Park via Connaught",1,210022,70259
+7,17WINT-All-Saturday-01,143045351,"A - Fairview Park via Connaught",1,210018,70259
+7,17WINT-All-Saturday-01,143045451,"A - Fairview Park via Connaught",1,210021,70259
+7,17WINT-All-Saturday-01,143045551,"A - Fairview Park via Connaught",1,210023,70259
+7,17WINT-All-Saturday-01,143045651,"A - Fairview Park via Connaught",1,210013,70259
+7,17WINT-All-Saturday-01,143045751,"A - Fairview Park via Connaught",1,210012,70259
+7,17WINT-All-Saturday-01,143045851,"A - Fairview Park via Connaught",1,210011,70259
+7,17WINT-All-Saturday-01,143045951,"A - Fairview Park via Connaught",1,210017,70259
+7,17WINT-All-Saturday-01,143046051,"A - Fairview Park via Connaught",1,210015,70259
+7,17WINT-All-Saturday-01,143046151,"A - Fairview Park via Connaught",1,210016,70259
+7,17WINT-All-Saturday-01,143046251,"A - Fairview Park via Connaught",1,210014,70259
+7,17WINT-All-Saturday-01,143046351,"A - Fairview Park via Connaught",1,210009,70259
+7,17WINT-All-Saturday-01,143046451,"A - Fairview Park via Connaught",1,210010,70259
+7,17WINT-All-Saturday-01,143046551,"A - Fairview Park via Connaught",1,210022,70259
+7,17WINT-All-Saturday-01,143046651,"A - Fairview Park via Connaught",1,210018,70259
+7,17WINT-All-Saturday-01,143046751,"A - Fairview Park via Connaught",1,210021,70259
+7,17WINT-All-Saturday-01,143046851,"A - Fairview Park via Connaught",1,210023,70259
+7,17WINT-All-Saturday-01,143046951,"A - Fairview Park via Connaught",1,210013,70259
+7,17WINT-All-Saturday-01,143047051,"A - Fairview Park via Connaught",1,210012,70260
+7,17WINT-All-Saturday-01,143047151,"C - Conestoga Mall",0,210017,70255
+7,17WINT-All-Saturday-01,143047251,"C - Conestoga Mall",0,210015,70255
+7,17WINT-All-Saturday-01,143047351,"C - Conestoga Mall",0,210016,70261
+7,17WINT-All-Saturday-01,143047451,"C - Conestoga Mall",0,210014,70261
+7,17WINT-All-Saturday-01,143047551,"C - Conestoga Mall",0,210009,70261
+7,17WINT-All-Saturday-01,143047651,"C - Conestoga Mall",0,210010,70261
+7,17WINT-All-Saturday-01,143047751,"C - Conestoga Mall",0,210022,70261
+7,17WINT-All-Saturday-01,143047851,"C - Conestoga Mall",0,210018,70261
+7,17WINT-All-Saturday-01,143047951,"C - Conestoga Mall",0,210021,70261
+7,17WINT-All-Saturday-01,143048051,"C - Conestoga Mall",0,210023,70261
+7,17WINT-All-Saturday-01,143048151,"C - Conestoga Mall",0,210013,70261
+7,17WINT-All-Saturday-01,143048251,"C - Conestoga Mall",0,210012,70261
+7,17WINT-All-Saturday-01,143048351,"C - Conestoga Mall",0,210011,70261
+7,17WINT-All-Saturday-01,143048451,"C - Conestoga Mall",0,210017,70261
+7,17WINT-All-Saturday-01,143048551,"C - Conestoga Mall",0,210015,70261
+7,17WINT-All-Saturday-01,143048651,"C - Conestoga Mall",0,210016,70261
+7,17WINT-All-Saturday-01,143048751,"C - Conestoga Mall",0,210014,70261
+7,17WINT-All-Saturday-01,143048851,"C - Conestoga Mall",0,210009,70261
+7,17WINT-All-Saturday-01,143048951,"C - Conestoga Mall",0,210010,70261
+7,17WINT-All-Saturday-01,143049051,"C - Conestoga Mall",0,210022,70261
+7,17WINT-All-Saturday-01,143049151,"C - Conestoga Mall",0,210018,70261
 7,17WINT-All-Saturday-01,143049251,"E - UW via Columbia",0,210023,70216
 7,17WINT-All-Saturday-01,143049351,"E - UW via Columbia",0,210020,70216
 7,17WINT-All-Saturday-01,143049451,"D - UW via University",0,210013,70204
@@ -3935,33 +3935,33 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Saturday-01,143050351,"D - UW via University",0,210012,70204
 7,17WINT-All-Saturday-01,143050451,"D - UW via University",0,210021,70204
 7,17WINT-All-Saturday-01,143050551,"D - UW via University",0,210023,70205
-7,17WINT-All-Saturday-01,143050651,"C - Conestoga Mall",0,210015,70202
-7,17WINT-All-Saturday-01,143050751,"C - Conestoga Mall",0,210016,70202
-7,17WINT-All-Saturday-01,143050851,"C - Conestoga Mall",0,210018,70203
-7,17WINT-All-Saturday-01,143050951,"C - Conestoga Mall",0,210009,70203
-7,17WINT-All-Saturday-01,143051051,"C - Conestoga Mall",0,210015,70202
-7,17WINT-All-Saturday-01,143051151,"C - Conestoga Mall",0,210016,70202
-7,17WINT-All-Saturday-01,143051251,"C - Conestoga Mall",0,210018,70202
-7,17WINT-All-Saturday-01,143051351,"C - Conestoga Mall",0,210009,70202
-7,17WINT-All-Saturday-01,143051451,"C - Conestoga Mall",0,210015,70202
-7,17WINT-All-Saturday-01,143051551,"C - Conestoga Mall",0,210016,70202
-7,17WINT-All-Saturday-01,143051651,"C - Conestoga Mall",0,210018,70202
-7,17WINT-All-Saturday-01,143051751,"C - Conestoga Mall",0,210009,70202
+7,17WINT-All-Saturday-01,143050651,"C - Conestoga Mall",0,210015,70256
+7,17WINT-All-Saturday-01,143050751,"C - Conestoga Mall",0,210016,70256
+7,17WINT-All-Saturday-01,143050851,"C - Conestoga Mall",0,210018,70257
+7,17WINT-All-Saturday-01,143050951,"C - Conestoga Mall",0,210009,70257
+7,17WINT-All-Saturday-01,143051051,"C - Conestoga Mall",0,210015,70256
+7,17WINT-All-Saturday-01,143051151,"C - Conestoga Mall",0,210016,70256
+7,17WINT-All-Saturday-01,143051251,"C - Conestoga Mall",0,210018,70256
+7,17WINT-All-Saturday-01,143051351,"C - Conestoga Mall",0,210009,70256
+7,17WINT-All-Saturday-01,143051451,"C - Conestoga Mall",0,210015,70256
+7,17WINT-All-Saturday-01,143051551,"C - Conestoga Mall",0,210016,70256
+7,17WINT-All-Saturday-01,143051651,"C - Conestoga Mall",0,210018,70256
+7,17WINT-All-Saturday-01,143051751,"C - Conestoga Mall",0,210009,70256
 7,17WINT-All-Saturday-01,143051851,"E - UW via Columbia",0,210019,70216
 7,17WINT-All-Saturday-01,143051951,"E - UW via Columbia",0,210019,70216
-7,17WINT-All-Saturday-01,143052051,"C - Conestoga Mall",0,210016,70200
+7,17WINT-All-Saturday-01,143052051,"C - Conestoga Mall",0,210016,70254
 7,17WINT-All-Saturday-01,143052151,"E - UW via Columbia",0,210009,70245
 7,17WINT-All-Saturday-01,143052251,"D - UW via University",0,210010,70246
 7,17WINT-All-Saturday-01,143052351,"E - UW via Columbia",0,210013,70245
 7,17WINT-All-Saturday-01,143052451,"D - UW via University",0,210012,70247
-7,17WINT-All-Saturday-01,143052551,"C - Conestoga Mall",0,210014,70199
+7,17WINT-All-Saturday-01,143052551,"C - Conestoga Mall",0,210014,70253
 7,17WINT-All-Saturday-01,143052651,"D - UW via University",0,210019,70210
-7,17WINT-All-Saturday-01,143052751,"C - Conestoga Mall",0,210009,70206
+7,17WINT-All-Saturday-01,143052751,"C - Conestoga Mall",0,210009,70258
 7,17WINT-All-Saturday-01,143052851,"A - Fairview Park via Connaught",1,210011,70076
-7,17WINT-All-Saturday-01,143052951,"A - Fairview Park via Connaught",1,210016,70207
+7,17WINT-All-Saturday-01,143052951,"A - Fairview Park via Connaught",1,210016,70259
 7,17WINT-All-Saturday-01,143053051,"D - UW via University",0,210023,70204
-7,17WINT-All-Saturday-01,143053151,"C - Conestoga Mall",0,210011,70201
-7,17WINT-All-Saturday-01,143053251,"C - Conestoga Mall",0,210009,70203
+7,17WINT-All-Saturday-01,143053151,"C - Conestoga Mall",0,210011,70255
+7,17WINT-All-Saturday-01,143053251,"C - Conestoga Mall",0,210009,70257
 7,17WINT-All-Saturday-01,143053351,"E - UW via Columbia",0,210021,70208
 7,17WINT-All-Saturday-01,143053451,"E - UW via Columbia",0,210019,70216
 7,17WINT-All-Saturday-01,143053551,"E - UW via Columbia",0,210019,70216
@@ -3981,20 +3981,20 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Saturday-01,143054951,"E - UW via Columbia",0,210019,70216
 7,17WINT-All-Saturday-01,143055051,"F - Fairview via Wilson",1,210013,70248
 7,17WINT-All-Saturday-01,143055151,"A - Fairview Park via Connaught",1,210017,70063
-7,17WINT-All-Saturday-01,143055251,"A - Fairview Park via Connaught",1,210015,70207
+7,17WINT-All-Saturday-01,143055251,"A - Fairview Park via Connaught",1,210015,70259
 7,17WINT-All-Saturday-01,143055351,"F - Fairview via Wilson",1,210012,70249
-7,17WINT-All-Saturday-01,143055451,"B - Fairview Park via Weber",1,210018,70213
-7,17WINT-All-Saturday-01,143055551,"B - Fairview Park via Weber",1,210009,70213
-7,17WINT-All-Saturday-01,143055651,"B - Fairview Park via Weber",1,210015,70213
-7,17WINT-All-Saturday-01,143055751,"B - Fairview Park via Weber",1,210016,70213
-7,17WINT-All-Saturday-01,143055851,"B - Fairview Park via Weber",1,210018,70213
-7,17WINT-All-Saturday-01,143055951,"B - Fairview Park via Weber",1,210009,70213
-7,17WINT-All-Saturday-01,143056051,"B - Fairview Park via Weber",1,210015,70213
-7,17WINT-All-Saturday-01,143056151,"B - Fairview Park via Weber",1,210016,70213
-7,17WINT-All-Saturday-01,143056251,"B - Fairview Park via Weber",1,210018,70213
-7,17WINT-All-Saturday-01,143056351,"B - Fairview Park via Weber",1,210009,70213
-7,17WINT-All-Saturday-01,143056451,"B - Fairview Park via Weber",1,210015,70213
-7,17WINT-All-Saturday-01,143056551,"B - Fairview Park via Weber",1,210016,70215
+7,17WINT-All-Saturday-01,143055451,"B - Fairview Park via Weber",1,210018,70262
+7,17WINT-All-Saturday-01,143055551,"B - Fairview Park via Weber",1,210009,70262
+7,17WINT-All-Saturday-01,143055651,"B - Fairview Park via Weber",1,210015,70262
+7,17WINT-All-Saturday-01,143055751,"B - Fairview Park via Weber",1,210016,70262
+7,17WINT-All-Saturday-01,143055851,"B - Fairview Park via Weber",1,210018,70262
+7,17WINT-All-Saturday-01,143055951,"B - Fairview Park via Weber",1,210009,70262
+7,17WINT-All-Saturday-01,143056051,"B - Fairview Park via Weber",1,210015,70262
+7,17WINT-All-Saturday-01,143056151,"B - Fairview Park via Weber",1,210016,70262
+7,17WINT-All-Saturday-01,143056251,"B - Fairview Park via Weber",1,210018,70262
+7,17WINT-All-Saturday-01,143056351,"B - Fairview Park via Weber",1,210009,70262
+7,17WINT-All-Saturday-01,143056451,"B - Fairview Park via Weber",1,210015,70262
+7,17WINT-All-Saturday-01,143056551,"B - Fairview Park via Weber",1,210016,70263
 7,17WINT-All-Saturday-01,143056651,"A - Fairview Park via Connaught",1,210023,70214
 7,17WINT-All-Saturday-01,143056751,"A - Fairview Park via Connaught",1,210013,70214
 7,17WINT-All-Saturday-01,143056851,"A - Fairview Park via Connaught",1,210012,70214
@@ -4032,8 +4032,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Saturday-01,143061651,"B - Fairview Park via Weber",1,210016,70225
 7,17WINT-All-Saturday-01,143061751,"Charles Terminal",1,210019,70240
 7,17WINT-All-Saturday-01,143061851,"B - Fairview Park via Weber",1,210009,70251
-7,17WINT-All-Saturday-01,143061951,"F - Fairview via Wilson",1,210015,70224
-7,17WINT-All-Saturday-01,143062051,"F - Fairview via Wilson",1,210011,70224
+7,17WINT-All-Saturday-01,143061951,"F - Fairview via Wilson",1,210015,70265
+7,17WINT-All-Saturday-01,143062051,"F - Fairview via Wilson",1,210011,70265
 7,17WINT-All-Saturday-01,143062151,"Charles Terminal",1,210019,70240
 7,17WINT-All-Saturday-01,143062251,"Charles Terminal",1,210020,70240
 7,17WINT-All-Saturday-01,143062351,"Charles Terminal",1,210019,70240
@@ -4041,27 +4041,27 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Saturday-01,143062551,"B - Fairview Park via Weber",1,210018,70228
 7,17WINT-All-Saturday-01,143062651,"B - Fairview Park via Weber",1,210023,70228
 7,17WINT-All-Saturday-01,143062751,"B - Fairview Park via Weber",1,210022,70069
-7,17WINT-All-Saturday-01,143062851,"F - Fairview via Wilson",1,210017,70224
-7,17WINT-All-Saturday-01,143062951,"F - Fairview via Wilson",1,210014,70224
-7,17WINT-All-Saturday-01,143063051,"F - Fairview via Wilson",1,210022,70224
-7,17WINT-All-Saturday-01,143063151,"F - Fairview via Wilson",1,210018,70224
-7,17WINT-All-Saturday-01,143063251,"F - Fairview via Wilson",1,210016,70224
-7,17WINT-All-Saturday-01,143063351,"F - Fairview via Wilson",1,210009,70224
-7,17WINT-All-Saturday-01,143063451,"F - Fairview via Wilson",1,210010,70224
+7,17WINT-All-Saturday-01,143062851,"F - Fairview via Wilson",1,210017,70265
+7,17WINT-All-Saturday-01,143062951,"F - Fairview via Wilson",1,210014,70265
+7,17WINT-All-Saturday-01,143063051,"F - Fairview via Wilson",1,210022,70265
+7,17WINT-All-Saturday-01,143063151,"F - Fairview via Wilson",1,210018,70265
+7,17WINT-All-Saturday-01,143063251,"F - Fairview via Wilson",1,210016,70265
+7,17WINT-All-Saturday-01,143063351,"F - Fairview via Wilson",1,210009,70265
+7,17WINT-All-Saturday-01,143063451,"F - Fairview via Wilson",1,210010,70265
 7,17WINT-All-Saturday-01,143063551,"Charles Terminal",1,210020,70230
 7,17WINT-All-Saturday-01,143063651,"Charles Terminal",1,210019,70230
-7,17WINT-All-Saturday-01,143063751,"F - Fairview via Wilson",1,210009,70224
-7,17WINT-All-Saturday-01,143063851,"F - Fairview via Wilson",1,210014,70224
-7,17WINT-All-Saturday-01,143063951,"F - Fairview via Wilson",1,210016,70224
-7,17WINT-All-Saturday-01,143064051,"F - Fairview via Wilson",1,210015,70224
-7,17WINT-All-Saturday-01,143064151,"F - Fairview via Wilson",1,210017,70224
-7,17WINT-All-Saturday-01,143064251,"F - Fairview via Wilson",1,210011,70224
-7,17WINT-All-Saturday-01,143064351,"F - Fairview via Wilson",1,210012,70224
-7,17WINT-All-Saturday-01,143064451,"F - Fairview via Wilson",1,210013,70224
-7,17WINT-All-Saturday-01,143064551,"F - Fairview via Wilson",1,210023,70224
-7,17WINT-All-Saturday-01,143064651,"F - Fairview via Wilson",1,210021,70224
-7,17WINT-All-Saturday-01,143064751,"F - Fairview via Wilson",1,210022,70224
-7,17WINT-All-Saturday-01,143064851,"F - Fairview via Wilson",1,210010,70224
+7,17WINT-All-Saturday-01,143063751,"F - Fairview via Wilson",1,210009,70265
+7,17WINT-All-Saturday-01,143063851,"F - Fairview via Wilson",1,210014,70265
+7,17WINT-All-Saturday-01,143063951,"F - Fairview via Wilson",1,210016,70265
+7,17WINT-All-Saturday-01,143064051,"F - Fairview via Wilson",1,210015,70265
+7,17WINT-All-Saturday-01,143064151,"F - Fairview via Wilson",1,210017,70265
+7,17WINT-All-Saturday-01,143064251,"F - Fairview via Wilson",1,210011,70265
+7,17WINT-All-Saturday-01,143064351,"F - Fairview via Wilson",1,210012,70265
+7,17WINT-All-Saturday-01,143064451,"F - Fairview via Wilson",1,210013,70265
+7,17WINT-All-Saturday-01,143064551,"F - Fairview via Wilson",1,210023,70265
+7,17WINT-All-Saturday-01,143064651,"F - Fairview via Wilson",1,210021,70265
+7,17WINT-All-Saturday-01,143064751,"F - Fairview via Wilson",1,210022,70265
+7,17WINT-All-Saturday-01,143064851,"F - Fairview via Wilson",1,210010,70265
 7,17WINT-All-Saturday-01,143064951,"Charles Terminal",1,210019,70240
 7,17WINT-All-Saturday-01,143065051,"Charles Terminal",1,210014,70241
 7,17WINT-All-Saturday-01,143065151,"Charles Terminal",1,210020,70240
@@ -4081,7 +4081,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Saturday-01,143066551,"Charles Terminal",1,210020,70240
 7,17WINT-All-Saturday-01,143066651,"Charles Terminal",1,210012,70242
 7,17WINT-All-Saturday-01,143066751,"Charles Terminal",1,210021,70242
-7,17WINT-All-Saturday-01,143066851,"Charles Terminal",1,210018,70243
+7,17WINT-All-Saturday-01,143066851,"Charles Terminal",1,210018,70270
 4,17WINT-All-Saturday-01,143066951,"Westmount",1,210039,40003
 4,17WINT-All-Saturday-01,143067051,"The Boardwalk",0,209978,40034
 4,17WINT-All-Saturday-01,143067151,"The Boardwalk",0,210039,40034
@@ -4638,41 +4638,41 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,17WINT-All-Saturday-01,143137751,"Conestoga Mall",0,209977,90076
 9,17WINT-All-Saturday-01,143137851,"Conestoga Mall",0,209975,90076
 9,17WINT-All-Saturday-01,143137951,"Conestoga Mall",0,209977,90076
-9,17WINT-All-Saturday-01,143138051,"Laurier",1,209977,90086
-9,17WINT-All-Saturday-01,143138151,"UW",1,209972,90087
-9,17WINT-All-Saturday-01,143138251,"UW",1,209971,90087
-9,17WINT-All-Saturday-01,143138351,"UW",1,210025,90087
-9,17WINT-All-Saturday-01,143138451,"UW",1,209969,90087
-9,17WINT-All-Saturday-01,143138551,"UW",1,209970,90087
-9,17WINT-All-Saturday-01,143138651,"UW",1,209976,90087
-9,17WINT-All-Saturday-01,143138751,"UW",1,209974,90087
-9,17WINT-All-Saturday-01,143138851,"UW",1,209972,90087
-9,17WINT-All-Saturday-01,143138951,"UW",1,209968,90087
-9,17WINT-All-Saturday-01,143139051,"UW",1,209971,90087
-9,17WINT-All-Saturday-01,143139151,"UW",1,210025,90087
-9,17WINT-All-Saturday-01,143139251,"UW",1,209969,90087
-9,17WINT-All-Saturday-01,143139351,"UW",1,209970,90087
-9,17WINT-All-Saturday-01,143139451,"UW",1,209976,90087
-9,17WINT-All-Saturday-01,143139551,"UW",1,209974,90087
-9,17WINT-All-Saturday-01,143139651,"UW",1,209972,90087
-9,17WINT-All-Saturday-01,143139751,"UW",1,209968,90087
-9,17WINT-All-Saturday-01,143139851,"UW",1,209971,90087
-9,17WINT-All-Saturday-01,143139951,"UW",1,210025,90087
-9,17WINT-All-Saturday-01,143140051,"UW",1,209969,90087
-9,17WINT-All-Saturday-01,143140151,"UW",1,209970,90087
-9,17WINT-All-Saturday-01,143140251,"UW",1,209976,90087
-9,17WINT-All-Saturday-01,143140351,"UW",1,209974,90087
-9,17WINT-All-Saturday-01,143140451,"UW",1,209968,90087
-9,17WINT-All-Saturday-01,143140551,"UW",1,210025,90087
-9,17WINT-All-Saturday-01,143140651,"UW",1,209968,90087
-9,17WINT-All-Saturday-01,143140751,"UW",1,209974,90087
-9,17WINT-All-Saturday-01,143140851,"UW",1,209976,90087
-9,17WINT-All-Saturday-01,143140951,"UW",1,209975,90087
-9,17WINT-All-Saturday-01,143141051,"UW",1,209977,90087
-9,17WINT-All-Saturday-01,143141151,"UW",1,209975,90087
-9,17WINT-All-Saturday-01,143141251,"UW",1,209977,90087
-9,17WINT-All-Saturday-01,143141351,"UW",1,209975,90087
-9,17WINT-All-Saturday-01,143141451,"UW",1,209977,90087
+9,17WINT-All-Saturday-01,143138051,"Laurier",1,209977,90092
+9,17WINT-All-Saturday-01,143138151,"UW",1,209972,90093
+9,17WINT-All-Saturday-01,143138251,"UW",1,209971,90093
+9,17WINT-All-Saturday-01,143138351,"UW",1,210025,90093
+9,17WINT-All-Saturday-01,143138451,"UW",1,209969,90093
+9,17WINT-All-Saturday-01,143138551,"UW",1,209970,90093
+9,17WINT-All-Saturday-01,143138651,"UW",1,209976,90093
+9,17WINT-All-Saturday-01,143138751,"UW",1,209974,90093
+9,17WINT-All-Saturday-01,143138851,"UW",1,209972,90093
+9,17WINT-All-Saturday-01,143138951,"UW",1,209968,90093
+9,17WINT-All-Saturday-01,143139051,"UW",1,209971,90093
+9,17WINT-All-Saturday-01,143139151,"UW",1,210025,90093
+9,17WINT-All-Saturday-01,143139251,"UW",1,209969,90093
+9,17WINT-All-Saturday-01,143139351,"UW",1,209970,90093
+9,17WINT-All-Saturday-01,143139451,"UW",1,209976,90093
+9,17WINT-All-Saturday-01,143139551,"UW",1,209974,90093
+9,17WINT-All-Saturday-01,143139651,"UW",1,209972,90093
+9,17WINT-All-Saturday-01,143139751,"UW",1,209968,90093
+9,17WINT-All-Saturday-01,143139851,"UW",1,209971,90093
+9,17WINT-All-Saturday-01,143139951,"UW",1,210025,90093
+9,17WINT-All-Saturday-01,143140051,"UW",1,209969,90093
+9,17WINT-All-Saturday-01,143140151,"UW",1,209970,90093
+9,17WINT-All-Saturday-01,143140251,"UW",1,209976,90093
+9,17WINT-All-Saturday-01,143140351,"UW",1,209974,90093
+9,17WINT-All-Saturday-01,143140451,"UW",1,209968,90093
+9,17WINT-All-Saturday-01,143140551,"UW",1,210025,90093
+9,17WINT-All-Saturday-01,143140651,"UW",1,209968,90093
+9,17WINT-All-Saturday-01,143140751,"UW",1,209974,90093
+9,17WINT-All-Saturday-01,143140851,"UW",1,209976,90093
+9,17WINT-All-Saturday-01,143140951,"UW",1,209975,90093
+9,17WINT-All-Saturday-01,143141051,"UW",1,209977,90093
+9,17WINT-All-Saturday-01,143141151,"UW",1,209975,90093
+9,17WINT-All-Saturday-01,143141251,"UW",1,209977,90093
+9,17WINT-All-Saturday-01,143141351,"UW",1,209975,90093
+9,17WINT-All-Saturday-01,143141451,"UW",1,209977,90093
 202,17WINT-All-Saturday-01,143141551,"The Boardwalk",0,209970,2020013
 202,17WINT-All-Saturday-01,143141651,"The Boardwalk",0,209969,2020013
 202,17WINT-All-Saturday-01,143141751,"The Boardwalk",0,210025,2020013
@@ -5037,10 +5037,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 21,17WINT-All-Saturday-01,143177651,"Arthur/Church",0,209961,210004
 21,17WINT-All-Saturday-01,143177751,"Arthur/Church",0,209962,210004
 21,17WINT-All-Saturday-01,143177851,"Arthur/Church",0,209961,210004
-21,17WINT-All-Saturday-01,143177951,"Conestoga Mall",1,209961,210005
-21,17WINT-All-Saturday-01,143178051,"Conestoga Mall",1,209962,210005
-21,17WINT-All-Saturday-01,143178151,"Conestoga Mall",1,209961,210005
-21,17WINT-All-Saturday-01,143178251,"Conestoga Mall",1,209962,210005
+21,17WINT-All-Saturday-01,143177951,"Conestoga Mall",1,209961,210008
+21,17WINT-All-Saturday-01,143178051,"Conestoga Mall",1,209962,210008
+21,17WINT-All-Saturday-01,143178151,"Conestoga Mall",1,209961,210008
+21,17WINT-All-Saturday-01,143178251,"Conestoga Mall",1,209962,210008
 21,17WINT-All-Saturday-01,143178351,"Arthur/Church",0,209961,210004
 21,17WINT-All-Saturday-01,143178451,"Arthur/Church",0,209962,210004
 21,17WINT-All-Saturday-01,143178551,"Arthur/Church",0,209961,210004
@@ -5053,18 +5053,18 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 21,17WINT-All-Saturday-01,143179251,"Arthur/Church",0,209962,210004
 21,17WINT-All-Saturday-01,143179351,"Arthur/Church",0,209961,210004
 21,17WINT-All-Saturday-01,143179451,"Arthur/Church",0,209962,210004
-21,17WINT-All-Saturday-01,143179551,"Conestoga Mall",1,209962,210005
-21,17WINT-All-Saturday-01,143179651,"Conestoga Mall",1,209961,210005
-21,17WINT-All-Saturday-01,143179751,"Conestoga Mall",1,209962,210005
-21,17WINT-All-Saturday-01,143179851,"Conestoga Mall",1,209961,210005
-21,17WINT-All-Saturday-01,143179951,"Conestoga Mall",1,209962,210005
-21,17WINT-All-Saturday-01,143180051,"Conestoga Mall",1,209961,210005
-21,17WINT-All-Saturday-01,143180151,"Conestoga Mall",1,209962,210005
-21,17WINT-All-Saturday-01,143180251,"Conestoga Mall",1,209961,210005
-21,17WINT-All-Saturday-01,143180351,"Conestoga Mall",1,209962,210005
-21,17WINT-All-Saturday-01,143180451,"Conestoga Mall",1,209961,210005
-21,17WINT-All-Saturday-01,143180551,"Conestoga Mall",1,209962,210005
-21,17WINT-All-Saturday-01,143180651,"Conestoga Mall",1,209961,210005
+21,17WINT-All-Saturday-01,143179551,"Conestoga Mall",1,209962,210008
+21,17WINT-All-Saturday-01,143179651,"Conestoga Mall",1,209961,210008
+21,17WINT-All-Saturday-01,143179751,"Conestoga Mall",1,209962,210008
+21,17WINT-All-Saturday-01,143179851,"Conestoga Mall",1,209961,210008
+21,17WINT-All-Saturday-01,143179951,"Conestoga Mall",1,209962,210008
+21,17WINT-All-Saturday-01,143180051,"Conestoga Mall",1,209961,210008
+21,17WINT-All-Saturday-01,143180151,"Conestoga Mall",1,209962,210008
+21,17WINT-All-Saturday-01,143180251,"Conestoga Mall",1,209961,210008
+21,17WINT-All-Saturday-01,143180351,"Conestoga Mall",1,209962,210008
+21,17WINT-All-Saturday-01,143180451,"Conestoga Mall",1,209961,210008
+21,17WINT-All-Saturday-01,143180551,"Conestoga Mall",1,209962,210008
+21,17WINT-All-Saturday-01,143180651,"Conestoga Mall",1,209961,210008
 21,17WINT-All-Saturday-01,143180751,"Arthur/Church",0,209962,210006
 91,17WINT-All-Saturday-01,143180851,"Upward",0,210013,910019
 91,17WINT-All-Saturday-01,143180951,"Upward",0,210023,910019
@@ -5213,44 +5213,44 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,17WINT-All-Saturday-01,143197751,"Fairview Park via Preston Parkway",0,209951,520061
 52,17WINT-All-Saturday-01,143197851,"Fairview Park via Preston Parkway",0,209950,520061
 52,17WINT-All-Saturday-01,143197951,"Fairview Park via Preston Parkway",0,209951,520061
-52,17WINT-All-Saturday-01,143198051,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143198151,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143198251,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143198351,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143198451,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143198551,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143198651,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143198751,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143198851,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143198951,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143199051,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143199151,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143199251,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143199351,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143199451,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143199551,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143199651,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143199751,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143199851,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143199951,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143200051,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143200151,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143200251,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143200351,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143200451,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143200551,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143200651,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143200751,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143200851,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143200951,"Ainslie Terminal via Preston Parkway",1,209951,520072
-52,17WINT-All-Saturday-01,143201051,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143201151,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143201251,"Ainslie Terminal via Preston Parkway",1,209951,520072
+52,17WINT-All-Saturday-01,143198051,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143198151,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143198251,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143198351,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143198451,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143198551,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143198651,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143198751,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143198851,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143198951,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143199051,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143199151,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143199251,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143199351,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143199451,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143199551,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143199651,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143199751,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143199851,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143199951,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143200051,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143200151,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143200251,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143200351,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143200451,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143200551,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143200651,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143200751,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143200851,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143200951,"Ainslie Terminal via Preston Parkway",1,209951,520017
+52,17WINT-All-Saturday-01,143201051,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143201151,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143201251,"Ainslie Terminal via Preston Parkway",1,209951,520017
 52,17WINT-All-Saturday-01,143201351,"Fairview Park via Preston Parkway",0,209950,520061
 52,17WINT-All-Saturday-01,143201451,"Fairview Park via Preston Parkway",0,209951,520061
-52,17WINT-All-Saturday-01,143201551,"Ainslie Terminal via Preston Parkway",1,209949,520072
-52,17WINT-All-Saturday-01,143201651,"Ainslie Terminal via Preston Parkway",1,209950,520072
-52,17WINT-All-Saturday-01,143201751,"Ainslie Terminal via Preston Parkway",1,209951,520071
+52,17WINT-All-Saturday-01,143201551,"Ainslie Terminal via Preston Parkway",1,209949,520017
+52,17WINT-All-Saturday-01,143201651,"Ainslie Terminal via Preston Parkway",1,209950,520017
+52,17WINT-All-Saturday-01,143201751,"Ainslie Terminal via Preston Parkway",1,209951,520019
 52,17WINT-All-Saturday-01,143201851,"Fairview Park via Preston Parkway",0,209950,520061
 52,17WINT-All-Saturday-01,143201951,"Fairview Park via Preston Parkway",0,209949,520061
 52,17WINT-All-Saturday-01,143202051,"Fairview Park via Preston Parkway",0,209949,520061
@@ -5264,7 +5264,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,17WINT-All-Saturday-01,143202851,"Fairview Park via Preston Parkway",0,209949,520061
 52,17WINT-All-Saturday-01,143202951,"Fairview Park via Preston Parkway",0,209949,520061
 52,17WINT-All-Saturday-01,143203051,"Fairview Park via Preston Parkway",0,209949,520061
-52,17WINT-All-Saturday-01,143203151,"Ainslie Terminal via Preston Parkway",1,209951,520072
+52,17WINT-All-Saturday-01,143203151,"Ainslie Terminal via Preston Parkway",1,209951,520017
 10,17WINT-All-Saturday-01,143203251,"Conestoga College",1,209983,100004
 10,17WINT-All-Saturday-01,143203351,"Conestoga College",1,209983,100004
 10,17WINT-All-Saturday-01,143203451,"Fairview Park",0,209983,100009
@@ -5606,104 +5606,104 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 3,17WINT-All-Saturday-01,143237051,"Forest Glen",0,210003,30020
 3,17WINT-All-Saturday-01,143237151,"Forest Glen",0,209982,30003
 3,17WINT-All-Saturday-01,143237251,"Forest Glen",0,209981,30003
-200,17WINT-All-Saturday-01,143237351,"Conestoga Mall",0,209992,2000507
-200,17WINT-All-Saturday-01,143237451,"Conestoga Mall",0,209986,2000507
-200,17WINT-All-Saturday-01,143237551,"Conestoga Mall",0,209984,2000507
-200,17WINT-All-Saturday-01,143237651,"Conestoga Mall",0,209987,2000507
-200,17WINT-All-Saturday-01,143237751,"Conestoga Mall",0,209993,2000507
-200,17WINT-All-Saturday-01,143237851,"Conestoga Mall",0,209989,2000507
-200,17WINT-All-Saturday-01,143237951,"Conestoga Mall",0,209996,2000507
-200,17WINT-All-Saturday-01,143238051,"Conestoga Mall",0,209991,2000507
-200,17WINT-All-Saturday-01,143238151,"Conestoga Mall",0,209990,2000507
-200,17WINT-All-Saturday-01,143238251,"Conestoga Mall",0,209988,2000507
-200,17WINT-All-Saturday-01,143238351,"Conestoga Mall",0,209994,2000507
-200,17WINT-All-Saturday-01,143238451,"Conestoga Mall",0,209995,2000507
-200,17WINT-All-Saturday-01,143238551,"Conestoga Mall",0,209985,2000507
-200,17WINT-All-Saturday-01,143238651,"Conestoga Mall",0,209992,2000507
-200,17WINT-All-Saturday-01,143238751,"Conestoga Mall",0,209986,2000507
-200,17WINT-All-Saturday-01,143238851,"Conestoga Mall",0,209984,2000507
-200,17WINT-All-Saturday-01,143238951,"Conestoga Mall",0,209987,2000507
-200,17WINT-All-Saturday-01,143239051,"Conestoga Mall",0,209993,2000507
-200,17WINT-All-Saturday-01,143239151,"Conestoga Mall",0,209989,2000507
-200,17WINT-All-Saturday-01,143239251,"Conestoga Mall",0,209996,2000506
-200,17WINT-All-Saturday-01,143239351,"Conestoga Mall",0,209991,2000506
-200,17WINT-All-Saturday-01,143239451,"Conestoga Mall",0,209993,2000510
-200,17WINT-All-Saturday-01,143239551,"Conestoga Mall",0,209985,2000508
+200,17WINT-All-Saturday-01,143237351,"Conestoga Mall",0,209992,2000513
+200,17WINT-All-Saturday-01,143237451,"Conestoga Mall",0,209986,2000513
+200,17WINT-All-Saturday-01,143237551,"Conestoga Mall",0,209984,2000513
+200,17WINT-All-Saturday-01,143237651,"Conestoga Mall",0,209987,2000513
+200,17WINT-All-Saturday-01,143237751,"Conestoga Mall",0,209993,2000513
+200,17WINT-All-Saturday-01,143237851,"Conestoga Mall",0,209989,2000513
+200,17WINT-All-Saturday-01,143237951,"Conestoga Mall",0,209996,2000513
+200,17WINT-All-Saturday-01,143238051,"Conestoga Mall",0,209991,2000513
+200,17WINT-All-Saturday-01,143238151,"Conestoga Mall",0,209990,2000513
+200,17WINT-All-Saturday-01,143238251,"Conestoga Mall",0,209988,2000513
+200,17WINT-All-Saturday-01,143238351,"Conestoga Mall",0,209994,2000513
+200,17WINT-All-Saturday-01,143238451,"Conestoga Mall",0,209995,2000513
+200,17WINT-All-Saturday-01,143238551,"Conestoga Mall",0,209985,2000513
+200,17WINT-All-Saturday-01,143238651,"Conestoga Mall",0,209992,2000513
+200,17WINT-All-Saturday-01,143238751,"Conestoga Mall",0,209986,2000513
+200,17WINT-All-Saturday-01,143238851,"Conestoga Mall",0,209984,2000513
+200,17WINT-All-Saturday-01,143238951,"Conestoga Mall",0,209987,2000513
+200,17WINT-All-Saturday-01,143239051,"Conestoga Mall",0,209993,2000513
+200,17WINT-All-Saturday-01,143239151,"Conestoga Mall",0,209989,2000513
+200,17WINT-All-Saturday-01,143239251,"Conestoga Mall",0,209996,2000512
+200,17WINT-All-Saturday-01,143239351,"Conestoga Mall",0,209991,2000512
+200,17WINT-All-Saturday-01,143239451,"Conestoga Mall",0,209993,2000518
+200,17WINT-All-Saturday-01,143239551,"Conestoga Mall",0,209985,2000514
 200,17WINT-All-Saturday-01,143239651,"Ainslie Terminal",1,209986,2000504
-200,17WINT-All-Saturday-01,143239751,"Ainslie Terminal",1,209984,2000498
-200,17WINT-All-Saturday-01,143239851,"Ainslie Terminal",1,209987,2000498
-200,17WINT-All-Saturday-01,143239951,"Ainslie Terminal",1,209993,2000498
-200,17WINT-All-Saturday-01,143240051,"Ainslie Terminal",1,209985,2000498
-200,17WINT-All-Saturday-01,143240151,"Ainslie Terminal",1,209990,2000498
-200,17WINT-All-Saturday-01,143240251,"Ainslie Terminal",1,209988,2000498
-200,17WINT-All-Saturday-01,143240351,"Ainslie Terminal",1,209994,2000498
-200,17WINT-All-Saturday-01,143240451,"Ainslie Terminal",1,209995,2000498
-200,17WINT-All-Saturday-01,143240551,"Ainslie Terminal",1,209985,2000498
-200,17WINT-All-Saturday-01,143240651,"Ainslie Terminal",1,209992,2000498
-200,17WINT-All-Saturday-01,143240751,"Ainslie Terminal",1,209986,2000498
-200,17WINT-All-Saturday-01,143240851,"Ainslie Terminal",1,209984,2000498
-200,17WINT-All-Saturday-01,143240951,"Ainslie Terminal",1,209987,2000498
-200,17WINT-All-Saturday-01,143241051,"Ainslie Terminal",1,209993,2000498
-200,17WINT-All-Saturday-01,143241151,"Ainslie Terminal",1,209989,2000498
-200,17WINT-All-Saturday-01,143241251,"Ainslie Terminal",1,209996,2000498
-200,17WINT-All-Saturday-01,143241351,"Ainslie Terminal",1,209991,2000498
-200,17WINT-All-Saturday-01,143241451,"Ainslie Terminal",1,209990,2000498
-200,17WINT-All-Saturday-01,143241551,"Ainslie Terminal",1,209988,2000498
-200,17WINT-All-Saturday-01,143241651,"Ainslie Terminal",1,209994,2000498
-200,17WINT-All-Saturday-01,143241751,"Ainslie Terminal",1,209995,2000498
-200,17WINT-All-Saturday-01,143241851,"Conestoga Mall",0,209996,2000507
-200,17WINT-All-Saturday-01,143241951,"Conestoga Mall",0,209995,2000507
-200,17WINT-All-Saturday-01,143242051,"Conestoga Mall",0,209994,2000507
-200,17WINT-All-Saturday-01,143242151,"Conestoga Mall",0,209988,2000507
-200,17WINT-All-Saturday-01,143242251,"Conestoga Mall",0,209990,2000507
-200,17WINT-All-Saturday-01,143242351,"Conestoga Mall",0,209985,2000507
-200,17WINT-All-Saturday-01,143242451,"Conestoga Mall",0,209995,2000507
-200,17WINT-All-Saturday-01,143242551,"Conestoga Mall",0,209994,2000507
-200,17WINT-All-Saturday-01,143242651,"Conestoga Mall",0,209988,2000507
-200,17WINT-All-Saturday-01,143242751,"Conestoga Mall",0,209990,2000507
-200,17WINT-All-Saturday-01,143242851,"Conestoga Mall",0,209991,2000507
-200,17WINT-All-Saturday-01,143242951,"Conestoga Mall",0,209994,2000507
-200,17WINT-All-Saturday-01,143243051,"Conestoga Mall",0,209995,2000507
-200,17WINT-All-Saturday-01,143243151,"Conestoga Mall",0,209985,2000507
-200,17WINT-All-Saturday-01,143243251,"Conestoga Mall",0,209992,2000507
-200,17WINT-All-Saturday-01,143243351,"Conestoga Mall",0,209986,2000507
-200,17WINT-All-Saturday-01,143243451,"Conestoga Mall",0,209984,2000507
-200,17WINT-All-Saturday-01,143243551,"Conestoga Mall",0,209987,2000507
-200,17WINT-All-Saturday-01,143243651,"Conestoga Mall",0,209993,2000507
-200,17WINT-All-Saturday-01,143243751,"Conestoga Mall",0,209989,2000507
-200,17WINT-All-Saturday-01,143243851,"Ainslie Terminal",1,209996,2000498
-200,17WINT-All-Saturday-01,143243951,"Ainslie Terminal",1,209991,2000498
-200,17WINT-All-Saturday-01,143244051,"Ainslie Terminal",1,209990,2000498
-200,17WINT-All-Saturday-01,143244151,"Ainslie Terminal",1,209986,2000498
-200,17WINT-All-Saturday-01,143244251,"Ainslie Terminal",1,209984,2000498
-200,17WINT-All-Saturday-01,143244351,"Ainslie Terminal",1,209987,2000498
-200,17WINT-All-Saturday-01,143244451,"Ainslie Terminal",1,209993,2000498
-200,17WINT-All-Saturday-01,143244551,"Ainslie Terminal",1,209989,2000498
-200,17WINT-All-Saturday-01,143244651,"Ainslie Terminal",1,209996,2000498
-200,17WINT-All-Saturday-01,143244751,"Ainslie Terminal",1,209991,2000498
-200,17WINT-All-Saturday-01,143244851,"Ainslie Terminal",1,209990,2000498
-200,17WINT-All-Saturday-01,143244951,"Ainslie Terminal",1,209988,2000498
-200,17WINT-All-Saturday-01,143245051,"Ainslie Terminal",1,209994,2000498
-200,17WINT-All-Saturday-01,143245151,"Ainslie Terminal",1,209995,2000498
-200,17WINT-All-Saturday-01,143245251,"Ainslie Terminal",1,209985,2000498
-200,17WINT-All-Saturday-01,143245351,"Ainslie Terminal",1,209992,2000498
-200,17WINT-All-Saturday-01,143245451,"Ainslie Terminal",1,209986,2000498
-200,17WINT-All-Saturday-01,143245551,"Ainslie Terminal",1,209984,2000498
-200,17WINT-All-Saturday-01,143245651,"Ainslie Terminal",1,209987,2000498
-200,17WINT-All-Saturday-01,143245751,"Ainslie Terminal",1,209993,2000498
-200,17WINT-All-Saturday-01,143245851,"Conestoga Mall",0,209996,2000507
-200,17WINT-All-Saturday-01,143245951,"Conestoga Mall",0,209991,2000507
-200,17WINT-All-Saturday-01,143246051,"Conestoga Mall",0,209990,2000507
-200,17WINT-All-Saturday-01,143246151,"Conestoga Mall",0,209988,2000507
-200,17WINT-All-Saturday-01,143246251,"Ainslie Terminal",1,209988,2000498
-200,17WINT-All-Saturday-01,143246351,"Ainslie Terminal",1,209994,2000498
-200,17WINT-All-Saturday-01,143246451,"Ainslie Terminal",1,209995,2000498
-200,17WINT-All-Saturday-01,143246551,"Ainslie Terminal",1,209996,2000498
+200,17WINT-All-Saturday-01,143239751,"Ainslie Terminal",1,209984,2000515
+200,17WINT-All-Saturday-01,143239851,"Ainslie Terminal",1,209987,2000515
+200,17WINT-All-Saturday-01,143239951,"Ainslie Terminal",1,209993,2000515
+200,17WINT-All-Saturday-01,143240051,"Ainslie Terminal",1,209985,2000515
+200,17WINT-All-Saturday-01,143240151,"Ainslie Terminal",1,209990,2000515
+200,17WINT-All-Saturday-01,143240251,"Ainslie Terminal",1,209988,2000515
+200,17WINT-All-Saturday-01,143240351,"Ainslie Terminal",1,209994,2000515
+200,17WINT-All-Saturday-01,143240451,"Ainslie Terminal",1,209995,2000515
+200,17WINT-All-Saturday-01,143240551,"Ainslie Terminal",1,209985,2000515
+200,17WINT-All-Saturday-01,143240651,"Ainslie Terminal",1,209992,2000515
+200,17WINT-All-Saturday-01,143240751,"Ainslie Terminal",1,209986,2000515
+200,17WINT-All-Saturday-01,143240851,"Ainslie Terminal",1,209984,2000515
+200,17WINT-All-Saturday-01,143240951,"Ainslie Terminal",1,209987,2000515
+200,17WINT-All-Saturday-01,143241051,"Ainslie Terminal",1,209993,2000515
+200,17WINT-All-Saturday-01,143241151,"Ainslie Terminal",1,209989,2000515
+200,17WINT-All-Saturday-01,143241251,"Ainslie Terminal",1,209996,2000515
+200,17WINT-All-Saturday-01,143241351,"Ainslie Terminal",1,209991,2000515
+200,17WINT-All-Saturday-01,143241451,"Ainslie Terminal",1,209990,2000515
+200,17WINT-All-Saturday-01,143241551,"Ainslie Terminal",1,209988,2000515
+200,17WINT-All-Saturday-01,143241651,"Ainslie Terminal",1,209994,2000515
+200,17WINT-All-Saturday-01,143241751,"Ainslie Terminal",1,209995,2000515
+200,17WINT-All-Saturday-01,143241851,"Conestoga Mall",0,209996,2000513
+200,17WINT-All-Saturday-01,143241951,"Conestoga Mall",0,209995,2000513
+200,17WINT-All-Saturday-01,143242051,"Conestoga Mall",0,209994,2000513
+200,17WINT-All-Saturday-01,143242151,"Conestoga Mall",0,209988,2000513
+200,17WINT-All-Saturday-01,143242251,"Conestoga Mall",0,209990,2000513
+200,17WINT-All-Saturday-01,143242351,"Conestoga Mall",0,209985,2000513
+200,17WINT-All-Saturday-01,143242451,"Conestoga Mall",0,209995,2000513
+200,17WINT-All-Saturday-01,143242551,"Conestoga Mall",0,209994,2000513
+200,17WINT-All-Saturday-01,143242651,"Conestoga Mall",0,209988,2000513
+200,17WINT-All-Saturday-01,143242751,"Conestoga Mall",0,209990,2000513
+200,17WINT-All-Saturday-01,143242851,"Conestoga Mall",0,209991,2000513
+200,17WINT-All-Saturday-01,143242951,"Conestoga Mall",0,209994,2000513
+200,17WINT-All-Saturday-01,143243051,"Conestoga Mall",0,209995,2000513
+200,17WINT-All-Saturday-01,143243151,"Conestoga Mall",0,209985,2000513
+200,17WINT-All-Saturday-01,143243251,"Conestoga Mall",0,209992,2000513
+200,17WINT-All-Saturday-01,143243351,"Conestoga Mall",0,209986,2000513
+200,17WINT-All-Saturday-01,143243451,"Conestoga Mall",0,209984,2000513
+200,17WINT-All-Saturday-01,143243551,"Conestoga Mall",0,209987,2000513
+200,17WINT-All-Saturday-01,143243651,"Conestoga Mall",0,209993,2000513
+200,17WINT-All-Saturday-01,143243751,"Conestoga Mall",0,209989,2000513
+200,17WINT-All-Saturday-01,143243851,"Ainslie Terminal",1,209996,2000515
+200,17WINT-All-Saturday-01,143243951,"Ainslie Terminal",1,209991,2000515
+200,17WINT-All-Saturday-01,143244051,"Ainslie Terminal",1,209990,2000515
+200,17WINT-All-Saturday-01,143244151,"Ainslie Terminal",1,209986,2000515
+200,17WINT-All-Saturday-01,143244251,"Ainslie Terminal",1,209984,2000515
+200,17WINT-All-Saturday-01,143244351,"Ainslie Terminal",1,209987,2000515
+200,17WINT-All-Saturday-01,143244451,"Ainslie Terminal",1,209993,2000515
+200,17WINT-All-Saturday-01,143244551,"Ainslie Terminal",1,209989,2000515
+200,17WINT-All-Saturday-01,143244651,"Ainslie Terminal",1,209996,2000515
+200,17WINT-All-Saturday-01,143244751,"Ainslie Terminal",1,209991,2000515
+200,17WINT-All-Saturday-01,143244851,"Ainslie Terminal",1,209990,2000515
+200,17WINT-All-Saturday-01,143244951,"Ainslie Terminal",1,209988,2000515
+200,17WINT-All-Saturday-01,143245051,"Ainslie Terminal",1,209994,2000515
+200,17WINT-All-Saturday-01,143245151,"Ainslie Terminal",1,209995,2000515
+200,17WINT-All-Saturday-01,143245251,"Ainslie Terminal",1,209985,2000515
+200,17WINT-All-Saturday-01,143245351,"Ainslie Terminal",1,209992,2000515
+200,17WINT-All-Saturday-01,143245451,"Ainslie Terminal",1,209986,2000515
+200,17WINT-All-Saturday-01,143245551,"Ainslie Terminal",1,209984,2000515
+200,17WINT-All-Saturday-01,143245651,"Ainslie Terminal",1,209987,2000515
+200,17WINT-All-Saturday-01,143245751,"Ainslie Terminal",1,209993,2000515
+200,17WINT-All-Saturday-01,143245851,"Conestoga Mall",0,209996,2000513
+200,17WINT-All-Saturday-01,143245951,"Conestoga Mall",0,209991,2000513
+200,17WINT-All-Saturday-01,143246051,"Conestoga Mall",0,209990,2000513
+200,17WINT-All-Saturday-01,143246151,"Conestoga Mall",0,209988,2000513
+200,17WINT-All-Saturday-01,143246251,"Ainslie Terminal",1,209988,2000515
+200,17WINT-All-Saturday-01,143246351,"Ainslie Terminal",1,209994,2000515
+200,17WINT-All-Saturday-01,143246451,"Ainslie Terminal",1,209995,2000515
+200,17WINT-All-Saturday-01,143246551,"Ainslie Terminal",1,209996,2000515
 200,17WINT-All-Saturday-01,143246651,"Ainslie Terminal",1,209991,2000501
-200,17WINT-All-Saturday-01,143246751,"Ainslie Terminal",1,209992,2000498
-200,17WINT-All-Saturday-01,143246851,"Conestoga Mall",0,209988,2000510
-200,17WINT-All-Saturday-01,143246951,"Ainslie Terminal",1,209991,2000498
-7,17WINT-All-Saturday-01,143434851,"Charles Terminal",1,210009,70244
+200,17WINT-All-Saturday-01,143246751,"Ainslie Terminal",1,209992,2000515
+200,17WINT-All-Saturday-01,143246851,"Conestoga Mall",0,209988,2000518
+200,17WINT-All-Saturday-01,143246951,"Ainslie Terminal",1,209991,2000515
+7,17WINT-All-Saturday-01,143434851,"Charles Terminal",1,210009,70271
 203,17WINT-All-Saturday-01,143449751,"Cambridge Centre",1,210176,2030032
 203,17WINT-All-Saturday-01,143449851,"Cambridge Centre",1,210176,2030032
 203,17WINT-All-Saturday-01,143449951,"Cambridge Centre",1,210176,2030032
@@ -5971,67 +5971,67 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 51,17WINT-All-Sunday-01,143277561,"B - Melran",1,210071,510038
 51,17WINT-All-Sunday-01,143277661,"B - Melran",1,210069,510038
 51,17WINT-All-Sunday-01,143277761,"B - Melran",1,210056,510038
-7,17WINT-All-Sunday-01,143277861,"C - Conestoga Mall",0,210105,70202
-7,17WINT-All-Sunday-01,143277961,"C - Conestoga Mall",0,210109,70203
-7,17WINT-All-Sunday-01,143278061,"C - Conestoga Mall",0,210106,70202
-7,17WINT-All-Sunday-01,143278161,"C - Conestoga Mall",0,210110,70202
-7,17WINT-All-Sunday-01,143278261,"C - Conestoga Mall",0,210105,70202
-7,17WINT-All-Sunday-01,143278361,"C - Conestoga Mall",0,210109,70202
-7,17WINT-All-Sunday-01,143278461,"C - Conestoga Mall",0,210106,70202
-7,17WINT-All-Sunday-01,143278561,"C - Conestoga Mall",0,210110,70202
-7,17WINT-All-Sunday-01,143278661,"C - Conestoga Mall",0,210105,70202
-7,17WINT-All-Sunday-01,143278761,"C - Conestoga Mall",0,210109,70202
-7,17WINT-All-Sunday-01,143278861,"C - Conestoga Mall",0,210106,70202
-7,17WINT-All-Sunday-01,143278961,"C - Conestoga Mall",0,210110,70202
-7,17WINT-All-Sunday-01,143279061,"C - Conestoga Mall",0,210105,70202
-7,17WINT-All-Sunday-01,143279161,"C - Conestoga Mall",0,210109,70202
-7,17WINT-All-Sunday-01,143279261,"C - Conestoga Mall",0,210106,70202
-7,17WINT-All-Sunday-01,143279361,"C - Conestoga Mall",0,210110,70202
-7,17WINT-All-Sunday-01,143279461,"C - Conestoga Mall",0,210105,70202
-7,17WINT-All-Sunday-01,143279561,"C - Conestoga Mall",0,210109,70202
-7,17WINT-All-Sunday-01,143279661,"C - Conestoga Mall",0,210106,70202
-7,17WINT-All-Sunday-01,143279761,"C - Conestoga Mall",0,210110,70202
-7,17WINT-All-Sunday-01,143279861,"C - Conestoga Mall",0,210105,70202
-7,17WINT-All-Sunday-01,143279961,"C - Conestoga Mall",0,210109,70202
-7,17WINT-All-Sunday-01,143280061,"C - Conestoga Mall",0,210106,70203
-7,17WINT-All-Sunday-01,143280161,"C - Conestoga Mall",0,210110,70203
-7,17WINT-All-Sunday-01,143280261,"C - Conestoga Mall",0,210105,70203
-7,17WINT-All-Sunday-01,143280361,"C - Conestoga Mall",0,210109,70202
-7,17WINT-All-Sunday-01,143280461,"C - Conestoga Mall",0,210106,70202
-7,17WINT-All-Sunday-01,143280561,"C - Conestoga Mall",0,210110,70202
-7,17WINT-All-Sunday-01,143280661,"C - Conestoga Mall",0,210105,70202
-7,17WINT-All-Sunday-01,143280761,"C - Conestoga Mall",0,210109,70202
-7,17WINT-All-Sunday-01,143280861,"C - Conestoga Mall",0,210106,70202
-7,17WINT-All-Sunday-01,143280961,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143281061,"B - Fairview Park via Weber",1,210110,70213
-7,17WINT-All-Sunday-01,143281161,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143281261,"B - Fairview Park via Weber",1,210109,70213
-7,17WINT-All-Sunday-01,143281361,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143281461,"B - Fairview Park via Weber",1,210110,70213
-7,17WINT-All-Sunday-01,143281561,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143281661,"B - Fairview Park via Weber",1,210109,70213
-7,17WINT-All-Sunday-01,143281761,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143281861,"B - Fairview Park via Weber",1,210110,70213
-7,17WINT-All-Sunday-01,143281961,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143282061,"B - Fairview Park via Weber",1,210109,70213
-7,17WINT-All-Sunday-01,143282161,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143282261,"B - Fairview Park via Weber",1,210110,70213
-7,17WINT-All-Sunday-01,143282361,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143282461,"B - Fairview Park via Weber",1,210109,70213
-7,17WINT-All-Sunday-01,143282561,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143282661,"B - Fairview Park via Weber",1,210110,70213
-7,17WINT-All-Sunday-01,143282761,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143282861,"B - Fairview Park via Weber",1,210109,70213
-7,17WINT-All-Sunday-01,143282961,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143283061,"B - Fairview Park via Weber",1,210110,70213
-7,17WINT-All-Sunday-01,143283161,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143283261,"B - Fairview Park via Weber",1,210109,70213
-7,17WINT-All-Sunday-01,143283361,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143283461,"B - Fairview Park via Weber",1,210110,70213
-7,17WINT-All-Sunday-01,143283561,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143283661,"B - Fairview Park via Weber",1,210109,70213
-7,17WINT-All-Sunday-01,143283761,"B - Fairview Park via Weber",1,210106,70213
-7,17WINT-All-Sunday-01,143283861,"B - Fairview Park via Weber",1,210110,70213
+7,17WINT-All-Sunday-01,143277861,"C - Conestoga Mall",0,210105,70256
+7,17WINT-All-Sunday-01,143277961,"C - Conestoga Mall",0,210109,70257
+7,17WINT-All-Sunday-01,143278061,"C - Conestoga Mall",0,210106,70256
+7,17WINT-All-Sunday-01,143278161,"C - Conestoga Mall",0,210110,70256
+7,17WINT-All-Sunday-01,143278261,"C - Conestoga Mall",0,210105,70256
+7,17WINT-All-Sunday-01,143278361,"C - Conestoga Mall",0,210109,70256
+7,17WINT-All-Sunday-01,143278461,"C - Conestoga Mall",0,210106,70256
+7,17WINT-All-Sunday-01,143278561,"C - Conestoga Mall",0,210110,70256
+7,17WINT-All-Sunday-01,143278661,"C - Conestoga Mall",0,210105,70256
+7,17WINT-All-Sunday-01,143278761,"C - Conestoga Mall",0,210109,70256
+7,17WINT-All-Sunday-01,143278861,"C - Conestoga Mall",0,210106,70256
+7,17WINT-All-Sunday-01,143278961,"C - Conestoga Mall",0,210110,70256
+7,17WINT-All-Sunday-01,143279061,"C - Conestoga Mall",0,210105,70256
+7,17WINT-All-Sunday-01,143279161,"C - Conestoga Mall",0,210109,70256
+7,17WINT-All-Sunday-01,143279261,"C - Conestoga Mall",0,210106,70256
+7,17WINT-All-Sunday-01,143279361,"C - Conestoga Mall",0,210110,70256
+7,17WINT-All-Sunday-01,143279461,"C - Conestoga Mall",0,210105,70256
+7,17WINT-All-Sunday-01,143279561,"C - Conestoga Mall",0,210109,70256
+7,17WINT-All-Sunday-01,143279661,"C - Conestoga Mall",0,210106,70256
+7,17WINT-All-Sunday-01,143279761,"C - Conestoga Mall",0,210110,70256
+7,17WINT-All-Sunday-01,143279861,"C - Conestoga Mall",0,210105,70256
+7,17WINT-All-Sunday-01,143279961,"C - Conestoga Mall",0,210109,70256
+7,17WINT-All-Sunday-01,143280061,"C - Conestoga Mall",0,210106,70257
+7,17WINT-All-Sunday-01,143280161,"C - Conestoga Mall",0,210110,70257
+7,17WINT-All-Sunday-01,143280261,"C - Conestoga Mall",0,210105,70257
+7,17WINT-All-Sunday-01,143280361,"C - Conestoga Mall",0,210109,70256
+7,17WINT-All-Sunday-01,143280461,"C - Conestoga Mall",0,210106,70256
+7,17WINT-All-Sunday-01,143280561,"C - Conestoga Mall",0,210110,70256
+7,17WINT-All-Sunday-01,143280661,"C - Conestoga Mall",0,210105,70256
+7,17WINT-All-Sunday-01,143280761,"C - Conestoga Mall",0,210109,70256
+7,17WINT-All-Sunday-01,143280861,"C - Conestoga Mall",0,210106,70256
+7,17WINT-All-Sunday-01,143280961,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143281061,"B - Fairview Park via Weber",1,210110,70262
+7,17WINT-All-Sunday-01,143281161,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143281261,"B - Fairview Park via Weber",1,210109,70262
+7,17WINT-All-Sunday-01,143281361,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143281461,"B - Fairview Park via Weber",1,210110,70262
+7,17WINT-All-Sunday-01,143281561,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143281661,"B - Fairview Park via Weber",1,210109,70262
+7,17WINT-All-Sunday-01,143281761,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143281861,"B - Fairview Park via Weber",1,210110,70262
+7,17WINT-All-Sunday-01,143281961,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143282061,"B - Fairview Park via Weber",1,210109,70262
+7,17WINT-All-Sunday-01,143282161,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143282261,"B - Fairview Park via Weber",1,210110,70262
+7,17WINT-All-Sunday-01,143282361,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143282461,"B - Fairview Park via Weber",1,210109,70262
+7,17WINT-All-Sunday-01,143282561,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143282661,"B - Fairview Park via Weber",1,210110,70262
+7,17WINT-All-Sunday-01,143282761,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143282861,"B - Fairview Park via Weber",1,210109,70262
+7,17WINT-All-Sunday-01,143282961,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143283061,"B - Fairview Park via Weber",1,210110,70262
+7,17WINT-All-Sunday-01,143283161,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143283261,"B - Fairview Park via Weber",1,210109,70262
+7,17WINT-All-Sunday-01,143283361,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143283461,"B - Fairview Park via Weber",1,210110,70262
+7,17WINT-All-Sunday-01,143283561,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143283661,"B - Fairview Park via Weber",1,210109,70262
+7,17WINT-All-Sunday-01,143283761,"B - Fairview Park via Weber",1,210106,70262
+7,17WINT-All-Sunday-01,143283861,"B - Fairview Park via Weber",1,210110,70262
 7,17WINT-All-Sunday-01,143283961,"D - UW via University",0,210104,70205
 7,17WINT-All-Sunday-01,143284061,"D - UW via University",0,210107,70204
 7,17WINT-All-Sunday-01,143284161,"D - UW via University",0,210103,70204
@@ -6092,14 +6092,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Sunday-01,143289661,"A - Fairview Park via Connaught",1,210107,70214
 7,17WINT-All-Sunday-01,143289761,"A - Fairview Park via Connaught",1,210103,70214
 7,17WINT-All-Sunday-01,143289861,"A - Fairview Park via Connaught",1,210108,70214
-7,17WINT-All-Sunday-01,143289961,"C - Conestoga Mall",0,210110,70202
+7,17WINT-All-Sunday-01,143289961,"C - Conestoga Mall",0,210110,70256
 7,17WINT-All-Sunday-01,143290061,"D - UW via University",0,210108,70204
 7,17WINT-All-Sunday-01,143290161,"D - UW via University",0,210104,70204
 7,17WINT-All-Sunday-01,143290261,"A - Fairview Park via Connaught",1,210103,70214
 7,17WINT-All-Sunday-01,143290361,"A - Fairview Park via Connaught",1,210104,70214
 7,17WINT-All-Sunday-01,143290461,"A - Fairview Park via Connaught",1,210107,70214
-7,17WINT-All-Sunday-01,143290561,"B - Fairview Park via Weber",1,210105,70213
-7,17WINT-All-Sunday-01,143290661,"B - Fairview Park via Weber",1,210109,70215
+7,17WINT-All-Sunday-01,143290561,"B - Fairview Park via Weber",1,210105,70262
+7,17WINT-All-Sunday-01,143290661,"B - Fairview Park via Weber",1,210109,70263
 7,17WINT-All-Sunday-01,143290761,"A - Fairview Park via Connaught",1,210107,70023
 7,17WINT-All-Sunday-01,143290861,"B - Fairview Park via Weber",1,210105,70022
 7,17WINT-All-Sunday-01,143290961,"D - UW via University",0,210103,70084
@@ -6107,11 +6107,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 7,17WINT-All-Sunday-01,143291161,"B - Fairview Park via Weber",1,210109,70022
 7,17WINT-All-Sunday-01,143291261,"Charles Terminal",0,210107,70176
 7,17WINT-All-Sunday-01,143291361,"Charles Terminal",0,210110,70195
-7,17WINT-All-Sunday-01,143291461,"Charles Terminal",1,210081,70231
-7,17WINT-All-Sunday-01,143291561,"Charles Terminal",1,210089,70231
+7,17WINT-All-Sunday-01,143291461,"Charles Terminal",1,210081,70267
+7,17WINT-All-Sunday-01,143291561,"Charles Terminal",1,210089,70267
 7,17WINT-All-Sunday-01,143291661,"Charles Terminal",1,210103,70242
 7,17WINT-All-Sunday-01,143291761,"Charles Terminal",1,210108,70242
-7,17WINT-All-Sunday-01,143291861,"Charles Terminal",1,210106,70243
+7,17WINT-All-Sunday-01,143291861,"Charles Terminal",1,210106,70270
 1,17WINT-All-Sunday-01,143291961,"The Boardwalk",1,210117,10032
 1,17WINT-All-Sunday-01,143292061,"The Boardwalk",1,210116,10032
 1,17WINT-All-Sunday-01,143292161,"The Boardwalk",1,210119,10032
@@ -6326,15 +6326,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,17WINT-All-Sunday-01,143313061,"Fairview Park via Preston Parkway",0,210056,520061
 52,17WINT-All-Sunday-01,143313161,"Fairview Park via Preston Parkway",0,210059,520061
 52,17WINT-All-Sunday-01,143313261,"Fairview Park via Preston Parkway",0,210059,520061
-52,17WINT-All-Sunday-01,143313361,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143313461,"Ainslie Terminal via Preston Parkway",1,210056,520072
-52,17WINT-All-Sunday-01,143313561,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143313661,"Ainslie Terminal via Preston Parkway",1,210056,520072
-52,17WINT-All-Sunday-01,143313761,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143313861,"Ainslie Terminal via Preston Parkway",1,210056,520072
-52,17WINT-All-Sunday-01,143313961,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143314061,"Ainslie Terminal via Preston Parkway",1,210056,520072
-52,17WINT-All-Sunday-01,143314161,"Ainslie Terminal via Preston Parkway",1,210056,520072
+52,17WINT-All-Sunday-01,143313361,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143313461,"Ainslie Terminal via Preston Parkway",1,210056,520017
+52,17WINT-All-Sunday-01,143313561,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143313661,"Ainslie Terminal via Preston Parkway",1,210056,520017
+52,17WINT-All-Sunday-01,143313761,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143313861,"Ainslie Terminal via Preston Parkway",1,210056,520017
+52,17WINT-All-Sunday-01,143313961,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143314061,"Ainslie Terminal via Preston Parkway",1,210056,520017
+52,17WINT-All-Sunday-01,143314161,"Ainslie Terminal via Preston Parkway",1,210056,520017
 52,17WINT-All-Sunday-01,143314261,"Fairview Park via Preston Parkway",0,210059,520061
 52,17WINT-All-Sunday-01,143314361,"Fairview Park via Preston Parkway",0,210056,520061
 52,17WINT-All-Sunday-01,143314461,"Fairview Park via Preston Parkway",0,210056,520061
@@ -6342,14 +6342,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,17WINT-All-Sunday-01,143314661,"Fairview Park via Preston Parkway",0,210056,520061
 52,17WINT-All-Sunday-01,143314761,"Fairview Park via Preston Parkway",0,210059,520061
 52,17WINT-All-Sunday-01,143314861,"Fairview Park via Preston Parkway",0,210071,520061
-52,17WINT-All-Sunday-01,143314961,"Ainslie Terminal via Preston Parkway",1,210056,520072
-52,17WINT-All-Sunday-01,143315061,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143315161,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143315261,"Ainslie Terminal via Preston Parkway",1,210056,520072
-52,17WINT-All-Sunday-01,143315361,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143315461,"Ainslie Terminal via Preston Parkway",1,210056,520072
-52,17WINT-All-Sunday-01,143315561,"Ainslie Terminal via Preston Parkway",1,210059,520072
-52,17WINT-All-Sunday-01,143315661,"Ainslie Terminal via Preston Parkway",1,210071,520072
+52,17WINT-All-Sunday-01,143314961,"Ainslie Terminal via Preston Parkway",1,210056,520017
+52,17WINT-All-Sunday-01,143315061,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143315161,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143315261,"Ainslie Terminal via Preston Parkway",1,210056,520017
+52,17WINT-All-Sunday-01,143315361,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143315461,"Ainslie Terminal via Preston Parkway",1,210056,520017
+52,17WINT-All-Sunday-01,143315561,"Ainslie Terminal via Preston Parkway",1,210059,520017
+52,17WINT-All-Sunday-01,143315661,"Ainslie Terminal via Preston Parkway",1,210071,520017
 52,17WINT-All-Sunday-01,143315761,"Fairview Park via Preston Parkway",0,210057,520061
 52,17WINT-All-Sunday-01,143315861,"Fairview Park via Preston Parkway",0,210058,520061
 52,17WINT-All-Sunday-01,143315961,"Fairview Park via Preston Parkway",0,210057,520061
@@ -6358,14 +6358,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 52,17WINT-All-Sunday-01,143316261,"Fairview Park via Preston Parkway",0,210058,520061
 52,17WINT-All-Sunday-01,143316361,"Fairview Park via Preston Parkway",0,210057,520061
 52,17WINT-All-Sunday-01,143316461,"Fairview Park via Preston Parkway",0,210058,520061
-52,17WINT-All-Sunday-01,143316561,"Ainslie Terminal via Preston Parkway",1,210058,520072
-52,17WINT-All-Sunday-01,143316661,"Ainslie Terminal via Preston Parkway",1,210057,520072
-52,17WINT-All-Sunday-01,143316761,"Ainslie Terminal via Preston Parkway",1,210058,520072
-52,17WINT-All-Sunday-01,143316861,"Ainslie Terminal via Preston Parkway",1,210057,520072
-52,17WINT-All-Sunday-01,143316961,"Ainslie Terminal via Preston Parkway",1,210058,520072
-52,17WINT-All-Sunday-01,143317061,"Ainslie Terminal via Preston Parkway",1,210057,520072
-52,17WINT-All-Sunday-01,143317161,"Ainslie Terminal via Preston Parkway",1,210058,520072
-52,17WINT-All-Sunday-01,143317261,"Ainslie Terminal via Preston Parkway",1,210057,520072
+52,17WINT-All-Sunday-01,143316561,"Ainslie Terminal via Preston Parkway",1,210058,520017
+52,17WINT-All-Sunday-01,143316661,"Ainslie Terminal via Preston Parkway",1,210057,520017
+52,17WINT-All-Sunday-01,143316761,"Ainslie Terminal via Preston Parkway",1,210058,520017
+52,17WINT-All-Sunday-01,143316861,"Ainslie Terminal via Preston Parkway",1,210057,520017
+52,17WINT-All-Sunday-01,143316961,"Ainslie Terminal via Preston Parkway",1,210058,520017
+52,17WINT-All-Sunday-01,143317061,"Ainslie Terminal via Preston Parkway",1,210057,520017
+52,17WINT-All-Sunday-01,143317161,"Ainslie Terminal via Preston Parkway",1,210058,520017
+52,17WINT-All-Sunday-01,143317261,"Ainslie Terminal via Preston Parkway",1,210057,520017
 54,17WINT-All-Sunday-01,143317361,"East",0,210057,540004
 54,17WINT-All-Sunday-01,143317461,"East",0,210058,540004
 54,17WINT-All-Sunday-01,143317561,"East",0,210057,540004
@@ -6565,7 +6565,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 29,17WINT-All-Sunday-01,143337461,"The Boardwalk",1,210829,290017
 9,17WINT-All-Sunday-01,143337561,"Conestoga Mall",0,210081,90076
 9,17WINT-All-Sunday-01,143337661,"Conestoga Mall",0,210102,90077
-9,17WINT-All-Sunday-01,143337761,"University/King",1,210102,90085
+9,17WINT-All-Sunday-01,143337761,"University/King",1,210102,90091
 9,17WINT-All-Sunday-01,143337861,"Conestoga Mall",0,210082,90076
 9,17WINT-All-Sunday-01,143337961,"Conestoga Mall",0,210078,90076
 9,17WINT-All-Sunday-01,143338061,"Conestoga Mall",0,210081,90076
@@ -6586,27 +6586,27 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 9,17WINT-All-Sunday-01,143339561,"Conestoga Mall",0,210098,90076
 9,17WINT-All-Sunday-01,143339661,"Conestoga Mall",0,210121,90076
 9,17WINT-All-Sunday-01,143339761,"Conestoga Mall",0,210102,90076
-9,17WINT-All-Sunday-01,143339861,"UW",1,210121,90087
-9,17WINT-All-Sunday-01,143339961,"UW",1,210121,90087
-9,17WINT-All-Sunday-01,143340061,"UW",1,210102,90087
-9,17WINT-All-Sunday-01,143340161,"UW",1,210121,90087
-9,17WINT-All-Sunday-01,143340261,"UW",1,210078,90087
-9,17WINT-All-Sunday-01,143340361,"UW",1,210081,90087
-9,17WINT-All-Sunday-01,143340461,"UW",1,210082,90087
-9,17WINT-All-Sunday-01,143340561,"UW",1,210078,90087
-9,17WINT-All-Sunday-01,143340661,"UW",1,210081,90087
-9,17WINT-All-Sunday-01,143340761,"UW",1,210082,90087
-9,17WINT-All-Sunday-01,143340861,"UW",1,210098,90087
-9,17WINT-All-Sunday-01,143340961,"UW",1,210078,90087
-9,17WINT-All-Sunday-01,143341061,"UW",1,210081,90087
-9,17WINT-All-Sunday-01,143341161,"UW",1,210082,90087
-9,17WINT-All-Sunday-01,143341261,"UW",1,210081,90087
-9,17WINT-All-Sunday-01,143341361,"UW",1,210098,90087
-9,17WINT-All-Sunday-01,143341461,"UW",1,210102,90087
-9,17WINT-All-Sunday-01,143341561,"UW",1,210098,90087
-9,17WINT-All-Sunday-01,143341661,"UW",1,210102,90087
-9,17WINT-All-Sunday-01,143341761,"UW",1,210078,90087
-9,17WINT-All-Sunday-01,143341861,"UW",1,210121,90089
+9,17WINT-All-Sunday-01,143339861,"UW",1,210121,90093
+9,17WINT-All-Sunday-01,143339961,"UW",1,210121,90093
+9,17WINT-All-Sunday-01,143340061,"UW",1,210102,90093
+9,17WINT-All-Sunday-01,143340161,"UW",1,210121,90093
+9,17WINT-All-Sunday-01,143340261,"UW",1,210078,90093
+9,17WINT-All-Sunday-01,143340361,"UW",1,210081,90093
+9,17WINT-All-Sunday-01,143340461,"UW",1,210082,90093
+9,17WINT-All-Sunday-01,143340561,"UW",1,210078,90093
+9,17WINT-All-Sunday-01,143340661,"UW",1,210081,90093
+9,17WINT-All-Sunday-01,143340761,"UW",1,210082,90093
+9,17WINT-All-Sunday-01,143340861,"UW",1,210098,90093
+9,17WINT-All-Sunday-01,143340961,"UW",1,210078,90093
+9,17WINT-All-Sunday-01,143341061,"UW",1,210081,90093
+9,17WINT-All-Sunday-01,143341161,"UW",1,210082,90093
+9,17WINT-All-Sunday-01,143341261,"UW",1,210081,90093
+9,17WINT-All-Sunday-01,143341361,"UW",1,210098,90093
+9,17WINT-All-Sunday-01,143341461,"UW",1,210102,90093
+9,17WINT-All-Sunday-01,143341561,"UW",1,210098,90093
+9,17WINT-All-Sunday-01,143341661,"UW",1,210102,90093
+9,17WINT-All-Sunday-01,143341761,"UW",1,210078,90093
+9,17WINT-All-Sunday-01,143341861,"UW",1,210121,90094
 6,17WINT-All-Sunday-01,143344261,"Charles Terminal",1,210068,60020
 6,17WINT-All-Sunday-01,143344361,"Charles Terminal",1,210068,60020
 6,17WINT-All-Sunday-01,143344461,"Charles Terminal",1,210068,60020
@@ -6637,56 +6637,56 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
 6,17WINT-All-Sunday-01,143346961,"Conestoga Mall",0,210068,60021
 6,17WINT-All-Sunday-01,143347061,"Conestoga Mall",0,210068,60021
 6,17WINT-All-Sunday-01,143347161,"Conestoga Mall",0,210068,60021
-200,17WINT-All-Sunday-01,143347261,"Conestoga Mall",0,210075,2000507
-200,17WINT-All-Sunday-01,143347361,"Conestoga Mall",0,210077,2000507
-200,17WINT-All-Sunday-01,143347461,"Conestoga Mall",0,210072,2000507
-200,17WINT-All-Sunday-01,143347561,"Conestoga Mall",0,210074,2000507
-200,17WINT-All-Sunday-01,143347661,"Conestoga Mall",0,210076,2000507
-200,17WINT-All-Sunday-01,143347761,"Conestoga Mall",0,210073,2000507
-200,17WINT-All-Sunday-01,143347861,"Conestoga Mall",0,210075,2000507
-200,17WINT-All-Sunday-01,143347961,"Conestoga Mall",0,210077,2000507
-200,17WINT-All-Sunday-01,143348061,"Conestoga Mall",0,210072,2000507
-200,17WINT-All-Sunday-01,143348161,"Conestoga Mall",0,210074,2000507
-200,17WINT-All-Sunday-01,143348261,"Conestoga Mall",0,210076,2000507
-200,17WINT-All-Sunday-01,143348361,"Conestoga Mall",0,210073,2000507
-200,17WINT-All-Sunday-01,143348461,"Conestoga Mall",0,210075,2000507
-200,17WINT-All-Sunday-01,143348561,"Conestoga Mall",0,210077,2000507
-200,17WINT-All-Sunday-01,143348661,"Conestoga Mall",0,210072,2000507
-200,17WINT-All-Sunday-01,143348761,"Ainslie Terminal",1,210074,2000498
-200,17WINT-All-Sunday-01,143348861,"Ainslie Terminal",1,210076,2000498
-200,17WINT-All-Sunday-01,143348961,"Ainslie Terminal",1,210073,2000498
-200,17WINT-All-Sunday-01,143349061,"Ainslie Terminal",1,210075,2000498
-200,17WINT-All-Sunday-01,143349161,"Ainslie Terminal",1,210077,2000498
-200,17WINT-All-Sunday-01,143349261,"Ainslie Terminal",1,210072,2000498
-200,17WINT-All-Sunday-01,143349361,"Ainslie Terminal",1,210074,2000498
-200,17WINT-All-Sunday-01,143349461,"Ainslie Terminal",1,210076,2000498
-200,17WINT-All-Sunday-01,143349561,"Ainslie Terminal",1,210073,2000498
-200,17WINT-All-Sunday-01,143349661,"Ainslie Terminal",1,210075,2000498
-200,17WINT-All-Sunday-01,143349761,"Ainslie Terminal",1,210077,2000498
-200,17WINT-All-Sunday-01,143349861,"Ainslie Terminal",1,210072,2000498
-200,17WINT-All-Sunday-01,143349961,"Ainslie Terminal",1,210074,2000498
-200,17WINT-All-Sunday-01,143350061,"Ainslie Terminal",1,210076,2000498
-200,17WINT-All-Sunday-01,143350161,"Ainslie Terminal",1,210073,2000498
-200,17WINT-All-Sunday-01,143350261,"Conestoga Mall",0,210074,2000507
-200,17WINT-All-Sunday-01,143350361,"Conestoga Mall",0,210076,2000507
-200,17WINT-All-Sunday-01,143350461,"Conestoga Mall",0,210073,2000507
-200,17WINT-All-Sunday-01,143350561,"Conestoga Mall",0,210075,2000507
-200,17WINT-All-Sunday-01,143350661,"Conestoga Mall",0,210077,2000507
-200,17WINT-All-Sunday-01,143350761,"Conestoga Mall",0,210072,2000507
-200,17WINT-All-Sunday-01,143350861,"Conestoga Mall",0,210072,2000507
-200,17WINT-All-Sunday-01,143350961,"Conestoga Mall",0,210074,2000507
-200,17WINT-All-Sunday-01,143351061,"Conestoga Mall",0,210076,2000507
-200,17WINT-All-Sunday-01,143351161,"Conestoga Mall",0,210073,2000507
-200,17WINT-All-Sunday-01,143351261,"Ainslie Terminal",1,210073,2000498
-200,17WINT-All-Sunday-01,143351361,"Ainslie Terminal",1,210075,2000498
-200,17WINT-All-Sunday-01,143351461,"Ainslie Terminal",1,210077,2000498
-200,17WINT-All-Sunday-01,143351561,"Ainslie Terminal",1,210072,2000498
-200,17WINT-All-Sunday-01,143351661,"Ainslie Terminal",1,210075,2000498
-200,17WINT-All-Sunday-01,143351761,"Ainslie Terminal",1,210077,2000498
-200,17WINT-All-Sunday-01,143351861,"Ainslie Terminal",1,210072,2000498
-200,17WINT-All-Sunday-01,143351961,"Ainslie Terminal",1,210074,2000498
-200,17WINT-All-Sunday-01,143352061,"Ainslie Terminal",1,210076,2000498
-200,17WINT-All-Sunday-01,143352161,"Ainslie Terminal",1,210073,2000498
+200,17WINT-All-Sunday-01,143347261,"Conestoga Mall",0,210075,2000513
+200,17WINT-All-Sunday-01,143347361,"Conestoga Mall",0,210077,2000513
+200,17WINT-All-Sunday-01,143347461,"Conestoga Mall",0,210072,2000513
+200,17WINT-All-Sunday-01,143347561,"Conestoga Mall",0,210074,2000513
+200,17WINT-All-Sunday-01,143347661,"Conestoga Mall",0,210076,2000513
+200,17WINT-All-Sunday-01,143347761,"Conestoga Mall",0,210073,2000513
+200,17WINT-All-Sunday-01,143347861,"Conestoga Mall",0,210075,2000513
+200,17WINT-All-Sunday-01,143347961,"Conestoga Mall",0,210077,2000513
+200,17WINT-All-Sunday-01,143348061,"Conestoga Mall",0,210072,2000513
+200,17WINT-All-Sunday-01,143348161,"Conestoga Mall",0,210074,2000513
+200,17WINT-All-Sunday-01,143348261,"Conestoga Mall",0,210076,2000513
+200,17WINT-All-Sunday-01,143348361,"Conestoga Mall",0,210073,2000513
+200,17WINT-All-Sunday-01,143348461,"Conestoga Mall",0,210075,2000513
+200,17WINT-All-Sunday-01,143348561,"Conestoga Mall",0,210077,2000513
+200,17WINT-All-Sunday-01,143348661,"Conestoga Mall",0,210072,2000513
+200,17WINT-All-Sunday-01,143348761,"Ainslie Terminal",1,210074,2000515
+200,17WINT-All-Sunday-01,143348861,"Ainslie Terminal",1,210076,2000515
+200,17WINT-All-Sunday-01,143348961,"Ainslie Terminal",1,210073,2000515
+200,17WINT-All-Sunday-01,143349061,"Ainslie Terminal",1,210075,2000515
+200,17WINT-All-Sunday-01,143349161,"Ainslie Terminal",1,210077,2000515
+200,17WINT-All-Sunday-01,143349261,"Ainslie Terminal",1,210072,2000515
+200,17WINT-All-Sunday-01,143349361,"Ainslie Terminal",1,210074,2000515
+200,17WINT-All-Sunday-01,143349461,"Ainslie Terminal",1,210076,2000515
+200,17WINT-All-Sunday-01,143349561,"Ainslie Terminal",1,210073,2000515
+200,17WINT-All-Sunday-01,143349661,"Ainslie Terminal",1,210075,2000515
+200,17WINT-All-Sunday-01,143349761,"Ainslie Terminal",1,210077,2000515
+200,17WINT-All-Sunday-01,143349861,"Ainslie Terminal",1,210072,2000515
+200,17WINT-All-Sunday-01,143349961,"Ainslie Terminal",1,210074,2000515
+200,17WINT-All-Sunday-01,143350061,"Ainslie Terminal",1,210076,2000515
+200,17WINT-All-Sunday-01,143350161,"Ainslie Terminal",1,210073,2000515
+200,17WINT-All-Sunday-01,143350261,"Conestoga Mall",0,210074,2000513
+200,17WINT-All-Sunday-01,143350361,"Conestoga Mall",0,210076,2000513
+200,17WINT-All-Sunday-01,143350461,"Conestoga Mall",0,210073,2000513
+200,17WINT-All-Sunday-01,143350561,"Conestoga Mall",0,210075,2000513
+200,17WINT-All-Sunday-01,143350661,"Conestoga Mall",0,210077,2000513
+200,17WINT-All-Sunday-01,143350761,"Conestoga Mall",0,210072,2000513
+200,17WINT-All-Sunday-01,143350861,"Conestoga Mall",0,210072,2000513
+200,17WINT-All-Sunday-01,143350961,"Conestoga Mall",0,210074,2000513
+200,17WINT-All-Sunday-01,143351061,"Conestoga Mall",0,210076,2000513
+200,17WINT-All-Sunday-01,143351161,"Conestoga Mall",0,210073,2000513
+200,17WINT-All-Sunday-01,143351261,"Ainslie Terminal",1,210073,2000515
+200,17WINT-All-Sunday-01,143351361,"Ainslie Terminal",1,210075,2000515
+200,17WINT-All-Sunday-01,143351461,"Ainslie Terminal",1,210077,2000515
+200,17WINT-All-Sunday-01,143351561,"Ainslie Terminal",1,210072,2000515
+200,17WINT-All-Sunday-01,143351661,"Ainslie Terminal",1,210075,2000515
+200,17WINT-All-Sunday-01,143351761,"Ainslie Terminal",1,210077,2000515
+200,17WINT-All-Sunday-01,143351861,"Ainslie Terminal",1,210072,2000515
+200,17WINT-All-Sunday-01,143351961,"Ainslie Terminal",1,210074,2000515
+200,17WINT-All-Sunday-01,143352061,"Ainslie Terminal",1,210076,2000515
+200,17WINT-All-Sunday-01,143352161,"Ainslie Terminal",1,210073,2000515
 58,17WINT-All-Sunday-01,143361261,"North",0,210122,580004
 58,17WINT-All-Sunday-01,143361361,"North",0,210070,580004
 58,17WINT-All-Sunday-01,143361461,"North",0,210122,580004
