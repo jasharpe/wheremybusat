@@ -41,10 +41,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1041,1041,Fairway / Morgan,,  43.430207, -80.431957,,,0,,1
 1042,1042,Fairway / King,,  43.428821, -80.432155,,,0,,1
 1043,1043,Fairway / King,,  43.427546, -80.432883,,,0,,1
-1044,1044,Fairway / Wabanaki,,  43.422714, -80.437215,,,0,,1
+1044,1044,Fairway / Highway 8,,  43.423085, -80.436582,,,0,,1
 1045,1045,Fairway / Fairview Park,,  43.421823, -80.439089,,,0,,1
 1046,1046,Fairview Park,,  43.422831, -80.440846,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_FVM,1
-1047,1047,Fairway / Walmart,,  43.424007, -80.434683,,,0,,1
+1047,1047,Fairway / Highway 8,,  43.424022, -80.434552,,,0,,2
 1048,1048,Fairway / King,,  43.428883, -80.431858,,,0,,1
 1049,1049,Fairway / Morgan,,  43.430448, -80.431658,,,0,,1
 1050,1050,Fairway / Thaler,,  43.432222, -80.429911,,,0,,1
@@ -810,6 +810,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1890,1890,King / Ontario,,  43.450437, -80.490610,,,0,,1
 1891,1891,King / College,,  43.451504, -80.493728,,,0,,1
 1892,1892,King / Francis,,  43.452289, -80.496119,,,0,,1
+1901,1901,King / Victoria,,  43.452610, -80.497623,,,0,,1
 1903,1903,Victoria / Margaret,,  43.456228, -80.489186,,,0,,1
 1908,1908,King / Erb,,  43.465332, -80.522306,,,0,,1
 1909,1909,King / Bridgeport,,  43.467892, -80.523002,,,0,,1
@@ -942,6 +943,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2073,2073,Northlake / Conservation,,  43.495616, -80.566012,,,0,,1
 2074,2074,Conservation / Westmount,,  43.494306, -80.569658,,,0,,1
 2075,2075,Conservation / Coldstream,,  43.492774, -80.573985,,,0,,1
+2076,2076,Activa / Grey Fox,,  43.413217, -80.508928,,,0,,1
 2077,2077,Lake Louise / Glacier,,  43.494614, -80.577225,,,0,,1
 2078,2078,Lake Louise / Osprey,,  43.496630, -80.572078,,,0,,1
 2079,2079,Conservation / Westmount,,  43.494590, -80.568431,,,0,,1
@@ -1196,7 +1198,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2371,2371,Krug / Sherwood,,  43.457235, -80.461097,,,0,,1
 2372,2372,Krug / River,,  43.458318, -80.457824,,,0,,1
 2373,2373,Lorraine / Birkshire,,  43.457822, -80.448262,,,0,,1
-2379,2379,Old Chicopee / Holborn,,  43.451217, -80.439917,,,0,,1
+2379,2379,Old Chicopee / Ottawa,,  43.451770, -80.440420,,,0,,1
 2380,2380,80 Holborn Dr,,  43.450537, -80.439679,,,0,,1
 2381,2381,Holborn / River,,  43.449185, -80.443052,,,0,,1
 2382,2382,Holborn / Holborn,,  43.449353, -80.441776,,,0,,1
@@ -1549,6 +1551,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2839,2839,Margaret / Wellington,,  43.458648, -80.490553,,,0,,1
 2840,2840,Margaret / Victoria,,  43.455957, -80.488833,,,0,,1
 2841,2841,Margaret / Queen,,  43.454539, -80.485669,,,0,,1
+2842,2842,Weber / Frederick,,  43.451390, -80.486338,,,0,,1
 2843,2843,Weber / Cedar,,  43.449071, -80.481290,,,0,,1
 2844,2844,Weber / Madison,,  43.448516, -80.480059,,,0,,1
 2845,2845,Weber / Fairview,,  43.446960, -80.476526,,,0,,1
@@ -2488,6 +2491,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7033,7033,No Frills Grocery Store,,  43.370367, -80.703937,,,0,,1
 7035,7035,Waterloo / Forrest,,  43.387798, -80.710968,,,0,,1
 7037,7037,Highland / Trussler,,  43.421315, -80.558582,,,0,,1
+7038,7038,Snyders / 500 Block,,  43.407226, -80.646279,,,0,,1
+7039,7039,Snyders / 500 Block,,  43.407136, -80.645915,,,0,,1
 7040,7040,Highland / Trussler,,  43.420881, -80.559194,,,0,,1
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
 place_CBC,,Cambridge Centre,,  43.391253, -80.319713,,,1,,
