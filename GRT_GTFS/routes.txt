@@ -46,7 +46,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 78,78,Hanson,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 91,91,Late Night Loop,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
 92,92,University Loop,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
-99,52,Detour Shuttle,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
 110,110,College Express,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
 111,111,College Express,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
 116,116,College Express,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
