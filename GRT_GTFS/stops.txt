@@ -857,8 +857,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1954,1954,Bridgeport / Weber,,  43.469833, -80.513653,,,0,,1
 1955,1955,Bridgeport / Devitt,,  43.469165, -80.515241,,,0,,1
 1956,1956,Bridgeport / Peppler,,  43.468114, -80.520256,,,0,,1
-1957,1957,King / Bridgeport,,  43.467334, -80.523081,,,0,,1
-1959,1959,King / William,,  43.461682, -80.521531,,,0,,1
 1960,1960,Caroline / Willis Way,,  43.462645, -80.523609,,,0,,1
 1961,1961,Erb / Father David Bauer,,  43.464131, -80.525999,,,0,,1
 1962,1962,Erb / Wells,,  43.463213, -80.528132,,,0,place_KWS,1
@@ -2272,8 +2270,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3890,3890,Fischer-Hallman / Columbia,,  43.467368, -80.565646,,,0,,1
 3891,3891,Fischer-Hallman / Highland,,  43.431587, -80.525376,,,0,,1
 3892,3892,Fischer-Hallman / Highland,,  43.431308, -80.525440,,,0,,1
-3893,3893,Fischer-Hallman / Activa,,  43.413549, -80.507915,,,0,,1
-3894,3894,Fischer-Hallman / Activa,,  43.413723, -80.508470,,,0,,1
+3893,3893,Fischer-Hallman / Activa,,  43.414219, -80.508542,,,0,,1
+3894,3894,Fischer-Hallman / Activa,,  43.413179, -80.507955,,,0,,1
 3895,3895,Fischer-Hallman / Westmount,,  43.406717, -80.500091,,,0,,1
 3896,3896,Fischer-Hallman / Westmount,,  43.407489, -80.501542,,,0,,1
 3897,3897,Belmont / Glasgow,,  43.451984, -80.517195,,,0,,1
@@ -2364,7 +2362,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4012,4012,Columbia / Erbsville,,  43.461946, -80.581186,,,0,,1
 4013,4013,Columbia / Cavendish,,  43.463893, -80.576576,,,0,,1
 4014,4014,Laurelwood / Blue Beech,,  43.470290, -80.594731,,,0,,1
-4015,4015,Uptown Waterloo,,  43.463941, -80.522184,,,0,place_KWS,1
 4016,4016,Bridge / Chesapeake,,  43.509082, -80.517909,,,0,,1
 4017,4017,Columbia / Salzburg,,  43.460368, -80.582848,,,0,,1
 4018,4018,Columbia / Salzburg,,  43.460465, -80.582531,,,0,,1
@@ -2438,27 +2435,25 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4088,4088,Erbsville / Cornridge,,  43.459774, -80.578281,,,0,,1
 4089,4089,King / High Crest,,  43.535182, -80.554343,,,0,,1
 4090,4090,King / High Crest,,  43.535225, -80.554207,,,0,,1
-5000,5000,Water / Joseph,,  43.449856, -80.495662,,,0,,1
 5001,5001,Park / Cherry,,  43.449909, -80.504806,,,0,,1
 5002,5002,Park / Cherry,,  43.449581, -80.504599,,,0,,1
 5003,5003,Park / Dominion,,  43.452020, -80.507432,,,0,,1
 5004,5004,Park / Dominion,,  43.452204, -80.507884,,,0,,1
-5005,5005,Water / King,,  43.451514, -80.494579,,,0,,1
-5006,5006,Water / King,,  43.451504, -80.494734,,,0,,1
 5008,5008,Weber / East,,  43.444603, -80.468015,,,0,,1
 5009,5009,Weber / Ottawa,,  43.444185, -80.467540,,,0,,1
+5010,5010,Joseph / Water,,  43.449702, -80.495471,,,0,,1
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
 5014,5014,Bridgeport / King,,  43.467745, -80.522769,,,0,,1
-5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
-5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
 5017,5017,Wellington / Weber,,  43.457131, -80.494610,,,0,,1
 5018,5018,Charles / Water,,  43.450880, -80.495324,,,0,,1
 5028,5028,Park / Allen,,  43.458821, -80.520479,,,0,,1
 5029,5029,Park / Allen,,  43.458690, -80.520507,,,0,,1
+5030,5030,Father David Bauer / Caroline,,  43.462904, -80.524379,,,0,,1
 5031,5031,Park / Norman,,  43.459570, -80.522021,,,0,,1
 5036,5036,Park / Union,,  43.456764, -80.516336,,,0,,1
 5038,5038,Victoria / Weber,,  43.454261, -80.495114,,,0,,1
 5059,5059,Regina / Dupont,,  43.466089, -80.521337,,,0,,1
+5065,5065,King / Bridgeport,,  43.467813, -80.523212,,,0,,1
 6019,6019,Pinebush - Southbound,,  43.407581, -80.328185,,,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CBC,1
 6021,6021,Canamera - Southbound,,  43.385250, -80.321055,,,0,,1
