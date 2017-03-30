@@ -527,10 +527,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1577,1577,Preston / Kiwanis Village,,  43.398527, -80.377980,,,0,,1
 1578,1578,Preston / Parkview,,  43.396446, -80.377668,,,0,,1
 1579,1579,Preston / Hillview,,  43.394807, -80.377746,,,0,,1
-1580,1580,Preston / Woods,,  43.391880, -80.377492,,,0,,1
-1581,1581,Preston / Fountain,,  43.390832, -80.375317,,,0,,1
-1582,1582,Fountain / Bauman,,  43.395369, -80.373456,,,0,,1
-1583,1583,Fountain / Shantz Hill,,  43.397707, -80.371209,,,0,,1
 1584,1584,King / Fountain,,  43.399817, -80.368446,,,0,,1
 1586,1586,King / Waterloo,,  43.397255, -80.361199,,,0,,1
 1587,1587,King / Westminster,,  43.395617, -80.358067,,,0,,1
@@ -574,9 +570,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1625,1625,King / Lowther,,  43.394623, -80.355781,,,0,,1
 1626,1626,King / Waterloo,,  43.397454, -80.361246,,,0,,1
 1627,1627,King / Chopin,,  43.399064, -80.364292,,,0,,1
-1629,1629,Fountain / Bauman,,  43.396141, -80.372966,,,0,,1
-1630,1630,Preston / Fountain,,  43.390986, -80.375501,,,0,,1
-1631,1631,Preston / Woods,,  43.392149, -80.377391,,,0,,1
 1632,1632,Preston / Hillview,,  43.394663, -80.377661,,,0,,1
 1633,1633,Preston / Parkview,,  43.397276, -80.377943,,,0,,1
 1634,1634,Preston / Linden,,  43.399220, -80.376182,,,0,,1
@@ -857,6 +850,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1954,1954,Bridgeport / Weber,,  43.469833, -80.513653,,,0,,1
 1955,1955,Bridgeport / Devitt,,  43.469165, -80.515241,,,0,,1
 1956,1956,Bridgeport / Peppler,,  43.468114, -80.520256,,,0,,1
+1957,1957,King / Bridgeport,,  43.467334, -80.523081,,,0,,1
 1960,1960,Caroline / Willis Way,,  43.462645, -80.523609,,,0,,1
 1961,1961,Erb / Father David Bauer,,  43.464131, -80.525999,,,0,,1
 1962,1962,Erb / Wells,,  43.463213, -80.528132,,,0,place_KWS,1
