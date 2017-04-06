@@ -7,7 +7,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 6,6,Bridge,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 7,7,Mainline,3,ed1c24,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 8,8,University/Fairview,3,00a550,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
-9,9,LAkeshore,3,f7931d,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+9,9,Lakeshore,3,f7931d,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 10,10,College/Fairview,3,0071bb,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 11,11,Country Hills,3,135887,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 12,12,Westmount,3,ec008b,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
