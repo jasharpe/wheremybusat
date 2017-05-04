@@ -383,9 +383,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1431,1431,Langs / Walter,,  43.398847, -80.340263,,,0,,1
 1432,1432,Langs / Fairview Mennonite,,  43.398429, -80.342639,,,0,,1
 1433,1433,Concession / Winterhalt,,  43.398697, -80.345464,,,0,,1
-1435,1435,336 Eagle,,  43.401250, -80.360651,,,0,,1
-1436,1436,Eagle / William,,  43.400069, -80.362034,,,0,,1
-1437,1437,Eagle / King,,  43.398296, -80.363707,,,0,,1
 1438,1438,Eagle / Hamilton,,  43.396433, -80.365492,,,0,,1
 1439,1439,Eagle / Sherring,,  43.394499, -80.367488,,,0,,1
 1441,1441,Lowther / Vine,,  43.390940, -80.359030,,,0,place_PRHS,1
@@ -1383,8 +1380,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2709,2709,Charles Terminal,,  43.449240, -80.492820,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CST,1
 2710,2710,Charles Terminal,,  43.449339, -80.492918,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CST,1
 2711,2711,Charles Terminal,,  43.448857, -80.491822,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CST,1
-2713,2713,Benton / Church,,  43.447469, -80.489411,,,0,,1
-2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439864, -80.482147,,,0,,1
@@ -2367,7 +2362,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5017,5017,Wellington / Weber,,  43.457131, -80.494610,,,0,,1
 5018,5018,Charles / Water,,  43.450880, -80.495324,,,0,,1
 5023,5023,Ottawa / Brick,,  43.442293, -80.470777,,,0,,1
-5025,5025,Gatestone / Brentcliffe,,  43.467334, -80.573475,,,0,,1
+5025,5025,Gatestone / Baringham,,  43.468241, -80.572008,,,0,,2
 5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
 5028,5028,Park / Allen,,  43.458821, -80.520479,,,0,,1
 5029,5029,Park / Allen,,  43.458690, -80.520507,,,0,,1
@@ -2382,6 +2377,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5039,5039,Albert / King,,  43.539541, -80.553091,,,0,,1
 5040,5040,Albert / Young,,  43.539610, -80.552543,,,0,,1
 5041,5041,Krug / Cambridge,,  43.455989, -80.462964,,,0,,2
+5042,5042,Weber / Jackson,,  43.440430, -80.463093,,,0,,1
+5043,5043,Weber / Edmund,,  43.441214, -80.463933,,,0,,2
+5044,5044,Weber / Edmund,,  43.441018, -80.464053,,,0,,1
 5056,5056,Regina / Willis,,  43.463937, -80.520879,,,0,,1
 5057,5057,Regina / Willis,,  43.463963, -80.520692,,,0,,1
 5058,5058,William / Caroline,,  43.461044, -80.522184,,,0,place_KWW,1
