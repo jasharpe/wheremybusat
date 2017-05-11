@@ -175,6 +175,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 110,110-Weekday-1-17SPRI-1111100,1455253,Conestoga College,1,213261,1100002,1,1
 110,110-Weekday-1-17SPRI-1111100,1455256,Conestoga College,1,212751,1100002,1,1
 110,110-Weekday-1-17SPRI-1111100,1455258,Conestoga College,1,213252,1100002,1,1
+110,110-Weekday-1-17SPRI-1111100,1514576,Conestoga College,1,217751,1100002,1,1
 11,11-Saturday-1-17SPRI-0000010,1459687,Charles Terminal,0,213074,110004,1,1
 11,11-Saturday-1-17SPRI-0000010,1459688,Forest Glen,1,213085,110003,1,1
 11,11-Saturday-1-17SPRI-0000010,1459689,Forest Glen,1,213074,110003,1,1
