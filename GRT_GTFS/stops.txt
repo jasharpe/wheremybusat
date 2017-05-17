@@ -21,6 +21,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1019,1019,River / Bradley,,  43.445723, -80.441426,,,0,,1
 1020,1020,Maple Grove / Boxwood,,  43.427063, -80.364376,,,0,,1
 1021,1021,Maple Grove / Boxwood,,  43.426855, -80.363843,,,0,,1
+1022,1022,Huron / Strasburg,,  43.392897, -80.465131,,,0,,1
 1023,1023,Victoria / Margaret,,  43.456329, -80.489504,,,0,,1
 1024,1024,Forest Glen,,  43.414459, -80.478939,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_FGP,1
 1025,1025,Block Line / Country Hill,,  43.417036, -80.476022,,,0,,1
@@ -1441,7 +1442,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2785,2785,University / King,,  43.475826, -80.525450,,,0,place_KUN,1
 2786,2786,University / Regina,,  43.476663, -80.523280,,,0,,1
 2787,2787,University / Weber,,  43.477642, -80.520527,,,0,,1
-2788,2788,Conestoga College,,  43.479299, -80.516198,,,0,,1
+2788,2788,Conestoga College - Waterloo Campus,,  43.479299, -80.516198,,,0,,1
 2793,2793,Lincoln / Mayfield,,  43.479191, -80.507766,,,0,,1
 2794,2794,Lincoln / Bluevale,,  43.482010, -80.505814,,,0,,1
 2795,2795,Lincoln / University,,  43.483323, -80.507621,,,0,,1
@@ -1472,7 +1473,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2828,2828,Greenbrook / Graystone,,  43.427957, -80.507822,,,0,,1
 2829,2829,Highland / Ruby,,  43.440145, -80.495959,,,0,,1
 2830,2830,Highland / Ruby,,  43.440287, -80.496021,,,0,,1
-2832,2832,Conestoga College,,  43.479211, -80.516867,,,0,,1
+2832,2832,Conestoga College - Waterloo Campus,,  43.479211, -80.516867,,,0,,1
 2833,2833,Weber / Marshall,,  43.475036, -80.517444,,,0,,1
 2834,2834,Weber / Noecker,,  43.473518, -80.516195,,,0,,1
 2835,2835,Weber / Lincoln,,  43.471140, -80.513902,,,0,,1
@@ -2396,16 +2397,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5073,5073,Fifth / Connaught,,  43.430694, -80.453458,,,0,,2
 5074,5074,Connaught / Fifth,,  43.430841, -80.453250,,,0,,2
 5075,5075,Fifth / Wilson,,  43.428210, -80.455153,,,0,,2
-6019,6019,Pinebush - Southbound,,  43.407581, -80.328185,,,0,,1
-6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CBC,1
-6021,6021,Canamera - Southbound,,  43.385250, -80.321055,,,0,,1
-6022,6022,Delta - Southbound,,  43.373813, -80.318847,,,0,,1
-6023,6023,Pinebush - Southbound,,  43.407203, -80.328043,,,0,,1
+6019,6019,Pinebush Station - Southbound,,  43.407581, -80.328185,,,0,,1
+6020,6020,Cambridge Centre Station - Southbound,,  43.392605, -80.322274,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CBC,1
+6021,6021,Canamera Station - Southbound,,  43.385250, -80.321055,,,0,,1
+6022,6022,Delta Station - Southbound,,  43.373813, -80.318847,,,0,,1
+6023,6023,Pinebush Station - Southbound,,  43.407203, -80.328043,,,0,,1
 6101,6101,Ainslie Terminal,,  43.357642, -80.313444,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_AST,1
-6102,6102,Delta - Northbound,,  43.372911, -80.318258,,,0,,1
-6103,6103,Canamera - Northbound,,  43.386289, -80.320911,,,0,,1
-6104,6104,Cambridge Centre Station,,  43.392708, -80.322961,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CBC,1
-6105,6105,Pinebush - Northbound,,  43.407749, -80.327774,,,0,,1
+6102,6102,Delta Station - Northbound,,  43.372911, -80.318258,,,0,,1
+6103,6103,Canamera Station - Northbound,,  43.386289, -80.320911,,,0,,1
+6104,6104,Cambridge Centre Station - Northbound,,  43.392708, -80.322961,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CBC,1
+6105,6105,Pinebush Station - Northbound,,  43.407749, -80.327774,,,0,,1
 7000,7000,Snyders / Notre Dame,,  43.413404, -80.606216,,,0,,1
 7001,7001,Snyders / Notre Dame,,  43.413341, -80.605695,,,0,,1
 7002,7002,Snyders / Forler,,  43.405625, -80.656739,,,0,,1

@@ -13,7 +13,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 12,12,Westmount,3,ec008b,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 13,13,Laurelwood,3,ffca04,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 14,14,Waterloo Industrial,3,496e6d,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
-16,16,STtrasburg,3,86ac51,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+16,16,Strasburg,3,86ac51,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 20,20,Victoria-Frederick,3,c7a0ca,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 21,21,Elmira,3,a6ce38,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 22,22,Laurentian West,3,756fb3,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
@@ -28,7 +28,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 53,53,Franklin,3,00ff00,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 54,54,Lisbon Pines,3,00ffff,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 55,55,St. Andrews,3,9900cc,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
-56,56,DUunbar,3,006633,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+56,56,Dunbar,3,006633,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 57,57,Blair,3,ff6600,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 58,58,Elmwood,3,663333,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 59,59,Christopher,3,ff00ff,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
