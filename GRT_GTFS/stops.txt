@@ -1547,7 +1547,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2904,2904,Chandler / Bonfield,,  43.424641, -80.495200,,,0,,1
 2905,2905,G.R.T. Strasburg Garage,,  43.425005, -80.490170,,,0,,1
 2906,2906,Ottawa / Strasburg,,  43.422929, -80.486739,,,0,,1
-2907,2907,Ottawa / Alpine,,  43.425167, -80.483743,,,0,,1
 2908,2908,Ottawa / Imperial,,  43.429289, -80.481336,,,0,,1
 2909,2909,Ottawa / 400 Block,,  43.430421, -80.480701,,,0,,1
 2910,2910,Ottawa / Hoffman,,  43.431444, -80.479500,,,0,,1
