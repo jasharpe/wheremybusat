@@ -50,6 +50,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1048,1048,Fairway / King,,  43.428883, -80.431858,,,0,,1
 1049,1049,Fairway / Morgan,,  43.430448, -80.431658,,,0,,1
 1050,1050,Fairway / Thaler,,  43.432222, -80.429911,,,0,,1
+1051,1051,Bishop / 1000 Block,,  43.393802, -80.332356,,,0,,1
 1052,1052,Fairway / River,,  43.434718, -80.427955,,,0,,1
 1053,1053,Fairway / Idle Creek,,  43.441445, -80.417826,,,0,,1
 1057,1057,Ottawa / Lackner,,  43.456410, -80.432057,,,0,,1
@@ -925,7 +926,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2097,2097,Beverly / Dundas,,  43.366432, -80.305464,,,0,,1
 2098,2098,Beverly / Samuelson,,  43.368711, -80.304056,,,0,,1
 2099,2099,Samuelson / Beverly,,  43.370491, -80.303517,,,0,,1
-2100,2100,Moscrip / Elmwood,,  43.371250, -80.306927,,,0,,1
+2100,2100,Elmwood / Moscrip,,  43.371676, -80.307369,,,0,,1
 2101,2101,Elmwood / Brock,,  43.373225, -80.310386,,,0,,1
 2102,2102,Elmwood / Jarvis,,  43.374737, -80.313257,,,0,,1
 2103,2103,Elmwood / Brooklyne,,  43.376513, -80.316644,,,0,,1
@@ -1128,6 +1129,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2308,2308,Homer Watson,,  43.387470, -80.411959,,,0,,1
 2310,2310,Cherry Blossom / Barnes,,  43.415296, -80.383428,,,0,,1
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,1
+2313,2313,Bishop / Mary,,  43.392515, -80.339491,,,0,,1
 2314,2314,Fountain / Toyota Gate 1,,  43.416272, -80.375698,,,0,,1
 2315,2315,Fountain / Toyota Gate 2,,  43.418960, -80.376659,,,0,,1
 2316,2316,Loblaws,,  43.429058, -80.379026,,,0,,1
@@ -1242,7 +1244,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2512,2512,Columbia / Hazel,,  43.480075, -80.531527,,,0,,1
 2513,2513,Columbia / Albert,,  43.478783, -80.535035,,,0,,1
 2514,2514,Columbia / Lester,,  43.477964, -80.537440,,,0,,1
-2515,2515,U.W. -  South Campus Hall,,  43.468593, -80.540280,,,0,,1
 2516,2516,U.W. -  Environment 3,,  43.467787, -80.543587,,,0,,1
 2517,2517,U.W. - Needles Hall,,  43.469580, -80.543957,,,0,,1
 2518,2518,U.W. -  University Club,,  43.472730, -80.547989,,,0,,1
@@ -1379,6 +1380,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2709,2709,Charles Terminal,,  43.449240, -80.492820,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CST,1
 2710,2710,Charles Terminal,,  43.449339, -80.492918,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CST,1
 2711,2711,Charles Terminal,,  43.448857, -80.491822,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CST,1
+2713,2713,Benton / Church,,  43.447469, -80.489411,,,0,,1
+2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439864, -80.482147,,,0,,1
@@ -2161,6 +2164,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3847,3847,King / Northland,,  43.503583, -80.535698,,,0,,1
 3848,3848,King / Northland,,  43.503826, -80.535622,,,0,,1
 3849,3849,Maple Grove / Vondrau,,  43.425378, -80.372998,,,0,,1
+3850,3850,Bishop / Industrial,,  43.394301, -80.329607,,,0,,1
 3852,3852,Baldwin / Osgoode,,  43.449196, -80.307706,,,0,,1
 3853,3853,Baldwin / Horton,,  43.447600, -80.307181,,,0,,1
 3854,3854,Baldwin / Henwood,,  43.445624, -80.306561,,,0,,1
@@ -2176,6 +2180,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3871,3871,Brooklyne / Glen,,  43.377132, -80.313316,,,0,,1
 3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,1
 3874,3874,Westmount / Fischer-Hallman,,  43.406532, -80.498845,,,0,,1
+3878,3878,695 Bishop,,  43.393044, -80.336350,,,0,,1
 3879,3879,University / Westvale,,  43.440892, -80.548781,,,0,,1
 3880,3880,University / Portsmouth,,  43.439230, -80.554021,,,0,,1
 3881,3881,The Boardwalk,,  43.435489, -80.560757,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_TBW,1
@@ -2353,12 +2358,17 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5007,5007,Lawrence / Victoria,,  43.442438, -80.514973,,,0,,2
 5008,5008,Weber / East,,  43.444603, -80.468015,,,0,,1
 5009,5009,Weber / Ottawa,,  43.444185, -80.467540,,,0,,1
+5010,5010,Joseph / Water,,  43.449702, -80.495471,,,0,,1
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
 5012,5012,Weber / Jackson,,  43.440219, -80.463156,,,0,,1
 5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
 5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
 5017,5017,Wellington / Weber,,  43.457131, -80.494610,,,0,,1
 5018,5018,Charles / Water,,  43.450880, -80.495324,,,0,,1
+5019,5019,Sportsworld / Sportsworld Crossing,,  43.409554, -80.392576,,,0,place_SPW,1
+5020,5020,Duke / Westminster,,  43.396696, -80.357361,,,0,,1
+5021,5021,Royal Oak / Speedsville,,  43.416363, -80.353416,,,0,,1
+5022,5022,Royal Oak / Speedsville,,  43.416225, -80.353251,,,0,,1
 5023,5023,Ottawa / Brick,,  43.442293, -80.470777,,,0,,1
 5025,5025,Gatestone / Baringham,,  43.468241, -80.572008,,,0,,2
 5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
