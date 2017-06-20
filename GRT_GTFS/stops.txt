@@ -135,6 +135,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1145,1145,Highpoint / Dogwood,,  43.486818, -80.563318,,,0,,1
 1146,1146,Highpoint / Toll Gate,,  43.484941, -80.559992,,,0,,1
 1147,1147,Toll Gate / Glen Forrest,,  43.487188, -80.556674,,,0,,1
+1151,1151,Cedarbrae / Glen Manor,,  43.488773, -80.549712,,,0,,1
 1152,1152,Cedarbrae / Sprucehill,,  43.489613, -80.548061,,,0,,1
 1153,1153,Parkside / Glenelm,,  43.490196, -80.545175,,,0,,1
 1154,1154,Parkside / Weber,,  43.492589, -80.544625,,,0,,1
@@ -395,7 +396,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1452,1452,Dunbar / Biscayne,,  43.388736, -80.331051,,,0,,1
 1453,1453,Dunbar / Briarwood,,  43.389917, -80.326680,,,0,,1
 1454,1454,Dunbar / Hespeler,,  43.390343, -80.324070,,,0,,1
-1455,1455,King / Westminster,,  43.396070, -80.358569,,,0,,1
 1456,1456,Smartcentres Cambridge,,  43.411698, -80.323622,,,0,,1
 1457,1457,Smartcentres South,,  43.410245, -80.322910,,,0,,1
 1459,1459,588 Hespeler,,  43.404164, -80.327065,,,0,,1
@@ -510,8 +510,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1577,1577,Preston / Kiwanis Village,,  43.398527, -80.377980,,,0,,1
 1578,1578,Preston / Parkview,,  43.396446, -80.377668,,,0,,1
 1579,1579,Preston / Hillview,,  43.394807, -80.377746,,,0,,1
-1584,1584,King / Fountain,,  43.399817, -80.368446,,,0,,1
-1586,1586,King / Waterloo,,  43.397255, -80.361199,,,0,,1
 1587,1587,King / Westminster,,  43.395617, -80.358067,,,0,,1
 1588,1588,King / Lowther,,  43.394179, -80.355292,,,0,,1
 1589,1589,King / Dolph,,  43.392959, -80.352959,,,0,,1
@@ -549,7 +547,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1623,1623,King / Montrose,,  43.391736, -80.350132,,,0,,1
 1624,1624,King / Dolph,,  43.393175, -80.352919,,,0,,1
 1625,1625,King / Lowther,,  43.394623, -80.355781,,,0,,1
-1626,1626,King / Waterloo,,  43.397454, -80.361246,,,0,,1
 1632,1632,Preston / Hillview,,  43.394663, -80.377661,,,0,,1
 1633,1633,Preston / Parkview,,  43.397276, -80.377943,,,0,,1
 1634,1634,Preston / Linden,,  43.399220, -80.376182,,,0,,1
@@ -1106,7 +1103,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2286,2286,Christopher / Myers,,  43.340514, -80.300529,,,0,,1
 2287,2287,Myers / Lorraine,,  43.341497, -80.297704,,,0,,1
 2288,2288,Myers / Greenbrier,,  43.342227, -80.293501,,,0,,1
-2292,2292,Franklin / Copperfield,,  43.346715, -80.288243,,,0,,1
 2295,2295,Elgin / Woolley,,  43.351426, -80.294357,,,0,,1
 2297,2297,Elgin / Elliott,,  43.354405, -80.295594,,,0,,1
 2298,2298,Elgin / Main,,  43.356436, -80.296409,,,0,,1
@@ -1116,7 +1112,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2302,2302,Main / Cathay,,  43.356531, -80.303109,,,0,,1
 2303,2303,Main / Arthur White,,  43.356811, -80.306228,,,0,,1
 2304,2304,Main / Spruce,,  43.357146, -80.307976,,,0,,1
-2308,2308,Homer Watson,,  43.387470, -80.411959,,,0,,1
+2308,2308,Conestoga College / Homer Watson,,  43.387470, -80.411959,,,0,,1
 2310,2310,Cherry Blossom / Barnes,,  43.415296, -80.383428,,,0,,1
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,1
 2313,2313,Bishop / Mary,,  43.392515, -80.339491,,,0,,1
@@ -1866,7 +1862,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3373,3373,Driftwood / Somerfield,,  43.413700, -80.535409,,,0,,1
 3378,3378,Westheights / Blackwell,,  43.422379, -80.541754,,,0,,1
 3383,3383,Queens / Elm Ridge,,  43.426720, -80.528675,,,0,,1
-3384,3384,Highview / Sugar Maple,,  43.415685, -80.547499,,,0,,1
 3389,3389,Highland / Westmount,,  43.436290, -80.513242,,,0,,1
 3390,3390,Highland / Lawrence,,  43.437944, -80.510436,,,0,,1
 3391,3391,Highland / Belmont,,  43.439508, -80.507767,,,0,,1
@@ -1916,8 +1911,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3464,3464,Keats Way / Fischer-Hallman,,  43.458197, -80.557257,,,0,,1
 3465,3465,Fischer-Hallman / Keats Way,,  43.458370, -80.557824,,,0,,1
 3466,3466,Highview / Golden Meadow,,  43.415241, -80.550854,,,0,,1
-3467,3467,Highview / Golden Meadow,,  43.415441, -80.550630,,,0,,1
-3468,3468,Highview / Highview,,  43.416455, -80.543017,,,0,,1
 3469,3469,Driftwood / Westheights,,  43.419151, -80.539098,,,0,,1
 3470,3470,Westheights / Driftwood,,  43.418528, -80.534506,,,0,,1
 3471,3471,Westheights / Driftwood,,  43.418479, -80.535375,,,0,,1
@@ -2079,13 +2072,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3748,3748,Lexington / Dearborn,,  43.489981, -80.516954,,,0,,1
 3749,3749,Lexington / Bridge,,  43.498016, -80.505041,,,0,,1
 3750,3750,University / New Bedford,,  43.510841, -80.497500,,,0,,1
-3752,3752,R.I.M. Park,,  43.517873, -80.502667,,,0,,1
+3752,3752,Rim Park,,  43.517873, -80.502667,,,0,,1
 3757,3757,Frobisher / Bridge,,  43.511915, -80.523274,,,0,,1
 3758,3758,Frobisher / Superior,,  43.510245, -80.524401,,,0,,1
 3759,3759,Frobisher / Mcmurray,,  43.507544, -80.526575,,,0,,1
 3760,3760,Frobisher / Superior,,  43.509912, -80.524490,,,0,,1
 3764,3764,Lexington / Lee,,  43.497196, -80.506493,,,0,,1
-3765,3765,R.I.M. Park,,  43.517319, -80.502299,,,0,,1
+3765,3765,Rim Park,,  43.517319, -80.502299,,,0,,1
 3766,3766,University / New Bedford,,  43.510688, -80.497752,,,0,,1
 3768,3768,Lexington / Bridge,,  43.498486, -80.504554,,,0,,1
 3769,3769,Lexington / Dearborn,,  43.490483, -80.516443,,,0,,1
@@ -2379,6 +2372,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5044,5044,Weber / Edmund,,  43.441018, -80.464053,,,0,,1
 5045,5045,East / Krug,,  43.452698, -80.472909,,,0,,1
 5046,5046,East / Krug,,  43.452965, -80.472855,,,0,,1
+5047,5047,Elgin / Myers,,  43.343237, -80.291092,,,0,,1
+5048,5048,Elgin / Champlain,,  43.348267, -80.293067,,,0,,1
 5056,5056,Regina / Willis,,  43.463937, -80.520879,,,0,,1
 5057,5057,Regina / Willis,,  43.463963, -80.520692,,,0,,1
 5058,5058,William / Caroline,,  43.461044, -80.522184,,,0,place_KWW,1
@@ -2396,12 +2391,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5075,5075,Fifth / Wilson,,  43.428210, -80.455153,,,0,,2
 6019,6019,Pinebush Station - Southbound,,  43.407581, -80.328185,,,0,,1
 6020,6020,Cambridge Centre Station - Southbound,,  43.392605, -80.322274,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CBC,1
-6021,6021,Canamera Station - Southbound,,  43.385250, -80.321055,,,0,,1
+6021,6021,Can-Amera Station - Southbound,,  43.385250, -80.321055,,,0,,1
 6022,6022,Delta Station - Southbound,,  43.373813, -80.318847,,,0,,1
 6023,6023,Pinebush Station - Southbound,,  43.407203, -80.328043,,,0,,1
 6101,6101,Ainslie Terminal,,  43.357642, -80.313444,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_AST,1
 6102,6102,Delta Station - Northbound,,  43.372911, -80.318258,,,0,,1
-6103,6103,Canamera Station - Northbound,,  43.386289, -80.320911,,,0,,1
+6103,6103,Can-Amera Station - Northbound,,  43.386289, -80.320911,,,0,,1
 6104,6104,Cambridge Centre Station - Northbound,,  43.392708, -80.322961,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_CBC,1
 6105,6105,Pinebush Station - Northbound,,  43.407749, -80.327774,,,0,,1
 7000,7000,Snyders / Notre Dame,,  43.413404, -80.606216,,,0,,1

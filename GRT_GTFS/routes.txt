@@ -33,7 +33,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 58,58,Elmwood,3,663333,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 59,59,Christopher,3,ff00ff,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 60,60,Northview Acres,3,003399,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
-61,61,FOountain,3,00aaac,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+61,61,Fountain,3,00aaac,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 62,62,Woodside,3,405980,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 63,63,Champlain,3,ffb200,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 64,64,Langs,3,cc0000,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
