@@ -510,7 +510,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1577,1577,Preston / Kiwanis Village,,  43.398527, -80.377980,,,0,,1
 1578,1578,Preston / Parkview,,  43.396446, -80.377668,,,0,,1
 1579,1579,Preston / Hillview,,  43.394807, -80.377746,,,0,,1
-1587,1587,King / Westminster,,  43.395617, -80.358067,,,0,,1
 1588,1588,King / Lowther,,  43.394179, -80.355292,,,0,,1
 1589,1589,King / Dolph,,  43.392959, -80.352959,,,0,,1
 1590,1590,Sportsworld,,  43.409699, -80.392846,,,0,place_SPW,1
@@ -2350,7 +2349,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5019,5019,Sportsworld / Sportsworld Crossing,,  43.409554, -80.392576,,,0,place_SPW,1
 5020,5020,Duke / Westminster,,  43.396696, -80.357361,,,0,,1
 5021,5021,Royal Oak / Speedsville,,  43.416363, -80.353416,,,0,,1
-5022,5022,Royal Oak / Speedsville,,  43.416225, -80.353251,,,0,,1
 5023,5023,Ottawa / Brick,,  43.442293, -80.470777,,,0,,1
 5025,5025,Gatestone / Baringham,,  43.468241, -80.572008,,,0,,2
 5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
@@ -2374,6 +2372,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5046,5046,East / Krug,,  43.452965, -80.472855,,,0,,1
 5047,5047,Elgin / Myers,,  43.343237, -80.291092,,,0,,1
 5048,5048,Elgin / Champlain,,  43.348267, -80.293067,,,0,,1
+5049,5049,Preston / Halberstadt,,  43.392443, -80.377547,,,0,,1
+5050,5050,Westminster / King,,  43.396047, -80.358266,,,0,,1
 5056,5056,Regina / Willis,,  43.463937, -80.520879,,,0,,1
 5057,5057,Regina / Willis,,  43.463963, -80.520692,,,0,,1
 5058,5058,William / Caroline,,  43.461044, -80.522184,,,0,place_KWW,1
