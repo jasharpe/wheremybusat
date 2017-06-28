@@ -50,7 +50,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1048,1048,Fairway / King,,  43.428883, -80.431858,,,0,,1
 1049,1049,Fairway / Morgan,,  43.430448, -80.431658,,,0,,1
 1050,1050,Fairway / Thaler,,  43.432222, -80.429911,,,0,,1
-1051,1051,Bishop / 1000 Block,,  43.393802, -80.332356,,,0,,1
 1052,1052,Fairway / River,,  43.434718, -80.427955,,,0,,1
 1053,1053,Fairway / Idle Creek,,  43.441445, -80.417826,,,0,,1
 1057,1057,Ottawa / Lackner,,  43.456410, -80.432057,,,0,,1
@@ -1111,7 +1110,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2308,2308,Conestoga College / Homer Watson,,  43.387470, -80.411959,,,0,,1
 2310,2310,Cherry Blossom / Barnes,,  43.415296, -80.383428,,,0,,1
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,1
-2313,2313,Bishop / Mary,,  43.392515, -80.339491,,,0,,1
 2314,2314,Fountain / Toyota Gate 1,,  43.416272, -80.375698,,,0,,1
 2315,2315,Fountain / Toyota Gate 2,,  43.418960, -80.376659,,,0,,1
 2316,2316,Loblaws,,  43.429058, -80.379026,,,0,,1
@@ -2087,6 +2085,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3796,3796,Bismark / Devils Creek,,  43.370565, -80.337225,,,0,,1
 3799,3799,Conestoga Mall,,  43.498071, -80.528653,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3800,3800,Conestoga Mall,,  43.498415, -80.529132,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+3801,3801,Conestoga College / Pinnacle,,  43.385896, -80.412394,,,0,,1
+3803,3803,Conestoga College Residence,,  43.384395, -80.411236,,,0,,1
 3805,3805,Blair / Esther,,  43.373864, -80.336239,,,0,,1
 3807,3807,Farmers Market / Walmart,,  43.510661, -80.549376,,,0,,1
 3808,3808,King / Printery,,  43.528045, -80.555335,,,0,,1
@@ -2127,7 +2127,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3847,3847,King / Northland,,  43.503583, -80.535698,,,0,,1
 3848,3848,King / Northland,,  43.503826, -80.535622,,,0,,1
 3849,3849,Maple Grove / Vondrau,,  43.425378, -80.372998,,,0,,1
-3850,3850,Bishop / Industrial,,  43.394301, -80.329607,,,0,,1
 3852,3852,Baldwin / Osgoode,,  43.449196, -80.307706,,,0,,1
 3853,3853,Baldwin / Horton,,  43.447600, -80.307181,,,0,,1
 3854,3854,Baldwin / Henwood,,  43.445624, -80.306561,,,0,,1
@@ -2143,7 +2142,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3871,3871,Brooklyne / Glen,,  43.377132, -80.313316,,,0,,1
 3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,1
 3874,3874,Westmount / Fischer-Hallman,,  43.406532, -80.498845,,,0,,1
-3878,3878,695 Bishop,,  43.393044, -80.336350,,,0,,1
 3879,3879,University / Westvale,,  43.440892, -80.548781,,,0,,1
 3880,3880,University / Portsmouth,,  43.439230, -80.554021,,,0,,1
 3881,3881,The Boardwalk,,  43.435489, -80.560757,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
@@ -2327,9 +2325,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
 5017,5017,Wellington / Weber,,  43.457131, -80.494610,,,0,,1
 5018,5018,Charles / Water,,  43.450880, -80.495324,,,0,,1
-5019,5019,Sportsworld / Sportsworld Crossing,,  43.409554, -80.392576,,,0,place_SPW,1
 5020,5020,Duke / Westminster,,  43.396696, -80.357361,,,0,,1
-5021,5021,Royal Oak / Speedsville,,  43.416363, -80.353416,,,0,,1
 5023,5023,Ottawa / Brick,,  43.442293, -80.470777,,,0,,1
 5025,5025,Gatestone / Baringham,,  43.468241, -80.572008,,,0,,2
 5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
