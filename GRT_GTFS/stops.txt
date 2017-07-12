@@ -134,6 +134,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1145,1145,Highpoint / Dogwood,,  43.486818, -80.563318,,,0,,1
 1146,1146,Highpoint / Toll Gate,,  43.484941, -80.559992,,,0,,1
 1147,1147,Toll Gate / Glen Forrest,,  43.487188, -80.556674,,,0,,1
+1148,1148,Glen Forrest / Teakwood,,  43.486141, -80.553578,,,0,,1
+1149,1149,Cedarbrae / Glen Forrest,,  43.485665, -80.551565,,,0,,1
+1150,1150,Cedarbrae / Heasley Park,,  43.487946, -80.550089,,,0,,1
 1151,1151,Cedarbrae / Glen Manor,,  43.488773, -80.549712,,,0,,1
 1152,1152,Cedarbrae / Sprucehill,,  43.489613, -80.548061,,,0,,1
 1153,1153,Parkside / Glenelm,,  43.490196, -80.545175,,,0,,1
@@ -164,6 +167,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1180,1180,Ira Needles / Highland,,  43.423466, -80.552844,,,0,,1
 1181,1181,Cedarbrae / Mount Anne,,  43.490028, -80.546104,,,0,,1
 1182,1182,Cedarbrae / Sprucehill,,  43.489819, -80.547738,,,0,,1
+1183,1183,Cedarbrae / Heasley Pk Trail,,  43.488010, -80.550249,,,0,,1
+1184,1184,Cedarbrae / Glen Forrest,,  43.485674, -80.551714,,,0,,1
+1185,1185,Glen Forrest / Brookhaven,,  43.487040, -80.555426,,,0,,1
 1186,1186,Toll Gate / Glen Forrest,,  43.487297, -80.556710,,,0,,1
 1187,1187,Toll Gate / Dogwood,,  43.486153, -80.559081,,,0,,1
 1188,1188,Toll Gate / Highpoint,,  43.485102, -80.559669,,,0,,1
@@ -524,6 +530,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1602,1602,Dundas / Cambridge,,  43.367389, -80.308860,,,0,,1
 1603,1603,Dundas / Beverly,,  43.365897, -80.306272,,,0,,1
 1604,1604,Beverly / Kerr,,  43.362959, -80.308861,,,0,,1
+1605,1605,Wellington / Main,,  43.359238, -80.311420,,,0,,1
+1606,1606,Beverly / Kerr,,  43.361982, -80.309624,,,0,,1
 1607,1607,Beverly / Mill Creek Trail,,  43.364597, -80.307200,,,0,,1
 1608,1608,Dundas / Grantham,,  43.366259, -80.306515,,,0,,1
 1609,1609,Dundas / Cambridge,,  43.367542, -80.308734,,,0,,1
@@ -942,11 +950,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2129,2129,First / Caen,,  43.346889, -80.319777,,,0,,1
 2130,2130,Stanley / Glenmorris,,  43.347442, -80.322066,,,0,,1
 2131,2131,Stanley / Tait,,  43.346779, -80.325516,,,0,,1
-2132,2132,Stanley / St. Andrews,,  43.346490, -80.328505,,,0,,1
-2133,2133,St. Gregorys / Caledon,,  43.348200, -80.328350,,,0,,1
-2134,2134,Woodside / Victoria,,  43.349502, -80.329323,,,0,,1
-2135,2135,142 Woodside,,  43.350247, -80.331968,,,0,,1
-2136,2136,Woodside / Cedar,,  43.350626, -80.333679,,,0,,1
 2137,2137,Southgate / Day,,  43.352143, -80.334341,,,0,,1
 2138,2138,Churchill / Dale,,  43.353337, -80.333772,,,0,,1
 2139,2139,Hillcrest / Churchill,,  43.354031, -80.332259,,,0,,1
@@ -959,10 +962,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2146,2146,Kent / Cedar,,  43.349877, -80.339486,,,0,,1
 2147,2147,Cedar / Southwood,,  43.350157, -80.336583,,,0,,1
 2148,2148,Cedar / Woodside,,  43.350567, -80.334271,,,0,,1
-2149,2149,Woodside / Cedar,,  43.349981, -80.332698,,,0,,1
-2150,2150,Woodside / Victoria,,  43.349241, -80.329338,,,0,,1
-2151,2151,St. Gregorys / St. Andrews,,  43.347900, -80.327922,,,0,,1
-2152,2152,Stanley / Borden,,  43.346307, -80.328050,,,0,,1
 2153,2153,Stanley / Tait,,  43.346680, -80.325529,,,0,,1
 2154,2154,Stanley / Glenmorris,,  43.347317, -80.322240,,,0,,1
 2155,2155,First / Caen,,  43.346816, -80.319704,,,0,,1
@@ -1856,6 +1855,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3373,3373,Driftwood / Somerfield,,  43.413700, -80.535409,,,0,,1
 3378,3378,Westheights / Blackwell,,  43.422379, -80.541754,,,0,,1
 3383,3383,Queens / Elm Ridge,,  43.426720, -80.528675,,,0,,1
+3384,3384,Highview / Sugar Maple,,  43.415685, -80.547499,,,0,,1
 3389,3389,Highland / Westmount,,  43.436290, -80.513242,,,0,,1
 3390,3390,Highland / Lawrence,,  43.437944, -80.510436,,,0,,1
 3391,3391,Highland / Belmont,,  43.439508, -80.507767,,,0,,1
@@ -1895,6 +1895,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3464,3464,Keats Way / Fischer-Hallman,,  43.458197, -80.557257,,,0,,1
 3465,3465,Fischer-Hallman / Keats Way,,  43.458370, -80.557824,,,0,,1
 3466,3466,Highview / Golden Meadow,,  43.415241, -80.550854,,,0,,1
+3467,3467,Highview / Golden Meadow,,  43.415441, -80.550630,,,0,,1
+3468,3468,Highview / Highview,,  43.416455, -80.543017,,,0,,1
 3469,3469,Driftwood / Westheights,,  43.419151, -80.539098,,,0,,1
 3470,3470,Westheights / Driftwood,,  43.418528, -80.534506,,,0,,1
 3471,3471,Westheights / Driftwood,,  43.418479, -80.535375,,,0,,1
@@ -1928,6 +1930,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3532,3532,Rose / Lowther,,  43.389374, -80.360738,,,0,,1
 3534,3534,St. Andrews / Gilholm,,  43.353640, -80.322528,,,0,,1
 3535,3535,Main / Harris,,  43.358798, -80.310166,,,0,,1
+3536,3536,Wellington / Dickson,,  43.359967, -80.311461,,,0,,1
 3539,3539,Hespeler / Isherwood,,  43.383091, -80.320484,,,0,,1
 3540,3540,Queen / Guelph,,  43.430988, -80.311273,,,0,,1
 3541,3541,Guelph / Milton,,  43.440018, -80.313223,,,0,,1
@@ -2060,10 +2063,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3758,3758,Frobisher / Superior,,  43.510245, -80.524401,,,0,,1
 3759,3759,Frobisher / Mcmurray,,  43.507544, -80.526575,,,0,,1
 3760,3760,Frobisher / Superior,,  43.509912, -80.524490,,,0,,1
-3764,3764,Lexington / Lee,,  43.497196, -80.506493,,,0,,1
 3765,3765,Rim Park,,  43.517319, -80.502299,,,0,,1
 3766,3766,University / New Bedford,,  43.510688, -80.497752,,,0,,1
-3768,3768,Lexington / Bridge,,  43.498486, -80.504554,,,0,,1
 3769,3769,Lexington / Dearborn,,  43.490483, -80.516443,,,0,,1
 3770,3770,Lexington / Dearborn,,  43.487547, -80.518470,,,0,,1
 3771,3771,Columbia / Marsland,,  43.484377, -80.519865,,,0,,1
@@ -2376,8 +2377,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6103,6103,Can-Amera Station - Northbound,,  43.386289, -80.320911,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6104,6104,Cambridge Centre Station - Northbound,,  43.392708, -80.322961,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6105,6105,Pinebush Station - Northbound,,  43.407749, -80.327774,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-7000,7000,Snyders / Notre Dame,,  43.413404, -80.606216,,,0,,1
-7001,7001,Snyders / Notre Dame,,  43.413341, -80.605695,,,0,,1
 7002,7002,Snyders / Forler,,  43.405625, -80.656739,,,0,,1
 7003,7003,Snyders / Forler,,  43.405559, -80.656092,,,0,,1
 7004,7004,Snyders / Brubacher,,  43.404701, -80.662960,,,0,,1
