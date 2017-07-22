@@ -21,7 +21,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1019,1019,River / Bradley,,  43.445723, -80.441426,,,0,,1
 1020,1020,Maple Grove / Boxwood,,  43.427063, -80.364376,,,0,,1
 1021,1021,Maple Grove / Boxwood,,  43.426855, -80.363843,,,0,,1
-1022,1022,Huron / Strasburg,,  43.392897, -80.465131,,,0,,1
 1023,1023,Victoria / Margaret,,  43.456329, -80.489504,,,0,,1
 1024,1024,Forest Glen,,  43.414459, -80.478939,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_FGP,1
 1025,1025,Block Line / Country Hill,,  43.417036, -80.476022,,,0,,1
@@ -224,6 +223,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1242,1242,Mcmeeken / Werstine,,  43.438110, -80.294030,,,0,,1
 1243,1243,Mcmeeken / Mccormick,,  43.436937, -80.293685,,,0,,1
 1244,1244,Kerwood / Gees,,  43.430936, -80.293125,,,0,,1
+1245,1245,Clyde / Bluerock,,  43.371718, -80.293364,,,0,,1
+1246,1246,Black Bridge / Michigan,,  43.449684, -80.309944,,,0,,1
 1247,1247,Cooper / Ellis,,  43.427850, -80.297757,,,0,,1
 1248,1248,Cooper / Ontario,,  43.430491, -80.301248,,,0,,1
 1249,1249,Cooper / Lewis,,  43.431798, -80.305817,,,0,,1
@@ -480,6 +481,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1542,1542,Franklin / Saginaw,,  43.392355, -80.302303,,,0,,1
 1543,1543,Franklin / Lindsay,,  43.396334, -80.303653,,,0,,1
 1544,1544,Franklin / Bishop,,  43.398923, -80.304463,,,0,,1
+1545,1545,Strasburg / Templewood,,  43.391184, -80.465714,,,0,, 
+1545,1545,Strasburg / Templewood,,  43.391184, -80.465714,,,0,,1
 1546,1546,Franklin / Turnbull,,  43.403633, -80.306002,,,0,,1
 1547,1547,Franklin / Sheldon,,  43.405672, -80.306634,,,0,,1
 1549,1549,Franklin / Pinebush,,  43.410408, -80.308087,,,0,,1
@@ -525,7 +528,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1597,1597,Cambridge Memorial Hospital,,  43.378432, -80.327424,,,0,,1
 1598,1598,Coronation / Islandview,,  43.376903, -80.324812,,,0,,1
 1599,1599,Coronation / Wright,,  43.374757, -80.321157,,,0,,1
-1600,1600,Dundas / Water,,  43.372950, -80.318089,,,0,,1
+1600,1600,Dundas / Haddington,,  43.372219, -80.316966,,,0,,1
 1601,1601,Dundas / Hopeton,,  43.370454, -80.313935,,,0,,1
 1602,1602,Dundas / Cambridge,,  43.367389, -80.308860,,,0,,1
 1603,1603,Dundas / Beverly,,  43.365897, -80.306272,,,0,,1
@@ -536,8 +539,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1608,1608,Dundas / Grantham,,  43.366259, -80.306515,,,0,,1
 1609,1609,Dundas / Cambridge,,  43.367542, -80.308734,,,0,,1
 1610,1610,Dundas / Roxboro,,  43.370590, -80.313946,,,0,,1
-1611,1611,Dundas / Jarvis,,  43.372235, -80.316618,,,0,,1
-1612,1612,Coronation / Hespeler,,  43.373802, -80.319085,,,0,,1
+1611,1611,Dundas / Jarvis,,  43.372207, -80.316528,,,0,,1
+1612,1612,Coronation / Grandview,,  43.374141, -80.319649,,,0,,1
 1613,1613,Coronation / Goldie,,  43.375527, -80.321988,,,0,,1
 1614,1614,Coronation / Oliver,,  43.378146, -80.326403,,,0,,1
 1615,1615,Cambridge Memorial Hospital,,  43.379683, -80.328904,,,0,,1
@@ -707,10 +710,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1806,1806,Strasburg / Battler,,  43.398637, -80.467544,,,0,,1
 1807,1807,Huron Heights S.S.,,  43.394623, -80.467950,,,0,place_HHS,1
 1808,1808,Strasburg / Huron,,  43.392592, -80.466782,,,0,,1
-1809,1809,Battler / Old Huron,,  43.395961, -80.461443,,,0,,1
-1810,1810,Old Huron / Maxwell,,  43.397206, -80.457937,,,0,,1
-1811,1811,Biehn / Carlyle,,  43.396014, -80.455503,,,0,,1
-1812,1812,Biehn / Maxwell,,  43.394394, -80.455555,,,0,,1
+1813,1813,Biehn / Marl Meadow,,  43.392180, -80.455920,,,0,,1
 1820,1820,Black Walnut / Biehn,,  43.393131, -80.455158,,,0,,1
 1821,1821,Black Walnut,,  43.392519, -80.453361,,,0,,1
 1822,1822,Black Walnut / Pioneer,,  43.391354, -80.450680,,,0,,1
@@ -726,11 +726,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1832,1832,Black Walnut / Pioneer,,  43.391510, -80.451185,,,0,,1
 1833,1833,Black Walnut / Carlyle,,  43.392791, -80.453581,,,0,,1
 1834,1834,Black Walnut / Biehn,,  43.393249, -80.455269,,,0,,1
-1835,1835,Biehn / Carlyle,,  43.395473, -80.455372,,,0,,1
-1836,1836,Biehn / Old Huron,,  43.397159, -80.455629,,,0,,1
-1837,1837,Old Huron / Maxwell,,  43.397260, -80.458134,,,0,,1
-1838,1838,Old Huron / Battler,,  43.395921, -80.460579,,,0,,1
-1839,1839,Huron / Strasburg,,  43.392641, -80.465720,,,0,,1
 1840,1840,Huron Heights S.S.,,  43.394875, -80.467849,,,0,place_HHS,1
 1841,1841,Strasburg / Battler,,  43.398699, -80.467297,,,0,,1
 1842,1842,Strasburg / Trillium,,  43.400944, -80.467870,,,0,,1
@@ -1368,7 +1363,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2719,2719,Courtland / Kent,,  43.438802, -80.480266,,,0,,1
 2720,2720,Courtland / Borden,,  43.438058, -80.479037,,,0,,1
 2721,2721,Courtland / Ottawa,,  43.436941, -80.477143,,,0,,1
-2722,2722,Courtland / Sydney,,  43.435816, -80.475287,,,0,,1
+2722,2722,Courtland / Sydney,,  43.435822, -80.475275,,,0,,1
 2724,2724,Courtland / Carwood,,  43.433075, -80.472407,,,0,,1
 2725,2725,Courtland / Overland,,  43.428842, -80.468280,,,0,,1
 2726,2726,Walton / Kipling,,  43.427741, -80.465955,,,0,,1
@@ -1901,7 +1896,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3470,3470,Westheights / Driftwood,,  43.418528, -80.534506,,,0,,1
 3471,3471,Westheights / Driftwood,,  43.418479, -80.535375,,,0,,1
 3472,3472,Mcgarry / Meadowbrook,,  43.420690, -80.525090,,,0,,1
-3473,3473,Ira Needles / Penelope,,  43.417476, -80.552948,,,0,,1
+3473,3473,Ira Needles / Penelope,,  43.417608, -80.552960,,,0,,1
 3474,3474,St. Marys H.S.,,  43.420062, -80.465066,,,0,place_SMH,1
 3476,3476,Ira Needles / Penelope,,  43.418388, -80.552656,,,0,,1
 3477,3477,Thaler / Kinzie,,  43.435413, -80.432633,,,0,,1
@@ -2000,7 +1995,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3647,3647,Boxwood / Vondrau,,  43.430673, -80.370302,,,0,,1
 3648,3648,Vondrau / Boxwood,,  43.429506, -80.375099,,,0,,1
 3649,3649,Maple Grove / Vondrau,,  43.425363, -80.374364,,,0,,1
-3657,3657,Lancaster / Hwy 85 Ramp,,  43.472046, -80.484308,,,0,,1
 3659,3659,Franklin / Can-Amera Parkway,,  43.394287, -80.303207,,,0,,1
 3660,3660,Franklin / Can-Amera,,  43.394529, -80.303007,,,0,,1
 3661,3661,Eckert / Dixon,,  43.434380, -80.458817,,,0,,1
@@ -2123,8 +2117,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3839,3839,Arthur / Scotch Line,,  43.567084, -80.561475,,,0,,1
 3840,3840,Arthur / Gerrat,,  43.554066, -80.555243,,,0,,1
 3841,3841,King / Lobsinger,,  43.515438, -80.557593,,,0,,1
-3843,3843,Huron / Templewood,,  43.394100, -80.464602,,,0,,1
-3844,3844,Huron / Templewood,,  43.394542, -80.464012,,,0,,1
 3845,3845,Conestoga Transit Garage,,  43.394522, -80.316689,,,0,,1
 3847,3847,King / Northland,,  43.503583, -80.535698,,,0,,1
 3848,3848,King / Northland,,  43.503826, -80.535622,,,0,,1
@@ -2371,10 +2363,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6019,6019,Pinebush Station - Southbound,,  43.407581, -80.328185,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station - Southbound,,  43.392605, -80.322274,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6021,6021,Can-Amera Station - Southbound,,  43.385250, -80.321055,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6022,6022,Delta Station - Southbound,,  43.373813, -80.318847,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6022,6022,Delta Station - Southbound,,  43.373714, -80.318833,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6023,6023,Pinebush Station - Southbound,,  43.407203, -80.328043,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6101,6101,Ainslie Terminal,,  43.357642, -80.313444,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-6102,6102,Delta Station - Northbound,,  43.372911, -80.318258,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6102,6102,Delta Station - Northbound,,  43.372825, -80.318222,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6103,6103,Can-Amera Station - Northbound,,  43.386289, -80.320911,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6104,6104,Cambridge Centre Station - Northbound,,  43.392708, -80.322961,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6105,6105,Pinebush Station - Northbound,,  43.407749, -80.327774,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
