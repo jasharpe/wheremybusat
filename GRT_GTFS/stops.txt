@@ -481,7 +481,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1542,1542,Franklin / Saginaw,,  43.392355, -80.302303,,,0,,1
 1543,1543,Franklin / Lindsay,,  43.396334, -80.303653,,,0,,1
 1544,1544,Franklin / Bishop,,  43.398923, -80.304463,,,0,,1
-1545,1545,Strasburg / Templewood,,  43.391184, -80.465714,,,0,, 
 1545,1545,Strasburg / Templewood,,  43.391184, -80.465714,,,0,,1
 1546,1546,Franklin / Turnbull,,  43.403633, -80.306002,,,0,,1
 1547,1547,Franklin / Sheldon,,  43.405672, -80.306634,,,0,,1
@@ -744,8 +743,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1855,1855,500 Fairway,,  43.420377, -80.447354,,,0,,1
 1856,1856,Fairway / Food Basics,,  43.419677, -80.451486,,,0,,1
 1857,1857,Manitou / Fairway,,  43.418271, -80.453080,,,0,,1
-1858,1858,Manitou / Webster,,  43.416415, -80.450948,,,0,,1
-1859,1859,Manitou / Cress,,  43.415626, -80.449855,,,0,,1
+1858,1858,Manitou / Cress,,  43.416178, -80.450664,,,0,,1
 1860,1860,Manitou / Bleams,,  43.413065, -80.449510,,,0,,1
 1861,1861,Bleams / Otonabee,,  43.412290, -80.452640,,,0,,1
 1862,1862,Bleams / Homer Watson,,  43.410478, -80.459919,,,0,,1
@@ -1307,7 +1305,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2650,2650,Weber / Pandora,,  43.447259, -80.476881,,,0,,1
 2651,2651,Weber / Cameron,,  43.447951, -80.478433,,,0,,1
 2652,2652,Weber / Madison,,  43.448660, -80.480008,,,0,,1
-2653,2653,Weber / Cedar,,  43.449288, -80.481400,,,0,,1
 2654,2654,Margaret / Queen,,  43.454683, -80.485741,,,0,,1
 2656,2656,Margaret / Victoria,,  43.456787, -80.489220,,,0,,1
 2657,2657,Margaret / Wellington,,  43.458991, -80.490600,,,0,,1
