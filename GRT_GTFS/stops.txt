@@ -79,7 +79,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1084,1084,Frederick / Gordon,,  43.454783, -80.479894,,,0,,1
 1085,1085,Frederick / Lancaster,,  43.453506, -80.482377,,,0,,1
 1086,1086,Frederick / Irvin,,  43.452399, -80.484438,,,0,,1
-1088,1088,Frederick / King,,  43.449909, -80.487401,,,0,,1
+1088,1088,Frederick / King,,  43.449417, -80.487668,,,0,,1
 1090,1090,University / Seagram,,  43.469279, -80.538619,,,0,,1
 1091,1091,Union / Weber,,  43.465072, -80.506287,,,0,,1
 1092,1092,Union / Weber,,  43.465173, -80.505466,,,0,,1
@@ -466,7 +466,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1525,1525,Concession / Peck,,  43.355293, -80.303913,,,0,,1
 1526,1526,Concession / Scrimger,,  43.355720, -80.301551,,,0,,1
 1527,1527,Main / Alexander,,  43.357049, -80.293564,,,0,,1
-1528,1528,South Cambridge Shopping Ctr,,  43.357718, -80.289731,,,0,,1
 1529,1529,Franklin / Mclaren,,  43.361711, -80.290317,,,0,,1
 1530,1530,Franklin / Savage,,  43.364962, -80.291769,,,0,,1
 1531,1531,55 Savage,,  43.365935, -80.288944,,,0,,1
@@ -997,9 +996,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2171,2171,Alison / Lauris,,  43.367024, -80.294793,,,0,,1
 2172,2172,Alison / Hilltop,,  43.364425, -80.293762,,,0,,1
 2173,2173,Hilltop / Franklin,,  43.364343, -80.292270,,,0,,1
-2174,2174,Franklin / Green Gate,,  43.356877, -80.286260,,,0,,1
-2175,2175,Franklin / Dundas,,  43.354885, -80.287357,,,0,,1
-2176,2176,Dundas / Franklin,,  43.355752, -80.289124,,,0,,1
 2177,2177,Elgin / Elliott,,  43.354938, -80.295908,,,0,,1
 2178,2178,Elgin / South,,  43.353702, -80.295404,,,0,,1
 2179,2179,Elgin / Woolley,,  43.350661, -80.294201,,,0,,1
@@ -1040,8 +1036,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2214,2214,Main / Peck,,  43.356557, -80.304454,,,0,,1
 2215,2215,Main / Lincoln,,  43.356241, -80.301286,,,0,,1
 2216,2216,Main / Elgin,,  43.356564, -80.296667,,,0,,1
-2217,2217,Main / Franklin,,  43.358241, -80.286911,,,0,,1
-2221,2221,Champlain / Carlos,,  43.349186, -80.284611,,,0,,1
 2222,2222,Lisbon Pines / Champlain,,  43.349543, -80.281213,,,0,,1
 2223,2223,Lisbon Pines / Santa Maria,,  43.346452, -80.280830,,,0,,1
 2224,2224,Lisbon Pines / Myers,,  43.344855, -80.280269,,,0,,1
@@ -1276,7 +1270,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2558,2558,Charles Terminal,,  43.449230, -80.492672,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
 2559,2559,Charles Terminal,,  43.449076, -80.492315,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
 2560,2560,Charles Terminal,,  43.448975, -80.492068,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2561,2561,King / Benton,,  43.449218, -80.487827,,,0,,1
+2561,2561,King / Benton,,  43.449249, -80.487976,,,0,,1
 2562,2562,King / Queen,,  43.449864, -80.489391,,,0,,1
 2564,2564,King / Cedar,,  43.447425, -80.483591,,,0,,1
 2565,2565,King / Cameron,,  43.446089, -80.480920,,,0,,1
@@ -1392,10 +1386,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
-2718,2718,Courtland / Palmer,,  43.439864, -80.482147,,,0,,1
-2719,2719,Courtland / Kent,,  43.438802, -80.480266,,,0,,1
+2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
+2719,2719,Courtland / Kent,,  43.438748, -80.480285,,,0,,1
 2720,2720,Courtland / Borden,,  43.438058, -80.479037,,,0,,1
-2721,2721,Courtland / Ottawa,,  43.436941, -80.477143,,,0,,1
+2721,2721,Courtland / Grenville,,  43.437439, -80.478095,,,0,,1
 2722,2722,Courtland / Sydney,,  43.435822, -80.475275,,,0,,1
 2724,2724,Courtland / Carwood,,  43.433075, -80.472407,,,0,,1
 2725,2725,Courtland / Overland,,  43.428842, -80.468280,,,0,,1
@@ -1421,8 +1415,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2745,2745,Courtland / Carwood,,  43.432856, -80.471754,,,0,,1
 2746,2746,Courtland / Sydney,,  43.435761, -80.475040,,,0,,1
 2747,2747,Courtland / Ottawa,,  43.437213, -80.477363,,,0,,1
-2748,2748,Courtland / Borden,,  43.438338, -80.479281,,,0,,1
-2749,2749,Courtland / Palmer,,  43.440017, -80.482270,,,0,,1
+2748,2748,Courtland / Borden,,  43.437870, -80.478493,,,0,,1
+2749,2749,Courtland / Palmer,,  43.440011, -80.482145,,,0,,1
 2750,2750,Courtland / Stirling,,  43.441396, -80.484519,,,0,,1
 2751,2751,Courtland / Madison,,  43.442621, -80.486499,,,0,,1
 2752,2752,Courtland / Peter,,  43.444118, -80.489192,,,0,,1
@@ -1796,7 +1790,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3240,3240,Union / Park,,  43.457292, -80.516287,,,0,,1
 3241,3241,Park / Union,,  43.456425, -80.515540,,,0,,1
 3242,3242,Grand River Hospital - Mount Hope Street,,  43.455786, -80.513568,,,0,place_GRH,1
-3243,3243,Grand River Hospital - Green Street,,  43.454714, -80.511066,,,0,,1
+3243,3243,Grand River Hospital - Green Street,,  43.454714, -80.511066,,,0,place_GRH,1
 3244,3244,Glasgow / York,,  43.453317, -80.513167,,,0,,1
 3245,3245,Glasgow / Eden,,  43.452392, -80.515721,,,0,,1
 3246,3246,Glasgow / Belmont,,  43.451760, -80.517493,,,0,,1
@@ -1827,7 +1821,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3275,3275,Glasgow / Dunbar,,  43.450513, -80.520729,,,0,,1
 3277,3277,Glasgow / Belmont,,  43.452053, -80.516287,,,0,,1
 3278,3278,Glasgow / York,,  43.452933, -80.513887,,,0,,1
-3279,3279,Grand River Hospital - Green Street,,  43.454676, -80.510796,,,0,,1
+3279,3279,Grand River Hospital - Green Street,,  43.454676, -80.510796,,,0,place_GRH,1
 3280,3280,Langs / Shannon,,  43.399211, -80.338296,,,0,,1
 3281,3281,Union / Park,,  43.457445, -80.516051,,,0,,1
 3282,3282,Union / King,,  43.458180, -80.515505,,,0,,1
@@ -2355,7 +2349,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5007,5007,Lawrence / Victoria,,  43.442438, -80.514973,,,0,,2
 5008,5008,Weber / East,,  43.444603, -80.468015,,,0,,1
 5009,5009,Weber / Ottawa,,  43.444185, -80.467540,,,0,,1
-5010,5010,Joseph / Water,,  43.449702, -80.495471,,,0,,1
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
 5012,5012,Weber / Jackson,,  43.440219, -80.463156,,,0,,1
 5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
@@ -2413,6 +2406,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6103,6103,Can-Amera Station - Northbound,,  43.386289, -80.320911,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6104,6104,Cambridge Centre Station - Northbound,,  43.392708, -80.322961,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6105,6105,Pinebush Station - Northbound,,  43.407749, -80.327774,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+7000,7000,Snyders / Notre Dame,,  43.413404, -80.606216,,,0,,1
+7001,7001,Snyders / Notre Dame,,  43.413341, -80.605695,,,0,,1
 7002,7002,Snyders / Forler,,  43.405625, -80.656739,,,0,,1
 7003,7003,Snyders / Forler,,  43.405559, -80.656092,,,0,,1
 7004,7004,Snyders / Brubacher,,  43.404701, -80.662960,,,0,,1
