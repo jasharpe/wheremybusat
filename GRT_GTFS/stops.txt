@@ -789,6 +789,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1901,1901,King / Victoria,,  43.452610, -80.497623,,,0,place_KVI,1
 1902,1902,King / Union,,  43.458468, -80.515351,,,0,,1
 1903,1903,Victoria / Margaret,,  43.456228, -80.489186,,,0,,1
+1904,1904,King / Allen,,  43.460277, -80.518880,,,0,,1
 1911,1911,King / Marshall,,  43.472470, -80.524054,,,0,,1
 1912,1912,Victoria / Margaret,,  43.456550, -80.488844,,,0,,1
 1913,1913,King / University,,  43.476039, -80.524793,,,0,place_KUN,1
