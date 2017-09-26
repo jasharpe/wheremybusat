@@ -43,7 +43,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1041,1041,Fairway / Morgan,,  43.430207, -80.431957,,,0,,1
 1042,1042,Fairway / King,,  43.428821, -80.432155,,,0,,1
 1043,1043,Fairway / King,,  43.427546, -80.432883,,,0,,1
-1044,1044,Fairway / Highway 8,,  43.423306, -80.436230,,,0,,1
+1044,1044,Fairway / Wabinaki,,  43.423306, -80.436230,,,0,,1
 1045,1045,Fairway / Fairview Park,,  43.421823, -80.439089,,,0,,1
 1046,1046,Fairview Park,,  43.422831, -80.440846,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_FVM,1
 1047,1047,Fairway / Highway 8,,  43.424022, -80.434552,,,0,,2
@@ -67,7 +67,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1069,1069,River / Conway,,  43.447185, -80.442154,,,0,,1
 1070,1070,River / Stanley Park Mall,,  43.449523, -80.443344,,,0,,1
 1071,1071,River / Ottawa,,  43.451402, -80.444563,,,0,,1
-1072,1072,River / Path To Secord,,  43.453353, -80.445830,,,0,,1
+1072,1072,River / Path To Breckenridge,,  43.453353, -80.445830,,,0,,1
 1073,1073,River / Halliwell,,  43.457679, -80.450414,,,0,,1
 1074,1074,River / Manchester,,  43.458799, -80.454866,,,0,,1
 1076,1076,Frederick / River,,  43.461921, -80.461958,,,0,,1
@@ -79,7 +79,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1083,1083,Union / Devitt,,  43.463615, -80.509811,,,0,,1
 1084,1084,Frederick / Gordon,,  43.454783, -80.479894,,,0,,1
 1085,1085,Frederick / Lancaster,,  43.453506, -80.482377,,,0,,1
-1086,1086,Frederick / Irvin,,  43.452399, -80.484438,,,0,,1
 1088,1088,Frederick / King,,  43.449417, -80.487668,,,0,,1
 1089,1089,Benton / Charles,,  43.448576, -80.488354,,,0,,1
 1090,1090,University / Seagram,,  43.469279, -80.538619,,,0,,1
@@ -381,7 +380,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1420,1420,Langs / Concession,,  43.398140, -80.344025,,,0,,1
 1421,1421,Langs / Walter,,  43.398627, -80.341093,,,0,,1
 1422,1422,Langs / Valentine,,  43.399106, -80.338223,,,0,,1
-1423,1423,Langs / Trico,,  43.399619, -80.335204,,,0,,1
+1423,1423,Langs / Langs Cr.,,  43.399619, -80.335204,,,0,,1
 1424,1424,Langs / Industrial,,  43.400308, -80.331319,,,0,,1
 1425,1425,Langs / Hespeler,,  43.401151, -80.327605,,,0,,1
 1426,1426,Hespeler / Langs,,  43.400754, -80.325905,,,0,,1
@@ -857,9 +856,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1988,1988,Westvale / Edenvalley,,  43.445863, -80.560152,,,0,,1
 1989,1989,Victoria / Natchez,,  43.469229, -80.448953,,,0,,1
 1990,1990,Old Zeller / Zeller,,  43.454120, -80.411792,,,0,,1
-1991,1991,Old Zeller / Eden Oak Trail,,  43.452806, -80.407750,,,0,,1
+1991,1991,Old Zeller / Eden Oak,,  43.452806, -80.407750,,,0,,1
 1992,1992,Fischer-Hallman / Thorndale,,  43.448678, -80.550034,,,0,,1
-1993,1993,Zeller / Pebblecreek,,  43.451058, -80.406680,,,0,,1
+1993,1993,Old Zeller / Pebblecreek,,  43.451058, -80.406680,,,0,,1
 1994,1994,Erb / Fischer-Hallman,,  43.452597, -80.552836,,,0,,1
 1995,1995,Erb / Roosevelt,,  43.453844, -80.549328,,,0,,1
 1996,1996,Erb / Culpepper,,  43.454538, -80.547321,,,0,,1
@@ -872,7 +871,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2003,2003,Erb / Euclid,,  43.463193, -80.527786,,,0,,1
 2004,2004,Erb / Father David Bauer,,  43.463913, -80.526100,,,0,,1
 2007,2007,Erb / Willow,,  43.465728, -80.518124,,,0,place_KWW,1
-2008,2008,Zeller / Fairway,,  43.448364, -80.404791,,,0,,1
+2008,2008,Old Zeller / Fairway,,  43.448364, -80.404791,,,0,,1
 2009,2009,Erb / Devitt,,  43.467336, -80.514027,,,0,,1
 2010,2010,Erb / Weber,,  43.468649, -80.510436,,,0,,1
 2011,2011,Erb / Ellis,,  43.470027, -80.506320,,,0,,1
@@ -890,8 +889,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2023,2023,Bridge / Bridle Trail,,  43.485412, -80.488414,,,0,,1
 2028,2028,Fairway / Pebblecreek,,  43.446700, -80.409043,,,0,,1
 2031,2031,Fairway / Pebblecreek,,  43.446676, -80.408596,,,0,,1
-2032,2032,Zeller / Fairway,,  43.448450, -80.404614,,,0,,1
-2033,2033,Zeller / Watervale,,  43.451165, -80.406603,,,0,,1
+2032,2032,Old Zeller / Fairway,,  43.448450, -80.404614,,,0,,1
+2033,2033,Old Zeller / Watervale,,  43.451165, -80.406603,,,0,,1
 2034,2034,Old Zeller / Eden Oak,,  43.453644, -80.408093,,,0,,1
 2035,2035,University / Lexington,,  43.504588, -80.496587,,,0,,1
 2036,2036,Old Zeller / Zeller,,  43.454047, -80.412095,,,0,,1
@@ -1020,8 +1019,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2204,2204,Salisbury / Corwin,,  43.357218, -80.332286,,,0,,1
 2205,2205,Hillcrest / Highland,,  43.356260, -80.333148,,,0,,1
 2206,2206,Hillcrest / Churchill,,  43.353752, -80.332299,,,0,,1
-2207,2207,Churchill / Westgate,,  43.353885, -80.330521,,,0,,1
-2208,2208,Churchill / Laneway 131,,  43.354718, -80.326699,,,0,,1
 2209,2209,Churchill / Barrie,,  43.354710, -80.325341,,,0,,1
 2210,2210,Churchill / Lansdowne,,  43.354710, -80.321939,,,0,,1
 2211,2211,St. Andrews / Grand,,  43.356503, -80.317905,,,0,,1
@@ -1030,6 +1027,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2214,2214,Main / Peck,,  43.356557, -80.304454,,,0,,1
 2215,2215,Main / Lincoln,,  43.356241, -80.301286,,,0,,1
 2216,2216,Main / Elgin,,  43.356564, -80.296667,,,0,,1
+2218,2218,Franklin / Path To Elliott,,  43.353517, -80.288842,,,0,,1
+2219,2219,Franklin / Morning Calm,,  43.351487, -80.289618,,,0,,1
+2220,2220,Champlain / Franklin,,  43.348314, -80.287619,,,0,,1
+2221,2221,Champlain / Carlos,,  43.349186, -80.284611,,,0,,1
 2222,2222,Lisbon Pines / Champlain,,  43.349543, -80.281213,,,0,,1
 2223,2223,Lisbon Pines / Santa Maria,,  43.346452, -80.280830,,,0,,1
 2224,2224,Lisbon Pines / Myers,,  43.344855, -80.280269,,,0,,1
@@ -1097,6 +1098,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2286,2286,Christopher / Myers,,  43.340514, -80.300529,,,0,,1
 2287,2287,Myers / Lorraine,,  43.341497, -80.297704,,,0,,1
 2288,2288,Myers / Greenbrier,,  43.342227, -80.293501,,,0,,1
+2289,2289,Myers / Cheese Factory,,  43.342742, -80.290356,,,0,,1
+2291,2291,Franklin / Myers,,  43.343772, -80.287093,,,0,,1
+2292,2292,Franklin / Copperfield,,  43.346715, -80.288243,,,0,,1
+2293,2293,Champlain / Bakersfield,,  43.348496, -80.289431,,,0,,1
+2294,2294,Champlain / Elgin,,  43.348052, -80.291941,,,0,,1
 2295,2295,Elgin / Woolley,,  43.351426, -80.294357,,,0,,1
 2297,2297,Elgin / Elliott,,  43.354405, -80.295594,,,0,,1
 2298,2298,Elgin / Main,,  43.356436, -80.296409,,,0,,1
@@ -1114,8 +1120,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2316,2316,Loblaws,,  43.429058, -80.379026,,,0,,1
 2317,2317,Maple Grove / Fountain,,  43.423989, -80.381074,,,0,,1
 2318,2318,Maple Grove / Cherry Blossom,,  43.416556, -80.387604,,,0,,1
-2319,2319,Weber / Queen,,  43.451861, -80.487051,,,0,,1
-2320,2320,Queen / Ahrens,,  43.453209, -80.486397,,,0,,1
 2333,2333,Victoria / Frederick,,  43.466240, -80.457432,,,0,,1
 2335,2335,Victoria / Forfar,,  43.467375, -80.453824,,,0,,1
 2336,2336,Victoria / Natchez,,  43.468414, -80.450675,,,0,,1
@@ -1735,8 +1739,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3183,3183,Westmount / Ottawa,,  43.419304, -80.501742,,,0,,1
 3184,3184,Westmount / Laurentian,,  43.416807, -80.501169,,,0,,1
 3185,3185,Westmount / Williamsburg,,  43.412760, -80.500214,,,0,,1
-3186,3186,Path To Killarney,,  43.411760, -80.496146,,,0,,1
-3188,3188,Path To Killarney,,  43.411799, -80.496665,,,0,,1
+3186,3186,Block Line / Path To Killarney,,  43.411760, -80.496146,,,0,,1
+3188,3188,Block Line / Path To Killarney,,  43.411799, -80.496665,,,0,,1
 3189,3189,Block Line / Westmount,,  43.411515, -80.498966,,,0,,1
 3190,3190,Westmount / Williamsburg,,  43.413219, -80.500136,,,0,,1
 3191,3191,Westmount / Laurentian,,  43.417049, -80.501007,,,0,,1
@@ -1984,7 +1988,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3600,3600,Pinebush / Hespeler,,  43.408051, -80.327116,,,0,,1
 3605,3605,Kumpf / Randall,,  43.504295, -80.544686,,,0,,1
 3606,3606,Weber / Erb,,  43.468616, -80.511153,,,0,,1
-3607,3607,Bleams / Fallowfield,,  43.411068, -80.456924,,,0,,2
+3607,3607,Bleams / Bullock,,  43.411068, -80.456924,,,0,,2
 3608,3608,Bleams / Fallowfield,,  43.411009, -80.457802,,,0,,1
 3609,3609,Coronation / Highland,,  43.382533, -80.334317,,,0,,1
 3612,3612,Langlaw / Schroeder,,  43.336574, -80.301092,,,0,,1
@@ -2250,7 +2254,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4003,4003,The Boardwalk,,  43.435439, -80.561018,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 4011,4011,Centennial / Forwell,,  43.471842, -80.433607,,,0,,1
 4014,4014,Laurelwood / Blue Beech,,  43.470290, -80.594731,,,0,,1
-4016,4016,Bridge / Chesapeake,,  43.509082, -80.517909,,,0,,1
 4017,4017,Columbia / Salzburg,,  43.460368, -80.582848,,,0,,1
 4018,4018,Columbia / Salzburg,,  43.460465, -80.582531,,,0,,1
 4019,4019,Columbia / St. Moritz,,  43.453259, -80.584023,,,0,,1
@@ -2260,7 +2263,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4023,4023,Columbia / Sundew,,  43.449190, -80.590268,,,0,,1
 4026,4026,Columbia / Fischer-Hallman,,  43.467909, -80.565832,,,0,,1
 4027,4027,Columbia / Fischer-Hallman,,  43.468120, -80.565210,,,0,,1
-4028,4028,Bridge / Path To Brigantine,,  43.508032, -80.516305,,,0,,1
 4029,4029,Bridge / Path To Wissler,,  43.507890, -80.516392,,,0,,1
 4030,4030,Bridge / Bechtel Park,,  43.487940, -80.492206,,,0,,1
 4031,4031,Bridge / Path To Auburn,,  43.488124, -80.492130,,,0,,1
@@ -2270,7 +2272,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4035,4035,Bridge / Eastbridge,,  43.503951, -80.509782,,,0,,1
 4036,4036,Bridge / Chesapeake,,  43.505863, -80.511143,,,0,,1
 4037,4037,Bridge / Chesapeake,,  43.506014, -80.510998,,,0,,1
-4038,4038,Bridge / Chesapeake,,  43.508988, -80.518125,,,0,,1
 4039,4039,King / Weber,,  43.513992, -80.557162,,,0,,1
 4040,4040,King / Weber,,  43.514195, -80.557017,,,0,,1
 4042,4042,Northfield / Davenport,,  43.503132, -80.528994,,,0,,1
@@ -2347,8 +2348,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5044,5044,Weber / Edmund,,  43.441018, -80.464053,,,0,,1
 5045,5045,East / Krug,,  43.452698, -80.472909,,,0,,1
 5046,5046,East / Krug,,  43.452965, -80.472855,,,0,,1
-5047,5047,Elgin / Myers,,  43.343237, -80.291092,,,0,,1
-5048,5048,Elgin / Champlain,,  43.348267, -80.293067,,,0,,1
 5049,5049,Preston / Halberstadt,,  43.392443, -80.377547,,,0,,1
 5050,5050,Westminster / King,,  43.396047, -80.358266,,,0,,1
 5056,5056,Regina / Willis,,  43.463937, -80.520879,,,0,,1
@@ -2360,6 +2359,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5062,5062,Elgin / Regina,,  43.470214, -80.522649,,,0,,1
 5063,5063,Regina / Bridgeport,,  43.467561, -80.521861,,,0,place_KWS,1
 5064,5064,Regina / Erb,,  43.465741, -80.521388,,,0,place_KWS,1
+5065,5065,Dundas / Franklin,,  43.355473, -80.289098,,,0,,1
 5070,5070,Fifth / Kingsway,,  43.434068, -80.451428,,,0,,2
 5071,5071,Fifth / Kingsway,,  43.433898, -80.451751,,,0,,2
 5072,5072,Fifth / Connaught,,  43.430990, -80.453487,,,0,,1
