@@ -262,7 +262,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1289,1289,Laurel / Eagle,,  43.403319, -80.355467,,,0,,1
 1290,1290,Eagle / Arlington,,  43.403974, -80.351903,,,0,,1
 1291,1291,Fisher Mills / Scott,,  43.435349, -80.320880,,,0,,1
-1293,1293,Boardwalk Medical Centre,,  43.440029, -80.565105,,,0,,1
+1293,1293,Medical Centre At The Boardwalk,,  43.440029, -80.565105,,,0,,1
 1294,1294,Holiday Inn / Tri-City Centre,,  43.417366, -80.324300,,,0,,1
 1295,1295,Holiday Inn / 200 Block,,  43.416395, -80.321408,,,0,,1
 1296,1296,Fisher Mills / Scott,,  43.435358, -80.319992,,,0,,1
@@ -532,17 +532,17 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1597,1597,Cambridge Memorial Hospital,,  43.378432, -80.327424,,,0,,1
 1598,1598,Coronation / Islandview,,  43.376903, -80.324812,,,0,,1
 1599,1599,Coronation / Wright,,  43.374757, -80.321157,,,0,,1
-1600,1600,Dundas / Haddington,,  43.372219, -80.316966,,,0,,1
+1600,1600,Dundas / Water,,  43.372890, -80.318037,,,0,,1
 1601,1601,Dundas / Hopeton,,  43.370454, -80.313935,,,0,,1
 1602,1602,Dundas / Cambridge,,  43.367389, -80.308860,,,0,,1
 1603,1603,Dundas / Beverly,,  43.365897, -80.306272,,,0,,1
 1604,1604,Beverly / Kerr,,  43.362959, -80.308861,,,0,,1
-1607,1607,Beverly / Mill Creek Trail,,  43.364597, -80.307200,,,0,,1
+1607,1607,Beverly / Mill Creek,,  43.364597, -80.307200,,,0,,1
 1608,1608,Dundas / Grantham,,  43.366259, -80.306515,,,0,,1
 1609,1609,Dundas / Cambridge,,  43.367542, -80.308734,,,0,,1
 1610,1610,Dundas / Roxboro,,  43.370590, -80.313946,,,0,,1
 1611,1611,Dundas / Jarvis,,  43.372207, -80.316528,,,0,,1
-1612,1612,Coronation / Grandview,,  43.374141, -80.319649,,,0,,1
+1612,1612,Coronation / Hespeler,,  43.373751, -80.318968,,,0,,1
 1613,1613,Coronation / Goldie,,  43.375527, -80.321988,,,0,,1
 1614,1614,Coronation / Oliver,,  43.378146, -80.326403,,,0,,1
 1615,1615,Cambridge Memorial Hospital,,  43.379683, -80.328904,,,0,,1
@@ -759,7 +759,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1863,1863,Bleams / Century Hill,,  43.408781, -80.466702,,,0,,1
 1864,1864,Strasburg / Bleams,,  43.407640, -80.475024,,,0,,1
 1865,1865,Strasburg / Old Country,,  43.411049, -80.476069,,,0,,1
-1866,1866,Thaler / Fairway,,  43.434146, -80.431117,,,0,,1
+1866,1866,Thaler / 150S Block,,  43.434146, -80.431117,,,0,,1
 1869,1869,Kinzie / Walker,,  43.433093, -80.436625,,,0,,1
 1870,1870,Weber / Kinzie,,  43.432476, -80.439312,,,0,,1
 1871,1871,Weber / Fergus,,  43.433670, -80.442192,,,0,,1
@@ -844,10 +844,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1976,1976,Keats Way / Leighland,,  43.457636, -80.568324,,,0,,1
 1977,1977,Keats Way / Beechwood,,  43.456692, -80.571037,,,0,,1
 1978,1978,Keats Way / Erbsville,,  43.455908, -80.573280,,,0,,1
-1979,1979,Path To Lausanne,,  43.453269, -80.572059,,,0,,1
+1979,1979,Erbsville / Path To Lausanne,,  43.453269, -80.572059,,,0,,1
 1980,1980,Erbsville / Brandenburg,,  43.451329, -80.572188,,,0,,1
 1981,1981,Erbsville / Chablis,,  43.450035, -80.572765,,,0,,1
-1982,1982,Queen / Woodside,,  43.441701, -80.497316,,,0,,1
+1982,1982,Queen / Woodside Park,,  43.441701, -80.497316,,,0,,1
 1983,1983,Erb / Erbsville Crt,,  43.448019, -80.566044,,,0,,1
 1984,1984,Erb / Gateview,,  43.450834, -80.557832,,,0,,1
 1985,1985,Gateview / Westvale,,  43.450049, -80.557613,,,0,,1
@@ -883,12 +883,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2017,2017,Oldfield / Edenbridge,,  43.449248, -80.428804,,,0,,1
 2018,2018,Zeller / Susan,,  43.452656, -80.420612,,,0,,1
 2019,2019,Zeller / Wild Meadow,,  43.453234, -80.417438,,,0,,1
-2020,2020,Lancaster / Lang,,  43.477917, -80.484333,,,0,,1
+2020,2020,Lancaster / Bridgeport,,  43.477437, -80.484306,,,0,,1
 2021,2021,Lancaster / General,,  43.479276, -80.484333,,,0,,1
 2022,2022,Bridge / Woolwich,,  43.482788, -80.484403,,,0,,1
 2023,2023,Bridge / Bridle Trail,,  43.485412, -80.488414,,,0,,1
 2028,2028,Fairway / Pebblecreek,,  43.446700, -80.409043,,,0,,1
-2031,2031,Fairway / Pebblecreek,,  43.446676, -80.408596,,,0,,1
+2031,2031,Fairway / Upper Mercer,,  43.446676, -80.408596,,,0,,1
 2032,2032,Old Zeller / Fairway,,  43.448450, -80.404614,,,0,,1
 2033,2033,Old Zeller / Watervale,,  43.451165, -80.406603,,,0,,1
 2034,2034,Old Zeller / Eden Oak,,  43.453644, -80.408093,,,0,,1
@@ -957,6 +957,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2127,2127,Crombie / Grand,,  43.350925, -80.317178,,,0,,1
 2128,2128,Middleton / Francis,,  43.348247, -80.318096,,,0,,1
 2129,2129,First / Caen,,  43.346889, -80.319777,,,0,,1
+2130,2130,Stanley / Glenmorris,,  43.347442, -80.322066,,,0,,1
 2131,2131,Stanley / Tait,,  43.346779, -80.325516,,,0,,1
 2137,2137,Southgate / Day,,  43.352143, -80.334341,,,0,,1
 2138,2138,Churchill / Dale,,  43.353337, -80.333772,,,0,,1
@@ -1141,7 +1142,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2372,2372,Krug / River,,  43.458318, -80.457824,,,0,,1
 2373,2373,Lorraine / Birkshire,,  43.457822, -80.448262,,,0,,1
 2379,2379,Old Chicopee / Ottawa,,  43.451770, -80.440420,,,0,,1
-2380,2380,80 Holborn Dr,,  43.450537, -80.439679,,,0,,1
+2380,2380,Holborn / Old Chicopee,,  43.450537, -80.439679,,,0,,1
 2381,2381,Holborn / River,,  43.449185, -80.443052,,,0,,1
 2382,2382,Holborn / Holborn,,  43.449353, -80.441776,,,0,,1
 2383,2383,Holborn / Old Chicopee,,  43.450325, -80.439703,,,0,,1
@@ -1302,7 +1303,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2612,2612,Weber / Franklin,,  43.434307, -80.447400,,,0,,1
 2613,2613,Weber / Arlington,,  43.433346, -80.444073,,,0,,1
 2614,2614,Weber / Fergus,,  43.433315, -80.441392,,,0,,1
-2619,2619,Thaler / Kinzie,,  43.434084, -80.431290,,,0,,1
+2619,2619,Thaler / 160S Block,,  43.434084, -80.431290,,,0,,1
 2621,2621,King / Fairway,,  43.428907, -80.433217,,,0,,1
 2622,2622,King / Morgan,,  43.429511, -80.435175,,,0,,1
 2623,2623,Weber / Hwy 8 Ramp,,  43.430611, -80.437216,,,0,,1
@@ -1361,7 +1362,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2694,2694,Belmont / Gage,,  43.447595, -80.514288,,,0,,1
 2695,2695,Belmont / Karn,,  43.445032, -80.512974,,,0,,1
 2701,2701,Highland / Patricia,,  43.440498, -80.505522,,,0,,1
-2702,2702,Highland / West,,  43.441168, -80.502106,,,0,,1
+2702,2702,Highland / Vancamp,,  43.441028, -80.502708,,,0,,1
 2703,2703,Highland / Garden,,  43.441120, -80.499511,,,0,,1
 2705,2705,Queen / Schneider,,  43.444565, -80.494453,,,0,,1
 2706,2706,Queen / Courtland,,  43.445640, -80.493344,,,0,,1
@@ -1535,6 +1536,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2904,2904,Chandler / Bonfield,,  43.424641, -80.495200,,,0,,1
 2905,2905,G.R.T. Strasburg Garage,,  43.425005, -80.490170,,,0,,1
 2906,2906,Ottawa / Strasburg,,  43.422929, -80.486739,,,0,,1
+2907,2907,Ottawa / Alpine,,  43.425108, -80.483636,,,0,,1
 2908,2908,Ottawa / Imperial,,  43.429289, -80.481336,,,0,,1
 2909,2909,Ottawa / 400 Block,,  43.430421, -80.480701,,,0,,1
 2910,2910,Ottawa / Hoffman,,  43.431444, -80.479500,,,0,,1
@@ -1549,6 +1551,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2933,2933,Mill / Ottawa,,  43.434168, -80.479021,,,0,,1
 2934,2934,Ottawa / Hoffman,,  43.431964, -80.479534,,,0,,1
 2935,2935,Ottawa / Kehl,,  43.429704, -80.481592,,,0,,1
+2937,2937,Ottawa / Alpine,,  43.425096, -80.484077,,,0,,1
 2938,2938,Strasburg / Ottawa,,  43.422436, -80.487324,,,0,,1
 2939,2939,Strasburg / Barwood,,  43.420889, -80.485632,,,0,,1
 2940,2940,Strasburg / Selkirk,,  43.418717, -80.483180,,,0,,1
@@ -1606,7 +1609,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2999,2999,Activa / Sweet William,,  43.402565, -80.510264,,,0,,1
 3000,3000,Max Becker / Copper Leaf,,  43.403375, -80.508109,,,0,,1
 3001,3001,Max Becker / Commonwealth,,  43.404139, -80.503496,,,0,,1
-3002,3002,Max Becker / Helena Feasby,,  43.404806, -80.501688,,,0,,1
+3002,3002,Max Becker / Fischer-Hallman,,  43.405720, -80.500088,,,0,,1
 3004,3004,Block Line / Westmount,,  43.411260, -80.499078,,,0,,1
 3005,3005,Tillsley / Westmount,,  43.408986, -80.498047,,,0,,1
 3006,3006,Tillsley / Erinbrook,,  43.408972, -80.496812,,,0,,1
@@ -1681,7 +1684,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3093,3093,Greenbrook / Fischer-Hallman,,  43.420893, -80.515428,,,0,,1
 3094,3094,Greenbrook / Ruskview,,  43.421035, -80.515020,,,0,,1
 3095,3095,Greenbrook / Birchcliff,,  43.424050, -80.512525,,,0,,1
-3096,3096,Forest Hill Shopping Centre,,  43.426079, -80.511100,,,0,,1
+3096,3096,Greenbrook / Forest Hill Centre,,  43.426079, -80.511100,,,0,,1
 3097,3097,Greenbrook / Westmount,,  43.428205, -80.507068,,,0,,1
 3098,3098,Greenbrook / Forest Hill,,  43.428528, -80.502679,,,0,,1
 3099,3099,Greenbrook / Lakeside,,  43.428891, -80.499118,,,0,,1
@@ -1753,7 +1756,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3198,3198,Highland / Westmount,,  43.435571, -80.515509,,,0,,1
 3199,3199,Highland / Fieldgate,,  43.434012, -80.519624,,,0,,1
 3208,3208,Victoria / Eastforest,,  43.433568, -80.538692,,,0,,1
-3210,3210,Victoria / Oprington,,  43.435166, -80.533061,,,0,,1
+3210,3210,Victoria / Oprington,,  43.435140, -80.532421,,,0,,1
 3212,3212,Victoria / Monte Carlo,,  43.437640, -80.525823,,,0,,1
 3214,3214,Hazelglen / Mooregate,,  43.438804, -80.524318,,,0,,1
 3215,3215,Hazelglen / Chopin,,  43.440344, -80.526432,,,0,,1
@@ -1857,7 +1860,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3364,3364,Rolling Meadows / Newbury,,  43.422476, -80.545559,,,0,,1
 3365,3365,Rolling Meadows / Newbury,,  43.420037, -80.548319,,,0,,1
 3366,3366,Rolling Meadows / Trailwood,,  43.418334, -80.545577,,,0,,1
-3367,3367,Rolling Meadow / Meadow Wood,,  43.417702, -80.543124,,,0,,1
+3367,3367,Rolling Meadows / Meadow Woods,,  43.417702, -80.543124,,,0,,1
 3368,3368,Driftwood / Highview,,  43.416884, -80.541104,,,0,,1
 3373,3373,Driftwood / Somerfield,,  43.413700, -80.535409,,,0,,1
 3378,3378,Westheights / Blackwell,,  43.422379, -80.541754,,,0,,1
@@ -1902,8 +1905,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3464,3464,Keats Way / Fischer-Hallman,,  43.458197, -80.557257,,,0,,1
 3465,3465,Fischer-Hallman / Keats Way,,  43.458370, -80.557824,,,0,,1
 3466,3466,Highview / Golden Meadow,,  43.415241, -80.550854,,,0,,1
-3467,3467,Highview / Golden Meadow,,  43.415441, -80.550630,,,0,,1
-3468,3468,Highview / Highview,,  43.416455, -80.543017,,,0,,1
+3467,3467,Highview / Havenwood,,  43.415441, -80.550630,,,0,,1
+3468,3468,Highview / Highview Pl.,,  43.416455, -80.543017,,,0,,1
 3469,3469,Driftwood / Westheights,,  43.419151, -80.539098,,,0,,1
 3470,3470,Westheights / Driftwood,,  43.418528, -80.534506,,,0,,1
 3471,3471,Westheights / Driftwood,,  43.418479, -80.535375,,,0,,1
@@ -1992,7 +1995,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3608,3608,Bleams / Fallowfield,,  43.411009, -80.457802,,,0,,1
 3609,3609,Coronation / Highland,,  43.382533, -80.334317,,,0,,1
 3612,3612,Langlaw / Schroeder,,  43.336574, -80.301092,,,0,,1
-3614,3614,Fairway / Fairview Park Mall,,  43.421594, -80.440091,,,0,,1
+3614,3614,Fairway / Fairview Park,,  43.421594, -80.440091,,,0,,1
 3618,3618,Courtland / Stirling,,  43.441316, -80.484767,,,0,,1
 3619,3619,Laurier,,  43.475233, -80.527903,,,0,,1
 3620,3620,Laurier,,  43.475123, -80.527557,,,0,,1
@@ -2012,7 +2015,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3648,3648,Vondrau / Boxwood,,  43.429506, -80.375099,,,0,,1
 3649,3649,Maple Grove / Vondrau,,  43.425363, -80.374364,,,0,,1
 3657,3657,Lancaster / Hwy 85 Ramp,,  43.472096, -80.484234,,,0,,1
-3659,3659,Franklin / Can-Amera Parkway,,  43.394287, -80.303207,,,0,,1
+3659,3659,Franklin / Can-Amera,,  43.394287, -80.303207,,,0,,1
 3660,3660,Franklin / Can-Amera,,  43.394529, -80.303007,,,0,,1
 3661,3661,Eckert / Dixon,,  43.434380, -80.458817,,,0,,1
 3662,3662,University / Baker,,  43.437591, -80.558717,,,0,,1
@@ -2034,7 +2037,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3685,3685,Erbsville / Erb,,  43.447900, -80.572632,,,0,,1
 3687,3687,Erb / Erbsville,,  43.448332, -80.565666,,,0,,1
 3690,3690,Erbsville / Royal Beech,,  43.451364, -80.571865,,,0,,1
-3691,3691,Path To Erbsville,,  43.453282, -80.571927,,,0,,1
+3691,3691,Erbsville / Path To Erbsville Crt.,,  43.453282, -80.571927,,,0,,1
 3692,3692,Keats Way / Keatswood,,  43.455817, -80.573219,,,0,,1
 3693,3693,Keats Way /  Beechwood,,  43.456485, -80.571150,,,0,,1
 3694,3694,Keats Way / Leighland,,  43.457464, -80.568251,,,0,,1
@@ -2045,7 +2048,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3720,3720,Grand River Hospital - Mount Hope Street,,  43.456159, -80.514492,,,0,place_GRH,1
 3723,3723,860 Trillium Dr,,  43.400139, -80.484672,,,0,,1
 3724,3724,825 Trillium Dr,,  43.399551, -80.484158,,,0,,1
-3725,3725,Fairway / Lackner,,  43.442570, -80.415875,,,0,,1
+3725,3725,Fairway / Fairway Cres.,,  43.442508, -80.415816,,,0,,1
 3726,3726,Fairway / Lackner,,  43.442892, -80.415629,,,0,,1
 3727,3727,King / Martin Grove,,  43.510267, -80.542983,,,0,,1
 3728,3728,King / Bridge,,  43.510060, -80.543034,,,0,,1
@@ -2157,7 +2160,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3864,3864,Cedar / Glenmorris,,  43.352573, -80.323317,,,0,,1
 3871,3871,Brooklyne / Glen,,  43.377132, -80.313316,,,0,,1
 3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,1
-3874,3874,Westmount / Fischer-Hallman,,  43.406532, -80.498845,,,0,,1
 3879,3879,University / Westvale,,  43.440892, -80.548781,,,0,,1
 3880,3880,University / Portsmouth,,  43.439230, -80.554021,,,0,,1
 3881,3881,The Boardwalk,,  43.435489, -80.560757,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
@@ -2315,8 +2317,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4081,4081,Laurelwood / Holly View,,  43.472739, -80.586376,,,0,,1
 4082,4082,Laurelwood / Birchmount,,  43.472771, -80.590219,,,0,,1
 4083,4083,Laurelwood / Erbsville,,  43.471447, -80.592720,,,0,,1
-4084,4084,Erbsville / Path To Blue Beech,,  43.469040, -80.591047,,,0,,1
-4085,4085,Erbsville / Path To Blue Beech,,  43.469153, -80.590861,,,0,,1
+4084,4084,Erbsville / Path To Wild Ginger,,  43.469040, -80.591047,,,0,,1
+4085,4085,Erbsville / Path To Wild Ginger,,  43.469153, -80.590861,,,0,,1
 4086,4086,Erbsville / White Elm,,  43.466457, -80.586099,,,0,,1
 4087,4087,Erbsville / Brandenburg,,  43.459613, -80.578425,,,0,,1
 4088,4088,Erbsville / Cornridge,,  43.459774, -80.578281,,,0,,1
