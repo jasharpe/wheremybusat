@@ -539,11 +539,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1600,1600,Dundas / Water,,  43.372890, -80.318037,,,0,,1
 1601,1601,Dundas / Hopeton,,  43.370454, -80.313935,,,0,,1
 1602,1602,Dundas / Cambridge,,  43.367389, -80.308860,,,0,,1
-1603,1603,Dundas / Beverly,,  43.365897, -80.306272,,,0,,1
-1604,1604,Beverly / Kerr,,  43.362959, -80.308861,,,0,,1
-1607,1607,Beverly / Mill Creek,,  43.364597, -80.307200,,,0,,1
-1608,1608,Dundas / Grantham,,  43.366259, -80.306515,,,0,,1
-1609,1609,Dundas / Cambridge,,  43.367542, -80.308734,,,0,,1
+1605,1605,Wellington / Main,,  43.359285, -80.311289,,,0,,1
 1610,1610,Dundas / Roxboro,,  43.370590, -80.313946,,,0,,1
 1611,1611,Dundas / Jarvis,,  43.372207, -80.316528,,,0,,1
 1612,1612,Coronation / Hespeler,,  43.373751, -80.318968,,,0,,1
@@ -635,12 +631,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1725,1725,Pinnacle / Doon Valley,,  43.389864, -80.415381,,,0,,1
 1726,1726,Doon Valley / Pinnacle,,  43.390010, -80.413746,,,0,,1
 1727,1727,Doon Valley / Conestoga,,  43.390810, -80.410186,,,0,,1
-1728,1728,Conestoga College Entrance,,  43.387998, -80.411628,,,0,,1
+1728,1728,Conestoga College Entrance,,  43.388366, -80.411447,,,0,place_CCD,1
 1729,1729,Conestoga College Residence,,  43.385228, -80.412067,,,0,,1
-1731,1731,Conestoga College Rec Centre,,  43.389629, -80.408074,,,0,,1
-1732,1732,Conestoga College Door 3,,  43.390289, -80.403511,,,0,place_CCD,1
-1733,1733,Conestoga College Daycare,,  43.391958, -80.404125,,,0,,1
-1734,1734,Doon Valley / Orchard Mill,,  43.391204, -80.409812,,,0,,1
 1735,1735,Doon Valley / Pinnacle,,  43.390215, -80.413489,,,0,,1
 1736,1736,Pinnacle / Doon Valley,,  43.390026, -80.415305,,,0,,1
 1737,1737,Pinnacle / Amherst,,  43.391401, -80.414749,,,0,,1
@@ -884,7 +876,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2013,2013,Erb / Terrystone,,  43.471671, -80.499173,,,0,,1
 2014,2014,Bridgeport / Leander,,  43.474933, -80.489539,,,0,,1
 2015,2015,Bridgeport / Mackie,,  43.475293, -80.487594,,,0,,1
-2016,2016,Bridgeport / Lancaster,,  43.476202, -80.485448,,,0,,1
 2017,2017,Oldfield / Edenbridge,,  43.449248, -80.428804,,,0,,1
 2018,2018,Zeller / Susan,,  43.452656, -80.420612,,,0,,1
 2019,2019,Zeller / Wild Meadow,,  43.453234, -80.417438,,,0,,1
@@ -961,7 +952,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2124,2124,Mcnaughton / Shade,,  43.360646, -80.307579,,,0,,1
 2125,2125,Main / Harris,,  43.358881, -80.310486,,,0,,1
 2126,2126,Grand / Victoria,,  43.352114, -80.317165,,,0,,1
-2127,2127,Crombie / Grand,,  43.350925, -80.317178,,,0,,1
 2128,2128,Middleton / Francis,,  43.348247, -80.318096,,,0,,1
 2129,2129,First / Caen,,  43.346889, -80.319777,,,0,,1
 2130,2130,Stanley / Glenmorris,,  43.347442, -80.322066,,,0,,1
@@ -981,7 +971,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2154,2154,Stanley / Glenmorris,,  43.347317, -80.322240,,,0,,1
 2155,2155,First / Caen,,  43.346816, -80.319704,,,0,,1
 2156,2156,Middleton / Francis,,  43.348580, -80.318056,,,0,,1
-2157,2157,Crombie / Grand,,  43.350914, -80.316845,,,0,,1
 2158,2158,Grand / Cedar,,  43.353024, -80.317290,,,0,,1
 2159,2159,Ainslie / Veterans,,  43.354469, -80.313486,,,0,,1
 2160,2160,Oak / Main,,  43.357258, -80.307185,,,0,,1
@@ -1120,7 +1109,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2302,2302,Main / Cathay,,  43.356531, -80.303109,,,0,,1
 2303,2303,Main / Arthur White,,  43.356811, -80.306228,,,0,,1
 2304,2304,Main / Spruce,,  43.357146, -80.307976,,,0,,1
-2308,2308,Conestoga College / Homer Watson,,  43.387470, -80.411959,,,0,,1
 2310,2310,Cherry Blossom / Barnes,,  43.415728, -80.384565,,,0,,1
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,1
 2314,2314,Fountain / Toyota Gate 1,,  43.416272, -80.375698,,,0,,1
@@ -1542,7 +1530,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2896,2896,Williamsburg / Pinedale,,  43.416537, -80.505384,,,0,,1
 2897,2897,Williamsburg / Ottawa,,  43.418527, -80.507591,,,0,,1
 2898,2898,Ottawa / Pinedale,,  43.419848, -80.504677,,,0,,1
-2899,2899,Ottawa / Westmount,,  43.420215, -80.502154,,,0,,1
 2900,2900,Ottawa / Path To Chandler,,  43.420592, -80.499940,,,0,,1
 2901,2901,Ottawa / Howland,,  43.420969, -80.497577,,,0,,1
 2902,2902,Elmsdale / Ottawa,,  43.422179, -80.494170,,,0,,1
@@ -1678,20 +1665,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3049,3049,Kingswood / Flint,,  43.423240, -80.481783,,,0,,1
 3050,3050,Kingswood / Roberts,,  43.422471, -80.483099,,,0,,1
 3051,3051,Kingswood / Strasburg,,  43.421266, -80.485444,,,0,,1
-3054,3054,Hoffman / Ottawa,,  43.431903, -80.480004,,,0,,1
-3055,3055,Hoffman / Meinzinger,,  43.432077, -80.482671,,,0,,1
-3056,3056,Hoffman / Kehl,,  43.431411, -80.484703,,,0,,1
-3057,3057,Hoffman / Highland,,  43.430557, -80.487082,,,0,,1
+3052,3052,Alpine / Ottawa,,  43.424975, -80.483090,,,0,,1
+3053,3053,Alpine / Ottawa,,  43.425295, -80.482965,,,0,,1
 3058,3058,Highland / Heiman,,  43.432933, -80.488817,,,0,,1
 3059,3059,Heiman / Kehl,,  43.434332, -80.487309,,,0,,1
 3060,3060,Heiman / Mill,,  43.435422, -80.485695,,,0,,1
 3061,3061,Heiman / Kehl,,  43.434574, -80.487147,,,0,,1
 3062,3062,Heiman / Highland,,  43.433465, -80.489010,,,0,,1
-3063,3063,Hoffman / Highland,,  43.430529, -80.486873,,,0,,1
-3064,3064,Hoffman / Kehl,,  43.431250, -80.484927,,,0,,1
-3065,3065,Hoffman / Meinzinger,,  43.431969, -80.482697,,,0,,1
-3066,3066,Hoffman / Donley,,  43.431979, -80.480967,,,0,,1
-3067,3067,Hoffman / Ottawa,,  43.431785, -80.479770,,,0,,1
 3068,3068,Queen / St. George,,  43.447147, -80.491985,,,0,,1
 3069,3069,Queen / Schneider,,  43.444727, -80.494526,,,0,,1
 3074,3074,Stirling / Highland,,  43.436152, -80.491731,,,0,,1
@@ -1964,6 +1944,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3532,3532,Rose / Lowther,,  43.389374, -80.360738,,,0,,1
 3534,3534,St. Andrews / Gilholm,,  43.353640, -80.322528,,,0,,1
 3535,3535,Main / Harris,,  43.358798, -80.310166,,,0,,1
+3536,3536,Wellington / Dickson,,  43.359967, -80.311461,,,0,,1
 3539,3539,Hespeler / Isherwood,,  43.383091, -80.320484,,,0,,1
 3540,3540,Queen / Guelph,,  43.430988, -80.311273,,,0,,1
 3541,3541,Guelph / Milton,,  43.440018, -80.313223,,,0,,1
@@ -1980,8 +1961,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3552,3552,Victoria / Bramblewood,,  43.430216, -80.548765,,,0,,1
 3553,3553,Victoria / Bramblewood,,  43.430157, -80.548333,,,0,,1
 3554,3554,Victoria / Path To Winding Meadow,,  43.429380, -80.550663,,,0,,1
-3555,3555,Victoria / Westforest,,  43.431704, -80.544009,,,0,,1
-3556,3556,Victoria / Westforest,,  43.431751, -80.544444,,,0,,1
+3555,3555,Victoria / Westforest,,  43.431715, -80.543974,,,0,,1
+3556,3556,Victoria / Westforest,,  43.431812, -80.544271,,,0,,1
 3558,3558,Huron Heights S.S.,,  43.394488, -80.466832,,,0,place_HHS,1
 3559,3559,Frederick / Turner,,  43.463495, -80.459587,,,0,,1
 3560,3560,Frederick / Victoria,,  43.465475, -80.458256,,,0,,1
@@ -2030,7 +2011,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3630,3630,R & T Park,,  43.478965, -80.549031,,,0,,1
 3631,3631,University / Westmount,,  43.464122, -80.541390,,,0,,1
 3637,3637,Elm Ridge / Queens,,  43.426977, -80.527685,,,0,,1
-3641,3641,Conestoga College Entrance,,  43.387933, -80.411325,,,0,,1
+3641,3641,Conestoga College Entrance,,  43.387933, -80.411325,,,0,place_CCD,1
 3642,3642,Weber / Broadview,,  43.435021, -80.449729,,,0,,1
 3646,3646,Boxwood / Maple Grove,,  43.428126, -80.365001,,,0,,1
 3647,3647,Boxwood / Vondrau,,  43.430673, -80.370302,,,0,,1
@@ -2125,10 +2106,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3796,3796,Bismark / Devils Creek,,  43.370565, -80.337225,,,0,,1
 3799,3799,Conestoga Mall,,  43.498071, -80.528653,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3800,3800,Conestoga Mall,,  43.498415, -80.529132,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-3801,3801,Conestoga College / Pinnacle,,  43.385896, -80.412394,,,0,,1
-3802,3802,Conestoga College / Pinnacle,,  43.385484, -80.412867,,,0,,1
+3801,3801,Conestoga College / Pinnacle,,  43.385896, -80.412394,,,0,place_CCD,1
 3803,3803,Conestoga College Residence,,  43.384395, -80.411236,,,0,,1
-3804,3804,Conestoga College Residence,,  43.384241, -80.410978,,,0,,1
 3805,3805,Blair / Esther,,  43.373864, -80.336239,,,0,,1
 3807,3807,Farmers Market / Walmart,,  43.510661, -80.549376,,,0,,1
 3808,3808,King / Printery,,  43.528045, -80.555335,,,0,,1
@@ -2293,7 +2272,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4027,4027,Columbia / Fischer-Hallman,,  43.468120, -80.565210,,,0,,1
 4029,4029,Bridge / Path To Wissler,,  43.507890, -80.516392,,,0,,1
 4030,4030,Bridge / Bechtel Park,,  43.487940, -80.492206,,,0,,1
-4031,4031,Bridge / Path To Auburn,,  43.488124, -80.492130,,,0,,1
 4032,4032,Bridge / University,,  43.489037, -80.493742,,,0,,1
 4033,4033,Bridge / University,,  43.489259, -80.493634,,,0,,1
 4034,4034,Bridge / Dansbury,,  43.496208, -80.501262,,,0,,1
@@ -2350,6 +2328,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4088,4088,Erbsville / Cornridge,,  43.459774, -80.578281,,,0,,1
 4089,4089,King / High Crest,,  43.535182, -80.554343,,,0,,1
 4090,4090,King / High Crest,,  43.535225, -80.554207,,,0,,1
+4094,4094,Ottawa / Westmount,,  43.420389, -80.501241,,,0,,1
 5000,5000,Water / Joseph,,  43.449856, -80.495662,,,0,,1
 5005,5005,Water / King,,  43.451514, -80.494579,,,0,,1
 5006,5006,Water / King,,  43.451504, -80.494734,,,0,,1
@@ -2372,6 +2351,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5046,5046,East / Krug,,  43.452965, -80.472855,,,0,,1
 5049,5049,Preston / Halberstadt,,  43.392443, -80.377547,,,0,,1
 5050,5050,Westminster / King,,  43.396047, -80.358266,,,0,,1
+5052,5052,Hoffman / Highland,,  43.430282, -80.487515,,,0,,1
+5053,5053,Highland / Hoffman,,  43.430597, -80.487545,,,0,,1
 5056,5056,Regina / Willis,,  43.463937, -80.520879,,,0,,1
 5057,5057,Regina / Willis,,  43.463963, -80.520692,,,0,,1
 5059,5059,Regina / Dupont,,  43.466089, -80.521337,,,0,place_KWW,1
