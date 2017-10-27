@@ -2346,7 +2346,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4088,4088,Erbsville / Cornridge,,  43.459774, -80.578281,,,0,,1
 4089,4089,King / High Crest,,  43.535182, -80.554343,,,0,,1
 4090,4090,King / High Crest,,  43.535225, -80.554207,,,0,,1
-4094,4094,Ottawa / Westmount,,  43.420389, -80.501241,,,0,,1 
+4094,4094,Ottawa / Westmount,,  43.420389, -80.501241,,,0,,1
 4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1
 4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1
 5000,5000,Water / Joseph,,  43.449856, -80.495662,,,0,,1
