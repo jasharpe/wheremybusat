@@ -347,7 +347,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1378,1378,Elgin / Franklin,,  43.391386, -80.302957,,,0,,1
 1379,1379,Elgin / Bushnell,,  43.391115, -80.308615,,,0,,1
 1380,1380,Elgin / Glenbrook,,  43.388964, -80.311763,,,0,,1
-1381,1381,Elgin / Sekura,,  43.386715, -80.313603,,,0,,1
+1381,1381,Elgin / Glenbrook,,  43.387272, -80.313296,,,0,,1
 1382,1382,Munch / Kovac,,  43.384013, -80.313646,,,0,,1
 1383,1383,Munch / Sekura,,  43.383192, -80.317803,,,0,,1
 1384,1384,Hespeler / Munch,,  43.383323, -80.320222,,,0,,1
@@ -438,6 +438,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1483,1483,Smartcentres Cambridge - North,,  43.411678, -80.324672,,,0,,1
 1484,1484,Franklin / Holiday Inn,,  43.418386, -80.310761,,,0,,1
 1485,1485,Franklin / Pinebush,,  43.411113, -80.308486,,,0,,1
+1486,1486,Hespeler / 500S Block,,  43.403211, -80.326735,,,0,,1
 1487,1487,Franklin / Sheldon,,  43.405859, -80.306988,,,0,,1
 1488,1488,Franklin / Turnbull,,  43.403472, -80.306103,,,0,,1
 1490,1490,Franklin / Bishop,,  43.399158, -80.304770,,,0,,1
@@ -541,7 +542,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1600,1600,Dundas / Water,,  43.372890, -80.318037,,,0,,1
 1601,1601,Dundas / Hopeton,,  43.370454, -80.313935,,,0,,1
 1602,1602,Dundas / Cambridge,,  43.367389, -80.308860,,,0,,1
-1605,1605,Wellington / Main,,  43.359285, -80.311289,,,0,,1
+1603,1603,Dundas / Beverly,,  43.365897, -80.306272,,,0,,1
+1604,1604,Beverly / Kerr,,  43.362959, -80.308861,,,0,,1
+1607,1607,Beverly / Mill Creek,,  43.364597, -80.307200,,,0,,1
+1608,1608,Dundas / Grantham,,  43.366259, -80.306515,,,0,,1
+1609,1609,Dundas / Cambridge,,  43.367542, -80.308734,,,0,,1
 1610,1610,Dundas / Roxboro,,  43.370590, -80.313946,,,0,,1
 1611,1611,Dundas / Jarvis,,  43.372207, -80.316528,,,0,,1
 1612,1612,Coronation / Hespeler,,  43.373751, -80.318968,,,0,,1
@@ -1329,8 +1334,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2629,2629,Franklin / Bradley,,  43.444658, -80.448344,,,0,,1
 2630,2630,Franklin / Dreger,,  43.446482, -80.449477,,,0,,1
 2631,2631,Franklin / Ottawa,,  43.447855, -80.450379,,,0,,1
-2632,2632,Ottawa / Dreger,,  43.448210, -80.452971,,,0,,1
-2633,2633,Ottawa / Nottingham,,  43.447688, -80.458723,,,0,,1
 2634,2634,Ottawa / Mckenzie,,  43.444945, -80.465235,,,0,,1
 2635,2635,Ottawa / Weber,,  43.444332, -80.467008,,,0,,1
 2636,2636,Weber / Borden,,  43.445601, -80.470704,,,0,,1
@@ -1963,7 +1966,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3532,3532,Rose / Lowther,,  43.389374, -80.360738,,,0,,1
 3534,3534,St. Andrews / Gilholm,,  43.353640, -80.322528,,,0,,1
 3535,3535,Main / Harris,,  43.358798, -80.310166,,,0,,1
-3536,3536,Wellington / Dickson,,  43.359967, -80.311461,,,0,,1
 3539,3539,Hespeler / Isherwood,,  43.383091, -80.320484,,,0,,1
 3540,3540,Queen / Guelph,,  43.430988, -80.311273,,,0,,1
 3541,3541,Guelph / Milton,,  43.440018, -80.313223,,,0,,1
