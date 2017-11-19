@@ -544,6 +544,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1602,1602,Dundas / Cambridge,,  43.367389, -80.308860,,,0,,1
 1603,1603,Dundas / Beverly,,  43.365897, -80.306272,,,0,,1
 1604,1604,Beverly / Kerr,,  43.362959, -80.308861,,,0,,1
+1605,1605,Wellington / Main,,  43.359285, -80.311289,,,0,,1
+1606,1606,Beverly / Kerr,,  43.361982, -80.309624,,,0,,1
 1607,1607,Beverly / Mill Creek,,  43.364597, -80.307200,,,0,,1
 1608,1608,Dundas / Grantham,,  43.366259, -80.306515,,,0,,1
 1609,1609,Dundas / Cambridge,,  43.367542, -80.308734,,,0,,1
@@ -1151,6 +1153,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2359,2359,Weber / Scott,,  43.450436, -80.484344,,,0,,1
 2361,2361,Krug / Samuel,,  43.450961, -80.477121,,,0,,1
 2362,2362,Krug / Lydia,,  43.451867, -80.474493,,,0,,1
+2363,2363,Krug / East,,  43.452650, -80.472287,,,0,,1
+2366,2366,Krug / Becker,,  43.454212, -80.467490,,,0,,1
+2369,2369,Krug / Cambridge,,  43.455591, -80.463881,,,0,,1
 2370,2370,Krug / Eton,,  43.456016, -80.462381,,,0,,1
 2371,2371,Krug / Sherwood,,  43.457235, -80.461097,,,0,,1
 2372,2372,Krug / River,,  43.458318, -80.457824,,,0,,1
@@ -1165,6 +1170,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2394,2394,Lorraine / Birkshire,,  43.457762, -80.448843,,,0,,1
 2395,2395,Krug / River,,  43.458329, -80.458306,,,0,,1
 2396,2396,Krug / Sherwood,,  43.457495, -80.460934,,,0,,1
+2400,2400,Krug / Becker,,  43.454294, -80.467711,,,0,,1
+2403,2403,Krug / East,,  43.452687, -80.472558,,,0,,1
 2404,2404,Krug / Lydia,,  43.451932, -80.474752,,,0,,1
 2405,2405,Krug / Samuel,,  43.451043, -80.477306,,,0,,1
 2407,2407,Krug / Lancaster,,  43.449816, -80.480777,,,0,,1
@@ -1982,6 +1989,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3532,3532,Rose / Lowther,,  43.389374, -80.360738,,,0,,1
 3534,3534,St. Andrews / Gilholm,,  43.353640, -80.322528,,,0,,1
 3535,3535,Main / Harris,,  43.358798, -80.310166,,,0,,1
+3536,3536,Wellington / Dickson,,  43.359967, -80.311461,,,0,,1
 3539,3539,Hespeler / Isherwood,,  43.383091, -80.320484,,,0,,1
 3540,3540,Queen / Guelph,,  43.430988, -80.311273,,,0,,1
 3541,3541,Guelph / Milton,,  43.440018, -80.313223,,,0,,1
@@ -2156,7 +2164,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3814,3814,Arthur / Brubacher,,  43.594525, -80.560718,,,0,,1
 3815,3815,Arthur / Park,,  43.596693, -80.560095,,,0,,1
 3816,3816,Arthur / Wyatt,,  43.597959, -80.559169,,,0,,1
-3817,3817,Arthur / Mill,,  43.599333, -80.558143,,,0,,1
+3817,3817,Arthur / Church,,  43.599333, -80.558143,,,0,,1
 3818,3818,Church / Walker,,  43.600215, -80.559988,,,0,,1
 3819,3819,Snyder / Church,,  43.600064, -80.563305,,,0,,1
 3820,3820,Snyder / South,,  43.596905, -80.563724,,,0,,1
@@ -2384,12 +2392,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5023,5023,Ottawa / Brick,,  43.442293, -80.470777,,,0,,1
 5025,5025,Gatestone / Baringham,,  43.468241, -80.572008,,,0,,2
 5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
-5041,5041,Krug / Cambridge,,  43.455989, -80.462964,,,0,,2
 5042,5042,Weber / Jackson,,  43.440430, -80.463093,,,0,,1
 5043,5043,Weber / Edmund,,  43.441214, -80.463933,,,0,,2
 5044,5044,Weber / Edmund,,  43.441018, -80.464053,,,0,,1
-5045,5045,East / Krug,,  43.452698, -80.472909,,,0,,1
-5046,5046,East / Krug,,  43.452965, -80.472855,,,0,,1
 5049,5049,Preston / Halberstadt,,  43.392443, -80.377547,,,0,,1
 5050,5050,Westminster / King,,  43.396047, -80.358266,,,0,,1
 5056,5056,Regina / Willis,,  43.463937, -80.520879,,,0,,1
@@ -2450,7 +2455,6 @@ place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
 place_KCI,,Kitchener CI,,  43.456108, -80.508732,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KVI,,King/Victoria,,  43.452856, -80.498154,,,1,,
@@ -2458,10 +2462,11 @@ place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PRHS,,Preston High School,,  43.391467, -80.364692,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_STBS,,St. Benedict's High School,,  43.391350, -80.299870,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_WCI,,Waterloo CI,,  43.479921, -80.531700,,,1,,
 place_WSS,,Weber/Sunnyside School,,  43.435722, -80.451453,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
