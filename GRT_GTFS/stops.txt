@@ -642,6 +642,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1727,1727,Doon Valley / Conestoga,,  43.390810, -80.410186,,,0,,1
 1728,1728,Conestoga College Entrance,,  43.388366, -80.411447,,,0,place_CCD,1
 1729,1729,Conestoga College Residence,,  43.385228, -80.412067,,,0,,1
+1731,1731,Conestoga College Rec Centre,,  43.389629, -80.408074,,,0,,1
+1732,1732,Conestoga College Door 3,,  43.390289, -80.403511,,,0,place_CCD,1
+1733,1733,Conestoga College Daycare,,  43.391958, -80.404125,,,0,,1
+1734,1734,Doon Valley / Orchard Mill,,  43.391204, -80.409812,,,0,,1
 1735,1735,Doon Valley / Pinnacle,,  43.390215, -80.413489,,,0,,1
 1736,1736,Pinnacle / Doon Valley,,  43.390026, -80.415305,,,0,,1
 1737,1737,Pinnacle / Amherst,,  43.391401, -80.414749,,,0,,1
@@ -1128,6 +1132,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2302,2302,Main / Cathay,,  43.356531, -80.303109,,,0,,1
 2303,2303,Main / Arthur White,,  43.356811, -80.306228,,,0,,1
 2304,2304,Main / Spruce,,  43.357146, -80.307976,,,0,,1
+2308,2308,Conestoga College / Homer Watson,,  43.387470, -80.411959,,,0,,1
 2310,2310,Cherry Blossom / Barnes,,  43.415728, -80.384565,,,0,,1
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,1
 2314,2314,Fountain / Toyota Gate 1,,  43.416272, -80.375698,,,0,,1
@@ -1407,7 +1412,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2710,2710,Charles Terminal,,  43.449339, -80.492918,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
 2711,2711,Charles Terminal,,  43.448857, -80.491822,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
 2713,2713,Benton / Church,,  43.447469, -80.489411,,,0,,1
-2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
@@ -1981,8 +1985,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3520,3520,Dover / Rose,,  43.393221, -80.367600,,,0,,1
 3521,3521,Rose / Westminster,,  43.390785, -80.363477,,,0,place_PRHS,1
 3522,3522,Laurel / North,,  43.400857, -80.354715,,,0,,1
-3524,3524,Fountain / Blair,,  43.385720, -80.390864,,,0,,1
-3525,3525,Fountain / Blair,,  43.385390, -80.391399,,,0,,1
 3526,3526,Westminster / Laurel,,  43.399442, -80.354495,,,0,,1
 3527,3527,Hespeler / Abbotsford,,  43.380185, -80.319393,,,0,,1
 3531,3531,Maple Grove / Saltsman,,  43.421934, -80.383793,,,0,,1
@@ -2152,7 +2154,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3799,3799,Conestoga Mall,,  43.498071, -80.528653,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3800,3800,Conestoga Mall,,  43.498415, -80.529132,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3801,3801,Conestoga College / Pinnacle,,  43.385896, -80.412394,,,0,place_CCD,1
+3802,3802,Conestoga College / Pinnacle,,  43.385484, -80.412867,,,0,,1
 3803,3803,Conestoga College Residence,,  43.384395, -80.411236,,,0,,1
+3804,3804,Conestoga College Residence,,  43.384241, -80.410978,,,0,,1
 3805,3805,Blair / Esther,,  43.373864, -80.336239,,,0,,1
 3807,3807,Farmers Market / Walmart,,  43.510661, -80.549376,,,0,,1
 3808,3808,King / Printery,,  43.528045, -80.555335,,,0,,1
@@ -2455,6 +2459,7 @@ place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
 place_KCI,,Kitchener CI,,  43.456108, -80.508732,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KVI,,King/Victoria,,  43.452856, -80.498154,,,1,,
@@ -2462,11 +2467,10 @@ place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PRHS,,Preston High School,,  43.391467, -80.364692,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_STBS,,St. Benedict's High School,,  43.391350, -80.299870,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_WCI,,Waterloo CI,,  43.479921, -80.531700,,,1,,
 place_WSS,,Weber/Sunnyside School,,  43.435722, -80.451453,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
