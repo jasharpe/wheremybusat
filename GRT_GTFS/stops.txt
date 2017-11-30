@@ -1958,27 +1958,37 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3398,3398,Can-Amera / Lingard,,  43.405435, -80.287098,,,0,,1
 3399,3399,Burnett / Can-Amera,,  43.398267, -80.292912,,,0,,1
 3402,3402,Wellington / Spring Valley,,  43.462576, -80.479934,,,0,,1
-3403,3403,809 Wellington,,  43.464289, -80.475119,,,0,,1
+3403,3403,Wellington / Highway 7,,  43.464289, -80.475119,,,0,,1
+3404,3404,Shirley / Riverbend,,  43.467199, -80.466596,,,0,,1
+3405,3405,Shirley / 60S Block,,  43.467904, -80.464030,,,0,,1
+3406,3406,Shirley / 200S Block,,  43.469048, -80.459728,,,0,,1
 3411,3411,Jamieson / Cooper,,  43.420688, -80.289909,,,0,,1
-3420,3420,Bingemans,,  43.471707, -80.449368,,,0,,1
-3421,3421,540 Bingemans Centre,,  43.472941, -80.445770,,,0,,1
+3417,3417,Shirley / 270S Block,,  43.470065, -80.456430,,,0,,1
+3419,3419,Bingemans Centre / 400S Block,,  43.471018, -80.452202,,,0,,1
+3420,3420,Bingemans Entrance,,  43.471707, -80.449368,,,0,,1
+3421,3421,Bingemans Centre / 500S Block,,  43.472941, -80.445770,,,0,,1
 3431,3431,Bingemans Centre / Victoria,,  43.472313, -80.441375,,,0,,1
 3432,3432,Golden Eagle / Northlake,,  43.498382, -80.552448,,,0,,1
 3433,3433,Northlake / Mayview,,  43.499217, -80.554137,,,0,,1
 3438,3438,Wellington / Lancaster,,  43.461075, -80.482861,,,0,,1
 3439,3439,Wellington / Patrick,,  43.462161, -80.480627,,,0,,1
-3440,3440,809 Wellington,,  43.463990, -80.475276,,,0,,1
+3440,3440,Wellington / Highway 7,,  43.463990, -80.475276,,,0,,1
+3441,3441,Shirley / Riverbend,,  43.466985, -80.466516,,,0,,1
+3442,3442,Shirley / 60S Block,,  43.467673, -80.463252,,,0,,1
 3443,3443,Chesapeake / Seawind,,  43.511471, -80.509929,,,0,,1
 3445,3445,Fischer-Hallman / Columbia,,  43.467189, -80.565956,,,0,,1
 3446,3446,Erbsville / Keats Way,,  43.455760, -80.574332,,,0,,1
+3447,3447,Shirley / 200S Block,,  43.468788, -80.459587,,,0,,1
+3449,3449,Shirley / 270S Block,,  43.469850, -80.456589,,,0,,1
 3451,3451,Erbsville / Keats Way,,  43.455883, -80.574134,,,0,,1
 3452,3452,Erbsville / Leighland,,  43.457927, -80.576381,,,0,,1
 3453,3453,Erbsville / Columbia,,  43.462432, -80.581177,,,0,,1
 3454,3454,Erbsville / Columbia Forest,,  43.464898, -80.584195,,,0,,1
 3455,3455,Erbsville / Columbia,,  43.462249, -80.581295,,,0,,1
 3456,3456,Erbsville / Leighland,,  43.458035, -80.576719,,,0,,1
-3458,3458,Bingemans,,  43.471633, -80.448842,,,0,,1
-3459,3459,540 Bingemans Centre,,  43.472830, -80.445471,,,0,,1
+3457,3457,Bingemans Centre / 400S Block,,  43.470785, -80.452520,,,0,,1
+3458,3458,Bingemans Entrance,,  43.471633, -80.448842,,,0,,1
+3459,3459,Bingemans Centre / 500S Block,,  43.472830, -80.445471,,,0,,1
 3460,3460,Shirley / Bingemans Centre,,  43.473909, -80.441890,,,0,,1
 3461,3461,Mcgarry / Forestwood,,  43.421667, -80.522398,,,0,,1
 3463,3463,Keats Way / Sandford Fleming,,  43.455999, -80.561747,,,0,,1
