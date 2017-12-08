@@ -820,7 +820,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1902,1902,King / Union,,  43.458468, -80.515351,,,0,,1
 1903,1903,Victoria / Margaret,,  43.456228, -80.489186,,,0,,1
 1904,1904,King / Allen,,  43.460277, -80.518880,,,0,,1
-1907,1907,King / Erb,,  43.464678, -80.522063,,,0,place_KWW,1
+1907,1907,King / Waterloo Public Square,,  43.464678, -80.522063,,,0,place_KWW,1
 1909,1909,King / Bridgeport,,  43.467892, -80.523002,,,0,,1
 1910,1910,King / Elgin,,  43.470100, -80.523579,,,0,,1
 1911,1911,King / Marshall,,  43.472470, -80.524054,,,0,,1
@@ -863,7 +863,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1954,1954,Bridgeport / Weber,,  43.469833, -80.513653,,,0,,1
 1955,1955,Bridgeport / Devitt,,  43.469165, -80.515241,,,0,,1
 1956,1956,Bridgeport / Peppler,,  43.468114, -80.520256,,,0,,1
-1957,1957,King / Bridgeport,,  43.467795, -80.523227,,,0,,1
+1957,1957,King / Bridgeport,,  43.467332, -80.523081,,,0,,1
 1959,1959,King / William,,  43.461682, -80.521531,,,0,,1
 1960,1960,Caroline / Willis Way,,  43.462148, -80.523192,,,0,,1
 1961,1961,Erb / Father David Bauer,,  43.464131, -80.525999,,,0,place_KWS,1
@@ -1262,7 +1262,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2458,2458,King / Gaukel,,  43.451158, -80.492903,,,0,,1
 2459,2459,Weber / Young,,  43.453281, -80.490450,,,0,,1
 2462,2462,Weber / Wellington,,  43.456966, -80.495042,,,0,,1
-2463,2463,Weber / Wilhelm,,  43.459245, -80.497285,,,0,,1
+2463,2463,Weber / Wilhelm,,  43.458895, -80.496771,,,0,,1
 2464,2464,Weber / Guelph,,  43.461263, -80.499468,,,0,,1
 2465,2465,Weber / Raitar,,  43.462141, -80.500438,,,0,,1
 2466,2466,Weber / Roger,,  43.463991, -80.502971,,,0,,1
@@ -1277,7 +1277,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2494,2494,Weber / Roger,,  43.463892, -80.503151,,,0,,1
 2495,2495,Weber / Raitar,,  43.462540, -80.501090,,,0,,1
 2496,2496,Weber / Guelph,,  43.461463, -80.499912,,,0,,1
-2498,2498,Weber / Wilhelm,,  43.458594, -80.496598,,,0,,1
+2498,2498,Weber / Wilhelm,,  43.459034, -80.497418,,,0,,1
 2499,2499,Weber / Wellington,,  43.457211, -80.495300,,,0,,1
 2500,2500,Weber / Victoria,,  43.454614, -80.493700,,,0,,1
 2501,2501,Weber / Young,,  43.453214, -80.490763,,,0,,1
@@ -1615,7 +1615,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2903,2903,Elmsdale / Chandler,,  43.424036, -80.496675,,,0,,1
 2904,2904,Chandler / Bonfield,,  43.424641, -80.495200,,,0,,1
 2905,2905,G.R.T. Strasburg Garage,,  43.425005, -80.490170,,,0,,1
-2906,2906,Ottawa / Strasburg,,  43.422929, -80.486739,,,0,,1
 2907,2907,Ottawa / Alpine,,  43.425108, -80.483636,,,0,,1
 2908,2908,Ottawa / Imperial,,  43.429289, -80.481336,,,0,,1
 2909,2909,Ottawa / 400 Block,,  43.430421, -80.480701,,,0,,1
@@ -2034,6 +2033,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3520,3520,Dover / Rose,,  43.393221, -80.367600,,,0,,1
 3521,3521,Rose / Westminster,,  43.390785, -80.363477,,,0,place_PRHS,1
 3522,3522,Laurel / North,,  43.400857, -80.354715,,,0,,1
+3524,3524,Fountain / Blair,,  43.385720, -80.390864,,,0,,1
+3525,3525,Fountain / Blair,,  43.385390, -80.391399,,,0,,1
 3526,3526,Westminster / Laurel,,  43.399442, -80.354495,,,0,,1
 3527,3527,Hespeler / Abbotsford,,  43.380185, -80.319393,,,0,,1
 3531,3531,Maple Grove / Saltsman,,  43.421934, -80.383793,,,0,,1
@@ -2114,7 +2115,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3648,3648,Vondrau / Boxwood,,  43.429506, -80.375099,,,0,,1
 3649,3649,Maple Grove / Vondrau,,  43.425363, -80.374364,,,0,,1
 3657,3657,Lancaster / Hwy 85 Ramp,,  43.472096, -80.484234,,,0,,1
-3658,3658,King / Erb,,  43.464469, -80.522298,,,0,place_KWS,1
 3659,3659,Franklin / Can-Amera,,  43.394287, -80.303207,,,0,,1
 3660,3660,Franklin / Can-Amera,,  43.394529, -80.303007,,,0,,1
 3661,3661,Eckert / Dixon,,  43.434380, -80.458817,,,0,,1
@@ -2456,6 +2456,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
 5049,5049,Preston / Halberstadt,,  43.392443, -80.377547,,,0,,1
 5050,5050,Westminster / King,,  43.396047, -80.358266,,,0,,1
+5060,5060,Regina / Young,,  43.468529, -80.521969,,,0,place_KWW,1
 5065,5065,Dundas / Franklin,,  43.355473, -80.289098,,,0,,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
