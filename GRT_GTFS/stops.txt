@@ -150,6 +150,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1161,1161,Hazel / Austin,,  43.481575, -80.533084,,,0,,1
 1162,1162,Waterloo C.I.,,  43.478946, -80.531039,,,0,place_WCI,1
 1163,1163,Hazel / Hickory,,  43.477898, -80.530219,,,0,,1
+1164,1164,Hickory / King,,  43.478033, -80.525668,,,0,,1
 1165,1165,King / University,,  43.476319, -80.525075,,,0,,1
 1166,1166,University / King,,  43.476025, -80.525782,,,0,place_KUN,1
 1167,1167,Laurier,,  43.475513, -80.528259,,,0,,1
@@ -184,7 +185,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1197,1197,Northfield / Northgate,,  43.494353, -80.553554,,,0,,1
 1198,1198,Northfield / Weber,,  43.495643, -80.549710,,,0,,1
 1199,1199,Northfield / Weber,,  43.496232, -80.548259,,,0,,1
-1200,1200,Northfield / Parkside,,  43.496944, -80.546213,,,0,,1
+1200,1200,Northfield / Parkside,,  43.496944, -80.546213,,,0,place_PSN,1
 1201,1201,Northfield / Conestogo,,  43.500188, -80.536994,,,0,,1
 1202,1202,Northfield / King,,  43.501393, -80.533612,,,0,,1
 1203,1203,Ira Needles / Highland,,  43.423491, -80.552556,,,0,,1
@@ -919,6 +920,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2013,2013,Erb / Terrystone,,  43.471671, -80.499173,,,0,,1
 2014,2014,Bridgeport / Leander,,  43.474933, -80.489539,,,0,,1
 2015,2015,Bridgeport / Mackie,,  43.475293, -80.487594,,,0,,1
+2016,2016,Bridgeport / Lancaster,,  43.476202, -80.485448,,,0,,1
 2017,2017,Oldfield / Edenbridge,,  43.449248, -80.428804,,,0,,1
 2018,2018,Zeller / Susan,,  43.452656, -80.420612,,,0,,1
 2019,2019,Zeller / Wild Meadow,,  43.453234, -80.417438,,,0,,1
@@ -1196,7 +1198,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2359,2359,Weber / Scott,,  43.450436, -80.484344,,,0,,1
 2361,2361,Krug / Samuel,,  43.450961, -80.477121,,,0,,1
 2362,2362,Krug / Lydia,,  43.451867, -80.474493,,,0,,1
-2363,2363,Krug / East,,  43.452650, -80.472287,,,0,,1
 2366,2366,Krug / Becker,,  43.454212, -80.467490,,,0,,1
 2369,2369,Krug / Cambridge,,  43.455591, -80.463881,,,0,,1
 2370,2370,Krug / Eton,,  43.456016, -80.462381,,,0,,1
@@ -1214,7 +1215,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2395,2395,Krug / River,,  43.458329, -80.458306,,,0,,1
 2396,2396,Krug / Sherwood,,  43.457495, -80.460934,,,0,,1
 2400,2400,Krug / Becker,,  43.454294, -80.467711,,,0,,1
-2403,2403,Krug / East,,  43.452687, -80.472558,,,0,,1
 2404,2404,Krug / Lydia,,  43.451932, -80.474752,,,0,,1
 2405,2405,Krug / Samuel,,  43.451043, -80.477306,,,0,,1
 2407,2407,Krug / Lancaster,,  43.449816, -80.480777,,,0,,1
@@ -1350,7 +1350,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2571,2571,King / Rockway Centre,,  43.439755, -80.466381,,,0,,1
 2572,2572,King / Rockway Gardens,,  43.437861, -80.461850,,,0,,1
 2573,2573,First / Eckert,,  43.434540, -80.456579,,,0,,1
-2574,2574,Parkside / Northfield,,  43.496572, -80.545800,,,0,,1
+2574,2574,Parkside / Northfield,,  43.496572, -80.545800,,,0,place_PSN,1
 2575,2575,Fourth / Kingsway,,  43.434243, -80.452813,,,0,,1
 2576,2576,Fourth / Connaught,,  43.431361, -80.454606,,,0,,1
 2577,2577,Connaught / Sixth,,  43.430569, -80.452809,,,0,,1
@@ -1397,6 +1397,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2629,2629,Franklin / Bradley,,  43.444658, -80.448344,,,0,,1
 2630,2630,Franklin / Dreger,,  43.446482, -80.449477,,,0,,1
 2631,2631,Franklin / Ottawa,,  43.447855, -80.450379,,,0,,1
+2633,2633,Ottawa / Nottingham,,  43.447688, -80.458723,,,0,,1
 2634,2634,Ottawa / Mckenzie,,  43.444945, -80.465235,,,0,,1
 2635,2635,Ottawa / Weber,,  43.444332, -80.467008,,,0,,1
 2636,2636,Weber / Borden,,  43.445601, -80.470704,,,0,,1
@@ -1569,6 +1570,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2848,2848,Weber / Onward,,  43.445129, -80.469880,,,0,,1
 2849,2849,Ottawa / Mckenzie,,  43.444730, -80.465336,,,0,,1
 2850,2850,Ottawa / Highway 7,,  43.445441, -80.463414,,,0,,1
+2851,2851,Ottawa / Nottingham,,  43.447695, -80.458228,,,0,,1
 2853,2853,Franklin / Ottawa,,  43.448208, -80.450697,,,0,,1
 2854,2854,Franklin / Penrose,,  43.446338, -80.449540,,,0,,1
 2855,2855,Franklin / Bradley,,  43.444587, -80.448481,,,0,,1
@@ -2194,7 +2196,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3772,3772,Columbia / Weber,,  43.483533, -80.522156,,,0,,1
 3773,3773,Columbia / Weber,,  43.482726, -80.523924,,,0,,1
 3774,3774,Weber / Glen Forrest,,  43.494458, -80.548383,,,0,,1
-3777,3777,Parkside / Northfield,,  43.496888, -80.545815,,,0,,1
+3777,3777,Parkside / Northfield,,  43.496888, -80.545815,,,0,place_PSN,1
 3780,3780,Chesapeake / Seawind,,  43.511299, -80.509745,,,0,,1
 3781,3781,Chesapeake / Brigantine,,  43.509143, -80.517284,,,0,,1
 3782,3782,Chesapeake / Sandy Cove,,  43.510043, -80.506439,,,0,,1
@@ -2459,9 +2461,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5020,5020,Duke / Westminster,,  43.396696, -80.357361,,,0,,1
 5025,5025,Gatestone / Baringham,,  43.468241, -80.572008,,,0,,2
 5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
+5045,5045,East / Krug,,  43.452698, -80.472909,,,0,,1
+5046,5046,East / Krug,,  43.452965, -80.472855,,,0,,1
 5049,5049,Preston / Halberstadt,,  43.392443, -80.377547,,,0,,1
 5050,5050,Westminster / King,,  43.396047, -80.358266,,,0,,1
-5060,5060,Regina / Young,,  43.468529, -80.521969,,,0,place_KWW,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6021,6021,Can-Amera Station,,  43.385250, -80.321055,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
@@ -2519,6 +2522,7 @@ place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PRHS,,Preston High School,,  43.391467, -80.364692,,,1,,
+place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
 place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
