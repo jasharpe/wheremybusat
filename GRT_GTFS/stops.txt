@@ -355,6 +355,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1385,1385,Charles / Benton,,  43.448033, -80.487779,,,0,,1
 1386,1386,Charles / Stirling,,  43.443929, -80.478414,,,0,,1
 1387,1387,Charles / Stirling,,  43.443771, -80.478679,,,0,,1
+1388,1388,Charles / Borden,,  43.442372, -80.474700,,,0,place_BOC,1
+1389,1389,Charles / Borden,,  43.442117, -80.474730,,,0,place_BOC,1
 1392,1392,Dunbar / Hespeler,,  43.390424, -80.324106,,,0,,1
 1393,1393,Dunbar / Briarwood,,  43.390007, -80.326691,,,0,,1
 1394,1394,Dunbar / Daleview,,  43.389354, -80.328921,,,0,,1
@@ -1077,6 +1079,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2204,2204,Salisbury / Corwin,,  43.357218, -80.332286,,,0,,1
 2205,2205,Hillcrest / Highland,,  43.356260, -80.333148,,,0,,1
 2206,2206,Hillcrest / Churchill,,  43.353752, -80.332299,,,0,,1
+2207,2207,Churchill / Westgate,,  43.353885, -80.330521,,,0,,1
+2208,2208,Churchill / Laneway 131,,  43.354718, -80.326699,,,0,,1
+2209,2209,Churchill / Barrie,,  43.354710, -80.325341,,,0,,1
 2210,2210,Churchill / Lansdowne,,  43.354710, -80.321939,,,0,,1
 2211,2211,St. Andrews / Grand,,  43.356503, -80.317905,,,0,,1
 2212,2212,Main / Mill,,  43.358817, -80.313276,,,0,,1
@@ -2530,3 +2535,4 @@ place_STBS,,St. Benedict's High School,,  43.391350, -80.299870,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_WCI,,Waterloo CI,,  43.479921, -80.531700,,,1,,
 place_WSS,,Weber/Sunnyside School,,  43.435722, -80.451453,,,1,,
+place_BOC,,Charles/Borden,,  43.441756, -80.472551,,,1,,
