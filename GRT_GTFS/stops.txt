@@ -93,7 +93,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1097,1097,Columbia / Ron Eydt Village,,  43.471570, -80.555391,,,0,,1
 1098,1098,Columbia / Old Post,,  43.470128, -80.559605,,,0,,1
 1099,1099,Columbia / Beechlawn,,  43.469592, -80.561084,,,0,,1
+1100,1100,Columbia / Fischer-Hallman,,  43.466991, -80.568294,,,0,,1
 1101,1101,Ira Needles / Victoria,,  43.429414, -80.553171,,,0,,1
+1102,1102,Columbia / Gatestone,,  43.465334, -80.572942,,,0,,1
+1104,1104,Columbia / Cavendish,,  43.464006, -80.576783,,,0,,1
+1105,1105,Columbia / Erbsville,,  43.462463, -80.580775,,,0,,1
 1106,1106,Erbsville / Willow Wood,,  43.465168, -80.584193,,,0,,1
 1107,1107,Laurelwood / Erbsville,,  43.471456, -80.592470,,,0,,1
 1108,1108,Laurelwood / Birchmount,,  43.472751, -80.589507,,,0,,1
@@ -208,7 +212,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1220,1220,Northland / Frobisher,,  43.505870, -80.535618,,,0,,1
 1221,1221,Wyman / Colby,,  43.504421, -80.538054,,,0,,1
 1226,1226,Colby / Northfield,,  43.500300, -80.537901,,,0,,1
-1227,1227,Kumpf / 570S Block,,  43.499817, -80.541775,,,0,,1
+1227,1227,Kumpf / 570S Block,,  43.499817, -80.541775,,,0,place_KNF,1
 1228,1228,Kumpf / 580S Block,,  43.501261, -80.542704,,,0,,1
 1229,1229,Kumpf / 600S Block,,  43.506749, -80.546077,,,0,,1
 1230,1230,Randall / Conrad,,  43.502064, -80.549799,,,0,,1
@@ -1203,6 +1207,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2359,2359,Weber / Scott,,  43.450436, -80.484344,,,0,,1
 2361,2361,Krug / Samuel,,  43.450961, -80.477121,,,0,,1
 2362,2362,Krug / Lydia,,  43.451867, -80.474493,,,0,,1
+2363,2363,Krug / East,,  43.452650, -80.472287,,,0,,1
 2366,2366,Krug / Becker,,  43.454212, -80.467490,,,0,,1
 2369,2369,Krug / Cambridge,,  43.455591, -80.463881,,,0,,1
 2370,2370,Krug / Eton,,  43.456016, -80.462381,,,0,,1
@@ -1220,6 +1225,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2395,2395,Krug / River,,  43.458329, -80.458306,,,0,,1
 2396,2396,Krug / Sherwood,,  43.457495, -80.460934,,,0,,1
 2400,2400,Krug / Becker,,  43.454294, -80.467711,,,0,,1
+2403,2403,Krug / East,,  43.452687, -80.472558,,,0,,1
 2404,2404,Krug / Lydia,,  43.451932, -80.474752,,,0,,1
 2405,2405,Krug / Samuel,,  43.451043, -80.477306,,,0,,1
 2407,2407,Krug / Lancaster,,  43.449816, -80.480777,,,0,,1
@@ -2379,6 +2385,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4002,4002,The Boardwalk,,  43.435186, -80.560761,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 4003,4003,The Boardwalk,,  43.435439, -80.561018,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 4011,4011,Centennial / Forwell,,  43.471842, -80.433607,,,0,,1
+4012,4012,Columbia / Erbsville,,  43.461946, -80.581186,,,0,,1
+4013,4013,Columbia / Cavendish,,  43.463893, -80.576576,,,0,,1
 4014,4014,Laurelwood / Blue Beech,,  43.470290, -80.594731,,,0,,1
 4015,4015,King / Waterloo Public Square,,  43.463941, -80.522184,,,0,place_KWS,1
 4016,4016,Bridge / Chesapeake,,  43.509082, -80.517909,,,0,,1
@@ -2389,6 +2397,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4021,4021,Columbia / Lucerne,,  43.457183, -80.582652,,,0,,1
 4022,4022,Columbia / Zurich,,  43.457015, -80.582987,,,0,,1
 4023,4023,Columbia / Sundew,,  43.449190, -80.590268,,,0,,1
+4024,4024,Columbia / Bennington,,  43.465022, -80.573290,,,0,,1
+4025,4025,Columbia / Gatestone,,  43.466501, -80.569081,,,0,,1
 4026,4026,Columbia / Fischer-Hallman,,  43.467909, -80.565832,,,0,,1
 4027,4027,Columbia / Fischer-Hallman,,  43.468120, -80.565210,,,0,,1
 4028,4028,Bridge / Path To Brigantine,,  43.508032, -80.516305,,,0,,1
@@ -2463,13 +2473,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
 5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
 5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
-5020,5020,Duke / Westminster,,  43.396696, -80.357361,,,0,,1
-5025,5025,Gatestone / Baringham,,  43.468241, -80.572008,,,0,,2
-5026,5026,Brentcliffe / Gatestone,,  43.466740, -80.573637,,,0,,1
-5045,5045,East / Krug,,  43.452698, -80.472909,,,0,,1
-5046,5046,East / Krug,,  43.452965, -80.472855,,,0,,1
-5049,5049,Preston / Halberstadt,,  43.392443, -80.377547,,,0,,1
-5050,5050,Westminster / King,,  43.396047, -80.358266,,,0,,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6021,6021,Can-Amera Station,,  43.385250, -80.321055,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
@@ -2519,7 +2522,6 @@ place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
 place_KCI,,Kitchener CI,,  43.456108, -80.508732,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KVI,,King/Victoria,,  43.452856, -80.498154,,,1,,
@@ -2528,11 +2530,13 @@ place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PRHS,,Preston High School,,  43.391467, -80.364692,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_STBS,,St. Benedict's High School,,  43.391350, -80.299870,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_WCI,,Waterloo CI,,  43.479921, -80.531700,,,1,,
 place_WSS,,Weber/Sunnyside School,,  43.435722, -80.451453,,,1,,
+place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_BOC,,Charles/Borden,,  43.441756, -80.472551,,,1,,
