@@ -966,8 +966,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2074,2074,Conservation / Westmount,,  43.494306, -80.569658,,,0,,1
 2075,2075,Conservation / Coldstream,,  43.492774, -80.573985,,,0,,1
 2076,2076,Activa / Grey Fox,,  43.413217, -80.508928,,,0,,1
-2077,2077,Lake Louise / Glacier,,  43.494614, -80.577225,,,0,,1
-2078,2078,Lake Louise / Osprey,,  43.496630, -80.572078,,,0,,1
+2077,2077,Lake Louise / Rock Point,,  43.494614, -80.577225,,,0,,1
+2078,2078,Lake Louise / Westmount,,  43.496630, -80.572078,,,0,,1
 2079,2079,Conservation / Westmount,,  43.494590, -80.568431,,,0,,1
 2080,2080,Northlake / Conservation,,  43.495905, -80.566097,,,0,,1
 2081,2081,Northlake / Twinflower,,  43.498628, -80.564643,,,0,,1
@@ -977,7 +977,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2088,2088,Northfield / Wissler,,  43.505109, -80.525876,,,0,,1
 2089,2089,King / Northfield,,  43.502142, -80.533604,,,0,,1
 2090,2090,King / Northland,,  43.504821, -80.536777,,,0,,1
-2091,2091,Farmers Market/ Benjamin,,  43.510056, -80.555888,,,0,,1
+2091,2091,Farmers Market / Benjamin,,  43.510056, -80.555888,,,0,,1
 2092,2092,King / Henry,,  43.532985, -80.554569,,,0,,1
 2093,2093,King / Cedar,,  43.537853, -80.553778,,,0,,1
 2094,2094,King / Front,,  43.540823, -80.553219,,,0,,1
@@ -2168,7 +2168,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3693,3693,Keats Way /  Beechwood,,  43.456485, -80.571150,,,0,,1
 3694,3694,Keats Way / Leighland,,  43.457464, -80.568251,,,0,,1
 3695,3695,Keats Way / Brynhurst,,  43.456713, -80.564869,,,0,,1
-3697,3697,Lake Louise / Kelso,,  43.490676, -80.581309,,,0,,1
+3697,3697,Lake Louise / Killbear,,  43.490676, -80.581309,,,0,,1
 3698,3698,Lake Louise / Pinery,,  43.492559, -80.581605,,,0,,1
 3715,3715,Eastwood C.I.,,  43.439272, -80.461306,,,0,place_ECI,1
 3720,3720,Grand River Hospital - Mount Hope Street,,  43.456159, -80.514492,,,0,place_GRH,1
@@ -2235,7 +2235,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3804,3804,Conestoga College Residence,,  43.384241, -80.410978,,,0,,1
 3805,3805,Blair / Esther,,  43.373864, -80.336239,,,0,,1
 3806,3806,Bishop / Hespeler,,  43.394855, -80.325785,,,0,,1
-3807,3807,Farmers Market / Walmart,,  43.510661, -80.549376,,,0,,1
+3807,3807,Farmers Market / Smartcentres,,  43.510661, -80.549376,,,0,,1
 3808,3808,King / Printery,,  43.528045, -80.555335,,,0,,1
 3809,3809,Sawmill / Parkside,,  43.544793, -80.550855,,,0,,1
 3810,3810,Arthur / Union,,  43.576841, -80.563039,,,0,,1
@@ -2262,7 +2262,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3831,3831,King / Henry,,  43.531879, -80.554874,,,0,,1
 3832,3832,King / Printery,,  43.527865, -80.555565,,,0,,1
 3833,3833,Farmers Market / Benjamin,,  43.509876, -80.555803,,,0,,1
-3834,3834,Farmers Market / Walmart,,  43.510247, -80.549490,,,0,,1
+3834,3834,Farmers Market / Smartcentres,,  43.510247, -80.549490,,,0,,1
 3835,3835,Bishop / Pineview,,  43.391549, -80.344096,,,0,,1
 3836,3836,King / Lobsinger,,  43.515878, -80.557268,,,0,,1
 3837,3837,Arthur / Gerrat,,  43.554796, -80.555361,,,0,,1
