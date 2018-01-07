@@ -542,7 +542,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1581,1581,Preston / Fountain,,  43.390832, -80.375317,,,0,,1
 1582,1582,Fountain / Bauman,,  43.395369, -80.373456,,,0,,1
 1583,1583,Fountain / Shantz Hill,,  43.397707, -80.371209,,,0,,1
-1584,1584,King / Fountain,,  43.399817, -80.368446,,,0,,1
 1585,1585,King / Chopin,,  43.399029, -80.364453,,,0,,1
 1586,1586,King / Waterloo,,  43.397255, -80.361199,,,0,,1
 1587,1587,King / Westminster,,  43.395617, -80.358067,,,0,,1
@@ -2528,9 +2527,7 @@ place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
 place_KCI,,Kitchener CI,,  43.456108, -80.508732,,,1,,
-place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KVI,,King/Victoria,,  43.452856, -80.498154,,,1,,
 place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
@@ -2538,12 +2535,14 @@ place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PRHS,,Preston High School,,  43.391467, -80.364692,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_STBS,,St. Benedict's High School,,  43.391350, -80.299870,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_WCI,,Waterloo CI,,  43.479921, -80.531700,,,1,,
 place_WSS,,Weber/Sunnyside School,,  43.435722, -80.451453,,,1,,
+place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_BOC,,Charles/Borden,,  43.441756, -80.472551,,,1,,
 place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
