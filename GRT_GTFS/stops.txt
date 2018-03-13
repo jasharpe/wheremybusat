@@ -898,7 +898,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1979,1979,Erbsville / Path To Lausanne,,  43.453269, -80.572059,,,0,,1
 1980,1980,Erbsville / Brandenburg,,  43.451329, -80.572188,,,0,,1
 1981,1981,Erbsville / Chablis,,  43.450035, -80.572765,,,0,,1
-1982,1982,Queen / Woodside Park,,  43.441701, -80.497316,,,0,,1
+1982,1982,Queen / Woodside,,  43.441701, -80.497316,,,0,,1
 1983,1983,Erb / Erbsville Crt,,  43.448019, -80.566044,,,0,,1
 1984,1984,Erb / Gateview,,  43.450834, -80.557832,,,0,,1
 1985,1985,Gateview / Westvale,,  43.450049, -80.557613,,,0,,1
@@ -977,7 +977,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2092,2092,King / Henry,,  43.532985, -80.554569,,,0,,1
 2093,2093,King / Cedar,,  43.537853, -80.553778,,,0,,1
 2094,2094,King / Front,,  43.540823, -80.553219,,,0,,1
-2095,2095,King / Northland,,  43.505030, -80.537344,,,0,,1
+2095,2095,King / Wyman,,  43.505030, -80.537344,,,0,,1
 2097,2097,Beverly / Dundas,,  43.366432, -80.305464,,,0,,1
 2098,2098,Beverly / 200S Block,,  43.368594, -80.304027,,,0,,1
 2099,2099,Samuelson / Kimberley,,  43.370491, -80.303517,,,0,,1
@@ -1198,7 +1198,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2333,2333,Victoria / Frederick,,  43.466240, -80.457432,,,0,,1
 2335,2335,Victoria / Forfar,,  43.467375, -80.453824,,,0,,1
 2336,2336,Victoria / Natchez,,  43.468414, -80.450675,,,0,,1
-2337,2337,1373 Victoria St,,  43.469532, -80.447389,,,0,,1
+2337,2337,Victoria / Path To Rothsay,,  43.469532, -80.447389,,,0,,1
 2339,2339,Lackner / Victoria,,  43.470941, -80.440885,,,0,,1
 2344,2344,Natchez / Halifax,,  43.464507, -80.445308,,,0,,1
 2345,2345,Natchez / Matthew,,  43.465728, -80.446372,,,0,,1
@@ -1977,7 +1977,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3378,3378,Westheights / Blackwell,,  43.422379, -80.541754,,,0,,1
 3383,3383,Queens / Elm Ridge,,  43.426720, -80.528675,,,0,,1
 3384,3384,Highview / Sugar Maple,,  43.415685, -80.547499,,,0,,1
-3389,3389,Highland / Westmount,,  43.436290, -80.513242,,,0,,1
+3389,3389,Highland / Westmount,,  43.435665, -80.514512,,,0,,1
 3390,3390,Highland / Lawrence,,  43.437944, -80.510436,,,0,,1
 3391,3391,Highland / Belmont,,  43.439508, -80.507767,,,0,,1
 3392,3392,Erbsville / White Elm,,  43.466688, -80.586086,,,0,,1
@@ -2269,8 +2269,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3843,3843,Huron / Templewood,,  43.394100, -80.464602,,,0,,1
 3844,3844,Huron / Templewood,,  43.394542, -80.464012,,,0,,1
 3845,3845,Conestoga Transit Garage,,  43.394522, -80.316689,,,0,,1
-3847,3847,King / Northland,,  43.503583, -80.535698,,,0,,1
-3848,3848,King / Northland,,  43.503826, -80.535622,,,0,,1
+3847,3847,King / 600S Block,,  43.503583, -80.535698,,,0,,1
+3848,3848,King / 600S Block,,  43.503430, -80.535123,,,0,,1
 3849,3849,Maple Grove / Vondrau,,  43.425378, -80.372998,,,0,,1
 3850,3850,Bishop / Industrial,,  43.394301, -80.329607,,,0,,1
 3851,3851,Bishop / Industrial,,  43.394332, -80.328681,,,0,,1
@@ -2462,7 +2462,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4085,4085,Erbsville / Path To Wild Ginger,,  43.469153, -80.590861,,,0,,1
 4086,4086,Erbsville / White Elm,,  43.466457, -80.586099,,,0,,1
 4087,4087,Erbsville / Brandenburg,,  43.459613, -80.578425,,,0,,1
-4088,4088,Erbsville / Cornridge,,  43.459774, -80.578281,,,0,,1
+4088,4088,Erbsville / Cornridge,,  43.460339, -80.578861,,,0,,1
 4089,4089,King / High Crest,,  43.535182, -80.554343,,,0,,1
 4090,4090,King / High Crest,,  43.535225, -80.554207,,,0,,1
 4094,4094,Ottawa / Westmount,,  43.420389, -80.501241,,,0,,1
