@@ -624,6 +624,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1667,1667,Stanley Park Mall,,  43.448905, -80.444079,,,0,place_SPM,1
 1668,1668,Stanley Park Mall,,  43.448931, -80.443844,,,0,place_SPM,1
 1671,1671,Ottawa / Mcgee,,  43.453799, -80.435311,,,0,,1
+1676,1676,Sunrise Centre,,  43.413517, -80.517444,,,0,place_SRC,1
 1678,1678,Lackner / Victoria,,  43.470895, -80.440663,,,0,,1
 1680,1680,Natchez / Rothsay,,  43.468143, -80.448749,,,0,,1
 1681,1681,Natchez / Matthew,,  43.465638, -80.446472,,,0,,1
@@ -665,7 +666,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1725,1725,Pinnacle / Doon Valley,,  43.389864, -80.415381,,,0,,1
 1726,1726,Doon Valley / Pinnacle,,  43.390010, -80.413746,,,0,,1
 1727,1727,Doon Valley / Conestoga,,  43.390810, -80.410186,,,0,,1
-1728,1728,Conestoga College Entrance,,  43.388366, -80.411447,,,0,place_CCD,1
+1728,1728,Conestoga College Entrance,,  43.388366, -80.411447,,,0,,1
 1729,1729,Conestoga College Residence,,  43.385228, -80.412067,,,0,,1
 1731,1731,Conestoga College Rec Centre,,  43.389629, -80.408074,,,0,,1
 1732,1732,Conestoga College Door 3,,  43.390289, -80.403511,,,0,place_CCD,1
@@ -2130,7 +2131,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3630,3630,R & T Park,,  43.478965, -80.549031,,,0,,1
 3631,3631,University / Westmount,,  43.464122, -80.541390,,,0,,1
 3637,3637,Elm Ridge / Queens,,  43.426977, -80.527685,,,0,,1
-3641,3641,Conestoga College Entrance,,  43.387933, -80.411325,,,0,place_CCD,1
+3641,3641,Conestoga College Entrance,,  43.387933, -80.411325,,,0,,1
 3642,3642,Weber / Broadview,,  43.435021, -80.449729,,,0,,1
 3646,3646,Boxwood / Maple Grove,,  43.428126, -80.365001,,,0,,1
 3647,3647,Boxwood / Vondrau,,  43.430673, -80.370302,,,0,,1
@@ -2535,3 +2536,4 @@ place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
+place_SRC,,Sunrise Centre,,  43.414939, -80.518600,,,1,,
