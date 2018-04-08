@@ -1056,7 +1056,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2173,2173,Hilltop / Franklin,,  43.364343, -80.292270,,,0,,1
 2174,2174,Franklin / Green Gate,,  43.356877, -80.286260,,,0,,1
 2175,2175,Franklin / Dundas,,  43.354885, -80.287357,,,0,,1
-2176,2176,Dundas / South Cambridge Centre,,  43.355752, -80.289124,,,0,,1
 2177,2177,Elgin / Elliott,,  43.354938, -80.295908,,,0,,1
 2178,2178,Elgin / South,,  43.353702, -80.295404,,,0,,1
 2179,2179,Elgin / Woolley,,  43.350661, -80.294201,,,0,,1
@@ -2520,20 +2519,20 @@ place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CML,,Conestoga Mall,,  43.498065, -80.528707,,,1,,
 place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
-place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
-place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
+place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
+place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SRC,,Sunrise Centre,,  43.414939, -80.518600,,,1,,
