@@ -655,7 +655,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1714,1714,Pioneer / Doon Village,,  43.395271, -80.445162,,,0,,1
 1715,1715,Pioneer / Upper Canada,,  43.393930, -80.441630,,,0,,1
 1716,1716,Highland / Fischer-Hallman,,  43.431622, -80.526104,,,0,,1
-1717,1717,Pioneer / Old Carriage,,  43.394259, -80.433367,,,0,place_PPZ,1
+1717,1717,Pioneer / Old Carriage,,  43.394259, -80.433367,,,0,,1
 1718,1718,Pioneer / Homer Watson,,  43.395601, -80.431514,,,0,,1
 1719,1719,Green Valley / Pioneer,,  43.396097, -80.429917,,,0,,1
 1720,1720,Green Valley / Arrowhead,,  43.395146, -80.426999,,,0,,1
@@ -2136,7 +2136,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3647,3647,Boxwood / Vondrau,,  43.430673, -80.370302,,,0,,1
 3648,3648,Vondrau / Boxwood,,  43.429506, -80.375099,,,0,,1
 3649,3649,Maple Grove / Vondrau,,  43.425363, -80.374364,,,0,,1
-3657,3657,Lancaster / Hwy 85 Ramp,,  43.472096, -80.484234,,,0,,1
 3659,3659,Franklin / Can-Amera,,  43.394287, -80.303207,,,0,,1
 3660,3660,Franklin / Can-Amera,,  43.394529, -80.303007,,,0,,1
 3661,3661,Eckert / Dixon,,  43.434380, -80.458817,,,0,,1
@@ -2519,20 +2518,20 @@ place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CML,,Conestoga Mall,,  43.498065, -80.528707,,,1,,
 place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
+place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
-place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
-place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SRC,,Sunrise Centre,,  43.414939, -80.518600,,,1,,
