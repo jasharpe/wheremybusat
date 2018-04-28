@@ -250,6 +250,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1267,1267,Winston / Karl,,  43.421761, -80.301929,,,0,,1
 1268,1268,Winston / Gunn,,  43.421371, -80.304453,,,0,,1
 1269,1269,Winston / Westbury,,  43.421738, -80.307093,,,0,,1
+1270,1270,Caroline / Willis Way,,  43.462101, -80.523304,,,0,,1
 1274,1274,Queen / Rooshill,,  43.424285, -80.323334,,,0,,1
 1275,1275,Bishop / Collier-Macmillan,,  43.395862, -80.320330,,,0,,1
 1276,1276,Groh / Holiday Inn,,  43.419159, -80.325985,,,0,,1
@@ -361,6 +362,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1387,1387,Charles / Stirling,,  43.443771, -80.478679,,,0,,1
 1388,1388,Charles / Borden,,  43.442372, -80.474700,,,0,,1
 1389,1389,Charles / Borden,,  43.442117, -80.474730,,,0,,1
+1390,1390,Borden / Borden Station,,  43.442344, -80.474310,,,0,,1
+1391,1391,Borden / Borden Station,,  43.442298, -80.474109,,,0,,1
 1392,1392,Dunbar / Hespeler,,  43.390424, -80.324106,,,0,,1
 1393,1393,Dunbar / Briarwood,,  43.390007, -80.326691,,,0,,1
 1394,1394,Dunbar / Daleview,,  43.389354, -80.328921,,,0,,1
@@ -403,11 +406,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1431,1431,Langs / Walter,,  43.398847, -80.340263,,,0,,1
 1432,1432,Langs / Fairview Mennonite,,  43.398429, -80.342639,,,0,,1
 1433,1433,Concession / Winterhalt,,  43.398697, -80.345464,,,0,,1
+1434,1434,Ottawa / Mill Station,,  43.434554, -80.478754,,,0,,1
 1435,1435,336 Eagle,,  43.401250, -80.360651,,,0,,1
 1436,1436,Eagle / William,,  43.400069, -80.362034,,,0,,1
 1437,1437,Eagle / King,,  43.398296, -80.363707,,,0,,1
 1438,1438,Eagle / Hamilton,,  43.396433, -80.365492,,,0,,1
 1439,1439,Eagle / Sherring,,  43.394499, -80.367488,,,0,,1
+1440,1440,Ottawa / Mill Station,,  43.433962, -80.478631,,,0,,1
 1441,1441,Lowther / Vine,,  43.390940, -80.359030,,,0,,1
 1442,1442,Lowther / Hamilton,,  43.392534, -80.357519,,,0,,1
 1443,1443,King / Montrose,,  43.391074, -80.349238,,,0,,1
@@ -445,6 +450,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1478,1478,499 Hespeler,,  43.398568, -80.324806,,,0,,1
 1479,1479,Hespeler / Sheldon,,  43.401271, -80.325702,,,0,,1
 1480,1480,Hespeler / 500S Block,,  43.402901, -80.326228,,,0,,1
+1481,1481,Ottawa / Courtland,,  43.437341, -80.476672,,,0,,1
 1482,1482,Smartcentres Cambridge - South,,  43.410379, -80.322748,,,0,,1
 1483,1483,Smartcentres Cambridge - North,,  43.411678, -80.324672,,,0,,1
 1484,1484,Franklin / Holiday Inn,,  43.418386, -80.310761,,,0,,1
@@ -826,6 +832,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1890,1890,King / Ontario,,  43.450437, -80.490610,,,0,,1
 1891,1891,King / College,,  43.451504, -80.493728,,,0,,1
 1892,1892,King / Francis,,  43.452289, -80.496119,,,0,,1
+1893,1893,King / Victoria,,  43.452855, -80.497931,,,0,,1
 1896,1896,King / Wellington,,  43.454544, -80.503257,,,0,,1
 1897,1897,King / Agnes,,  43.455072, -80.504801,,,0,,1
 1898,1898,King / Central Fresh Market,,  43.455989, -80.507723,,,0,,1
@@ -861,6 +868,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1933,1933,Lackner / Keewatin,,  43.464871, -80.436652,,,0,,1
 1935,1935,Victoria / Frederick,,  43.466295, -80.457952,,,0,,1
 1936,1936,Victoria / River,,  43.464277, -80.464003,,,0,,1
+1939,1939,Ottawa / Weber,,  43.444239, -80.466672,,,0,,1
+1940,1940,Ottawa / Franklin,,  43.448606, -80.451334,,,0,,1
 1941,1941,Bridge / Bridle,,  43.485339, -80.488595,,,0,,1
 1942,1942,Bridge / Woolwich,,  43.482763, -80.484761,,,0,,1
 1943,1943,Lancaster / Jones,,  43.481594, -80.483139,,,0,,1
@@ -873,6 +882,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1950,1950,Bridgeport / Bluevale,,  43.472508, -80.501156,,,0,,1
 1951,1951,Bridgeport / Margaret,,  43.472352, -80.504595,,,0,,1
 1952,1952,Bridgeport / Ellis,,  43.471637, -80.508025,,,0,,1
+1953,1953,Ottawa / Franklin,,  43.448716, -80.450302,,,0,,1
 1954,1954,Bridgeport / Weber,,  43.469833, -80.513653,,,0,,1
 1955,1955,Bridgeport / Devitt,,  43.469165, -80.515241,,,0,,1
 1956,1956,Bridgeport / Peppler,,  43.468114, -80.520256,,,0,,1
@@ -1475,6 +1485,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
 2719,2719,Courtland / Kent,,  43.438748, -80.480285,,,0,,1
+2720,2720,Courtland / Borden,,  43.438058, -80.479037,,,0,,1
 2721,2721,Courtland / Grenville,,  43.437439, -80.478095,,,0,,1
 2722,2722,Courtland / Sydney,,  43.435822, -80.475275,,,0,,1
 2724,2724,Courtland / Carwood,,  43.433075, -80.472407,,,0,,1
@@ -1500,6 +1511,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2744,2744,Walton / Kipling,,  43.427822, -80.466004,,,0,,1
 2745,2745,Courtland / Carwood,,  43.432856, -80.471754,,,0,,1
 2746,2746,Courtland / Sydney,,  43.435761, -80.475040,,,0,,1
+2747,2747,Courtland / Ottawa,,  43.437213, -80.477363,,,0,,1
 2748,2748,Courtland / Borden,,  43.437870, -80.478493,,,0,,1
 2749,2749,Courtland / Palmer,,  43.440011, -80.482145,,,0,,1
 2750,2750,Courtland / Stirling,,  43.441396, -80.484519,,,0,,1
@@ -2464,7 +2476,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4088,4088,Erbsville / Cornridge,,  43.460339, -80.578861,,,0,,1
 4089,4089,King / High Crest,,  43.535182, -80.554343,,,0,,1
 4090,4090,King / High Crest,,  43.535225, -80.554207,,,0,,1
+4091,4091,Ottawa / Elmsdale,,  43.421836, -80.493895,,,0,,1
+4092,4092,Ottawa / Elmsdale,,  43.421665, -80.493616,,,0,,1
 4094,4094,Ottawa / Westmount,,  43.420389, -80.501241,,,0,,1
+4095,4095,Ottawa / Fischer-Hallman,,  43.417604, -80.510393,,,0,,1
+4096,4096,Ottawa / Fischer-Hallman,,  43.416364, -80.511539,,,0,,1
+4097,4097,Ottawa / River,,  43.451064, -80.444139,,,0,,1
+4098,4098,Ottawa / River,,  43.450940, -80.443771,,,0,,1
 4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1
 4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1
 5000,5000,Water / Joseph,,  43.449856, -80.495662,,,0,,1
