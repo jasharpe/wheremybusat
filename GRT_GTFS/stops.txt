@@ -1151,6 +1151,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2287,2287,Myers / Lorraine,,  43.341497, -80.297704,,,0,,1
 2288,2288,Myers / Greenbrier,,  43.342227, -80.293501,,,0,,1
 2289,2289,Myers / Cheese Factory,,  43.342742, -80.290356,,,0,,1
+2290,2290,Cedar / Southgate,,  43.350826, -80.333650,,,0,,1
 2291,2291,Franklin / Myers,,  43.343772, -80.287093,,,0,,1
 2292,2292,Franklin / Copperfield,,  43.346715, -80.288243,,,0,,1
 2293,2293,Champlain / Bakersfield,,  43.348496, -80.289431,,,0,,1
@@ -2200,6 +2201,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3794,3794,Princess / Westcliff,,  43.370400, -80.344558,,,0,,1
 3795,3795,Bismark / Blossomfield,,  43.369261, -80.340683,,,0,,1
 3796,3796,Bismark / Devils Creek,,  43.370565, -80.337225,,,0,,1
+3798,3798,Conestoga Mall,,  43.498181, -80.529283,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3799,3799,Conestoga Mall,,  43.498071, -80.528653,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3800,3800,Conestoga Mall,,  43.498415, -80.529132,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3801,3801,Conestoga College / Pinnacle,,  43.385896, -80.412394,,,0,place_CCD,1
@@ -2364,6 +2366,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4001,4001,The Boardwalk,,  43.435392, -80.560344,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 4002,4002,The Boardwalk,,  43.435186, -80.560761,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 4003,4003,The Boardwalk,,  43.435439, -80.561018,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
+4005,4005,Conestoga Mall,,  43.498398, -80.529367,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 4011,4011,Centennial / Forwell,,  43.471842, -80.433607,,,0,,1
 4012,4012,Columbia / Erbsville,,  43.461946, -80.581186,,,0,,1
 4013,4013,Columbia / Cavendish,,  43.463893, -80.576576,,,0,,1
@@ -2449,6 +2452,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4096,4096,Ottawa / Fischer-Hallman,,  43.416364, -80.511539,,,0,,1
 4097,4097,Ottawa / River,,  43.451064, -80.444139,,,0,,1
 4098,4098,Ottawa / River,,  43.450940, -80.443771,,,0,,1
+4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1
+4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1
 5000,5000,Water / Joseph,,  43.449856, -80.495662,,,0,,1
 5005,5005,Water / King,,  43.451514, -80.494579,,,0,,1
 5006,5006,Water / King,,  43.451504, -80.494734,,,0,,1
@@ -2516,5 +2521,5 @@ place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
 place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
-place_SRC,,Sunrise Centre,,  43.414939, -80.518600,,,1,,
+place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
