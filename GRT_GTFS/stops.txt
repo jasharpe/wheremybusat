@@ -410,7 +410,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1439,1439,Eagle / Sherring,,  43.394499, -80.367488,,,0,,1
 1440,1440,Ottawa / Mill Station,,  43.433962, -80.478631,,,0,,1
 1441,1441,Lowther / Vine,,  43.390940, -80.359030,,,0,,1
-1442,1442,Lowther / Hamilton,,  43.392534, -80.357519,,,0,,1
 1443,1443,King / Montrose,,  43.391074, -80.349238,,,0,,1
 1444,1444,Bishop / Duke,,  43.390526, -80.346379,,,0,,1
 1445,1445,Bishop / Pineview,,  43.391622, -80.344256,,,0,,1
@@ -669,7 +668,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1741,1741,Green Valley / Arrowhead,,  43.395539, -80.428304,,,0,,1
 1742,1742,Green Valley / Pioneer,,  43.396105, -80.429756,,,0,,1
 1743,1743,Pioneer / Homer Watson,,  43.395646, -80.431637,,,0,,1
-1744,1744,Pioneer / Old Carriage,,  43.394279, -80.433663,,,0,place_PPZ,1
+1744,1744,Pioneer / Old Carriage,,  43.394279, -80.433663,,,0,,1
 1745,1745,Pioneer / Bechtel,,  43.393529, -80.436893,,,0,,1
 1746,1746,Pioneer / Bechtel,,  43.393656, -80.436990,,,0,,1
 1747,1747,Pioneer / Upper Canada,,  43.394120, -80.441715,,,0,,1
@@ -2516,7 +2515,6 @@ place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
-place_PPZ,,Pioneer Plaza,,  43.394094, -80.433532,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
 place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
