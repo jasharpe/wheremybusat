@@ -393,7 +393,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1420,1420,Langs / Concession,,  43.398140, -80.344025,,,0,,1
 1421,1421,Langs / Walter,,  43.398627, -80.341093,,,0,,1
 1422,1422,Langs / Valentine,,  43.399106, -80.338223,,,0,,1
-1423,1423,Langs / Langs Cr.,,  43.399619, -80.335204,,,0,,1
+1423,1423,Langs / Langs Cir.,,  43.399619, -80.335204,,,0,,1
 1424,1424,Langs / Industrial,,  43.400308, -80.331319,,,0,,1
 1425,1425,Langs / Hespeler,,  43.401151, -80.327605,,,0,,1
 1426,1426,Hespeler / Langs,,  43.401042, -80.326027,,,0,,1
@@ -1062,6 +1062,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2193,2193,Sunset / Blair Road P.S.,,  43.372579, -80.327563,,,0,,1
 2194,2194,Sunset / Clearview,,  43.373749, -80.330525,,,0,,1
 2195,2195,Clearview / Blair,,  43.372435, -80.333625,,,0,,1
+2196,2196,Bismark / Blair,,  43.370987, -80.332394,,,0,,1
 2197,2197,Blair / Kenmore,,  43.369499, -80.330411,,,0,,1
 2198,2198,Blair / Sherwood,,  43.367757, -80.328282,,,0,,1
 2199,2199,Blair / Grant,,  43.366723, -80.327047,,,0,,1
@@ -2467,6 +2468,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
 5012,5012,Weber / Jackson,,  43.440219, -80.463156,,,0,,1
 5013,5013,Sunrise Centre,,  43.414641, -80.517152,,,0,place_SRC,1
+5014,5014,Bridgeport / King,,  43.467745, -80.522769,,,0,,1
 5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
 5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
 5017,5017,Wellington / Weber,,  43.457131, -80.494610,,,0,,1
@@ -2489,7 +2491,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5065,5065,Dundas / Franklin,,  43.355473, -80.289098,,,0,,1
 5066,5066,Victoria / Indiana,,  43.460316, -80.476691,,,0,,1
 5067,5067,River / Victoria,,  43.463799, -80.464290,,,0,,1
-5068,5068,Bridgeport / King,,  43.467639, -80.523938,,,0,place_KWS,1
 5069,5069,Jamieson / Townline,,  43.424845, -80.285186,,,0,,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
@@ -2535,20 +2536,20 @@ place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CML,,Conestoga Mall,,  43.498065, -80.528707,,,1,,
 place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
-place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
-place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_MILL,,Mill Station,,  43.434799, -80.479477,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
+place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
+place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
