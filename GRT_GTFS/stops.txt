@@ -348,6 +348,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1372,1372,Saginaw / Fairgreen,,  43.389892, -80.288305,,,0,,1
 1373,1373,Saginaw / Stonecairn,,  43.390437, -80.292016,,,0,,1
 1374,1374,Saginaw / Cowan,,  43.389725, -80.296321,,,0,,1
+1375,1375,Frederick / Duke,,  43.450472, -80.486959,,,0,,1
 1376,1376,Charles / Benton,,  43.448610, -80.488850,,,0,,1
 1378,1378,Elgin / Franklin,,  43.391386, -80.302957,,,0,,1
 1379,1379,Elgin / Bushnell,,  43.391115, -80.308615,,,0,,1
@@ -380,6 +381,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1406,1406,Highland / Westheights,,  43.429384, -80.531695,,,0,,1
 1407,1407,Homuth / Frederick,,  43.388475, -80.357735,,,0,,1
 1408,1408,Rose / Lowther,,  43.389300, -80.360381,,,0,,1
+1409,1409,Hespeler / 600S Block,,  43.404536, -80.326726,,,0,,1
 1410,1410,Rose / Argyle,,  43.391403, -80.364471,,,0,,1
 1411,1411,Argyle / Vine,,  43.393052, -80.363107,,,0,,1
 1412,1412,Argyle / Hamilton,,  43.394628, -80.361572,,,0,,1
@@ -453,6 +455,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1483,1483,Smartcentres Cambridge - North,,  43.411678, -80.324672,,,0,,1
 1484,1484,Franklin / Holiday Inn,,  43.418386, -80.310761,,,0,,1
 1485,1485,Franklin / Pinebush,,  43.411113, -80.308486,,,0,,1
+1486,1486,Hespeler / 500S Block,,  43.403211, -80.326735,,,0,,1
 1487,1487,Franklin / Sheldon,,  43.405859, -80.306988,,,0,,1
 1488,1488,Franklin / Turnbull,,  43.403472, -80.306103,,,0,,1
 1490,1490,Franklin / Bishop,,  43.399158, -80.304770,,,0,,1
@@ -819,6 +822,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1902,1902,King / Union,,  43.458468, -80.515351,,,0,,1
 1903,1903,Victoria / Margaret,,  43.456228, -80.489186,,,0,,1
 1904,1904,King / Allen,,  43.460277, -80.518880,,,0,,1
+1905,1905,King / William,,  43.461681, -80.521271,,,0,,1
 1907,1907,King / Waterloo Public Square,,  43.464678, -80.522063,,,0,place_KWW,1
 1909,1909,King / Bridgeport,,  43.467892, -80.523002,,,0,,1
 1910,1910,King / Elgin,,  43.470100, -80.523579,,,0,,1
@@ -910,7 +914,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2003,2003,Erb / Euclid,,  43.463193, -80.527786,,,0,,1
 2004,2004,Erb / Father David Bauer,,  43.463913, -80.526100,,,0,,1
 2006,2006,Erb / Hughes,,  43.465198, -80.521812,,,0,,1
-2007,2007,Erb / Willow,,  43.465728, -80.518124,,,0,place_KWW,1
+2007,2007,Erb / Willow,,  43.465728, -80.518124,,,0,,1
 2008,2008,Old Zeller / Fairway,,  43.448364, -80.404791,,,0,,1
 2009,2009,Erb / Devitt,,  43.467336, -80.514027,,,0,,1
 2010,2010,Erb / Weber,,  43.468649, -80.510436,,,0,,1
@@ -2466,7 +2470,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5006,5006,Water / King,,  43.451504, -80.494734,,,0,,1
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
 5013,5013,Sunrise Centre,,  43.414641, -80.517152,,,0,place_SRC,1
-5014,5014,Bridgeport / King,,  43.467745, -80.522769,,,0,,1
 5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
 5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
 5024,5024,Jamieson / Franklin,,  43.418171, -80.309915,,,0,,1
