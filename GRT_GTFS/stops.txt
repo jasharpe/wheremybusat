@@ -2501,6 +2501,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7038,7038,Snyders / 500 Block,,  43.407226, -80.646279,,,0,,1
 7039,7039,Snyders / 500 Block,,  43.407136, -80.645915,,,0,,1
 7040,7040,Highland / Trussler,,  43.420881, -80.559194,,,0,,1
+94000,94000,Strasburg Road Test Route,,  43.425358, -80.490288,,,0,,2
+94001,94001,Gate 5 Test Route,,  43.425843, -80.492645,,,0,,2
+94002,94002,Door 8 Test Route,,  43.423655, -80.491892,,,0,,2
+94003,94003,Gate 2 Test Route,,  43.424448, -80.489610,,,0,,2
+94004,94004,Gate 6 Test Route,,  43.424920, -80.493662,,,0,,2
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
 place_BORD,,Borden Station,,  43.442267, -80.474793,,,1,,
 place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,

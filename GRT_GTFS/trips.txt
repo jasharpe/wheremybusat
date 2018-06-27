@@ -6298,37 +6298,37 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 7,7-Weekday-2-18SUM-1111100,1649146,Charles Terminal,1,238645,70036,1,1
 7,7-Weekday-2-18SUM-1111100,1649147,A - Fairview Park via Connaught,1,238656,70075,1,1
 7,7-Weekday-2-18SUM-1111100,1649148,Charles Terminal,1,238644,70077,1,1
-8,8-Saturday-1-18SUM-0000010,1652439,University/King via Crtlnd & Weber,0,234466,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652440,University/King via Crtlnd & Weber,0,234462,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652441,University/King via Crtlnd & Weber,0,234463,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652442,University/King via Crtlnd & Weber,0,234466,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652443,University/King via Crtlnd & Weber,0,234462,80155,1,1
-8,8-Saturday-1-18SUM-0000010,1652444,University/King via Crtlnd & Weber,0,234463,80155,1,1
-8,8-Saturday-1-18SUM-0000010,1652445,University/King via Crtlnd & Weber,0,234466,80155,1,1
-8,8-Saturday-1-18SUM-0000010,1652446,University/King via Crtlnd & Weber,0,234460,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652447,University/King via Crtlnd & Weber,0,234461,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652448,University/King via Crtlnd & Weber,0,234465,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652449,University/King via Crtlnd & Weber,0,234464,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652450,University/King via Crtlnd & Weber,0,234462,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652451,University/King via Crtlnd & Weber,0,234463,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652452,University/King via Crtlnd & Weber,0,234466,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652453,University/King via Crtlnd & Weber,0,234460,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652454,University/King via Crtlnd & Weber,0,234461,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652455,University/King via Crtlnd & Weber,0,234465,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652456,University/King via Crtlnd & Weber,0,234464,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652457,University/King via Crtlnd & Weber,0,234462,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652458,University/King via Crtlnd & Weber,0,234463,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652459,University/King via Crtlnd & Weber,0,234466,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652460,University/King via Crtlnd & Weber,0,234460,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652461,University/King via Crtlnd & Weber,0,234461,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652462,University/King via Crtlnd & Weber,0,234460,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652463,University/King via Crtlnd & Weber,0,234461,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652464,University/King via Crtlnd & Weber,0,234461,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652465,University/King via Crtlnd & Weber,0,234466,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652466,University/King via Crtlnd & Weber,0,234461,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652467,University/King via Crtlnd & Weber,0,234466,80155,1,1
-8,8-Saturday-1-18SUM-0000010,1652468,University/King via Crtlnd & Weber,0,234461,80155,1,1
-8,8-Saturday-1-18SUM-0000010,1652469,University/King via Crtlnd & Weber,0,234463,80161,1,1
+8,8-Saturday-1-18SUM-0000010,1652439,University/King via Crtlnd & Weber,0,234466,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652440,University/King via Crtlnd & Weber,0,234462,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652441,University/King via Crtlnd & Weber,0,234463,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652442,University/King via Crtlnd & Weber,0,234466,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652443,University/King via Crtlnd & Weber,0,234462,80187,1,1
+8,8-Saturday-1-18SUM-0000010,1652444,University/King via Crtlnd & Weber,0,234463,80187,1,1
+8,8-Saturday-1-18SUM-0000010,1652445,University/King via Crtlnd & Weber,0,234466,80187,1,1
+8,8-Saturday-1-18SUM-0000010,1652446,University/King via Crtlnd & Weber,0,234460,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652447,University/King via Crtlnd & Weber,0,234461,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652448,University/King via Crtlnd & Weber,0,234465,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652449,University/King via Crtlnd & Weber,0,234464,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652450,University/King via Crtlnd & Weber,0,234462,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652451,University/King via Crtlnd & Weber,0,234463,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652452,University/King via Crtlnd & Weber,0,234466,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652453,University/King via Crtlnd & Weber,0,234460,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652454,University/King via Crtlnd & Weber,0,234461,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652455,University/King via Crtlnd & Weber,0,234465,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652456,University/King via Crtlnd & Weber,0,234464,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652457,University/King via Crtlnd & Weber,0,234462,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652458,University/King via Crtlnd & Weber,0,234463,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652459,University/King via Crtlnd & Weber,0,234466,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652460,University/King via Crtlnd & Weber,0,234460,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652461,University/King via Crtlnd & Weber,0,234461,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652462,University/King via Crtlnd & Weber,0,234460,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652463,University/King via Crtlnd & Weber,0,234461,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652464,University/King via Crtlnd & Weber,0,234461,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652465,University/King via Crtlnd & Weber,0,234466,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652466,University/King via Crtlnd & Weber,0,234461,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652467,University/King via Crtlnd & Weber,0,234466,80187,1,1
+8,8-Saturday-1-18SUM-0000010,1652468,University/King via Crtlnd & Weber,0,234461,80187,1,1
+8,8-Saturday-1-18SUM-0000010,1652469,University/King via Crtlnd & Weber,0,234463,80186,1,1
 8,8-Saturday-1-18SUM-0000010,1652470,Fairview Park via Weber & Courtland,1,234464,80127,1,1
 8,8-Saturday-1-18SUM-0000010,1652471,Fairview Park via Weber & Courtland,1,234464,80127,1,1
 8,8-Saturday-1-18SUM-0000010,1652472,Fairview Park via Weber & Courtland,1,234462,80127,1,1
@@ -6341,8 +6341,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18SUM-0000010,1652479,Fairview Park via Weber & Courtland,1,234464,80127,1,1
 8,8-Saturday-1-18SUM-0000010,1652480,Fairview Park via Weber & Courtland,1,234461,80127,1,1
 8,8-Saturday-1-18SUM-0000010,1652481,Fairview Park via Weber & Courtland,1,234465,80126,1,1
-8,8-Saturday-1-18SUM-0000010,1652482,University/King via Crtlnd & Weber,0,234466,80161,1,1
-8,8-Saturday-1-18SUM-0000010,1652483,University/King via Crtlnd & Weber,0,234466,80155,1,1
+8,8-Saturday-1-18SUM-0000010,1652482,University/King via Crtlnd & Weber,0,234466,80186,1,1
+8,8-Saturday-1-18SUM-0000010,1652483,University/King via Crtlnd & Weber,0,234466,80187,1,1
 8,8-Saturday-1-18SUM-0000010,1652484,Fairview Park via Weber & Courtland,1,234463,80127,1,1
 8,8-Saturday-1-18SUM-0000010,1652485,Fairview Park via Weber & Courtland,1,234462,80126,1,1
 8,8-Saturday-1-18SUM-0000010,1652486,University/King via Franklin & Westmount,0,234460,80176,1,1
@@ -6438,27 +6438,27 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18SUM-0000010,1652576,Fairview Park via Westmount & Franklin,1,234461,80185,1,1
 8,8-Saturday-1-18SUM-0000010,1652577,Fairview Park via Westmount & Franklin,1,234466,80182,1,1
 8,8-Sunday-1-18SUM-0000001,1654973,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1654974,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654975,University/King via Crtlnd & Weber,0,234570,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654976,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654977,University/King via Crtlnd & Weber,0,234570,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654978,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654979,University/King via Crtlnd & Weber,0,234570,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654980,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654981,University/King via Crtlnd & Weber,0,234570,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654982,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654983,University/King via Crtlnd & Weber,0,234570,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654984,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654985,University/King via Crtlnd & Weber,0,234571,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654986,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654987,University/King via Crtlnd & Weber,0,234571,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654988,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654989,University/King via Crtlnd & Weber,0,234571,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654990,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654991,University/King via Crtlnd & Weber,0,234571,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654992,University/King via Crtlnd & Weber,0,234569,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654993,University/King via Crtlnd & Weber,0,234571,80161,1,1
-8,8-Sunday-1-18SUM-0000001,1654994,University/King via Crtlnd & Weber,0,234569,80161,1,1
+8,8-Sunday-1-18SUM-0000001,1654974,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654975,University/King via Crtlnd & Weber,0,234570,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654976,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654977,University/King via Crtlnd & Weber,0,234570,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654978,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654979,University/King via Crtlnd & Weber,0,234570,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654980,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654981,University/King via Crtlnd & Weber,0,234570,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654982,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654983,University/King via Crtlnd & Weber,0,234570,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654984,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654985,University/King via Crtlnd & Weber,0,234571,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654986,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654987,University/King via Crtlnd & Weber,0,234571,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654988,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654989,University/King via Crtlnd & Weber,0,234571,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654990,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654991,University/King via Crtlnd & Weber,0,234571,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654992,University/King via Crtlnd & Weber,0,234569,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654993,University/King via Crtlnd & Weber,0,234571,80186,1,1
+8,8-Sunday-1-18SUM-0000001,1654994,University/King via Crtlnd & Weber,0,234569,80186,1,1
 8,8-Sunday-1-18SUM-0000001,1654995,Fairview Park via Weber & Courtland,1,234568,80126,1,1
 8,8-Sunday-1-18SUM-0000001,1654996,Fairview Park via Weber & Courtland,1,234567,80127,1,1
 8,8-Sunday-1-18SUM-0000001,1654997,Fairview Park via Weber & Courtland,1,234568,80126,1,1
@@ -6471,7 +6471,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Sunday-1-18SUM-0000001,1655004,Fairview Park via Weber & Courtland,1,234567,80127,1,1
 8,8-Sunday-1-18SUM-0000001,1655005,Fairview Park via Weber & Courtland,1,234568,80127,1,1
 8,8-Sunday-1-18SUM-0000001,1655006,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655007,University/King via Crtlnd & Weber,0,234570,80161,1,1
+8,8-Sunday-1-18SUM-0000001,1655007,University/King via Crtlnd & Weber,0,234570,80186,1,1
 8,8-Sunday-1-18SUM-0000001,1655008,Fairview Park via Weber & Courtland,1,234567,80127,1,1
 8,8-Sunday-1-18SUM-0000001,1655009,Fairview Park via Weber & Courtland,1,234568,80126,1,1
 8,8-Sunday-1-18SUM-0000001,1655010,Fairview Park via Weber & Courtland,1,234567,80127,1,1
@@ -6528,38 +6528,38 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Sunday-1-18SUM-0000001,1655061,Fairview Park via Westmount & Franklin,1,234570,80185,1,1
 8,8-Sunday-1-18SUM-0000001,1655062,Fairview Park via Westmount & Franklin,1,234569,80185,1,1
 8,8-Sunday-1-18SUM-0000001,1655063,Fairview Park via Franklin,1,234571,80181,1,1
-8,8-Weekday-1-18SUM-1111100,1648543,University/King via Weber,0,238674,80039,1,1
-8,8-Weekday-1-18SUM-1111100,1648544,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648545,University/King via Crtlnd & Weber,0,238606,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648546,University/King via Crtlnd & Weber,0,238733,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648547,University/King via Crtlnd & Weber,0,238607,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648548,University/King via Crtlnd & Weber,0,238608,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648549,University/King via Crtlnd & Weber,0,238611,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648550,University/King via Crtlnd & Weber,0,238609,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648551,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648552,University/King via Crtlnd & Weber,0,238606,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648553,University/King via Crtlnd & Weber,0,238733,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648554,University/King via Crtlnd & Weber,0,238607,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648555,University/King via Crtlnd & Weber,0,238608,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648556,University/King via Crtlnd & Weber,0,238611,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648557,University/King via Crtlnd & Weber,0,238609,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648558,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648559,University/King via Crtlnd & Weber,0,238606,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648560,University/King via Crtlnd & Weber,0,238733,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648561,University/King via Crtlnd & Weber,0,238659,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648562,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648563,University/King via Crtlnd & Weber,0,238606,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648564,University/King via Crtlnd & Weber,0,238733,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648565,University/King via Crtlnd & Weber,0,238659,80155,1,1
-8,8-Weekday-1-18SUM-1111100,1648566,University/King via Crtlnd & Weber,0,238610,80155,1,1
-8,8-Weekday-1-18SUM-1111100,1648567,University/King via Crtlnd & Weber,0,238606,80155,1,1
-8,8-Weekday-1-18SUM-1111100,1648568,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648569,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648570,University/King via Crtlnd & Weber,0,238733,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648571,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648572,University/King via Crtlnd & Weber,0,238606,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648573,University/King via Crtlnd & Weber,0,238610,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648574,University/King via Weber,0,238606,80039,1,1
+8,8-Weekday-1-18SUM-1111100,1648543,University/King via Weber,0,238674,80084,1,1
+8,8-Weekday-1-18SUM-1111100,1648544,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648545,University/King via Crtlnd & Weber,0,238606,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648546,University/King via Crtlnd & Weber,0,238733,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648547,University/King via Crtlnd & Weber,0,238607,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648548,University/King via Crtlnd & Weber,0,238608,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648549,University/King via Crtlnd & Weber,0,238611,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648550,University/King via Crtlnd & Weber,0,238609,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648551,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648552,University/King via Crtlnd & Weber,0,238606,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648553,University/King via Crtlnd & Weber,0,238733,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648554,University/King via Crtlnd & Weber,0,238607,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648555,University/King via Crtlnd & Weber,0,238608,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648556,University/King via Crtlnd & Weber,0,238611,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648557,University/King via Crtlnd & Weber,0,238609,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648558,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648559,University/King via Crtlnd & Weber,0,238606,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648560,University/King via Crtlnd & Weber,0,238733,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648561,University/King via Crtlnd & Weber,0,238659,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648562,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648563,University/King via Crtlnd & Weber,0,238606,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648564,University/King via Crtlnd & Weber,0,238733,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648565,University/King via Crtlnd & Weber,0,238659,80187,1,1
+8,8-Weekday-1-18SUM-1111100,1648566,University/King via Crtlnd & Weber,0,238610,80187,1,1
+8,8-Weekday-1-18SUM-1111100,1648567,University/King via Crtlnd & Weber,0,238606,80187,1,1
+8,8-Weekday-1-18SUM-1111100,1648568,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648569,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648570,University/King via Crtlnd & Weber,0,238733,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648571,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648572,University/King via Crtlnd & Weber,0,238606,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648573,University/King via Crtlnd & Weber,0,238610,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648574,University/King via Weber,0,238606,80084,1,1
 8,8-Weekday-1-18SUM-1111100,1648576,Fairview Park via Courtland,1,238607,80125,1,1
 8,8-Weekday-1-18SUM-1111100,1648577,Fairview Park via Weber & Courtland,1,238608,80126,1,1
 8,8-Weekday-1-18SUM-1111100,1648578,Fairview Park via Weber & Courtland,1,238611,80126,1,1
@@ -6577,8 +6577,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18SUM-1111100,1648590,Fairview Park via Franklin,1,238733,80181,1,1
 8,8-Weekday-1-18SUM-1111100,1648591,Fairview Park via Westmount & Franklin,1,238659,80182,1,1
 8,8-Weekday-1-18SUM-1111100,1648592,Fairview Park via Weber & Courtland,1,238608,80126,1,1
-8,8-Weekday-1-18SUM-1111100,1648593,University/King via Crtlnd & Weber,0,238606,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648594,University/King via Crtlnd & Weber,0,238733,80155,1,1
+8,8-Weekday-1-18SUM-1111100,1648593,University/King via Crtlnd & Weber,0,238606,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648594,University/King via Crtlnd & Weber,0,238733,80187,1,1
 8,8-Weekday-1-18SUM-1111100,1648595,Fairview Park via Weber & Courtland,1,238609,80128,1,1
 8,8-Weekday-1-18SUM-1111100,1648596,Fairview Park via Westmount & Franklin,1,238733,80183,1,1
 8,8-Weekday-1-18SUM-1111100,1648597,Fairview Park via Westmount & Franklin,1,238606,80183,1,1
@@ -6606,7 +6606,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18SUM-1111100,1648619,Fairview Park via Weber & Courtland,1,238607,80129,1,1
 8,8-Weekday-1-18SUM-1111100,1648620,Fairview Park via Weber & Courtland,1,238608,80128,1,1
 8,8-Weekday-1-18SUM-1111100,1648621,Fairview Park via Weber & Courtland,1,238611,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648622,University/King via Crtlnd & Weber,0,238609,80155,1,1
+8,8-Weekday-1-18SUM-1111100,1648622,University/King via Crtlnd & Weber,0,238609,80187,1,1
 8,8-Weekday-1-18SUM-1111100,1648623,Fairview Park via Westmount & Franklin,1,238610,80183,1,1
 8,8-Weekday-1-18SUM-1111100,1648624,Fairview Park via Westmount & Franklin,1,238606,80182,1,1
 8,8-Weekday-1-18SUM-1111100,1648625,University/King via Franklin & Westmount,0,238607,80176,1,1
@@ -6638,8 +6638,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18SUM-1111100,1648651,University/King via Westmount,0,238608,80051,1,1
 8,8-Weekday-1-18SUM-1111100,1648652,Fairview Park via Westmount & Franklin,1,238609,80184,1,1
 8,8-Weekday-1-18SUM-1111100,1648653,Fairview Park via Westmount & Franklin,1,238733,80185,1,1
-8,8-Weekday-1-18SUM-1111100,1648654,University/King via Crtlnd & Weber,0,238733,80161,1,1
-8,8-Weekday-1-18SUM-1111100,1648655,University/King via Crtlnd & Weber,0,238606,80161,1,1
+8,8-Weekday-1-18SUM-1111100,1648654,University/King via Crtlnd & Weber,0,238733,80186,1,1
+8,8-Weekday-1-18SUM-1111100,1648655,University/King via Crtlnd & Weber,0,238606,80186,1,1
 8,8-Weekday-1-18SUM-1111100,1648656,Fairview Park via Weber & Courtland,1,238608,80127,1,1
 8,8-Weekday-1-18SUM-1111100,1648681,Charles Terminal via Westmount,1,238733,80055,1,1
 8,8-Weekday-1-18SUM-1111100,1648682,Charles Terminal via Westmount,1,238610,80055,1,1
@@ -6696,6 +6696,83 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 9942,9942-Weekday-1-18SUM-1100000,1689190,,0,238777,99420012,1,1
 9942,9942-Weekday-1-18SUM-1100000,1689191,,0,238777,99420013,1,1
 9983,9983-Weekday-1-18SUM-1111100,1648419,,1,238613,99830017,1,1
+999,999-Saturday-1-18SUM-0000010,1652288,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652289,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652290,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652291,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652292,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652293,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652294,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652295,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652296,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652297,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652298,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652299,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652300,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652301,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652302,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652303,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652304,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652305,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652306,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652307,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652308,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652309,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652310,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652311,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652312,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652313,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652314,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652315,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652316,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652317,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652318,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652319,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652320,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652321,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652322,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652323,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652324,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652325,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652326,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652327,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652328,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652329,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652330,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652331,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652332,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652333,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652334,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652335,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652336,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652337,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652338,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652339,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652340,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652341,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652342,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652343,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652344,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652345,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652346,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652347,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652348,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652349,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652350,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652351,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652352,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652353,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652354,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652355,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652356,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652357,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652358,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652359,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652360,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652361,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652362,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652363,,1,234470,9990003,1,1
+999,999-Saturday-1-18SUM-0000010,1652364,,1,234470,9990003,1,1
 9,9-Saturday-1-18SUM-0000010,1652369,Conestoga Mall,0,234435,90038,1,1
 9,9-Saturday-1-18SUM-0000010,1652370,Conestoga Mall,0,234439,90038,1,1
 9,9-Saturday-1-18SUM-0000010,1652371,Conestoga Mall,0,234440,90038,1,1
