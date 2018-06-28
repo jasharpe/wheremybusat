@@ -3797,99 +3797,99 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 3,3-Weekday-2-18SUM-1111100,1650057,Forest Glen,0,238673,30016,1,1
 3,3-Weekday-2-18SUM-1111100,1650058,Forest Glen,0,238671,30010,1,1
 4,4-Saturday-1-18SUM-0000010,1653358,Westmount,1,234467,40006,1,1
-4,4-Saturday-1-18SUM-0000010,1653359,The Boardwalk,0,234444,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653360,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653361,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653362,The Boardwalk,0,234444,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653363,The Boardwalk,0,234445,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653364,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653365,The Boardwalk,0,234444,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653366,The Boardwalk,0,234445,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653367,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653368,The Boardwalk,0,234444,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653369,The Boardwalk,0,234445,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653370,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653371,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653372,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653373,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653374,The Boardwalk,0,234467,40023,1,1
-4,4-Saturday-1-18SUM-0000010,1653375,Charles Terminal,1,234445,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653376,Charles Terminal,1,234444,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653377,Charles Terminal,1,234467,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653378,Charles Terminal,1,234445,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653379,Charles Terminal,1,234444,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653380,Charles Terminal,1,234467,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653381,Charles Terminal,1,234445,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653382,Charles Terminal,1,234444,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653383,Charles Terminal,1,234467,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653384,Charles Terminal,1,234445,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653385,Charles Terminal,1,234444,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653386,Charles Terminal,1,234467,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653387,Charles Terminal,1,234467,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653388,Charles Terminal,1,234467,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653389,Charles Terminal,1,234467,40030,1,1
-4,4-Saturday-1-18SUM-0000010,1653390,Charles Terminal,1,234467,40030,1,1
-4,4-Weekday-1-18SUM-1111100,1649796,The Boardwalk,0,238642,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649797,Charles Terminal,1,238640,40030,1,1
+4,4-Saturday-1-18SUM-0000010,1653359,The Boardwalk,0,234444,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653360,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653361,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653362,The Boardwalk,0,234444,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653363,The Boardwalk,0,234445,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653364,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653365,The Boardwalk,0,234444,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653366,The Boardwalk,0,234445,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653367,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653368,The Boardwalk,0,234444,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653369,The Boardwalk,0,234445,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653370,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653371,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653372,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653373,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653374,The Boardwalk,0,234467,40027,1,1
+4,4-Saturday-1-18SUM-0000010,1653375,Charles Terminal,1,234445,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653376,Charles Terminal,1,234444,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653377,Charles Terminal,1,234467,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653378,Charles Terminal,1,234445,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653379,Charles Terminal,1,234444,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653380,Charles Terminal,1,234467,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653381,Charles Terminal,1,234445,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653382,Charles Terminal,1,234444,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653383,Charles Terminal,1,234467,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653384,Charles Terminal,1,234445,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653385,Charles Terminal,1,234444,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653386,Charles Terminal,1,234467,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653387,Charles Terminal,1,234467,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653388,Charles Terminal,1,234467,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653389,Charles Terminal,1,234467,40029,1,1
+4,4-Saturday-1-18SUM-0000010,1653390,Charles Terminal,1,234467,40029,1,1
+4,4-Weekday-1-18SUM-1111100,1649796,The Boardwalk,0,238642,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649797,Charles Terminal,1,238640,40029,1,1
 4,4-Weekday-1-18SUM-1111100,1649798,Westmount,1,238670,40006,1,1
-4,4-Weekday-1-18SUM-1111100,1649799,The Boardwalk,0,238640,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649800,The Boardwalk,0,238640,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649801,The Boardwalk,0,238641,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649802,The Boardwalk,0,238642,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649803,The Boardwalk,0,238639,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649804,The Boardwalk,0,238643,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649805,The Boardwalk,0,238640,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649806,The Boardwalk,0,238641,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649807,The Boardwalk,0,238642,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649808,The Boardwalk,0,238639,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649809,The Boardwalk,0,238643,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649810,The Boardwalk,0,238640,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649811,The Boardwalk,0,238641,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649812,The Boardwalk,0,238642,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649813,The Boardwalk,0,238639,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649814,The Boardwalk,0,238643,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649815,The Boardwalk,0,238640,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649816,The Boardwalk,0,238641,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649817,The Boardwalk,0,238642,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649818,The Boardwalk,0,238639,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649819,The Boardwalk,0,238643,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649820,The Boardwalk,0,238641,40021,1,1
-4,4-Weekday-1-18SUM-1111100,1649821,The Boardwalk,0,238672,40023,1,1
-4,4-Weekday-1-18SUM-1111100,1649822,The Boardwalk,0,238670,40023,1,1
-4,4-Weekday-1-18SUM-1111100,1649823,The Boardwalk,0,238670,40023,1,1
-4,4-Weekday-1-18SUM-1111100,1649824,The Boardwalk,0,238672,40023,1,1
-4,4-Weekday-1-18SUM-1111100,1649825,The Boardwalk,0,238639,40023,1,1
-4,4-Weekday-1-18SUM-1111100,1649826,The Boardwalk,0,238670,40023,1,1
-4,4-Weekday-1-18SUM-1111100,1649827,Charles Terminal,1,238642,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649828,Charles Terminal,1,238639,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649829,Charles Terminal,1,238642,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649830,Charles Terminal,1,238641,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649831,Charles Terminal,1,238642,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649832,Charles Terminal,1,238639,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649833,Charles Terminal,1,238643,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649834,Charles Terminal,1,238640,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649835,Charles Terminal,1,238641,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649836,Charles Terminal,1,238642,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649837,Charles Terminal,1,238639,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649838,Charles Terminal,1,238643,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649839,Charles Terminal,1,238640,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649840,Charles Terminal,1,238641,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649841,Charles Terminal,1,238642,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649842,Charles Terminal,1,238639,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649843,Charles Terminal,1,238643,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649844,Charles Terminal,1,238640,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649845,Charles Terminal,1,238641,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649846,Charles Terminal,1,238642,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649847,Charles Terminal,1,238639,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649848,Charles Terminal,1,238643,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649849,Charles Terminal,1,238640,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649850,Charles Terminal,1,238641,40024,1,1
-4,4-Weekday-1-18SUM-1111100,1649851,Charles Terminal,1,238672,40030,1,1
-4,4-Weekday-1-18SUM-1111100,1649852,Charles Terminal,1,238639,40030,1,1
-4,4-Weekday-1-18SUM-1111100,1649853,Charles Terminal,1,238670,40030,1,1
-4,4-Weekday-1-18SUM-1111100,1649854,Charles Terminal,1,238672,40030,1,1
+4,4-Weekday-1-18SUM-1111100,1649799,The Boardwalk,0,238640,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649800,The Boardwalk,0,238640,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649801,The Boardwalk,0,238641,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649802,The Boardwalk,0,238642,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649803,The Boardwalk,0,238639,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649804,The Boardwalk,0,238643,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649805,The Boardwalk,0,238640,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649806,The Boardwalk,0,238641,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649807,The Boardwalk,0,238642,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649808,The Boardwalk,0,238639,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649809,The Boardwalk,0,238643,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649810,The Boardwalk,0,238640,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649811,The Boardwalk,0,238641,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649812,The Boardwalk,0,238642,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649813,The Boardwalk,0,238639,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649814,The Boardwalk,0,238643,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649815,The Boardwalk,0,238640,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649816,The Boardwalk,0,238641,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649817,The Boardwalk,0,238642,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649818,The Boardwalk,0,238639,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649819,The Boardwalk,0,238643,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649820,The Boardwalk,0,238641,40025,1,1
+4,4-Weekday-1-18SUM-1111100,1649821,The Boardwalk,0,238672,40027,1,1
+4,4-Weekday-1-18SUM-1111100,1649822,The Boardwalk,0,238670,40027,1,1
+4,4-Weekday-1-18SUM-1111100,1649823,The Boardwalk,0,238670,40027,1,1
+4,4-Weekday-1-18SUM-1111100,1649824,The Boardwalk,0,238672,40027,1,1
+4,4-Weekday-1-18SUM-1111100,1649825,The Boardwalk,0,238639,40027,1,1
+4,4-Weekday-1-18SUM-1111100,1649826,The Boardwalk,0,238670,40027,1,1
+4,4-Weekday-1-18SUM-1111100,1649827,Charles Terminal,1,238642,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649828,Charles Terminal,1,238639,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649829,Charles Terminal,1,238642,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649830,Charles Terminal,1,238641,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649831,Charles Terminal,1,238642,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649832,Charles Terminal,1,238639,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649833,Charles Terminal,1,238643,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649834,Charles Terminal,1,238640,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649835,Charles Terminal,1,238641,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649836,Charles Terminal,1,238642,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649837,Charles Terminal,1,238639,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649838,Charles Terminal,1,238643,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649839,Charles Terminal,1,238640,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649840,Charles Terminal,1,238641,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649841,Charles Terminal,1,238642,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649842,Charles Terminal,1,238639,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649843,Charles Terminal,1,238643,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649844,Charles Terminal,1,238640,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649845,Charles Terminal,1,238641,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649846,Charles Terminal,1,238642,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649847,Charles Terminal,1,238639,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649848,Charles Terminal,1,238643,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649849,Charles Terminal,1,238640,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649850,Charles Terminal,1,238641,40008,1,1
+4,4-Weekday-1-18SUM-1111100,1649851,Charles Terminal,1,238672,40029,1,1
+4,4-Weekday-1-18SUM-1111100,1649852,Charles Terminal,1,238639,40029,1,1
+4,4-Weekday-1-18SUM-1111100,1649853,Charles Terminal,1,238670,40029,1,1
+4,4-Weekday-1-18SUM-1111100,1649854,Charles Terminal,1,238672,40029,1,1
 4,4-Weekday-1-18SUM-1111100,1649855,The Boardwalk,0,238639,40009,1,1
-4,4-Weekday-1-18SUM-1111100,1649856,Charles Terminal,1,238670,40030,1,1
+4,4-Weekday-1-18SUM-1111100,1649856,Charles Terminal,1,238670,40029,1,1
 51,51-Saturday-4-18SUM-0000010,1653170,A - Fisher Mills,1,234502,510012,1,1
 51,51-Saturday-4-18SUM-0000010,1653171,A - Fisher Mills,1,234501,510012,1,1
 51,51-Saturday-4-18SUM-0000010,1653172,A - Fisher Mills,1,234503,510012,1,1
@@ -4202,44 +4202,44 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 52,52-Saturday-1-18SUM-0000010,1653115,Fairview Park via Preston Parkway,0,234512,520029,1,1
 52,52-Saturday-1-18SUM-0000010,1653116,Fairview Park via Preston Parkway,0,234510,520029,1,1
 52,52-Saturday-1-18SUM-0000010,1653117,Fairview Park via Preston Parkway,0,234512,520029,1,1
-52,52-Saturday-1-18SUM-0000010,1653118,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653119,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653120,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653121,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653122,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653123,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653124,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653125,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653126,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653127,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653128,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653129,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653130,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653131,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653132,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653133,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653134,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653135,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653136,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653137,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653138,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653139,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653140,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653141,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653142,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653143,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653144,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653145,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653146,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653147,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653148,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653149,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653150,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
+52,52-Saturday-1-18SUM-0000010,1653118,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653119,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653120,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653121,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653122,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653123,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653124,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653125,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653126,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653127,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653128,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653129,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653130,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653131,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653132,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653133,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653134,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653135,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653136,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653137,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653138,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653139,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653140,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653141,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653142,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653143,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653144,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653145,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653146,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653147,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653148,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653149,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653150,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
 52,52-Saturday-1-18SUM-0000010,1653151,Fairview Park via Preston Parkway,0,234510,520029,1,1
 52,52-Saturday-1-18SUM-0000010,1653152,Fairview Park via Preston Parkway,0,234512,520029,1,1
-52,52-Saturday-1-18SUM-0000010,1653153,Ainslie Terminal via Preston Parkway,1,234511,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653154,Ainslie Terminal via Preston Parkway,1,234510,520066,1,1
-52,52-Saturday-1-18SUM-0000010,1653155,Ainslie Terminal via Preston Parkway,1,234512,520067,1,1
+52,52-Saturday-1-18SUM-0000010,1653153,Ainslie Terminal via Preston Parkway,1,234511,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653154,Ainslie Terminal via Preston Parkway,1,234510,520070,1,1
+52,52-Saturday-1-18SUM-0000010,1653155,Ainslie Terminal via Preston Parkway,1,234512,520073,1,1
 52,52-Saturday-1-18SUM-0000010,1653156,Fairview Park via Preston Parkway,0,234510,520029,1,1
 52,52-Saturday-1-18SUM-0000010,1653157,Fairview Park via Preston Parkway,0,234511,520029,1,1
 52,52-Saturday-1-18SUM-0000010,1653158,Fairview Park via Preston Parkway,0,234511,520029,1,1
@@ -4253,7 +4253,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 52,52-Saturday-1-18SUM-0000010,1653166,Fairview Park via Preston Parkway,0,234511,520029,1,1
 52,52-Saturday-1-18SUM-0000010,1653167,Fairview Park via Preston Parkway,0,234511,520029,1,1
 52,52-Saturday-1-18SUM-0000010,1653168,Fairview Park via Preston Parkway,0,234511,520029,1,1
-52,52-Saturday-1-18SUM-0000010,1653169,Ainslie Terminal via Preston Parkway,1,234512,520066,1,1
+52,52-Saturday-1-18SUM-0000010,1653169,Ainslie Terminal via Preston Parkway,1,234512,520070,1,1
 52,52-Sunday-1-18SUM-0000001,1655318,Fairview Park via Preston Parkway,0,234627,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655319,Fairview Park via Preston Parkway,0,234626,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655320,Fairview Park via Preston Parkway,0,234627,520029,1,1
@@ -4263,15 +4263,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 52,52-Sunday-1-18SUM-0000001,1655324,Fairview Park via Preston Parkway,0,234627,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655325,Fairview Park via Preston Parkway,0,234626,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655326,Fairview Park via Preston Parkway,0,234626,520029,1,1
-52,52-Sunday-1-18SUM-0000001,1655327,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655328,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655329,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655330,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655331,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655332,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655333,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655334,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655335,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
+52,52-Sunday-1-18SUM-0000001,1655327,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655328,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655329,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655330,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655331,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655332,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655333,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655334,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655335,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
 52,52-Sunday-1-18SUM-0000001,1655336,Fairview Park via Preston Parkway,0,234626,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655337,Fairview Park via Preston Parkway,0,234627,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655338,Fairview Park via Preston Parkway,0,234627,520029,1,1
@@ -4279,14 +4279,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 52,52-Sunday-1-18SUM-0000001,1655340,Fairview Park via Preston Parkway,0,234627,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655341,Fairview Park via Preston Parkway,0,234626,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655342,Fairview Park via Preston Parkway,0,234627,520029,1,1
-52,52-Sunday-1-18SUM-0000001,1655343,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655344,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655345,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655346,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655347,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655348,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655349,Ainslie Terminal via Preston Parkway,1,234626,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655350,Ainslie Terminal via Preston Parkway,1,234627,520066,1,1
+52,52-Sunday-1-18SUM-0000001,1655343,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655344,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655345,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655346,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655347,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655348,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655349,Ainslie Terminal via Preston Parkway,1,234626,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655350,Ainslie Terminal via Preston Parkway,1,234627,520070,1,1
 52,52-Sunday-1-18SUM-0000001,1655351,Fairview Park via Preston Parkway,0,234629,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655352,Fairview Park via Preston Parkway,0,234628,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655353,Fairview Park via Preston Parkway,0,234629,520029,1,1
@@ -4295,14 +4295,14 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 52,52-Sunday-1-18SUM-0000001,1655356,Fairview Park via Preston Parkway,0,234628,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655357,Fairview Park via Preston Parkway,0,234629,520029,1,1
 52,52-Sunday-1-18SUM-0000001,1655358,Fairview Park via Preston Parkway,0,234628,520029,1,1
-52,52-Sunday-1-18SUM-0000001,1655359,Ainslie Terminal via Preston Parkway,1,234628,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655360,Ainslie Terminal via Preston Parkway,1,234629,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655361,Ainslie Terminal via Preston Parkway,1,234628,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655362,Ainslie Terminal via Preston Parkway,1,234629,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655363,Ainslie Terminal via Preston Parkway,1,234628,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655364,Ainslie Terminal via Preston Parkway,1,234629,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655365,Ainslie Terminal via Preston Parkway,1,234628,520066,1,1
-52,52-Sunday-1-18SUM-0000001,1655366,Ainslie Terminal via Preston Parkway,1,234629,520066,1,1
+52,52-Sunday-1-18SUM-0000001,1655359,Ainslie Terminal via Preston Parkway,1,234628,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655360,Ainslie Terminal via Preston Parkway,1,234629,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655361,Ainslie Terminal via Preston Parkway,1,234628,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655362,Ainslie Terminal via Preston Parkway,1,234629,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655363,Ainslie Terminal via Preston Parkway,1,234628,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655364,Ainslie Terminal via Preston Parkway,1,234629,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655365,Ainslie Terminal via Preston Parkway,1,234628,520070,1,1
+52,52-Sunday-1-18SUM-0000001,1655366,Ainslie Terminal via Preston Parkway,1,234629,520070,1,1
 52,52-Weekday-2-18SUM-1111100,1649477,Fairview Park via Preston Parkway,0,238593,520029,1,1
 52,52-Weekday-2-18SUM-1111100,1649478,Fairview Park via Preston Parkway,0,238591,520029,1,1
 52,52-Weekday-2-18SUM-1111100,1649479,Fairview Park via Preston Parkway,0,238592,520029,1,1
@@ -4338,18 +4338,18 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 52,52-Weekday-2-18SUM-1111100,1649509,Fairview Park via Preston Parkway,0,238588,520029,1,1
 52,52-Weekday-2-18SUM-1111100,1649510,Fairview Park via Preston Parkway,0,238590,520029,1,1
 52,52-Weekday-2-18SUM-1111100,1649511,Fairview Park via Preston Parkway,0,238588,520029,1,1
-52,52-Weekday-2-18SUM-1111100,1649512,Ainslie Terminal via Preston Parkway,1,238590,520067,1,1
-52,52-Weekday-2-18SUM-1111100,1649513,Ainslie Terminal via Preston Parkway,1,238591,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649514,Ainslie Terminal via Preston Parkway,1,238594,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649515,Ainslie Terminal via Preston Parkway,1,238590,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649516,Ainslie Terminal via Preston Parkway,1,238588,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649517,Ainslie Terminal via Preston Parkway,1,238594,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649518,Ainslie Terminal via Preston Parkway,1,238590,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649519,Ainslie Terminal via Preston Parkway,1,238588,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649520,Ainslie Terminal via Preston Parkway,1,238594,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649521,Ainslie Terminal via Preston Parkway,1,238588,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649522,Ainslie Terminal via Preston Parkway,1,238594,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649523,Ainslie Terminal via Preston Parkway,1,238590,520066,1,1
+52,52-Weekday-2-18SUM-1111100,1649512,Ainslie Terminal via Preston Parkway,1,238590,520073,1,1
+52,52-Weekday-2-18SUM-1111100,1649513,Ainslie Terminal via Preston Parkway,1,238591,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649514,Ainslie Terminal via Preston Parkway,1,238594,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649515,Ainslie Terminal via Preston Parkway,1,238590,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649516,Ainslie Terminal via Preston Parkway,1,238588,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649517,Ainslie Terminal via Preston Parkway,1,238594,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649518,Ainslie Terminal via Preston Parkway,1,238590,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649519,Ainslie Terminal via Preston Parkway,1,238588,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649520,Ainslie Terminal via Preston Parkway,1,238594,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649521,Ainslie Terminal via Preston Parkway,1,238588,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649522,Ainslie Terminal via Preston Parkway,1,238594,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649523,Ainslie Terminal via Preston Parkway,1,238590,520070,1,1
 52,52-Weekday-2-18SUM-1111100,1649524,Fairview Park via Cherry Blossom,0,238590,520040,1,1
 52,52-Weekday-2-18SUM-1111100,1649525,Fairview Park via Cherry Blossom,0,238588,520040,1,1
 52,52-Weekday-2-18SUM-1111100,1649526,Fairview Park via Cherry Blossom,0,238589,520040,1,1
@@ -4373,59 +4373,59 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 52,52-Weekday-2-18SUM-1111100,1649544,Fairview Park via Cherry Blossom,0,238592,520040,1,1
 52,52-Weekday-2-18SUM-1111100,1649545,Fairview Park via Cherry Blossom,0,238589,520040,1,1
 52,52-Weekday-2-18SUM-1111100,1649546,Fairview Park via Cherry Blossom,0,238590,520040,1,1
-52,52-Weekday-2-18SUM-1111100,1649547,Ainslie Terminal via Cherry Blossom,1,238588,520078,1,1
+52,52-Weekday-2-18SUM-1111100,1649547,Ainslie Terminal via Cherry Blossom,1,238588,520069,1,1
 52,52-Weekday-2-18SUM-1111100,1649548,Fairview Park via Cherry Blossom,0,238589,520040,1,1
-52,52-Weekday-2-18SUM-1111100,1649549,Ainslie Terminal via Preston Parkway,1,238590,520066,1,1
+52,52-Weekday-2-18SUM-1111100,1649549,Ainslie Terminal via Preston Parkway,1,238590,520070,1,1
 52,52-Weekday-2-18SUM-1111100,1649550,Fairview Park via Preston Parkway,0,238588,520041,1,1
-52,52-Weekday-2-18SUM-1111100,1649551,Ainslie Terminal via Cherry Blossom,1,238589,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649552,Ainslie Terminal via Cherry Blossom,1,238590,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649553,Ainslie Terminal via Cherry Blossom,1,238588,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649554,Ainslie Terminal via Cherry Blossom,1,238589,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649555,Ainslie Terminal via Cherry Blossom,1,238590,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649556,Ainslie Terminal via Cherry Blossom,1,238588,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649557,Ainslie Terminal via Cherry Blossom,1,238589,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649558,Ainslie Terminal via Cherry Blossom,1,238590,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649559,Ainslie Terminal via Cherry Blossom,1,238588,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649560,Ainslie Terminal via Cherry Blossom,1,238589,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649561,Ainslie Terminal via Cherry Blossom,1,238590,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649562,Ainslie Terminal via Cherry Blossom,1,238588,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649563,Ainslie Terminal via Cherry Blossom,1,238589,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649564,Ainslie Terminal via Cherry Blossom,1,238590,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649565,Ainslie Terminal via Cherry Blossom,1,238588,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649566,Ainslie Terminal via Cherry Blossom,1,238589,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649567,Ainslie Terminal via Cherry Blossom,1,238590,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649568,Ainslie Terminal via Preston Parkway,1,238592,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649569,Ainslie Terminal via Preston Parkway,1,238591,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649570,Ainslie Terminal via Preston Parkway,1,238593,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649571,Ainslie Terminal via Preston Parkway,1,238592,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649572,Ainslie Terminal via Preston Parkway,1,238591,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649573,Ainslie Terminal via Preston Parkway,1,238593,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649574,Ainslie Terminal via Preston Parkway,1,238592,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649575,Ainslie Terminal via Preston Parkway,1,238591,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649576,Ainslie Terminal via Preston Parkway,1,238593,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649577,Ainslie Terminal via Preston Parkway,1,238592,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649578,Ainslie Terminal via Preston Parkway,1,238591,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649579,Ainslie Terminal via Preston Parkway,1,238593,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649580,Ainslie Terminal via Preston Parkway,1,238592,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649581,Ainslie Terminal via Preston Parkway,1,238591,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649582,Ainslie Terminal via Preston Parkway,1,238593,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649583,Ainslie Terminal via Preston Parkway,1,238592,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649584,Ainslie Terminal via Preston Parkway,1,238591,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649585,Ainslie Terminal via Preston Parkway,1,238593,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649586,Ainslie Terminal via Cherry Blossom,1,238588,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649587,Ainslie Terminal via Cherry Blossom,1,238594,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649588,Ainslie Terminal via Cherry Blossom,1,238591,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649589,Ainslie Terminal via Cherry Blossom,1,238593,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649590,Ainslie Terminal via Cherry Blossom,1,238592,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649591,Ainslie Terminal via Cherry Blossom,1,238589,520078,1,1
-52,52-Weekday-2-18SUM-1111100,1649592,Ainslie Terminal via Cherry Blossom,1,238592,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649593,Ainslie Terminal via Preston Parkway,1,238589,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649594,Ainslie Terminal via Preston Parkway,1,238590,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649595,Ainslie Terminal via Preston Parkway,1,238588,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649596,Ainslie Terminal via Preston Parkway,1,238594,520066,1,1
+52,52-Weekday-2-18SUM-1111100,1649551,Ainslie Terminal via Cherry Blossom,1,238589,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649552,Ainslie Terminal via Cherry Blossom,1,238590,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649553,Ainslie Terminal via Cherry Blossom,1,238588,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649554,Ainslie Terminal via Cherry Blossom,1,238589,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649555,Ainslie Terminal via Cherry Blossom,1,238590,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649556,Ainslie Terminal via Cherry Blossom,1,238588,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649557,Ainslie Terminal via Cherry Blossom,1,238589,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649558,Ainslie Terminal via Cherry Blossom,1,238590,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649559,Ainslie Terminal via Cherry Blossom,1,238588,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649560,Ainslie Terminal via Cherry Blossom,1,238589,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649561,Ainslie Terminal via Cherry Blossom,1,238590,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649562,Ainslie Terminal via Cherry Blossom,1,238588,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649563,Ainslie Terminal via Cherry Blossom,1,238589,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649564,Ainslie Terminal via Cherry Blossom,1,238590,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649565,Ainslie Terminal via Cherry Blossom,1,238588,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649566,Ainslie Terminal via Cherry Blossom,1,238589,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649567,Ainslie Terminal via Cherry Blossom,1,238590,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649568,Ainslie Terminal via Preston Parkway,1,238592,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649569,Ainslie Terminal via Preston Parkway,1,238591,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649570,Ainslie Terminal via Preston Parkway,1,238593,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649571,Ainslie Terminal via Preston Parkway,1,238592,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649572,Ainslie Terminal via Preston Parkway,1,238591,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649573,Ainslie Terminal via Preston Parkway,1,238593,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649574,Ainslie Terminal via Preston Parkway,1,238592,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649575,Ainslie Terminal via Preston Parkway,1,238591,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649576,Ainslie Terminal via Preston Parkway,1,238593,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649577,Ainslie Terminal via Preston Parkway,1,238592,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649578,Ainslie Terminal via Preston Parkway,1,238591,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649579,Ainslie Terminal via Preston Parkway,1,238593,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649580,Ainslie Terminal via Preston Parkway,1,238592,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649581,Ainslie Terminal via Preston Parkway,1,238591,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649582,Ainslie Terminal via Preston Parkway,1,238593,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649583,Ainslie Terminal via Preston Parkway,1,238592,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649584,Ainslie Terminal via Preston Parkway,1,238591,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649585,Ainslie Terminal via Preston Parkway,1,238593,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649586,Ainslie Terminal via Cherry Blossom,1,238588,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649587,Ainslie Terminal via Cherry Blossom,1,238594,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649588,Ainslie Terminal via Cherry Blossom,1,238591,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649589,Ainslie Terminal via Cherry Blossom,1,238593,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649590,Ainslie Terminal via Cherry Blossom,1,238592,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649591,Ainslie Terminal via Cherry Blossom,1,238589,520069,1,1
+52,52-Weekday-2-18SUM-1111100,1649592,Ainslie Terminal via Cherry Blossom,1,238592,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649593,Ainslie Terminal via Preston Parkway,1,238589,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649594,Ainslie Terminal via Preston Parkway,1,238590,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649595,Ainslie Terminal via Preston Parkway,1,238588,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649596,Ainslie Terminal via Preston Parkway,1,238594,520070,1,1
 52,52-Weekday-2-18SUM-1111100,1649597,Fairview Park via Preston Parkway,0,238594,520040,1,1
-52,52-Weekday-2-18SUM-1111100,1649598,Ainslie Terminal via Preston Parkway,1,238588,520066,1,1
-52,52-Weekday-2-18SUM-1111100,1649599,Ainslie Terminal via Cherry Blossom,1,238590,520078,1,1
+52,52-Weekday-2-18SUM-1111100,1649598,Ainslie Terminal via Preston Parkway,1,238588,520070,1,1
+52,52-Weekday-2-18SUM-1111100,1649599,Ainslie Terminal via Cherry Blossom,1,238590,520069,1,1
 53,53-Weekday-3-18SUM-1111100,1647960,Cambridge Centre,1,238690,530004,1,1
 53,53-Weekday-3-18SUM-1111100,1647961,Cambridge Centre,1,238690,530004,1,1
 53,53-Weekday-3-18SUM-1111100,1647962,Cambridge Centre,1,238677,530004,1,1
@@ -5815,28 +5815,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 7,7-Saturday-2-18SUM-0000010,1652759,Charles Terminal,1,234499,70127,1,1
 7,7-Saturday-2-18SUM-0000010,1652760,Charles Terminal,1,234500,70127,1,1
 7,7-Saturday-2-18SUM-0000010,1652761,Charles Terminal,1,234499,70127,1,1
-7,7-Saturday-2-18SUM-0000010,1652762,F - Fairview Park via Wilson,1,234497,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652763,F - Fairview Park via Wilson,1,234494,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652764,F - Fairview Park via Wilson,1,234491,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652765,F - Fairview Park via Wilson,1,234488,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652766,F - Fairview Park via Wilson,1,234495,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652767,F - Fairview Park via Wilson,1,234489,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652768,F - Fairview Park via Wilson,1,234493,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652769,F - Fairview Park via Wilson,1,234498,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652770,F - Fairview Park via Wilson,1,234492,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652771,F - Fairview Park via Wilson,1,234490,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652772,F - Fairview Park via Wilson,1,234496,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652773,F - Fairview Park via Wilson,1,234497,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652774,F - Fairview Park via Wilson,1,234494,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652775,F - Fairview Park via Wilson,1,234491,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652776,F - Fairview Park via Wilson,1,234488,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652777,F - Fairview Park via Wilson,1,234495,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652778,F - Fairview Park via Wilson,1,234489,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652779,F - Fairview Park via Wilson,1,234493,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652780,F - Fairview Park via Wilson,1,234498,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652781,F - Fairview Park via Wilson,1,234492,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652782,F - Fairview Park via Wilson,1,234490,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652783,F - Fairview Park via Wilson,1,234496,70072,1,1
+7,7-Saturday-2-18SUM-0000010,1652762,F - Fairview Park via Wilson,1,234497,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652763,F - Fairview Park via Wilson,1,234494,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652764,F - Fairview Park via Wilson,1,234491,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652765,F - Fairview Park via Wilson,1,234488,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652766,F - Fairview Park via Wilson,1,234495,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652767,F - Fairview Park via Wilson,1,234489,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652768,F - Fairview Park via Wilson,1,234493,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652769,F - Fairview Park via Wilson,1,234498,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652770,F - Fairview Park via Wilson,1,234492,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652771,F - Fairview Park via Wilson,1,234490,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652772,F - Fairview Park via Wilson,1,234496,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652773,F - Fairview Park via Wilson,1,234497,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652774,F - Fairview Park via Wilson,1,234494,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652775,F - Fairview Park via Wilson,1,234491,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652776,F - Fairview Park via Wilson,1,234488,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652777,F - Fairview Park via Wilson,1,234495,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652778,F - Fairview Park via Wilson,1,234489,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652779,F - Fairview Park via Wilson,1,234493,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652780,F - Fairview Park via Wilson,1,234498,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652781,F - Fairview Park via Wilson,1,234492,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652782,F - Fairview Park via Wilson,1,234490,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652783,F - Fairview Park via Wilson,1,234496,70282,1,1
 7,7-Saturday-2-18SUM-0000010,1652784,B - Fairview Park via Weber,1,234488,70074,1,1
 7,7-Saturday-2-18SUM-0000010,1652785,A - Fairview Park via Connaught,1,234495,70084,1,1
 7,7-Saturday-2-18SUM-0000010,1652786,B - Fairview Park via Weber,1,234497,70040,1,1
@@ -5874,8 +5874,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 7,7-Saturday-2-18SUM-0000010,1652818,E - UW via Columbia,0,234490,70216,1,1
 7,7-Saturday-2-18SUM-0000010,1652819,D - UW via University,0,234489,70215,1,1
 7,7-Saturday-2-18SUM-0000010,1652820,A - Fairview Park via Connaught,1,234489,70073,1,1
-7,7-Saturday-2-18SUM-0000010,1652821,F - Fairview Park via Wilson,1,234490,70072,1,1
-7,7-Saturday-2-18SUM-0000010,1652822,F - Fairview Park via Wilson,1,234492,70072,1,1
+7,7-Saturday-2-18SUM-0000010,1652821,F - Fairview Park via Wilson,1,234490,70282,1,1
+7,7-Saturday-2-18SUM-0000010,1652822,F - Fairview Park via Wilson,1,234492,70282,1,1
 7,7-Saturday-2-18SUM-0000010,1652823,B - Fairview Park via Weber,1,234494,70074,1,1
 7,7-Saturday-2-18SUM-0000010,1652824,C - Conestoga Mall,0,234491,70217,1,1
 7,7-Saturday-2-18SUM-0000010,1652825,A - Fairview Park via Connaught,1,234500,70075,1,1
@@ -6094,28 +6094,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 7,7-Weekday-2-18SUM-1111100,1648927,C - Conestoga Mall,0,238656,70208,1,1
 7,7-Weekday-2-18SUM-1111100,1648928,C - Conestoga Mall,0,238649,70208,1,1
 7,7-Weekday-2-18SUM-1111100,1648929,C - Conestoga Mall,0,238651,70208,1,1
-7,7-Weekday-2-18SUM-1111100,1648930,F - Fairview Park via Wilson,1,238650,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648931,F - Fairview Park via Wilson,1,238654,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648932,F - Fairview Park via Wilson,1,238656,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648933,F - Fairview Park via Wilson,1,238649,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648934,F - Fairview Park via Wilson,1,238651,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648935,F - Fairview Park via Wilson,1,238652,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648936,F - Fairview Park via Wilson,1,238645,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648937,F - Fairview Park via Wilson,1,238646,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648938,F - Fairview Park via Wilson,1,238657,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648939,F - Fairview Park via Wilson,1,238653,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648940,F - Fairview Park via Wilson,1,238647,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648941,F - Fairview Park via Wilson,1,238655,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648942,F - Fairview Park via Wilson,1,238749,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648943,F - Fairview Park via Wilson,1,238750,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648944,F - Fairview Park via Wilson,1,238644,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648945,F - Fairview Park via Wilson,1,238650,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648946,F - Fairview Park via Wilson,1,238654,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648947,F - Fairview Park via Wilson,1,238656,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648948,F - Fairview Park via Wilson,1,238649,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648949,F - Fairview Park via Wilson,1,238651,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648950,F - Fairview Park via Wilson,1,238749,70072,1,1
-7,7-Weekday-2-18SUM-1111100,1648951,F - Fairview Park via Wilson,1,238750,70072,1,1
+7,7-Weekday-2-18SUM-1111100,1648930,F - Fairview Park via Wilson,1,238650,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648931,F - Fairview Park via Wilson,1,238654,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648932,F - Fairview Park via Wilson,1,238656,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648933,F - Fairview Park via Wilson,1,238649,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648934,F - Fairview Park via Wilson,1,238651,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648935,F - Fairview Park via Wilson,1,238652,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648936,F - Fairview Park via Wilson,1,238645,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648937,F - Fairview Park via Wilson,1,238646,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648938,F - Fairview Park via Wilson,1,238657,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648939,F - Fairview Park via Wilson,1,238653,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648940,F - Fairview Park via Wilson,1,238647,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648941,F - Fairview Park via Wilson,1,238655,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648942,F - Fairview Park via Wilson,1,238749,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648943,F - Fairview Park via Wilson,1,238750,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648944,F - Fairview Park via Wilson,1,238644,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648945,F - Fairview Park via Wilson,1,238650,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648946,F - Fairview Park via Wilson,1,238654,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648947,F - Fairview Park via Wilson,1,238656,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648948,F - Fairview Park via Wilson,1,238649,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648949,F - Fairview Park via Wilson,1,238651,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648950,F - Fairview Park via Wilson,1,238749,70282,1,1
+7,7-Weekday-2-18SUM-1111100,1648951,F - Fairview Park via Wilson,1,238750,70282,1,1
 7,7-Weekday-2-18SUM-1111100,1648952,A - Fairview Park via Connaught,1,238657,70073,1,1
 7,7-Weekday-2-18SUM-1111100,1648953,A - Fairview Park via Connaught,1,238653,70073,1,1
 7,7-Weekday-2-18SUM-1111100,1648954,A - Fairview Park via Connaught,1,238647,70073,1,1
@@ -6248,7 +6248,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 7,7-Weekday-2-18SUM-1111100,1649081,D - UW via University,0,238645,70215,1,1
 7,7-Weekday-2-18SUM-1111100,1649082,D - UW via University,0,238646,70215,1,1
 7,7-Weekday-2-18SUM-1111100,1649083,B - Fairview Park via Weber,1,238655,70074,1,1
-7,7-Weekday-2-18SUM-1111100,1649084,F - Fairview Park via Wilson,1,238644,70072,1,1
+7,7-Weekday-2-18SUM-1111100,1649084,F - Fairview Park via Wilson,1,238644,70282,1,1
 7,7-Weekday-2-18SUM-1111100,1649085,A - Fairview Park via Connaught,1,238646,70073,1,1
 7,7-Weekday-2-18SUM-1111100,1649086,B - Fairview Park via Weber,1,238650,70040,1,1
 7,7-Weekday-2-18SUM-1111100,1649087,B - Fairview Park via Weber,1,238644,70040,1,1
@@ -6268,7 +6268,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 7,7-Weekday-2-18SUM-1111100,1649109,C - Conestoga Mall,0,238750,70035,1,1
 7,7-Weekday-2-18SUM-1111100,1649111,E - UW via Columbia,0,238653,70216,1,1
 7,7-Weekday-2-18SUM-1111100,1649112,Charles Terminal,1,238758,70127,1,1
-7,7-Weekday-2-18SUM-1111100,1649113,F - Fairview Park via Wilson,1,238653,70072,1,1
+7,7-Weekday-2-18SUM-1111100,1649113,F - Fairview Park via Wilson,1,238653,70282,1,1
 7,7-Weekday-2-18SUM-1111100,1649114,B - Fairview Park via Weber,1,238649,70074,1,1
 7,7-Weekday-2-18SUM-1111100,1649115,D - UW via University,0,238648,70043,1,1
 7,7-Weekday-2-18SUM-1111100,1649116,C - Conestoga Mall,0,238657,70212,1,1
@@ -6680,99 +6680,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18SUM-1111100,1648741,University/King via Franklin & Westmount,0,238608,80176,1,1
 8,8-Weekday-1-18SUM-1111100,1648742,Charles Terminal via Franklin,0,238611,80179,1,1
 8,8-Weekday-1-18SUM-1111100,1656171,Charles Terminal via Franklin,0,238733,80180,1,1
-9801,9801-Weekday-1-18SUM-1100000,1689183,GCI Special,1,238774,98010002,1,1
-9841,9841-Weekday-1-18SUM-1100000,1689184,Ainslie Terminal,0,238776,98410006,1,1
-9841,9841-Weekday-1-18SUM-1100000,1689185,Cambridge Centre,1,238776,98410005,1,1
 9901,9921-Weekday-1-18SUM-1110000,1689198,Huron Heights Special,0,238773,99010002,1,1
-9904,9922-Weekday-1-18SUM-1100000,1689193,Eastwood Special,0,238772,99040004,1,1
-9904,9922-Weekday-1-18SUM-1100000,1689194,Eastwood Special,0,238772,99040005,1,1
-9922,9922-Weekday-1-18SUM-1100000,1689199,,0,238772,99220002,1,1
 9931,9931-Weekday-1-18SUM-1111100,1648428,Huron Industrial Special,0,238731,99310003,1,1
 9932,9932-Weekday-1-18SUM-1111100,1648427,Northfield Industrial Special,0,238615,99320004,1,1
-9941,9941-Weekday-1-18SUM-1100000,1689187,,0,238775,99410015,1,1
-9941,9941-Weekday-1-18SUM-1100000,1689188,,0,238775,99410012,1,1
 9941,9941-Weekday-1-18SUM-1110000,1689186,Huron Heights Special,0,238775,99410014,1,1
-9942,9942-Weekday-1-18SUM-1100000,1689189,,0,238777,99420011,1,1
-9942,9942-Weekday-1-18SUM-1100000,1689190,,0,238777,99420012,1,1
-9942,9942-Weekday-1-18SUM-1100000,1689191,,0,238777,99420013,1,1
 9983,9983-Weekday-1-18SUM-1111100,1648419,,1,238613,99830017,1,1
-999,999-Saturday-1-18SUM-0000010,1652288,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652289,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652290,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652291,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652292,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652293,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652294,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652295,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652296,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652297,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652298,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652299,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652300,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652301,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652302,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652303,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652304,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652305,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652306,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652307,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652308,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652309,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652310,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652311,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652312,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652313,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652314,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652315,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652316,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652317,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652318,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652319,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652320,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652321,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652322,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652323,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652324,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652325,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652326,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652327,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652328,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652329,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652330,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652331,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652332,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652333,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652334,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652335,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652336,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652337,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652338,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652339,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652340,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652341,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652342,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652343,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652344,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652345,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652346,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652347,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652348,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652349,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652350,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652351,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652352,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652353,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652354,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652355,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652356,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652357,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652358,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652359,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652360,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652361,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652362,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652363,,1,234470,9990003,1,1
-999,999-Saturday-1-18SUM-0000010,1652364,,1,234470,9990003,1,1
 9,9-Saturday-1-18SUM-0000010,1652369,Conestoga Mall,0,234435,90038,1,1
 9,9-Saturday-1-18SUM-0000010,1652370,Conestoga Mall,0,234439,90038,1,1
 9,9-Saturday-1-18SUM-0000010,1652371,Conestoga Mall,0,234440,90038,1,1
