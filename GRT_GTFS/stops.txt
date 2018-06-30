@@ -347,7 +347,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1372,1372,Saginaw / Fairgreen,,  43.389892, -80.288305,,,0,,1
 1373,1373,Saginaw / Stonecairn,,  43.390437, -80.292016,,,0,,1
 1374,1374,Saginaw / Cowan,,  43.389725, -80.296321,,,0,,1
-1375,1375,Frederick / Duke,,  43.450472, -80.486959,,,0,,1
 1376,1376,Charles / Benton,,  43.448610, -80.488850,,,0,,1
 1378,1378,Elgin / Franklin,,  43.391386, -80.302957,,,0,,1
 1379,1379,Elgin / Bushnell,,  43.391115, -80.308615,,,0,,1
@@ -480,7 +479,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1510,1510,Concession / Cameron,,  43.354863, -80.307126,,,0,,1
 1511,1511,Ainslie Terminal,,  43.357170, -80.313529,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1512,1512,Ainslie Terminal,,  43.357332, -80.313503,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1514,1514,Ainslie Terminal,,  43.357656, -80.313462,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1516,1516,Ainslie Terminal,,  43.357617, -80.312981,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1517,1517,Ainslie Terminal,,  43.357580, -80.312759,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1518,1518,Ainslie Terminal,,  43.357400, -80.312823,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
@@ -788,7 +786,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1864,1864,Strasburg / Bleams,,  43.407640, -80.475024,,,0,,1
 1865,1865,Strasburg / Old Country,,  43.411049, -80.476069,,,0,,1
 1866,1866,Thaler / 150S Block,,  43.434146, -80.431117,,,0,,1
-1869,1869,Kinzie / Walker,,  43.433093, -80.436625,,,0,,1
 1870,1870,Weber / Kinzie,,  43.432476, -80.439312,,,0,,1
 1871,1871,Weber / Fergus,,  43.433670, -80.442192,,,0,,1
 1872,1872,Weber / Arlington,,  43.433645, -80.444564,,,0,,1
@@ -1402,11 +1399,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2639,2639,East / Cameron,,  43.451003, -80.471595,,,0,,1
 2645,2645,East / Cameron,,  43.450497, -80.471462,,,0,,1
 2646,2646,East / Stirling,,  43.448445, -80.470116,,,0,,1
-2649,2649,Weber / Fairview,,  43.446823, -80.475909,,,0,,1
-2650,2650,Weber / Pandora,,  43.447259, -80.476881,,,0,,1
-2651,2651,Weber / Cameron,,  43.447951, -80.478433,,,0,,1
-2652,2652,Weber / Madison,,  43.448660, -80.480008,,,0,,1
-2653,2653,Weber / Cedar,,  43.449288, -80.481400,,,0,,1
 2654,2654,Margaret / Queen,,  43.454683, -80.485741,,,0,,1
 2656,2656,Margaret / Victoria,,  43.456787, -80.489220,,,0,,1
 2657,2657,Margaret / Wellington,,  43.458991, -80.490600,,,0,,1
@@ -2061,7 +2053,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3554,3554,Victoria / Path To Winding Meadow,,  43.429380, -80.550663,,,0,,1
 3555,3555,Victoria / Westforest,,  43.431715, -80.543974,,,0,,1
 3556,3556,Victoria / Westforest,,  43.431812, -80.544271,,,0,,1
-3558,3558,Huron Heights S.S.,,  43.394488, -80.466832,,,0,place_HHS,1
 3559,3559,Frederick / Turner,,  43.463495, -80.459587,,,0,,1
 3560,3560,Frederick / Victoria,,  43.465475, -80.458256,,,0,,1
 3561,3561,Halifax / Confederation,,  43.461771, -80.445463,,,0,,1
@@ -2075,7 +2066,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3573,3573,Forwell / Victoria,,  43.473136, -80.436785,,,0,,1
 3574,3574,River / Gibson,,  43.455042, -80.446977,,,0,,1
 3575,3575,Frederick / Weber,,  43.451182, -80.486142,,,0,,1
-3576,3576,Weber / Eastwood S.S.,,  43.438918, -80.460691,,,0,place_ECI,1
 3578,3578,Krug / Lancaster,,  43.449699, -80.480828,,,0,,1
 3579,3579,King / Pandora,,  43.445207, -80.479099,,,0,,1
 3580,3580,Weber / Kitchener Rail Station,,  43.454651, -80.493409,,,0,,1
@@ -2142,7 +2132,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3695,3695,Keats Way / Brynhurst,,  43.456713, -80.564869,,,0,,1
 3697,3697,Lake Louise / Killbear,,  43.490676, -80.581309,,,0,,1
 3698,3698,Lake Louise / Pinery,,  43.492559, -80.581605,,,0,,1
-3715,3715,Eastwood C.I.,,  43.439272, -80.461306,,,0,place_ECI,1
 3720,3720,Grand River Hospital - Mount Hope Street,,  43.456159, -80.514492,,,0,place_GRH,1
 3723,3723,860 Trillium Dr,,  43.400139, -80.484672,,,0,,1
 3724,3724,825 Trillium Dr,,  43.399551, -80.484158,,,0,,1
@@ -2507,7 +2496,6 @@ place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CML,,Conestoga Mall,,  43.498065, -80.528707,,,1,,
 place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
-place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
