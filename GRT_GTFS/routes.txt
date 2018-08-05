@@ -18,6 +18,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 21,21,Elmira,3,a6ce38,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
 22,22,Laurentian West,3,756fb3,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 23,23,Idlewood,3,f6adcd,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
+26,26,Trillium,3,5a2a00,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 27,27,Chicopee,3,f58245,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 29,29,Keats Way,3,a54686,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 31,31,Columbia,3,aaa575,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
