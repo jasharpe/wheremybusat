@@ -252,6 +252,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1268,1268,Winston / Gunn,,  43.421371, -80.304453,,,0,,1
 1269,1269,Winston / Westbury,,  43.421738, -80.307093,,,0,,1
 1270,1270,Caroline / Willis Way Station,,  43.462101, -80.523304,,,0,,1
+1273,1273,Charles / Water,,  43.450800, -80.495420,,,0,,1
 1274,1274,Queen / Rooshill,,  43.424285, -80.323334,,,0,,1
 1275,1275,Bishop / Collier Macmillan,,  43.395862, -80.320330,,,0,,1
 1276,1276,Groh / Holiday Inn,,  43.419159, -80.325985,,,0,,1
@@ -270,6 +271,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1289,1289,Laurel / Eagle,,  43.403319, -80.355467,,,0,,1
 1290,1290,Eagle / Arlington,,  43.403974, -80.351903,,,0,,1
 1291,1291,Fisher Mills / Scott,,  43.435349, -80.320880,,,0,,1
+1292,1292,Charles / Water,,  43.450966, -80.495495,,,0,,1
 1293,1293,Medical Centre At The Boardwalk,,  43.440029, -80.565105,,,0,,1
 1294,1294,Holiday Inn / Tri-City Centre,,  43.417366, -80.324300,,,0,,1
 1295,1295,Holiday Inn / 200 Block,,  43.416395, -80.321408,,,0,,1
@@ -831,9 +833,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1885,1885,King / Pandora,,  43.445188, -80.478765,,,0,,1
 1886,1886,King / Cameron,,  43.446079, -80.480636,,,0,,1
 1887,1887,King / Cedar,,  43.447344, -80.483579,,,0,,1
-1888,1888,King / Frederick,,  43.449135, -80.487370,,,0,,1
-1889,1889,King / Queen,,  43.449708, -80.488700,,,0,,1
-1890,1890,King / Ontario,,  43.450437, -80.490610,,,0,,1
 1891,1891,King / College,,  43.451504, -80.493728,,,0,,1
 1892,1892,King / Francis,,  43.452289, -80.496119,,,0,,1
 1893,1893,King / Victoria,,  43.452855, -80.497931,,,0,,1
