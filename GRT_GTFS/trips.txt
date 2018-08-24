@@ -12936,7 +12936,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 7,7-Weekday-2-18SUM-1111100,1648991,B - Fairview Park via Weber,1,234308,70286,1,1
 7,7-Weekday-2-18SUM-1111100,1648992,B - Fairview Park via Weber,1,234326,70286,1,1
 7,7-Weekday-2-18SUM-1111100,1648993,B - Fairview Park via Weber,1,234320,70286,1,1
-7,7-Weekday-2-18SUM-1111100,1648994,C - Conestoga Mall,0,234319,70332,1,1
+7,7-Weekday-2-18SUM-1111100,1648994,C - Conestoga Mall,0,234319,70330,1,1
 7,7-Weekday-2-18SUM-1111100,1648995,C - Conestoga Mall,0,234309,70330,1,1
 7,7-Weekday-2-18SUM-1111100,1648996,C - Conestoga Mall,0,234315,70330,1,1
 7,7-Weekday-2-18SUM-1111100,1648997,C - Conestoga Mall,0,236087,70330,1,1
@@ -13107,22 +13107,22 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18FALL-0000010,1662230,University/King via Crtlnd & Weber,0,235107,80205,1,1
 8,8-Saturday-1-18FALL-0000010,1662231,University/King via Crtlnd & Weber,0,235102,80205,1,1
 8,8-Saturday-1-18FALL-0000010,1662232,University/King via Crtlnd & Weber,0,235104,80204,1,1
-8,8-Saturday-1-18FALL-0000010,1662233,Fairview Park via Weber & Courtland,1,235105,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662234,Fairview Park via Weber & Courtland,1,235105,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662235,Fairview Park via Weber & Courtland,1,235103,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662236,Fairview Park via Weber & Courtland,1,235105,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662237,Fairview Park via Weber & Courtland,1,235103,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662238,Fairview Park via Weber & Courtland,1,235105,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662239,Fairview Park via Weber & Courtland,1,235105,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662240,Fairview Park via Weber & Courtland,1,235102,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662241,Fairview Park via Weber & Courtland,1,235106,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662242,Fairview Park via Weber & Courtland,1,235105,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662243,Fairview Park via Weber & Courtland,1,235102,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662244,Fairview Park via Weber & Courtland,1,235106,80126,1,1
+8,8-Saturday-1-18FALL-0000010,1662233,Fairview Park via Weber & Courtland,1,235105,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662234,Fairview Park via Weber & Courtland,1,235105,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662235,Fairview Park via Weber & Courtland,1,235103,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662236,Fairview Park via Weber & Courtland,1,235105,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662237,Fairview Park via Weber & Courtland,1,235103,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662238,Fairview Park via Weber & Courtland,1,235105,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662239,Fairview Park via Weber & Courtland,1,235105,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662240,Fairview Park via Weber & Courtland,1,235102,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662241,Fairview Park via Weber & Courtland,1,235106,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662242,Fairview Park via Weber & Courtland,1,235105,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662243,Fairview Park via Weber & Courtland,1,235102,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662244,Fairview Park via Weber & Courtland,1,235106,80088,1,1
 8,8-Saturday-1-18FALL-0000010,1662245,University/King via Crtlnd & Weber,0,235107,80204,1,1
 8,8-Saturday-1-18FALL-0000010,1662246,University/King via Crtlnd & Weber,0,235107,80205,1,1
-8,8-Saturday-1-18FALL-0000010,1662247,Fairview Park via Weber & Courtland,1,235104,80127,1,1
-8,8-Saturday-1-18FALL-0000010,1662248,Fairview Park via Weber & Courtland,1,235103,80126,1,1
+8,8-Saturday-1-18FALL-0000010,1662247,Fairview Park via Weber & Courtland,1,235104,80089,1,1
+8,8-Saturday-1-18FALL-0000010,1662248,Fairview Park via Weber & Courtland,1,235103,80088,1,1
 8,8-Saturday-1-18FALL-0000010,1662249,University/King via Franklin & Westmount,0,235101,80158,1,1
 8,8-Saturday-1-18FALL-0000010,1662250,University/King via Franklin & Westmount,0,235103,80158,1,1
 8,8-Saturday-1-18FALL-0000010,1662251,University/King via Franklin & Westmount,0,235105,80157,1,1
@@ -13139,7 +13139,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18FALL-0000010,1662262,University/King via Franklin & Westmount,0,235105,80157,1,1
 8,8-Saturday-1-18FALL-0000010,1662263,University/King via Franklin & Westmount,0,235103,80158,1,1
 8,8-Saturday-1-18FALL-0000010,1662264,University/King via Franklin & Westmount,0,235105,80158,1,1
-8,8-Saturday-1-18FALL-0000010,1662265,Fairview Park via Weber & Courtland,1,235103,80126,1,1
+8,8-Saturday-1-18FALL-0000010,1662265,Fairview Park via Weber & Courtland,1,235103,80088,1,1
 8,8-Saturday-1-18FALL-0000010,1662266,University/King via Franklin & Westmount,0,235106,80158,1,1
 8,8-Saturday-1-18FALL-0000010,1662267,University/King via Franklin & Westmount,0,235102,80158,1,1
 8,8-Saturday-1-18FALL-0000010,1662268,University/King via Franklin & Westmount,0,235101,80158,1,1
@@ -13150,24 +13150,24 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18FALL-0000010,1662273,University/King via Franklin & Westmount,0,235107,80158,1,1
 8,8-Saturday-1-18FALL-0000010,1662274,University/King via Franklin & Westmount,0,235102,80157,1,1
 8,8-Saturday-1-18FALL-0000010,1662275,University/King via Franklin & Westmount,0,235102,80158,1,1
-8,8-Saturday-1-18FALL-0000010,1662276,Fairview Park via Weber & Courtland,1,235105,80126,1,1
-8,8-Saturday-1-18FALL-0000010,1662277,Fairview Park via Weber & Courtland,1,235105,80129,1,1
-8,8-Saturday-1-18FALL-0000010,1662278,Fairview Park via Weber & Courtland,1,235102,80129,1,1
-8,8-Saturday-1-18FALL-0000010,1662279,Fairview Park via Weber & Courtland,1,235106,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662280,Fairview Park via Weber & Courtland,1,235105,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662281,Fairview Park via Weber & Courtland,1,235103,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662282,Fairview Park via Weber & Courtland,1,235104,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662283,Fairview Park via Weber & Courtland,1,235107,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662284,Fairview Park via Weber & Courtland,1,235101,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662285,Fairview Park via Weber & Courtland,1,235102,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662286,Fairview Park via Weber & Courtland,1,235106,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662287,Fairview Park via Weber & Courtland,1,235105,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662288,Fairview Park via Weber & Courtland,1,235103,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662289,Fairview Park via Weber & Courtland,1,235104,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662290,Fairview Park via Weber & Courtland,1,235107,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662291,Fairview Park via Weber & Courtland,1,235101,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662292,Fairview Park via Weber & Courtland,1,235102,80128,1,1
-8,8-Saturday-1-18FALL-0000010,1662293,Fairview Park via Weber & Courtland,1,235106,80127,1,1
+8,8-Saturday-1-18FALL-0000010,1662276,Fairview Park via Weber & Courtland,1,235105,80088,1,1
+8,8-Saturday-1-18FALL-0000010,1662277,Fairview Park via Weber & Courtland,1,235105,80092,1,1
+8,8-Saturday-1-18FALL-0000010,1662278,Fairview Park via Weber & Courtland,1,235102,80092,1,1
+8,8-Saturday-1-18FALL-0000010,1662279,Fairview Park via Weber & Courtland,1,235106,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662280,Fairview Park via Weber & Courtland,1,235105,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662281,Fairview Park via Weber & Courtland,1,235103,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662282,Fairview Park via Weber & Courtland,1,235104,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662283,Fairview Park via Weber & Courtland,1,235107,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662284,Fairview Park via Weber & Courtland,1,235101,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662285,Fairview Park via Weber & Courtland,1,235102,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662286,Fairview Park via Weber & Courtland,1,235106,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662287,Fairview Park via Weber & Courtland,1,235105,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662288,Fairview Park via Weber & Courtland,1,235103,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662289,Fairview Park via Weber & Courtland,1,235104,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662290,Fairview Park via Weber & Courtland,1,235107,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662291,Fairview Park via Weber & Courtland,1,235101,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662292,Fairview Park via Weber & Courtland,1,235102,80090,1,1
+8,8-Saturday-1-18FALL-0000010,1662293,Fairview Park via Weber & Courtland,1,235106,80089,1,1
 8,8-Saturday-1-18FALL-0000010,1662294,Fairview Park via Westmount & Franklin,1,235104,80197,1,1
 8,8-Saturday-1-18FALL-0000010,1662295,Fairview Park via Westmount & Franklin,1,235103,80197,1,1
 8,8-Saturday-1-18FALL-0000010,1662296,Fairview Park via Westmount & Franklin,1,235107,80197,1,1
@@ -13246,22 +13246,22 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18SUM-0000010,1652467,University/King via Crtlnd & Weber,0,234466,80207,1,1
 8,8-Saturday-1-18SUM-0000010,1652468,University/King via Crtlnd & Weber,0,234461,80207,1,1
 8,8-Saturday-1-18SUM-0000010,1652469,University/King via Crtlnd & Weber,0,234463,80206,1,1
-8,8-Saturday-1-18SUM-0000010,1652470,Fairview Park via Weber & Courtland,1,234464,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652471,Fairview Park via Weber & Courtland,1,234464,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652472,Fairview Park via Weber & Courtland,1,234462,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652473,Fairview Park via Weber & Courtland,1,234464,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652474,Fairview Park via Weber & Courtland,1,234462,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652475,Fairview Park via Weber & Courtland,1,234464,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652476,Fairview Park via Weber & Courtland,1,234464,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652477,Fairview Park via Weber & Courtland,1,234461,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652478,Fairview Park via Weber & Courtland,1,234465,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652479,Fairview Park via Weber & Courtland,1,234464,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652480,Fairview Park via Weber & Courtland,1,234461,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652481,Fairview Park via Weber & Courtland,1,234465,80126,1,1
+8,8-Saturday-1-18SUM-0000010,1652470,Fairview Park via Weber & Courtland,1,234464,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652471,Fairview Park via Weber & Courtland,1,234464,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652472,Fairview Park via Weber & Courtland,1,234462,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652473,Fairview Park via Weber & Courtland,1,234464,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652474,Fairview Park via Weber & Courtland,1,234462,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652475,Fairview Park via Weber & Courtland,1,234464,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652476,Fairview Park via Weber & Courtland,1,234464,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652477,Fairview Park via Weber & Courtland,1,234461,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652478,Fairview Park via Weber & Courtland,1,234465,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652479,Fairview Park via Weber & Courtland,1,234464,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652480,Fairview Park via Weber & Courtland,1,234461,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652481,Fairview Park via Weber & Courtland,1,234465,80088,1,1
 8,8-Saturday-1-18SUM-0000010,1652482,University/King via Crtlnd & Weber,0,234466,80206,1,1
 8,8-Saturday-1-18SUM-0000010,1652483,University/King via Crtlnd & Weber,0,234466,80207,1,1
-8,8-Saturday-1-18SUM-0000010,1652484,Fairview Park via Weber & Courtland,1,234463,80127,1,1
-8,8-Saturday-1-18SUM-0000010,1652485,Fairview Park via Weber & Courtland,1,234462,80126,1,1
+8,8-Saturday-1-18SUM-0000010,1652484,Fairview Park via Weber & Courtland,1,234463,80089,1,1
+8,8-Saturday-1-18SUM-0000010,1652485,Fairview Park via Weber & Courtland,1,234462,80088,1,1
 8,8-Saturday-1-18SUM-0000010,1652486,University/King via Franklin & Westmount,0,234460,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652487,University/King via Franklin & Westmount,0,234462,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652488,University/King via Franklin & Westmount,0,234464,80176,1,1
@@ -13278,7 +13278,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18SUM-0000010,1652499,University/King via Franklin & Westmount,0,234464,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652500,University/King via Franklin & Westmount,0,234462,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652501,University/King via Franklin & Westmount,0,234464,80176,1,1
-8,8-Saturday-1-18SUM-0000010,1652502,Fairview Park via Weber & Courtland,1,234462,80126,1,1
+8,8-Saturday-1-18SUM-0000010,1652502,Fairview Park via Weber & Courtland,1,234462,80088,1,1
 8,8-Saturday-1-18SUM-0000010,1652503,University/King via Franklin & Westmount,0,234465,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652504,University/King via Franklin & Westmount,0,234461,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652505,University/King via Franklin & Westmount,0,234460,80176,1,1
@@ -13289,24 +13289,24 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18SUM-0000010,1652510,University/King via Franklin & Westmount,0,234466,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652511,University/King via Franklin & Westmount,0,234461,80176,1,1
 8,8-Saturday-1-18SUM-0000010,1652512,University/King via Franklin & Westmount,0,234461,80176,1,1
-8,8-Saturday-1-18SUM-0000010,1652513,Fairview Park via Weber & Courtland,1,234464,80126,1,1
-8,8-Saturday-1-18SUM-0000010,1652514,Fairview Park via Weber & Courtland,1,234464,80129,1,1
-8,8-Saturday-1-18SUM-0000010,1652515,Fairview Park via Weber & Courtland,1,234461,80129,1,1
-8,8-Saturday-1-18SUM-0000010,1652516,Fairview Park via Weber & Courtland,1,234465,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652517,Fairview Park via Weber & Courtland,1,234464,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652518,Fairview Park via Weber & Courtland,1,234462,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652519,Fairview Park via Weber & Courtland,1,234463,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652520,Fairview Park via Weber & Courtland,1,234466,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652521,Fairview Park via Weber & Courtland,1,234460,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652522,Fairview Park via Weber & Courtland,1,234461,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652523,Fairview Park via Weber & Courtland,1,234465,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652524,Fairview Park via Weber & Courtland,1,234464,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652525,Fairview Park via Weber & Courtland,1,234462,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652526,Fairview Park via Weber & Courtland,1,234463,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652527,Fairview Park via Weber & Courtland,1,234466,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652528,Fairview Park via Weber & Courtland,1,234460,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652529,Fairview Park via Weber & Courtland,1,234461,80128,1,1
-8,8-Saturday-1-18SUM-0000010,1652530,Fairview Park via Weber & Courtland,1,234465,80127,1,1
+8,8-Saturday-1-18SUM-0000010,1652513,Fairview Park via Weber & Courtland,1,234464,80088,1,1
+8,8-Saturday-1-18SUM-0000010,1652514,Fairview Park via Weber & Courtland,1,234464,80092,1,1
+8,8-Saturday-1-18SUM-0000010,1652515,Fairview Park via Weber & Courtland,1,234461,80092,1,1
+8,8-Saturday-1-18SUM-0000010,1652516,Fairview Park via Weber & Courtland,1,234465,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652517,Fairview Park via Weber & Courtland,1,234464,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652518,Fairview Park via Weber & Courtland,1,234462,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652519,Fairview Park via Weber & Courtland,1,234463,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652520,Fairview Park via Weber & Courtland,1,234466,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652521,Fairview Park via Weber & Courtland,1,234460,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652522,Fairview Park via Weber & Courtland,1,234461,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652523,Fairview Park via Weber & Courtland,1,234465,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652524,Fairview Park via Weber & Courtland,1,234464,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652525,Fairview Park via Weber & Courtland,1,234462,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652526,Fairview Park via Weber & Courtland,1,234463,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652527,Fairview Park via Weber & Courtland,1,234466,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652528,Fairview Park via Weber & Courtland,1,234460,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652529,Fairview Park via Weber & Courtland,1,234461,80090,1,1
+8,8-Saturday-1-18SUM-0000010,1652530,Fairview Park via Weber & Courtland,1,234465,80089,1,1
 8,8-Saturday-1-18SUM-0000010,1652531,Fairview Park via Westmount & Franklin,1,234463,80191,1,1
 8,8-Saturday-1-18SUM-0000010,1652532,Fairview Park via Westmount & Franklin,1,234462,80191,1,1
 8,8-Saturday-1-18SUM-0000010,1652533,Fairview Park via Westmount & Franklin,1,234466,80191,1,1
@@ -13354,7 +13354,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18SUM-0000010,1652575,Fairview Park via Westmount & Franklin,1,234466,80191,1,1
 8,8-Saturday-1-18SUM-0000010,1652576,Fairview Park via Westmount & Franklin,1,234461,80191,1,1
 8,8-Saturday-1-18SUM-0000010,1652577,Fairview Park via Westmount & Franklin,1,234466,80189,1,1
-8,8-Sunday-1-18FALL-0000001,1664390,Fairview Park via Weber & Courtland,1,235176,80127,1,1
+8,8-Sunday-1-18FALL-0000001,1664390,Fairview Park via Weber & Courtland,1,235176,80089,1,1
 8,8-Sunday-1-18FALL-0000001,1664391,University/King via Crtlnd & Weber,0,235177,80204,1,1
 8,8-Sunday-1-18FALL-0000001,1664392,University/King via Crtlnd & Weber,0,235178,80204,1,1
 8,8-Sunday-1-18FALL-0000001,1664393,University/King via Crtlnd & Weber,0,235177,80204,1,1
@@ -13376,28 +13376,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Sunday-1-18FALL-0000001,1664409,University/King via Crtlnd & Weber,0,235177,80204,1,1
 8,8-Sunday-1-18FALL-0000001,1664410,University/King via Crtlnd & Weber,0,235179,80204,1,1
 8,8-Sunday-1-18FALL-0000001,1664411,University/King via Crtlnd & Weber,0,235177,80204,1,1
-8,8-Sunday-1-18FALL-0000001,1664412,Fairview Park via Weber & Courtland,1,235176,80126,1,1
-8,8-Sunday-1-18FALL-0000001,1664413,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664414,Fairview Park via Weber & Courtland,1,235176,80126,1,1
-8,8-Sunday-1-18FALL-0000001,1664415,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664416,Fairview Park via Weber & Courtland,1,235176,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664417,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664418,Fairview Park via Weber & Courtland,1,235176,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664419,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664420,Fairview Park via Weber & Courtland,1,235176,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664421,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664422,Fairview Park via Weber & Courtland,1,235176,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664423,Fairview Park via Weber & Courtland,1,235175,80127,1,1
+8,8-Sunday-1-18FALL-0000001,1664412,Fairview Park via Weber & Courtland,1,235176,80088,1,1
+8,8-Sunday-1-18FALL-0000001,1664413,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664414,Fairview Park via Weber & Courtland,1,235176,80088,1,1
+8,8-Sunday-1-18FALL-0000001,1664415,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664416,Fairview Park via Weber & Courtland,1,235176,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664417,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664418,Fairview Park via Weber & Courtland,1,235176,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664419,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664420,Fairview Park via Weber & Courtland,1,235176,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664421,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664422,Fairview Park via Weber & Courtland,1,235176,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664423,Fairview Park via Weber & Courtland,1,235175,80089,1,1
 8,8-Sunday-1-18FALL-0000001,1664424,University/King via Crtlnd & Weber,0,235178,80204,1,1
-8,8-Sunday-1-18FALL-0000001,1664425,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664426,Fairview Park via Weber & Courtland,1,235176,80126,1,1
-8,8-Sunday-1-18FALL-0000001,1664427,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664428,Fairview Park via Weber & Courtland,1,235176,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664429,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664430,Fairview Park via Weber & Courtland,1,235176,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664431,Fairview Park via Weber & Courtland,1,235175,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664432,Fairview Park via Weber & Courtland,1,235176,80127,1,1
-8,8-Sunday-1-18FALL-0000001,1664433,Fairview Park via Weber & Courtland,1,235175,80127,1,1
+8,8-Sunday-1-18FALL-0000001,1664425,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664426,Fairview Park via Weber & Courtland,1,235176,80088,1,1
+8,8-Sunday-1-18FALL-0000001,1664427,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664428,Fairview Park via Weber & Courtland,1,235176,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664429,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664430,Fairview Park via Weber & Courtland,1,235176,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664431,Fairview Park via Weber & Courtland,1,235175,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664432,Fairview Park via Weber & Courtland,1,235176,80089,1,1
+8,8-Sunday-1-18FALL-0000001,1664433,Fairview Park via Weber & Courtland,1,235175,80089,1,1
 8,8-Sunday-1-18FALL-0000001,1664434,Charles Terminal via Weber,1,235176,80033,1,1
 8,8-Sunday-1-18FALL-0000001,1664435,Charles Terminal via Westmount,1,235177,80055,1,1
 8,8-Sunday-1-18FALL-0000001,1664436,Charles Terminal via Westmount,1,235178,80055,1,1
@@ -13445,7 +13445,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Sunday-1-18FALL-0000001,1664478,Fairview Park via Westmount & Franklin,1,235178,80197,1,1
 8,8-Sunday-1-18FALL-0000001,1664479,Fairview Park via Westmount & Franklin,1,235177,80197,1,1
 8,8-Sunday-1-18FALL-0000001,1664480,Fairview Park via Franklin,1,235179,80199,1,1
-8,8-Sunday-1-18SUM-0000001,1654973,Fairview Park via Weber & Courtland,1,234568,80127,1,1
+8,8-Sunday-1-18SUM-0000001,1654973,Fairview Park via Weber & Courtland,1,234568,80089,1,1
 8,8-Sunday-1-18SUM-0000001,1654974,University/King via Crtlnd & Weber,0,234569,80206,1,1
 8,8-Sunday-1-18SUM-0000001,1654975,University/King via Crtlnd & Weber,0,234570,80206,1,1
 8,8-Sunday-1-18SUM-0000001,1654976,University/King via Crtlnd & Weber,0,234569,80206,1,1
@@ -13467,28 +13467,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Sunday-1-18SUM-0000001,1654992,University/King via Crtlnd & Weber,0,234569,80206,1,1
 8,8-Sunday-1-18SUM-0000001,1654993,University/King via Crtlnd & Weber,0,234571,80206,1,1
 8,8-Sunday-1-18SUM-0000001,1654994,University/King via Crtlnd & Weber,0,234569,80206,1,1
-8,8-Sunday-1-18SUM-0000001,1654995,Fairview Park via Weber & Courtland,1,234568,80126,1,1
-8,8-Sunday-1-18SUM-0000001,1654996,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1654997,Fairview Park via Weber & Courtland,1,234568,80126,1,1
-8,8-Sunday-1-18SUM-0000001,1654998,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1654999,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655000,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655001,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655002,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655003,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655004,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655005,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655006,Fairview Park via Weber & Courtland,1,234567,80127,1,1
+8,8-Sunday-1-18SUM-0000001,1654995,Fairview Park via Weber & Courtland,1,234568,80088,1,1
+8,8-Sunday-1-18SUM-0000001,1654996,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1654997,Fairview Park via Weber & Courtland,1,234568,80088,1,1
+8,8-Sunday-1-18SUM-0000001,1654998,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1654999,Fairview Park via Weber & Courtland,1,234568,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655000,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655001,Fairview Park via Weber & Courtland,1,234568,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655002,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655003,Fairview Park via Weber & Courtland,1,234568,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655004,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655005,Fairview Park via Weber & Courtland,1,234568,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655006,Fairview Park via Weber & Courtland,1,234567,80089,1,1
 8,8-Sunday-1-18SUM-0000001,1655007,University/King via Crtlnd & Weber,0,234570,80206,1,1
-8,8-Sunday-1-18SUM-0000001,1655008,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655009,Fairview Park via Weber & Courtland,1,234568,80126,1,1
-8,8-Sunday-1-18SUM-0000001,1655010,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655011,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655012,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655013,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655014,Fairview Park via Weber & Courtland,1,234567,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655015,Fairview Park via Weber & Courtland,1,234568,80127,1,1
-8,8-Sunday-1-18SUM-0000001,1655016,Fairview Park via Weber & Courtland,1,234567,80127,1,1
+8,8-Sunday-1-18SUM-0000001,1655008,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655009,Fairview Park via Weber & Courtland,1,234568,80088,1,1
+8,8-Sunday-1-18SUM-0000001,1655010,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655011,Fairview Park via Weber & Courtland,1,234568,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655012,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655013,Fairview Park via Weber & Courtland,1,234568,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655014,Fairview Park via Weber & Courtland,1,234567,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655015,Fairview Park via Weber & Courtland,1,234568,80089,1,1
+8,8-Sunday-1-18SUM-0000001,1655016,Fairview Park via Weber & Courtland,1,234567,80089,1,1
 8,8-Sunday-1-18SUM-0000001,1655017,Charles Terminal via Weber,1,234568,80033,1,1
 8,8-Sunday-1-18SUM-0000001,1655018,Charles Terminal via Westmount,1,234569,80055,1,1
 8,8-Sunday-1-18SUM-0000001,1655019,Charles Terminal via Westmount,1,234570,80055,1,1
@@ -13568,27 +13568,27 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1658920,University/King via Crtlnd & Weber,0,237052,80204,1,1
 8,8-Weekday-1-18FALL-1111100,1658921,University/King via Crtlnd & Weber,0,237051,80204,1,1
 8,8-Weekday-1-18FALL-1111100,1658922,University/King via Weber,0,237052,80203,1,1
-8,8-Weekday-1-18FALL-1111100,1658923,Fairview Park via Courtland,1,237055,80193,1,1
-8,8-Weekday-1-18FALL-1111100,1658924,Fairview Park via Courtland,1,237049,80193,1,1
-8,8-Weekday-1-18FALL-1111100,1658925,Fairview Park via Weber & Courtland,1,237053,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658926,Fairview Park via Weber & Courtland,1,237050,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658927,Fairview Park via Weber & Courtland,1,237050,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658928,Fairview Park via Weber & Courtland,1,237054,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658929,Fairview Park via Weber & Courtland,1,237049,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658930,Fairview Park via Weber & Courtland,1,237050,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658931,Fairview Park via Weber & Courtland,1,237049,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658932,Fairview Park via Weber & Courtland,1,237050,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658933,Fairview Park via Weber & Courtland,1,237049,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658934,Fairview Park via Weber & Courtland,1,237050,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658935,Fairview Park via Weber & Courtland,1,237049,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1658936,Fairview Park via Weber & Courtland,1,237050,80127,1,1
+8,8-Weekday-1-18FALL-1111100,1658923,Fairview Park via Courtland,1,237055,80079,1,1
+8,8-Weekday-1-18FALL-1111100,1658924,Fairview Park via Courtland,1,237049,80079,1,1
+8,8-Weekday-1-18FALL-1111100,1658925,Fairview Park via Weber & Courtland,1,237053,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658926,Fairview Park via Weber & Courtland,1,237050,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658927,Fairview Park via Weber & Courtland,1,237050,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658928,Fairview Park via Weber & Courtland,1,237054,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658929,Fairview Park via Weber & Courtland,1,237049,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658930,Fairview Park via Weber & Courtland,1,237050,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658931,Fairview Park via Weber & Courtland,1,237049,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658932,Fairview Park via Weber & Courtland,1,237050,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658933,Fairview Park via Weber & Courtland,1,237049,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658934,Fairview Park via Weber & Courtland,1,237050,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658935,Fairview Park via Weber & Courtland,1,237049,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1658936,Fairview Park via Weber & Courtland,1,237050,80089,1,1
 8,8-Weekday-1-18FALL-1111100,1658937,Fairview Park via Franklin,1,237051,80199,1,1
 8,8-Weekday-1-18FALL-1111100,1658938,Fairview Park via Franklin,1,237046,80199,1,1
 8,8-Weekday-1-18FALL-1111100,1658939,Fairview Park via Westmount & Franklin,1,237186,80198,1,1
-8,8-Weekday-1-18FALL-1111100,1658940,Fairview Park via Weber & Courtland,1,237053,80127,1,1
+8,8-Weekday-1-18FALL-1111100,1658940,Fairview Park via Weber & Courtland,1,237053,80089,1,1
 8,8-Weekday-1-18FALL-1111100,1658941,University/King via Crtlnd & Weber,0,237052,80204,1,1
 8,8-Weekday-1-18FALL-1111100,1658942,University/King via Crtlnd & Weber,0,237046,80204,1,1
-8,8-Weekday-1-18FALL-1111100,1658943,Fairview Park via Weber & Courtland,1,237054,80128,1,1
+8,8-Weekday-1-18FALL-1111100,1658943,Fairview Park via Weber & Courtland,1,237054,80090,1,1
 8,8-Weekday-1-18FALL-1111100,1658944,Fairview Park via Westmount & Franklin,1,237046,80200,1,1
 8,8-Weekday-1-18FALL-1111100,1658945,Fairview Park via Westmount & Franklin,1,237052,80200,1,1
 8,8-Weekday-1-18FALL-1111100,1658946,Fairview Park via Westmount & Franklin,1,237049,80200,1,1
@@ -13602,19 +13602,19 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1658954,Fairview Park via Westmount & Franklin,1,237053,80200,1,1
 8,8-Weekday-1-18FALL-1111100,1658955,Fairview Park via Westmount & Franklin,1,237050,80200,1,1
 8,8-Weekday-1-18FALL-1111100,1658956,Fairview Park via Westmount & Franklin,1,237054,80200,1,1
-8,8-Weekday-1-18FALL-1111100,1658957,Fairview Park via Weber & Courtland,1,237051,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658958,Fairview Park via Weber & Courtland,1,237052,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658959,Fairview Park via Weber & Courtland,1,237046,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658960,Fairview Park via Weber & Courtland,1,237049,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658961,Fairview Park via Weber & Courtland,1,237053,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658962,Fairview Park via Weber & Courtland,1,237050,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658963,Fairview Park via Weber & Courtland,1,237054,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658964,Fairview Park via Weber & Courtland,1,237051,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658965,Fairview Park via Weber & Courtland,1,237052,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658966,Fairview Park via Weber & Courtland,1,237046,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658967,Fairview Park via Weber & Courtland,1,237049,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658968,Fairview Park via Weber & Courtland,1,237053,80128,1,1
-8,8-Weekday-1-18FALL-1111100,1658969,Fairview Park via Weber & Courtland,1,237050,80127,1,1
+8,8-Weekday-1-18FALL-1111100,1658957,Fairview Park via Weber & Courtland,1,237051,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658958,Fairview Park via Weber & Courtland,1,237052,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658959,Fairview Park via Weber & Courtland,1,237046,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658960,Fairview Park via Weber & Courtland,1,237049,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658961,Fairview Park via Weber & Courtland,1,237053,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658962,Fairview Park via Weber & Courtland,1,237050,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658963,Fairview Park via Weber & Courtland,1,237054,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658964,Fairview Park via Weber & Courtland,1,237051,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658965,Fairview Park via Weber & Courtland,1,237052,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658966,Fairview Park via Weber & Courtland,1,237046,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658967,Fairview Park via Weber & Courtland,1,237049,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658968,Fairview Park via Weber & Courtland,1,237053,80090,1,1
+8,8-Weekday-1-18FALL-1111100,1658969,Fairview Park via Weber & Courtland,1,237050,80089,1,1
 8,8-Weekday-1-18FALL-1111100,1658970,University/King via Crtlnd & Weber,0,237054,80204,1,1
 8,8-Weekday-1-18FALL-1111100,1658971,Fairview Park via Westmount & Franklin,1,237051,80200,1,1
 8,8-Weekday-1-18FALL-1111100,1658972,Fairview Park via Westmount & Franklin,1,237052,80198,1,1
@@ -13649,7 +13649,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1659001,Fairview Park via Westmount & Franklin,1,237046,80197,1,1
 8,8-Weekday-1-18FALL-1111100,1659002,University/King via Crtlnd & Weber,0,237046,80204,1,1
 8,8-Weekday-1-18FALL-1111100,1659003,University/King via Crtlnd & Weber,0,237052,80204,1,1
-8,8-Weekday-1-18FALL-1111100,1659004,Fairview Park via Weber & Courtland,1,237053,80127,1,1
+8,8-Weekday-1-18FALL-1111100,1659004,Fairview Park via Weber & Courtland,1,237053,80089,1,1
 8,8-Weekday-1-18FALL-1111100,1659005,University/King via Westmount,0,237060,80195,1,1
 8,8-Weekday-1-18FALL-1111100,1659006,University/King via Westmount,0,237061,80195,1,1
 8,8-Weekday-1-18FALL-1111100,1659007,University/King via Westmount,0,237060,80195,1,1
@@ -13703,16 +13703,16 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1659055,Westmount/Union,1,237055,80036,1,1
 8,8-Weekday-1-18FALL-1111100,1659056,University/King via Weber,0,237062,80037,1,1
 8,8-Weekday-1-18FALL-1111100,1659057,University/King via Weber,0,237061,80037,1,1
-8,8-Weekday-1-18FALL-1111100,1659058,Fairview Park via Weber & Courtland,1,237053,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1659059,Fairview Park via Weber & Courtland,1,237054,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1659060,Fairview Park via Weber & Courtland,1,237050,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1659061,Fairview Park via Weber & Courtland,1,237049,80127,1,1
+8,8-Weekday-1-18FALL-1111100,1659058,Fairview Park via Weber & Courtland,1,237053,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1659059,Fairview Park via Weber & Courtland,1,237054,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1659060,Fairview Park via Weber & Courtland,1,237050,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1659061,Fairview Park via Weber & Courtland,1,237049,80089,1,1
 8,8-Weekday-1-18FALL-1111100,1659062,Fairview Park via Westmount & Franklin,1,237052,80197,1,1
 8,8-Weekday-1-18FALL-1111100,1659063,Fairview Park via Westmount & Franklin,1,237051,80197,1,1
 8,8-Weekday-1-18FALL-1111100,1659064,Fairview Park via Westmount & Franklin,1,237186,80197,1,1
 8,8-Weekday-1-18FALL-1111100,1659065,Fairview Park via Westmount & Franklin,1,237046,80197,1,1
-8,8-Weekday-1-18FALL-1111100,1659066,Fairview Park via Weber & Courtland,1,237053,80127,1,1
-8,8-Weekday-1-18FALL-1111100,1659067,Fairview Park via Weber & Courtland,1,237049,80127,1,1
+8,8-Weekday-1-18FALL-1111100,1659066,Fairview Park via Weber & Courtland,1,237053,80089,1,1
+8,8-Weekday-1-18FALL-1111100,1659067,Fairview Park via Weber & Courtland,1,237049,80089,1,1
 8,8-Weekday-1-18FALL-1111100,1659068,Fairview Park via Westmount & Franklin,1,237052,80197,1,1
 8,8-Weekday-1-18FALL-1111100,1659069,Fairview Park via Westmount & Franklin,1,237051,80197,1,1
 8,8-Weekday-1-18FALL-1111100,1659070,Charles Terminal via Weber,1,237061,80033,1,1
@@ -13770,26 +13770,26 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18SUM-1111100,1648572,University/King via Crtlnd & Weber,0,234246,80206,1,1
 8,8-Weekday-1-18SUM-1111100,1648573,University/King via Crtlnd & Weber,0,234250,80206,1,1
 8,8-Weekday-1-18SUM-1111100,1648574,University/King via Weber,0,234246,80208,1,1
-8,8-Weekday-1-18SUM-1111100,1648576,Fairview Park via Courtland,1,234247,80125,1,1
-8,8-Weekday-1-18SUM-1111100,1648577,Fairview Park via Weber & Courtland,1,234248,80126,1,1
-8,8-Weekday-1-18SUM-1111100,1648578,Fairview Park via Weber & Courtland,1,234252,80126,1,1
-8,8-Weekday-1-18SUM-1111100,1648579,Fairview Park via Weber & Courtland,1,234252,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648580,Fairview Park via Weber & Courtland,1,234249,80126,1,1
-8,8-Weekday-1-18SUM-1111100,1648581,Fairview Park via Weber & Courtland,1,234247,80126,1,1
-8,8-Weekday-1-18SUM-1111100,1648582,Fairview Park via Weber & Courtland,1,234252,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648583,Fairview Park via Weber & Courtland,1,234247,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648584,Fairview Park via Weber & Courtland,1,234252,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648585,Fairview Park via Weber & Courtland,1,234247,80126,1,1
-8,8-Weekday-1-18SUM-1111100,1648586,Fairview Park via Weber & Courtland,1,234252,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648587,Fairview Park via Weber & Courtland,1,234247,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648588,Fairview Park via Weber & Courtland,1,234252,80127,1,1
+8,8-Weekday-1-18SUM-1111100,1648576,Fairview Park via Courtland,1,234247,80087,1,1
+8,8-Weekday-1-18SUM-1111100,1648577,Fairview Park via Weber & Courtland,1,234248,80088,1,1
+8,8-Weekday-1-18SUM-1111100,1648578,Fairview Park via Weber & Courtland,1,234252,80088,1,1
+8,8-Weekday-1-18SUM-1111100,1648579,Fairview Park via Weber & Courtland,1,234252,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648580,Fairview Park via Weber & Courtland,1,234249,80088,1,1
+8,8-Weekday-1-18SUM-1111100,1648581,Fairview Park via Weber & Courtland,1,234247,80088,1,1
+8,8-Weekday-1-18SUM-1111100,1648582,Fairview Park via Weber & Courtland,1,234252,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648583,Fairview Park via Weber & Courtland,1,234247,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648584,Fairview Park via Weber & Courtland,1,234252,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648585,Fairview Park via Weber & Courtland,1,234247,80088,1,1
+8,8-Weekday-1-18SUM-1111100,1648586,Fairview Park via Weber & Courtland,1,234252,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648587,Fairview Park via Weber & Courtland,1,234247,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648588,Fairview Park via Weber & Courtland,1,234252,80089,1,1
 8,8-Weekday-1-18SUM-1111100,1648589,Fairview Park via Franklin,1,234250,80190,1,1
 8,8-Weekday-1-18SUM-1111100,1648590,Fairview Park via Franklin,1,234732,80190,1,1
 8,8-Weekday-1-18SUM-1111100,1648591,Fairview Park via Westmount & Franklin,1,234327,80189,1,1
-8,8-Weekday-1-18SUM-1111100,1648592,Fairview Park via Weber & Courtland,1,234248,80126,1,1
+8,8-Weekday-1-18SUM-1111100,1648592,Fairview Park via Weber & Courtland,1,234248,80088,1,1
 8,8-Weekday-1-18SUM-1111100,1648593,University/King via Crtlnd & Weber,0,234246,80206,1,1
 8,8-Weekday-1-18SUM-1111100,1648594,University/King via Crtlnd & Weber,0,234732,80207,1,1
-8,8-Weekday-1-18SUM-1111100,1648595,Fairview Park via Weber & Courtland,1,234249,80128,1,1
+8,8-Weekday-1-18SUM-1111100,1648595,Fairview Park via Weber & Courtland,1,234249,80090,1,1
 8,8-Weekday-1-18SUM-1111100,1648596,Fairview Park via Westmount & Franklin,1,234732,80188,1,1
 8,8-Weekday-1-18SUM-1111100,1648597,Fairview Park via Westmount & Franklin,1,234246,80188,1,1
 8,8-Weekday-1-18SUM-1111100,1648598,Fairview Park via Westmount & Franklin,1,234247,80188,1,1
@@ -13803,19 +13803,19 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18SUM-1111100,1648606,Fairview Park via Westmount & Franklin,1,234248,80188,1,1
 8,8-Weekday-1-18SUM-1111100,1648607,Fairview Park via Westmount & Franklin,1,234252,80188,1,1
 8,8-Weekday-1-18SUM-1111100,1648608,Fairview Park via Westmount & Franklin,1,234249,80188,1,1
-8,8-Weekday-1-18SUM-1111100,1648609,Fairview Park via Weber & Courtland,1,234250,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648610,Fairview Park via Weber & Courtland,1,234246,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648611,Fairview Park via Weber & Courtland,1,234732,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648612,Fairview Park via Weber & Courtland,1,234247,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648613,Fairview Park via Weber & Courtland,1,234248,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648614,Fairview Park via Weber & Courtland,1,234252,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648615,Fairview Park via Weber & Courtland,1,234249,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648616,Fairview Park via Weber & Courtland,1,234250,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648617,Fairview Park via Weber & Courtland,1,234246,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648618,Fairview Park via Weber & Courtland,1,234732,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648619,Fairview Park via Weber & Courtland,1,234247,80129,1,1
-8,8-Weekday-1-18SUM-1111100,1648620,Fairview Park via Weber & Courtland,1,234248,80128,1,1
-8,8-Weekday-1-18SUM-1111100,1648621,Fairview Park via Weber & Courtland,1,234252,80127,1,1
+8,8-Weekday-1-18SUM-1111100,1648609,Fairview Park via Weber & Courtland,1,234250,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648610,Fairview Park via Weber & Courtland,1,234246,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648611,Fairview Park via Weber & Courtland,1,234732,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648612,Fairview Park via Weber & Courtland,1,234247,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648613,Fairview Park via Weber & Courtland,1,234248,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648614,Fairview Park via Weber & Courtland,1,234252,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648615,Fairview Park via Weber & Courtland,1,234249,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648616,Fairview Park via Weber & Courtland,1,234250,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648617,Fairview Park via Weber & Courtland,1,234246,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648618,Fairview Park via Weber & Courtland,1,234732,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648619,Fairview Park via Weber & Courtland,1,234247,80092,1,1
+8,8-Weekday-1-18SUM-1111100,1648620,Fairview Park via Weber & Courtland,1,234248,80090,1,1
+8,8-Weekday-1-18SUM-1111100,1648621,Fairview Park via Weber & Courtland,1,234252,80089,1,1
 8,8-Weekday-1-18SUM-1111100,1648622,University/King via Crtlnd & Weber,0,234249,80207,1,1
 8,8-Weekday-1-18SUM-1111100,1648623,Fairview Park via Westmount & Franklin,1,234250,80188,1,1
 8,8-Weekday-1-18SUM-1111100,1648624,Fairview Park via Westmount & Franklin,1,234246,80189,1,1
@@ -13850,23 +13850,23 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18SUM-1111100,1648653,Fairview Park via Westmount & Franklin,1,234732,80191,1,1
 8,8-Weekday-1-18SUM-1111100,1648654,University/King via Crtlnd & Weber,0,234732,80206,1,1
 8,8-Weekday-1-18SUM-1111100,1648655,University/King via Crtlnd & Weber,0,234246,80206,1,1
-8,8-Weekday-1-18SUM-1111100,1648656,Fairview Park via Weber & Courtland,1,234248,80127,1,1
+8,8-Weekday-1-18SUM-1111100,1648656,Fairview Park via Weber & Courtland,1,234248,80089,1,1
 8,8-Weekday-1-18SUM-1111100,1648681,Charles Terminal via Westmount,1,234732,80055,1,1
 8,8-Weekday-1-18SUM-1111100,1648682,Charles Terminal via Westmount,1,234250,80055,1,1
 8,8-Weekday-1-18SUM-1111100,1648702,Charles Terminal via Westmount,1,234352,80055,1,1
 8,8-Weekday-1-18SUM-1111100,1648704,Charles Terminal via Weber,1,234248,80033,1,1
 8,8-Weekday-1-18SUM-1111100,1648705,Charles Terminal via Weber,1,234247,80033,1,1
 8,8-Weekday-1-18SUM-1111100,1648706,Charles Terminal via Courtland,0,234246,80035,1,1
-8,8-Weekday-1-18SUM-1111100,1648710,Fairview Park via Weber & Courtland,1,234248,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648711,Fairview Park via Weber & Courtland,1,234249,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648712,Fairview Park via Weber & Courtland,1,234252,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648713,Fairview Park via Weber & Courtland,1,234247,80127,1,1
+8,8-Weekday-1-18SUM-1111100,1648710,Fairview Park via Weber & Courtland,1,234248,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648711,Fairview Park via Weber & Courtland,1,234249,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648712,Fairview Park via Weber & Courtland,1,234252,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648713,Fairview Park via Weber & Courtland,1,234247,80089,1,1
 8,8-Weekday-1-18SUM-1111100,1648714,Fairview Park via Westmount & Franklin,1,234246,80191,1,1
 8,8-Weekday-1-18SUM-1111100,1648715,Fairview Park via Westmount & Franklin,1,234250,80191,1,1
 8,8-Weekday-1-18SUM-1111100,1648716,Fairview Park via Westmount & Franklin,1,234327,80191,1,1
 8,8-Weekday-1-18SUM-1111100,1648717,Fairview Park via Westmount & Franklin,1,234732,80191,1,1
-8,8-Weekday-1-18SUM-1111100,1648718,Fairview Park via Weber & Courtland,1,234248,80127,1,1
-8,8-Weekday-1-18SUM-1111100,1648719,Fairview Park via Weber & Courtland,1,234247,80127,1,1
+8,8-Weekday-1-18SUM-1111100,1648718,Fairview Park via Weber & Courtland,1,234248,80089,1,1
+8,8-Weekday-1-18SUM-1111100,1648719,Fairview Park via Weber & Courtland,1,234247,80089,1,1
 8,8-Weekday-1-18SUM-1111100,1648720,Fairview Park via Westmount & Franklin,1,234246,80191,1,1
 8,8-Weekday-1-18SUM-1111100,1648721,Fairview Park via Westmount & Franklin,1,234250,80191,1,1
 8,8-Weekday-1-18SUM-1111100,1648723,Fairview Park via Westmount & Franklin,1,234246,80191,1,1

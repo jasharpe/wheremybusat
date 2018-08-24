@@ -1510,7 +1510,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
 2719,2719,Courtland / Kent,,  43.438748, -80.480285,,,0,,1
-2720,2720,Courtland / Borden,,  43.438058, -80.479037,,,0,,1
 2721,2721,Courtland / Grenville,,  43.437439, -80.478095,,,0,,1
 2722,2722,Courtland / Sydney,,  43.435822, -80.475275,,,0,,1
 2724,2724,Courtland / Carwood,,  43.433075, -80.472407,,,0,,1
