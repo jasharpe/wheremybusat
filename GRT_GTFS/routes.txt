@@ -8,7 +8,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 7,7,Mainline,3,ed1c24,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 8,8,University/Fairview,3,00a550,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 9,9,Lakeshore,3,f7931d,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
-10,10,College/Fairview,3,0071bb,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
+10,10,Pioneer,3,0071bb,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 11,11,Country Hills,3,135887,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 12,12,Westmount,3,ec008b,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 13,13,Laurelwood,3,ffca04,000000,http://www.grt.ca/en/routesschedules/busschedule.asp
@@ -44,7 +44,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 75,75,Saginaw,3,ff6633,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 76,76,Doon South,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 77,77,Wilmot,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
-78,78,Hanson,3,2e3092,ffffff,http://www.grt.ca/en/routesschedules/busschedule.asp
 91,91,Late Night Loop,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
 92,92,University Loop,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
 110,110,College Express,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
@@ -60,8 +59,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 8882,8882,Oktoberfest Bingeman's Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
 8883,8883,Oktoberfest Queensmount Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
 8884,8884,Oktoberfest Chicopee Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
-9801,9801,GCI AM Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
-9851,9851,GCI PM Northview Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9801,9801,Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9851,9851,GCI Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
 9901,9901,Huron Heights Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
 9903,9903,UW-Lakeshore/SMH-Fairview Express Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
 9904,9904,Rt 7 Eastwood Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
