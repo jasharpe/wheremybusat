@@ -48,6 +48,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1051,1051,Bishop / 1000 Block,,  43.393802, -80.332356,,,0,,1
 1052,1052,Fairway / River,,  43.434718, -80.427955,,,0,,1
 1053,1053,Fairway / Fairway Cres.,,  43.441445, -80.417826,,,0,,1
+1054,1054,Bishop / 900 Block,,  43.393628, -80.332411,,,0,,1
 1057,1057,Ottawa / Lackner,,  43.456410, -80.432057,,,0,,1
 1058,1058,Cambridge Centre Station,,  43.392529, -80.322482,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 1059,1059,Oldfield / Jadestone,,  43.452388, -80.430785,,,0,,1
@@ -241,6 +242,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1267,1267,Winston / Karl,,  43.421761, -80.301929,,,0,,1
 1268,1268,Winston / Gunn,,  43.421371, -80.304453,,,0,,1
 1269,1269,Winston / Westbury,,  43.421738, -80.307093,,,0,,1
+1270,1270,Caroline / Willis Way Station,,  43.462101, -80.523304,,,0,,1
 1273,1273,Charles / Water,,  43.450800, -80.495420,,,0,,1
 1274,1274,Queen / Rooshill,,  43.424285, -80.323334,,,0,,1
 1275,1275,Bishop / Collier Macmillan,,  43.395862, -80.320330,,,0,,1
@@ -708,7 +710,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1772,1772,Forest Glen,,  43.413890, -80.478750,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1773,1773,Strasburg / Old Country,,  43.410869, -80.476219,,,0,,1
 1774,1774,Strasburg / Bleams,,  43.407398, -80.475150,,,0,,1
-1775,1775,Strasburg / Bleams,,  43.406406, -80.474825,,,0,,1
 1776,1776,Strasburg / Shoemaker,,  43.405621, -80.474412,,,0,,1
 1777,1777,Mcintyre / Strasburg,,  43.404468, -80.474397,,,0,,1
 1778,1778,Mcintyre / Mcbrine,,  43.402996, -80.477349,,,0,,1
@@ -2555,26 +2556,26 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7039,7039,Snyders / 500 Block,,  43.407136, -80.645915,,,0,,1
 7040,7040,Highland / Trussler,,  43.420881, -80.559194,,,0,,1
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
+place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
 place_BORD,,Borden Station,,  43.442267, -80.474793,,,1,,
 place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CML,,Conestoga Mall,,  43.498065, -80.528707,,,1,,
 place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
+place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
 place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
 place_MILL,,Mill Station,,  43.434799, -80.479477,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
 place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
-place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
-place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
