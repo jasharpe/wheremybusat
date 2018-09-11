@@ -383,6 +383,8 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 116,116-Weekday-1-18FALL-1111100,1658127,Forest Glen,0,237229,1160003,1,1
 116,116-Weekday-1-18FALL-1111100,1678216,Conestoga College,1,237106,1160004,1,1
 116,116-Weekday-1-18FALL-1111100,1678217,Conestoga College,1,237147,1160004,1,1
+116,116-Weekday-1-18FALL-1111100,1704507,Conestoga College,1,237209,1160004,1,1
+116,116-Weekday-1-18FALL-1111100,1704508,Conestoga College,1,237402,1160004,1,1
 11,11-Saturday-1-18FALL-0000010,1662341,Charles Terminal,0,235061,110005,1,1
 11,11-Saturday-1-18FALL-0000010,1662342,Forest Glen,1,235072,110006,1,1
 11,11-Saturday-1-18FALL-0000010,1662343,Forest Glen,1,235061,110006,1,1
@@ -1052,28 +1054,28 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 14,14-Weekday-2-18FALL-1111100,1660729,Kumpf,0,237179,140006,1,1
 14,14-Weekday-2-18FALL-1111100,1660730,,0,237198,140003,1,1
 14,14-Weekday-2-18FALL-1111100,1660731,Kumpf,0,237096,140005,1,1
-16,16-Weekday-2-18FALL-1111100,1675570,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675571,Conestoga College,0,237238,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675572,Conestoga College,0,237229,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675573,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675574,Conestoga College,0,237047,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675575,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675576,Conestoga College,0,237237,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675577,Conestoga College,0,237065,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675578,Conestoga College,0,237095,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675579,Conestoga College,0,237139,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675580,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675581,Conestoga College,0,237095,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675582,Conestoga College,0,237139,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675583,Conestoga College,0,237130,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675584,Conestoga College,0,237109,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675585,Conestoga College,0,237237,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675586,Conestoga College,0,237065,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675587,Conestoga College,0,237048,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675588,Conestoga College,0,237156,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675589,Conestoga College,0,237047,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675590,Conestoga College,0,237129,160003,1,1
-16,16-Weekday-2-18FALL-1111100,1675591,Conestoga College,0,237130,160003,1,1
+16,16-Weekday-2-18FALL-1111100,1675570,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675571,Conestoga College,0,237238,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675572,Conestoga College,0,237229,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675573,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675574,Conestoga College,0,237047,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675575,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675576,Conestoga College,0,237237,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675577,Conestoga College,0,237065,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675578,Conestoga College,0,237095,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675579,Conestoga College,0,237139,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675580,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675581,Conestoga College,0,237095,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675582,Conestoga College,0,237139,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675583,Conestoga College,0,237130,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675584,Conestoga College,0,237109,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675585,Conestoga College,0,237237,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675586,Conestoga College,0,237065,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675587,Conestoga College,0,237048,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675588,Conestoga College,0,237156,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675589,Conestoga College,0,237047,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675590,Conestoga College,0,237129,160014,1,1
+16,16-Weekday-2-18FALL-1111100,1675591,Conestoga College,0,237130,160014,1,1
 16,16-Weekday-2-18FALL-1111100,1675592,Forest Glen,1,237238,160005,1,1
 16,16-Weekday-2-18FALL-1111100,1675593,Forest Glen,1,237240,160005,1,1
 16,16-Weekday-2-18FALL-1111100,1675594,Forest Glen,1,237129,160005,1,1
@@ -1098,23 +1100,22 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 16,16-Weekday-2-18FALL-1111100,1675613,Forest Glen,1,237156,160006,1,1
 16,16-Weekday-2-18FALL-1111100,1675614,Forest Glen,1,237047,160006,1,1
 16,16-Weekday-2-18FALL-1111100,1675615,Forest Glen,1,237129,160006,1,1
-16,16-Weekday-2-18FALL-1111100,1675616,Conestoga College,0,237403,160004,1,1
+16,16-Weekday-2-18FALL-1111100,1675616,Conestoga College,0,237403,160013,1,1
 16,16-Weekday-2-18FALL-1111100,1675617,Forest Glen,1,237129,160005,1,1
-16,16-Weekday-2-18FALL-1111100,1675618,Conestoga College,0,237140,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675619,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675620,Conestoga College,0,237147,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675621,Conestoga College,0,237106,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675622,Conestoga College,0,237163,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675623,Conestoga College,0,237209,160007,1,1
-16,16-Weekday-2-18FALL-1111100,1675626,Conestoga College,0,237139,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675627,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675628,Conestoga College,0,237139,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675629,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675630,Conestoga College,0,237139,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675631,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675632,Conestoga College,0,237139,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675633,Conestoga College,0,237129,160004,1,1
-16,16-Weekday-2-18FALL-1111100,1675634,Conestoga College,0,237139,160004,1,1
+16,16-Weekday-2-18FALL-1111100,1675618,Conestoga College,0,237140,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675619,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675620,Conestoga College,0,237147,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675621,Conestoga College,0,237106,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675622,Conestoga College,0,237163,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675626,Conestoga College,0,237139,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675627,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675628,Conestoga College,0,237139,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675629,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675630,Conestoga College,0,237139,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675631,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675632,Conestoga College,0,237139,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675633,Conestoga College,0,237129,160013,1,1
+16,16-Weekday-2-18FALL-1111100,1675634,Conestoga College,0,237139,160013,1,1
 16,16-Weekday-2-18FALL-1111100,1675636,Forest Glen,1,237129,160005,1,1
 16,16-Weekday-2-18FALL-1111100,1675637,Forest Glen,1,237139,160005,1,1
 16,16-Weekday-2-18FALL-1111100,1675638,Forest Glen,1,237129,160005,1,1
@@ -6824,33 +6825,33 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18FALL-0000010,1662246,University/King via Crtlnd & Weber,0,235107,80047,1,1
 8,8-Saturday-1-18FALL-0000010,1662247,Fairview Park via Weber & Courtland,1,235104,80025,1,1
 8,8-Saturday-1-18FALL-0000010,1662248,Fairview Park via Weber & Courtland,1,235103,80040,1,1
-8,8-Saturday-1-18FALL-0000010,1662249,University/King via Franklin & Westmount,0,235101,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662250,University/King via Franklin & Westmount,0,235103,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662251,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662252,University/King via Franklin & Westmount,0,235106,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662253,University/King via Franklin & Westmount,0,235102,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662254,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662255,University/King via Franklin & Westmount,0,235106,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662256,University/King via Franklin & Westmount,0,235104,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662257,University/King via Franklin & Westmount,0,235106,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662258,University/King via Franklin & Westmount,0,235104,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662259,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662260,University/King via Franklin & Westmount,0,235107,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662261,University/King via Franklin & Westmount,0,235106,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662262,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662263,University/King via Franklin & Westmount,0,235103,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662264,University/King via Franklin & Westmount,0,235105,80017,1,1
+8,8-Saturday-1-18FALL-0000010,1662249,University/King via Franklin & Westmount,0,235101,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662250,University/King via Franklin & Westmount,0,235103,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662251,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662252,University/King via Franklin & Westmount,0,235106,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662253,University/King via Franklin & Westmount,0,235102,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662254,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662255,University/King via Franklin & Westmount,0,235106,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662256,University/King via Franklin & Westmount,0,235104,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662257,University/King via Franklin & Westmount,0,235106,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662258,University/King via Franklin & Westmount,0,235104,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662259,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662260,University/King via Franklin & Westmount,0,235107,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662261,University/King via Franklin & Westmount,0,235106,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662262,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662263,University/King via Franklin & Westmount,0,235103,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662264,University/King via Franklin & Westmount,0,235105,80051,1,1
 8,8-Saturday-1-18FALL-0000010,1662265,Fairview Park via Weber & Courtland,1,235103,80040,1,1
-8,8-Saturday-1-18FALL-0000010,1662266,University/King via Franklin & Westmount,0,235106,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662267,University/King via Franklin & Westmount,0,235102,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662268,University/King via Franklin & Westmount,0,235101,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662269,University/King via Franklin & Westmount,0,235104,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662270,University/King via Franklin & Westmount,0,235103,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662271,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662272,University/King via Franklin & Westmount,0,235102,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662273,University/King via Franklin & Westmount,0,235107,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662274,University/King via Franklin & Westmount,0,235102,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662275,University/King via Franklin & Westmount,0,235102,80017,1,1
+8,8-Saturday-1-18FALL-0000010,1662266,University/King via Franklin & Westmount,0,235106,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662267,University/King via Franklin & Westmount,0,235102,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662268,University/King via Franklin & Westmount,0,235101,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662269,University/King via Franklin & Westmount,0,235104,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662270,University/King via Franklin & Westmount,0,235103,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662271,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662272,University/King via Franklin & Westmount,0,235102,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662273,University/King via Franklin & Westmount,0,235107,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662274,University/King via Franklin & Westmount,0,235102,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662275,University/King via Franklin & Westmount,0,235102,80051,1,1
 8,8-Saturday-1-18FALL-0000010,1662276,Fairview Park via Weber & Courtland,1,235105,80040,1,1
 8,8-Saturday-1-18FALL-0000010,1662277,Fairview Park via Weber & Courtland,1,235105,80041,1,1
 8,8-Saturday-1-18FALL-0000010,1662278,Fairview Park via Weber & Courtland,1,235102,80041,1,1
@@ -6869,53 +6870,53 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Saturday-1-18FALL-0000010,1662291,Fairview Park via Weber & Courtland,1,235101,80018,1,1
 8,8-Saturday-1-18FALL-0000010,1662292,Fairview Park via Weber & Courtland,1,235102,80018,1,1
 8,8-Saturday-1-18FALL-0000010,1662293,Fairview Park via Weber & Courtland,1,235106,80025,1,1
-8,8-Saturday-1-18FALL-0000010,1662294,Fairview Park via Westmount & Franklin,1,235104,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662295,Fairview Park via Westmount & Franklin,1,235103,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662296,Fairview Park via Westmount & Franklin,1,235107,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662297,Fairview Park via Westmount & Franklin,1,235103,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662298,Fairview Park via Westmount & Franklin,1,235104,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662299,Fairview Park via Westmount & Franklin,1,235107,80038,1,1
-8,8-Saturday-1-18FALL-0000010,1662300,Fairview Park via Westmount & Franklin,1,235103,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662301,Fairview Park via Westmount & Franklin,1,235104,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662302,Fairview Park via Westmount & Franklin,1,235107,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662303,Fairview Park via Westmount & Franklin,1,235101,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662304,Fairview Park via Westmount & Franklin,1,235102,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662305,Fairview Park via Westmount & Franklin,1,235106,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662306,Fairview Park via Westmount & Franklin,1,235105,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662307,Fairview Park via Westmount & Franklin,1,235103,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662308,Fairview Park via Westmount & Franklin,1,235104,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662309,Fairview Park via Westmount & Franklin,1,235107,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662310,Fairview Park via Westmount & Franklin,1,235101,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662311,Fairview Park via Westmount & Franklin,1,235102,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662312,Fairview Park via Westmount & Franklin,1,235106,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662313,Fairview Park via Westmount & Franklin,1,235105,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662314,Fairview Park via Westmount & Franklin,1,235103,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662315,Fairview Park via Westmount & Franklin,1,235104,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662316,Fairview Park via Westmount & Franklin,1,235107,80019,1,1
-8,8-Saturday-1-18FALL-0000010,1662317,Fairview Park via Westmount & Franklin,1,235101,80019,1,1
+8,8-Saturday-1-18FALL-0000010,1662294,Fairview Park via Westmount & Franklin,1,235104,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662295,Fairview Park via Westmount & Franklin,1,235103,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662296,Fairview Park via Westmount & Franklin,1,235107,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662297,Fairview Park via Westmount & Franklin,1,235103,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662298,Fairview Park via Westmount & Franklin,1,235104,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662299,Fairview Park via Westmount & Franklin,1,235107,80055,1,1
+8,8-Saturday-1-18FALL-0000010,1662300,Fairview Park via Westmount & Franklin,1,235103,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662301,Fairview Park via Westmount & Franklin,1,235104,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662302,Fairview Park via Westmount & Franklin,1,235107,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662303,Fairview Park via Westmount & Franklin,1,235101,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662304,Fairview Park via Westmount & Franklin,1,235102,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662305,Fairview Park via Westmount & Franklin,1,235106,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662306,Fairview Park via Westmount & Franklin,1,235105,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662307,Fairview Park via Westmount & Franklin,1,235103,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662308,Fairview Park via Westmount & Franklin,1,235104,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662309,Fairview Park via Westmount & Franklin,1,235107,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662310,Fairview Park via Westmount & Franklin,1,235101,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662311,Fairview Park via Westmount & Franklin,1,235102,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662312,Fairview Park via Westmount & Franklin,1,235106,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662313,Fairview Park via Westmount & Franklin,1,235105,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662314,Fairview Park via Westmount & Franklin,1,235103,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662315,Fairview Park via Westmount & Franklin,1,235104,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662316,Fairview Park via Westmount & Franklin,1,235107,80048,1,1
+8,8-Saturday-1-18FALL-0000010,1662317,Fairview Park via Westmount & Franklin,1,235101,80048,1,1
 8,8-Saturday-1-18FALL-0000010,1662318,Charles Terminal via Courtland,0,235101,80045,1,1
 8,8-Saturday-1-18FALL-0000010,1662319,Charles Terminal via Weber,1,235104,80028,1,1
 8,8-Saturday-1-18FALL-0000010,1662320,Charles Terminal via Courtland,0,235107,80045,1,1
 8,8-Saturday-1-18FALL-0000010,1662321,Charles Terminal via Westmount,1,235102,80042,1,1
 8,8-Saturday-1-18FALL-0000010,1662322,Charles Terminal via Weber,1,235103,80028,1,1
-8,8-Saturday-1-18FALL-0000010,1662323,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662324,University/King via Franklin & Westmount,0,235104,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662325,University/King via Franklin & Westmount,0,235103,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662326,University/King via Franklin & Westmount,0,235103,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662327,University/King via Franklin & Westmount,0,235103,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662328,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662329,University/King via Franklin & Westmount,0,235103,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662330,University/King via Franklin & Westmount,0,235105,80017,1,1
-8,8-Saturday-1-18FALL-0000010,1662331,Charles Terminal via Franklin,0,235105,80034,1,1
-8,8-Saturday-1-18FALL-0000010,1662332,Fairview Park via Westmount & Franklin,1,235102,80038,1,1
-8,8-Saturday-1-18FALL-0000010,1662333,Fairview Park via Westmount & Franklin,1,235102,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662334,Fairview Park via Westmount & Franklin,1,235101,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662335,Fairview Park via Westmount & Franklin,1,235107,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662336,Fairview Park via Westmount & Franklin,1,235107,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662337,Fairview Park via Westmount & Franklin,1,235102,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662338,Fairview Park via Westmount & Franklin,1,235107,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662339,Fairview Park via Westmount & Franklin,1,235102,80022,1,1
-8,8-Saturday-1-18FALL-0000010,1662340,Fairview Park via Westmount & Franklin,1,235107,80038,1,1
+8,8-Saturday-1-18FALL-0000010,1662323,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662324,University/King via Franklin & Westmount,0,235104,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662325,University/King via Franklin & Westmount,0,235103,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662326,University/King via Franklin & Westmount,0,235103,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662327,University/King via Franklin & Westmount,0,235103,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662328,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662329,University/King via Franklin & Westmount,0,235103,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662330,University/King via Franklin & Westmount,0,235105,80051,1,1
+8,8-Saturday-1-18FALL-0000010,1662331,Charles Terminal via Franklin,0,235105,80054,1,1
+8,8-Saturday-1-18FALL-0000010,1662332,Fairview Park via Westmount & Franklin,1,235102,80055,1,1
+8,8-Saturday-1-18FALL-0000010,1662333,Fairview Park via Westmount & Franklin,1,235102,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662334,Fairview Park via Westmount & Franklin,1,235101,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662335,Fairview Park via Westmount & Franklin,1,235107,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662336,Fairview Park via Westmount & Franklin,1,235107,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662337,Fairview Park via Westmount & Franklin,1,235102,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662338,Fairview Park via Westmount & Franklin,1,235107,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662339,Fairview Park via Westmount & Franklin,1,235102,80052,1,1
+8,8-Saturday-1-18FALL-0000010,1662340,Fairview Park via Westmount & Franklin,1,235107,80055,1,1
 8,8-Sunday-1-18FALL-0000001,1664390,Fairview Park via Weber & Courtland,1,235176,80025,1,1
 8,8-Sunday-1-18FALL-0000001,1664391,University/King via Crtlnd & Weber,0,235177,80046,1,1
 8,8-Sunday-1-18FALL-0000001,1664392,University/King via Crtlnd & Weber,0,235178,80046,1,1
@@ -6963,50 +6964,50 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Sunday-1-18FALL-0000001,1664434,Charles Terminal via Weber,1,235176,80028,1,1
 8,8-Sunday-1-18FALL-0000001,1664435,Charles Terminal via Westmount,1,235177,80042,1,1
 8,8-Sunday-1-18FALL-0000001,1664436,Charles Terminal via Westmount,1,235178,80042,1,1
-8,8-Sunday-1-18FALL-0000001,1664437,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664438,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664439,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664440,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664441,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664442,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664443,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664444,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664445,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664446,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664447,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664448,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664449,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664450,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664451,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664452,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664453,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664454,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664455,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664456,University/King via Franklin & Westmount,0,235175,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664457,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664458,University/King via Franklin & Westmount,0,235176,80017,1,1
-8,8-Sunday-1-18FALL-0000001,1664459,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664460,Fairview Park via Westmount & Franklin,1,235178,80038,1,1
-8,8-Sunday-1-18FALL-0000001,1664461,Fairview Park via Westmount & Franklin,1,235179,80038,1,1
-8,8-Sunday-1-18FALL-0000001,1664462,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664463,Fairview Park via Westmount & Franklin,1,235179,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664464,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664465,Fairview Park via Westmount & Franklin,1,235179,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664466,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664467,Fairview Park via Westmount & Franklin,1,235179,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664468,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664469,Fairview Park via Westmount & Franklin,1,235179,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664470,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664471,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664472,Fairview Park via Westmount & Franklin,1,235178,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664473,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664474,Fairview Park via Westmount & Franklin,1,235178,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664475,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664476,Fairview Park via Westmount & Franklin,1,235178,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664477,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664478,Fairview Park via Westmount & Franklin,1,235178,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664479,Fairview Park via Westmount & Franklin,1,235177,80022,1,1
-8,8-Sunday-1-18FALL-0000001,1664480,Fairview Park via Franklin,1,235179,80033,1,1
+8,8-Sunday-1-18FALL-0000001,1664437,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664438,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664439,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664440,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664441,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664442,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664443,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664444,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664445,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664446,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664447,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664448,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664449,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664450,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664451,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664452,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664453,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664454,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664455,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664456,University/King via Franklin & Westmount,0,235175,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664457,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664458,University/King via Franklin & Westmount,0,235176,80051,1,1
+8,8-Sunday-1-18FALL-0000001,1664459,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664460,Fairview Park via Westmount & Franklin,1,235178,80055,1,1
+8,8-Sunday-1-18FALL-0000001,1664461,Fairview Park via Westmount & Franklin,1,235179,80055,1,1
+8,8-Sunday-1-18FALL-0000001,1664462,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664463,Fairview Park via Westmount & Franklin,1,235179,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664464,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664465,Fairview Park via Westmount & Franklin,1,235179,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664466,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664467,Fairview Park via Westmount & Franklin,1,235179,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664468,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664469,Fairview Park via Westmount & Franklin,1,235179,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664470,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664471,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664472,Fairview Park via Westmount & Franklin,1,235178,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664473,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664474,Fairview Park via Westmount & Franklin,1,235178,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664475,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664476,Fairview Park via Westmount & Franklin,1,235178,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664477,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664478,Fairview Park via Westmount & Franklin,1,235178,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664479,Fairview Park via Westmount & Franklin,1,235177,80052,1,1
+8,8-Sunday-1-18FALL-0000001,1664480,Fairview Park via Franklin,1,235179,80050,1,1
 8,8-Weekday-1-18FALL-1111100,1658891,University/King via Weber,0,237073,80026,1,1
 8,8-Weekday-1-18FALL-1111100,1658892,University/King via Crtlnd & Weber,0,237051,80046,1,1
 8,8-Weekday-1-18FALL-1111100,1658893,University/King via Crtlnd & Weber,0,237052,80046,1,1
@@ -7053,26 +7054,26 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1658934,Fairview Park via Weber & Courtland,1,237050,80025,1,1
 8,8-Weekday-1-18FALL-1111100,1658935,Fairview Park via Weber & Courtland,1,237049,80025,1,1
 8,8-Weekday-1-18FALL-1111100,1658936,Fairview Park via Weber & Courtland,1,237050,80025,1,1
-8,8-Weekday-1-18FALL-1111100,1658937,Fairview Park via Franklin,1,237051,80033,1,1
-8,8-Weekday-1-18FALL-1111100,1658938,Fairview Park via Franklin,1,237046,80033,1,1
-8,8-Weekday-1-18FALL-1111100,1658939,Fairview Park via Westmount & Franklin,1,237186,80020,1,1
+8,8-Weekday-1-18FALL-1111100,1658937,Fairview Park via Franklin,1,237051,80050,1,1
+8,8-Weekday-1-18FALL-1111100,1658938,Fairview Park via Franklin,1,237046,80050,1,1
+8,8-Weekday-1-18FALL-1111100,1658939,Fairview Park via Westmount & Franklin,1,237186,80049,1,1
 8,8-Weekday-1-18FALL-1111100,1658940,Fairview Park via Weber & Courtland,1,237053,80025,1,1
 8,8-Weekday-1-18FALL-1111100,1658941,University/King via Crtlnd & Weber,0,237052,80046,1,1
 8,8-Weekday-1-18FALL-1111100,1658942,University/King via Crtlnd & Weber,0,237046,80046,1,1
 8,8-Weekday-1-18FALL-1111100,1658943,Fairview Park via Weber & Courtland,1,237054,80018,1,1
-8,8-Weekday-1-18FALL-1111100,1658944,Fairview Park via Westmount & Franklin,1,237046,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658945,Fairview Park via Westmount & Franklin,1,237052,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658946,Fairview Park via Westmount & Franklin,1,237049,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658947,Fairview Park via Westmount & Franklin,1,237053,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658948,Fairview Park via Westmount & Franklin,1,237050,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658949,Fairview Park via Westmount & Franklin,1,237054,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658950,Fairview Park via Westmount & Franklin,1,237051,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658951,Fairview Park via Westmount & Franklin,1,237052,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658952,Fairview Park via Westmount & Franklin,1,237046,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658953,Fairview Park via Westmount & Franklin,1,237049,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658954,Fairview Park via Westmount & Franklin,1,237053,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658955,Fairview Park via Westmount & Franklin,1,237050,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658956,Fairview Park via Westmount & Franklin,1,237054,80019,1,1
+8,8-Weekday-1-18FALL-1111100,1658944,Fairview Park via Westmount & Franklin,1,237046,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658945,Fairview Park via Westmount & Franklin,1,237052,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658946,Fairview Park via Westmount & Franklin,1,237049,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658947,Fairview Park via Westmount & Franklin,1,237053,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658948,Fairview Park via Westmount & Franklin,1,237050,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658949,Fairview Park via Westmount & Franklin,1,237054,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658950,Fairview Park via Westmount & Franklin,1,237051,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658951,Fairview Park via Westmount & Franklin,1,237052,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658952,Fairview Park via Westmount & Franklin,1,237046,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658953,Fairview Park via Westmount & Franklin,1,237049,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658954,Fairview Park via Westmount & Franklin,1,237053,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658955,Fairview Park via Westmount & Franklin,1,237050,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658956,Fairview Park via Westmount & Franklin,1,237054,80048,1,1
 8,8-Weekday-1-18FALL-1111100,1658957,Fairview Park via Weber & Courtland,1,237051,80018,1,1
 8,8-Weekday-1-18FALL-1111100,1658958,Fairview Park via Weber & Courtland,1,237052,80018,1,1
 8,8-Weekday-1-18FALL-1111100,1658959,Fairview Park via Weber & Courtland,1,237046,80018,1,1
@@ -7087,37 +7088,37 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1658968,Fairview Park via Weber & Courtland,1,237053,80018,1,1
 8,8-Weekday-1-18FALL-1111100,1658969,Fairview Park via Weber & Courtland,1,237050,80025,1,1
 8,8-Weekday-1-18FALL-1111100,1658970,University/King via Crtlnd & Weber,0,237054,80046,1,1
-8,8-Weekday-1-18FALL-1111100,1658971,Fairview Park via Westmount & Franklin,1,237051,80019,1,1
-8,8-Weekday-1-18FALL-1111100,1658972,Fairview Park via Westmount & Franklin,1,237052,80020,1,1
-8,8-Weekday-1-18FALL-1111100,1658973,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658974,University/King via Franklin & Westmount,0,237053,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658975,University/King via Franklin & Westmount,0,237050,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658976,University/King via Franklin & Westmount,0,237054,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658977,University/King via Franklin & Westmount,0,237051,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658978,University/King via Franklin & Westmount,0,237052,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658979,University/King via Franklin & Westmount,0,237046,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658980,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658981,University/King via Franklin & Westmount,0,237053,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658982,University/King via Franklin & Westmount,0,237050,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658983,University/King via Franklin & Westmount,0,237054,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658984,University/King via Franklin & Westmount,0,237051,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658985,University/King via Franklin & Westmount,0,237052,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658986,University/King via Franklin & Westmount,0,237046,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658987,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658988,University/King via Franklin & Westmount,0,237053,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658989,University/King via Franklin & Westmount,0,237050,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658990,University/King via Franklin & Westmount,0,237054,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658991,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658992,University/King via Franklin & Westmount,0,237053,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658993,University/King via Franklin & Westmount,0,237050,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658994,University/King via Franklin & Westmount,0,237054,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658995,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658996,University/King via Franklin & Westmount,0,237053,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1658997,University/King via Franklin & Westmount,0,237050,80017,1,1
+8,8-Weekday-1-18FALL-1111100,1658971,Fairview Park via Westmount & Franklin,1,237051,80048,1,1
+8,8-Weekday-1-18FALL-1111100,1658972,Fairview Park via Westmount & Franklin,1,237052,80049,1,1
+8,8-Weekday-1-18FALL-1111100,1658973,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658974,University/King via Franklin & Westmount,0,237053,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658975,University/King via Franklin & Westmount,0,237050,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658976,University/King via Franklin & Westmount,0,237054,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658977,University/King via Franklin & Westmount,0,237051,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658978,University/King via Franklin & Westmount,0,237052,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658979,University/King via Franklin & Westmount,0,237046,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658980,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658981,University/King via Franklin & Westmount,0,237053,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658982,University/King via Franklin & Westmount,0,237050,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658983,University/King via Franklin & Westmount,0,237054,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658984,University/King via Franklin & Westmount,0,237051,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658985,University/King via Franklin & Westmount,0,237052,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658986,University/King via Franklin & Westmount,0,237046,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658987,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658988,University/King via Franklin & Westmount,0,237053,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658989,University/King via Franklin & Westmount,0,237050,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658990,University/King via Franklin & Westmount,0,237054,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658991,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658992,University/King via Franklin & Westmount,0,237053,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658993,University/King via Franklin & Westmount,0,237050,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658994,University/King via Franklin & Westmount,0,237054,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658995,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658996,University/King via Franklin & Westmount,0,237053,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1658997,University/King via Franklin & Westmount,0,237050,80051,1,1
 8,8-Weekday-1-18FALL-1111100,1658998,University/King via Westmount,0,237050,80021,1,1
 8,8-Weekday-1-18FALL-1111100,1658999,University/King via Westmount,0,237053,80021,1,1
-8,8-Weekday-1-18FALL-1111100,1659000,Fairview Park via Westmount & Franklin,1,237054,80024,1,1
-8,8-Weekday-1-18FALL-1111100,1659001,Fairview Park via Westmount & Franklin,1,237046,80022,1,1
+8,8-Weekday-1-18FALL-1111100,1659000,Fairview Park via Westmount & Franklin,1,237054,80053,1,1
+8,8-Weekday-1-18FALL-1111100,1659001,Fairview Park via Westmount & Franklin,1,237046,80052,1,1
 8,8-Weekday-1-18FALL-1111100,1659002,University/King via Crtlnd & Weber,0,237046,80046,1,1
 8,8-Weekday-1-18FALL-1111100,1659003,University/King via Crtlnd & Weber,0,237052,80046,1,1
 8,8-Weekday-1-18FALL-1111100,1659004,Fairview Park via Weber & Courtland,1,237053,80025,1,1
@@ -7142,7 +7143,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1659023,University/King via Weber,0,237055,80026,1,1
 8,8-Weekday-1-18FALL-1111100,1659024,University/King via Weber,0,237063,80026,1,1
 8,8-Weekday-1-18FALL-1111100,1659025,University/King via Weber,0,237055,80026,1,1
-8,8-Weekday-1-18FALL-1111100,1659026,University/King via Franklin & Westmount,0,237055,80017,1,1
+8,8-Weekday-1-18FALL-1111100,1659026,University/King via Franklin & Westmount,0,237055,80051,1,1
 8,8-Weekday-1-18FALL-1111100,1659027,Charles Terminal via Westmount,1,237213,80027,1,1
 8,8-Weekday-1-18FALL-1111100,1659028,Charles Terminal via Westmount,1,237062,80027,1,1
 8,8-Weekday-1-18FALL-1111100,1659029,Charles Terminal via Westmount,1,237046,80027,1,1
@@ -7178,35 +7179,35 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 8,8-Weekday-1-18FALL-1111100,1659059,Fairview Park via Weber & Courtland,1,237054,80025,1,1
 8,8-Weekday-1-18FALL-1111100,1659060,Fairview Park via Weber & Courtland,1,237050,80025,1,1
 8,8-Weekday-1-18FALL-1111100,1659061,Fairview Park via Weber & Courtland,1,237049,80025,1,1
-8,8-Weekday-1-18FALL-1111100,1659062,Fairview Park via Westmount & Franklin,1,237052,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659063,Fairview Park via Westmount & Franklin,1,237051,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659064,Fairview Park via Westmount & Franklin,1,237186,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659065,Fairview Park via Westmount & Franklin,1,237046,80022,1,1
+8,8-Weekday-1-18FALL-1111100,1659062,Fairview Park via Westmount & Franklin,1,237052,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659063,Fairview Park via Westmount & Franklin,1,237051,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659064,Fairview Park via Westmount & Franklin,1,237186,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659065,Fairview Park via Westmount & Franklin,1,237046,80052,1,1
 8,8-Weekday-1-18FALL-1111100,1659066,Fairview Park via Weber & Courtland,1,237053,80025,1,1
 8,8-Weekday-1-18FALL-1111100,1659067,Fairview Park via Weber & Courtland,1,237049,80025,1,1
-8,8-Weekday-1-18FALL-1111100,1659068,Fairview Park via Westmount & Franklin,1,237052,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659069,Fairview Park via Westmount & Franklin,1,237051,80022,1,1
+8,8-Weekday-1-18FALL-1111100,1659068,Fairview Park via Westmount & Franklin,1,237052,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659069,Fairview Park via Westmount & Franklin,1,237051,80052,1,1
 8,8-Weekday-1-18FALL-1111100,1659070,Charles Terminal via Weber,1,237061,80028,1,1
-8,8-Weekday-1-18FALL-1111100,1659071,Fairview Park via Westmount & Franklin,1,237052,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659072,Fairview Park via Westmount & Franklin,1,237051,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659073,Fairview Park via Westmount & Franklin,1,237046,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659074,Fairview Park via Westmount & Franklin,1,237051,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659075,Fairview Park via Westmount & Franklin,1,237052,80020,1,1
-8,8-Weekday-1-18FALL-1111100,1659076,Fairview Park via Westmount & Franklin,1,237051,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659077,Fairview Park via Westmount & Franklin,1,237046,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659078,Fairview Park via Westmount & Franklin,1,237051,80020,1,1
-8,8-Weekday-1-18FALL-1111100,1659079,Fairview Park via Westmount & Franklin,1,237052,80020,1,1
-8,8-Weekday-1-18FALL-1111100,1659080,Fairview Park via Westmount & Franklin,1,237052,80022,1,1
-8,8-Weekday-1-18FALL-1111100,1659081,University/King via Franklin & Westmount,0,237050,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659082,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659083,University/King via Franklin & Westmount,0,237053,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659084,University/King via Franklin & Westmount,0,237050,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659085,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659086,University/King via Franklin & Westmount,0,237050,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659087,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659088,University/King via Franklin & Westmount,0,237049,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659089,University/King via Franklin & Westmount,0,237053,80017,1,1
-8,8-Weekday-1-18FALL-1111100,1659090,Charles Terminal via Franklin,0,237050,80034,1,1
+8,8-Weekday-1-18FALL-1111100,1659071,Fairview Park via Westmount & Franklin,1,237052,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659072,Fairview Park via Westmount & Franklin,1,237051,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659073,Fairview Park via Westmount & Franklin,1,237046,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659074,Fairview Park via Westmount & Franklin,1,237051,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659075,Fairview Park via Westmount & Franklin,1,237052,80049,1,1
+8,8-Weekday-1-18FALL-1111100,1659076,Fairview Park via Westmount & Franklin,1,237051,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659077,Fairview Park via Westmount & Franklin,1,237046,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659078,Fairview Park via Westmount & Franklin,1,237051,80049,1,1
+8,8-Weekday-1-18FALL-1111100,1659079,Fairview Park via Westmount & Franklin,1,237052,80049,1,1
+8,8-Weekday-1-18FALL-1111100,1659080,Fairview Park via Westmount & Franklin,1,237052,80052,1,1
+8,8-Weekday-1-18FALL-1111100,1659081,University/King via Franklin & Westmount,0,237050,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659082,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659083,University/King via Franklin & Westmount,0,237053,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659084,University/King via Franklin & Westmount,0,237050,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659085,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659086,University/King via Franklin & Westmount,0,237050,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659087,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659088,University/King via Franklin & Westmount,0,237049,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659089,University/King via Franklin & Westmount,0,237053,80051,1,1
+8,8-Weekday-1-18FALL-1111100,1659090,Charles Terminal via Franklin,0,237050,80054,1,1
 8,8-Weekday-1-18FALL-1111100,1659091,Fairview Park via Courtland,1,237230,80035,1,1
 8,8-Weekday-1-18FALL-1111100,1677722,Fairview Park via Courtland,1,237242,80035,1,1
 91,91-Saturday-2-18FALL-0000010,1682204,,0,235132,910002,1,1
@@ -7271,41 +7272,41 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 9963,9963-Weekday-1-18FALL-1111100,1658322,,0,237205,99630002,1,1
 9964,9964-Weekday-1-18FALL-1111100,1658321,,0,237175,99640002,1,1
 9983,9983-Weekday-1-18FALL-1111100,1658320,Special,1,237096,99830002,1,1
-9,9-Saturday-1-18FALL-0000010,1662969,Conestoga Mall,0,235073,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662970,Conestoga Mall,0,235077,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662971,Conestoga Mall,0,235078,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662972,Conestoga Mall,0,235080,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662973,Conestoga Mall,0,235075,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662974,Conestoga Mall,0,235074,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662975,Conestoga Mall,0,235075,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662976,Conestoga Mall,0,235100,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662977,Conestoga Mall,0,235074,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662978,Conestoga Mall,0,235100,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662979,Conestoga Mall,0,235076,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662980,Conestoga Mall,0,235073,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662981,Conestoga Mall,0,235077,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662982,Conestoga Mall,0,235078,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662983,Conestoga Mall,0,235080,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662984,Conestoga Mall,0,235076,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662985,Conestoga Mall,0,235080,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662986,Conestoga Mall,0,235073,90028,1,1
-9,9-Saturday-1-18FALL-0000010,1662987,Conestoga Mall,0,235075,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662988,Conestoga Mall,0,235074,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662989,Conestoga Mall,0,235100,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662990,Conestoga Mall,0,235076,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662991,Conestoga Mall,0,235073,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662992,Conestoga Mall,0,235077,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662993,Conestoga Mall,0,235078,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662994,Conestoga Mall,0,235078,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662995,Conestoga Mall,0,235078,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662996,Conestoga Mall,0,235080,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662997,Conestoga Mall,0,235081,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662998,Conestoga Mall,0,235079,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1662999,Conestoga Mall,0,235081,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1663000,Conestoga Mall,0,235079,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1663001,Conestoga Mall,0,235081,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1663002,Conestoga Mall,0,235079,90023,1,1
-9,9-Saturday-1-18FALL-0000010,1663003,Conestoga Mall,0,235081,90023,1,1
+9,9-Saturday-1-18FALL-0000010,1662969,Conestoga Mall,0,235073,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662970,Conestoga Mall,0,235077,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662971,Conestoga Mall,0,235078,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662972,Conestoga Mall,0,235080,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662973,Conestoga Mall,0,235075,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662974,Conestoga Mall,0,235074,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662975,Conestoga Mall,0,235075,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662976,Conestoga Mall,0,235100,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662977,Conestoga Mall,0,235074,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662978,Conestoga Mall,0,235100,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662979,Conestoga Mall,0,235076,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662980,Conestoga Mall,0,235073,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662981,Conestoga Mall,0,235077,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662982,Conestoga Mall,0,235078,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662983,Conestoga Mall,0,235080,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662984,Conestoga Mall,0,235076,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662985,Conestoga Mall,0,235080,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662986,Conestoga Mall,0,235073,90038,1,1
+9,9-Saturday-1-18FALL-0000010,1662987,Conestoga Mall,0,235075,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662988,Conestoga Mall,0,235074,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662989,Conestoga Mall,0,235100,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662990,Conestoga Mall,0,235076,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662991,Conestoga Mall,0,235073,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662992,Conestoga Mall,0,235077,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662993,Conestoga Mall,0,235078,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662994,Conestoga Mall,0,235078,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662995,Conestoga Mall,0,235078,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662996,Conestoga Mall,0,235080,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662997,Conestoga Mall,0,235081,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662998,Conestoga Mall,0,235079,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1662999,Conestoga Mall,0,235081,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1663000,Conestoga Mall,0,235079,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1663001,Conestoga Mall,0,235081,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1663002,Conestoga Mall,0,235079,90037,1,1
+9,9-Saturday-1-18FALL-0000010,1663003,Conestoga Mall,0,235081,90037,1,1
 9,9-Saturday-1-18FALL-0000010,1663004,Laurier,1,235081,90026,1,1
 9,9-Saturday-1-18FALL-0000010,1663005,UW,1,235077,90030,1,1
 9,9-Saturday-1-18FALL-0000010,1663006,UW,1,235076,90030,1,1
@@ -7341,29 +7342,29 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 9,9-Saturday-1-18FALL-0000010,1663036,UW,1,235081,90030,1,1
 9,9-Saturday-1-18FALL-0000010,1663037,UW,1,235079,90030,1,1
 9,9-Saturday-1-18FALL-0000010,1663038,UW,1,235081,90030,1,1
-9,9-Sunday-1-18FALL-0000001,1664893,Conestoga Mall,0,235184,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664894,Conestoga Mall,0,235220,90028,1,1
+9,9-Sunday-1-18FALL-0000001,1664893,Conestoga Mall,0,235184,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664894,Conestoga Mall,0,235220,90038,1,1
 9,9-Sunday-1-18FALL-0000001,1664895,University/King,1,235220,90027,1,1
-9,9-Sunday-1-18FALL-0000001,1664896,Conestoga Mall,0,235185,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664897,Conestoga Mall,0,235181,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664898,Conestoga Mall,0,235184,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664899,Conestoga Mall,0,235185,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664900,Conestoga Mall,0,235181,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664901,Conestoga Mall,0,235184,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664902,Conestoga Mall,0,235185,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664903,Conestoga Mall,0,235181,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664904,Conestoga Mall,0,235184,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664905,Conestoga Mall,0,235185,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664906,Conestoga Mall,0,235181,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664907,Conestoga Mall,0,235228,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664908,Conestoga Mall,0,235185,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664909,Conestoga Mall,0,235220,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664910,Conestoga Mall,0,235228,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664911,Conestoga Mall,0,235185,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664912,Conestoga Mall,0,235220,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664913,Conestoga Mall,0,235228,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664914,Conestoga Mall,0,235185,90023,1,1
-9,9-Sunday-1-18FALL-0000001,1664915,Conestoga Mall,0,235220,90023,1,1
+9,9-Sunday-1-18FALL-0000001,1664896,Conestoga Mall,0,235185,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664897,Conestoga Mall,0,235181,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664898,Conestoga Mall,0,235184,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664899,Conestoga Mall,0,235185,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664900,Conestoga Mall,0,235181,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664901,Conestoga Mall,0,235184,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664902,Conestoga Mall,0,235185,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664903,Conestoga Mall,0,235181,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664904,Conestoga Mall,0,235184,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664905,Conestoga Mall,0,235185,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664906,Conestoga Mall,0,235181,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664907,Conestoga Mall,0,235228,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664908,Conestoga Mall,0,235185,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664909,Conestoga Mall,0,235220,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664910,Conestoga Mall,0,235228,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664911,Conestoga Mall,0,235185,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664912,Conestoga Mall,0,235220,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664913,Conestoga Mall,0,235228,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664914,Conestoga Mall,0,235185,90037,1,1
+9,9-Sunday-1-18FALL-0000001,1664915,Conestoga Mall,0,235220,90037,1,1
 9,9-Sunday-1-18FALL-0000001,1664916,UW,1,235185,90030,1,1
 9,9-Sunday-1-18FALL-0000001,1664917,UW,1,235185,90030,1,1
 9,9-Sunday-1-18FALL-0000001,1664918,UW,1,235220,90030,1,1
@@ -7385,76 +7386,76 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 9,9-Sunday-1-18FALL-0000001,1664934,UW,1,235220,90030,1,1
 9,9-Sunday-1-18FALL-0000001,1664935,UW,1,235181,90030,1,1
 9,9-Sunday-1-18FALL-0000001,1664936,UW,1,235185,90035,1,1
-9,9-Weekday-1-18FALL-1111000,1658638,McCormick,0,237191,90025,1,1
-9,9-Weekday-1-18FALL-1111000,1658639,McCormick,0,237191,90025,1,1
-9,9-Weekday-1-18FALL-1111000,1658640,McCormick,0,237191,90025,1,1
-9,9-Weekday-1-18FALL-1111000,1658641,McCormick,0,237191,90025,1,1
-9,9-Weekday-1-18FALL-1111000,1658656,McCormick,0,237191,90025,1,1
+9,9-Weekday-1-18FALL-1111000,1658638,McCormick,0,237191,90040,1,1
+9,9-Weekday-1-18FALL-1111000,1658639,McCormick,0,237191,90040,1,1
+9,9-Weekday-1-18FALL-1111000,1658640,McCormick,0,237191,90040,1,1
+9,9-Weekday-1-18FALL-1111000,1658641,McCormick,0,237191,90040,1,1
+9,9-Weekday-1-18FALL-1111000,1658656,McCormick,0,237191,90040,1,1
 9,9-Weekday-1-18FALL-1111100,1658595,University/King,1,237199,90027,1,1
-9,9-Weekday-1-18FALL-1111100,1658596,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658597,Conestoga Mall,0,237171,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658598,Conestoga Mall,0,237096,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658599,Conestoga Mall,0,237097,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658600,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658601,Conestoga Mall,0,237044,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658602,Conestoga Mall,0,237098,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658603,Conestoga Mall,0,237096,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658604,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658605,Conestoga Mall,0,237044,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658606,Conestoga Mall,0,237098,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658607,Conestoga Mall,0,237097,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658608,Conestoga Mall,0,237096,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658609,Conestoga Mall,0,237097,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658610,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658611,Conestoga Mall,0,237044,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658612,Conestoga Mall,0,237098,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658613,Conestoga Mall,0,237096,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658614,Conestoga Mall,0,237612,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658615,Conestoga Mall,0,237044,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658616,Conestoga Mall,0,237099,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658617,Conestoga Mall,0,237098,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658618,Conestoga Mall,0,237173,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658619,Conestoga Mall,0,237096,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658620,Conestoga Mall,0,237059,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658621,Conestoga Mall,0,237097,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658622,Conestoga Mall,0,237058,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658623,Conestoga Mall,0,237058,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658624,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658625,Conestoga Mall,0,237098,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658626,Conestoga Mall,0,237096,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658627,Conestoga Mall,0,237097,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658628,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658629,Conestoga Mall,0,237044,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658630,Conestoga Mall,0,237098,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658631,Conestoga Mall,0,237096,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658632,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658633,Conestoga Mall,0,237059,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658634,Conestoga Mall,0,237097,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658635,Conestoga Mall,0,237199,90028,1,1
+9,9-Weekday-1-18FALL-1111100,1658596,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658597,Conestoga Mall,0,237171,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658598,Conestoga Mall,0,237096,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658599,Conestoga Mall,0,237097,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658600,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658601,Conestoga Mall,0,237044,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658602,Conestoga Mall,0,237098,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658603,Conestoga Mall,0,237096,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658604,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658605,Conestoga Mall,0,237044,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658606,Conestoga Mall,0,237098,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658607,Conestoga Mall,0,237097,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658608,Conestoga Mall,0,237096,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658609,Conestoga Mall,0,237097,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658610,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658611,Conestoga Mall,0,237044,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658612,Conestoga Mall,0,237098,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658613,Conestoga Mall,0,237096,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658614,Conestoga Mall,0,237612,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658615,Conestoga Mall,0,237044,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658616,Conestoga Mall,0,237099,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658617,Conestoga Mall,0,237098,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658618,Conestoga Mall,0,237173,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658619,Conestoga Mall,0,237096,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658620,Conestoga Mall,0,237059,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658621,Conestoga Mall,0,237097,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658622,Conestoga Mall,0,237058,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658623,Conestoga Mall,0,237058,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658624,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658625,Conestoga Mall,0,237098,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658626,Conestoga Mall,0,237096,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658627,Conestoga Mall,0,237097,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658628,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658629,Conestoga Mall,0,237044,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658630,Conestoga Mall,0,237098,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658631,Conestoga Mall,0,237096,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658632,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658633,Conestoga Mall,0,237059,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658634,Conestoga Mall,0,237097,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658635,Conestoga Mall,0,237199,90038,1,1
 9,9-Weekday-1-18FALL-1111100,1658636,University/King,0,237215,90024,1,1
 9,9-Weekday-1-18FALL-1111100,1658637,University/King,0,237045,90024,1,1
 9,9-Weekday-1-18FALL-1111100,1658642,University/King,0,237105,90024,1,1
-9,9-Weekday-1-18FALL-1111100,1658643,Cedarbrae/Glen Forrest,0,237176,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658644,Cedarbrae/Glen Forrest,0,237104,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658645,Cedarbrae/Glen Forrest,0,237176,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658646,Cedarbrae/Glen Forrest,0,237173,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658647,Cedarbrae/Glen Forrest,0,237176,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658648,Cedarbrae/Glen Forrest,0,237173,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658649,Cedarbrae/Glen Forrest,0,237176,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658650,Cedarbrae/Glen Forrest,0,237173,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658651,Conestoga Mall,0,237057,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658652,Conestoga Mall,0,237044,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658653,Conestoga Mall,0,237097,90023,1,1
+9,9-Weekday-1-18FALL-1111100,1658643,Cedarbrae/Glen Forrest,0,237176,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658644,Cedarbrae/Glen Forrest,0,237104,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658645,Cedarbrae/Glen Forrest,0,237176,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658646,Cedarbrae/Glen Forrest,0,237173,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658647,Cedarbrae/Glen Forrest,0,237176,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658648,Cedarbrae/Glen Forrest,0,237173,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658649,Cedarbrae/Glen Forrest,0,237176,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658650,Cedarbrae/Glen Forrest,0,237173,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658651,Conestoga Mall,0,237057,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658652,Conestoga Mall,0,237044,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658653,Conestoga Mall,0,237097,90037,1,1
 9,9-Weekday-1-18FALL-1111100,1658654,Laurier,1,237044,90026,1,1
-9,9-Weekday-1-18FALL-1111100,1658655,Cedarbrae/Glen Forrest,0,237045,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658657,Conestoga Mall,0,237097,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658658,Conestoga Mall,0,237044,90023,1,1
-9,9-Weekday-1-18FALL-1111100,1658659,Cedarbrae/Glen Forrest,0,237104,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658660,Cedarbrae/Glen Forrest,0,237612,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658661,Cedarbrae/Glen Forrest,0,237173,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658662,Cedarbrae/Glen Forrest,0,237108,90029,1,1
-9,9-Weekday-1-18FALL-1111100,1658663,Northfield/Weber,0,237108,90031,1,1
-9,9-Weekday-1-18FALL-1111100,1658664,Cedarbrae/Glen Forrest,0,237116,90029,1,1
+9,9-Weekday-1-18FALL-1111100,1658655,Cedarbrae/Glen Forrest,0,237045,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658657,Conestoga Mall,0,237097,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658658,Conestoga Mall,0,237044,90037,1,1
+9,9-Weekday-1-18FALL-1111100,1658659,Cedarbrae/Glen Forrest,0,237104,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658660,Cedarbrae/Glen Forrest,0,237612,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658661,Cedarbrae/Glen Forrest,0,237173,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658662,Cedarbrae/Glen Forrest,0,237108,90039,1,1
+9,9-Weekday-1-18FALL-1111100,1658663,Northfield/Weber,0,237108,90041,1,1
+9,9-Weekday-1-18FALL-1111100,1658664,Cedarbrae/Glen Forrest,0,237116,90039,1,1
 9,9-Weekday-1-18FALL-1111100,1658665,UW,1,237089,90030,1,1
 9,9-Weekday-1-18FALL-1111100,1658666,UW,1,237098,90030,1,1
 9,9-Weekday-1-18FALL-1111100,1658667,UW,1,237044,90030,1,1
