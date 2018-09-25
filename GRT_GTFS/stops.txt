@@ -700,12 +700,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1762,1762,Wilson / 800 Block,,  43.413464, -80.442316,,,0,,1
 1763,1763,Wilson / Goodrich,,  43.415400, -80.442273,,,0,,1
 1764,1764,Wilson / Fairway,,  43.420786, -80.442557,,,0,,1
-1765,1765,Forest Glen,,  43.414354, -80.478868,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1765,1765,Forest Glen,,  43.414213, -80.478849,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1766,1766,Forest Glen,,  43.414114, -80.478896,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1767,1767,Forest Glen,,  43.414259, -80.478957,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1768,1768,Forest Glen,,  43.414457, -80.479029,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1769,1769,Forest Glen,,  43.413955, -80.478827,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1770,1770,Forest Glen,,  43.414204, -80.478858,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1770,1770,Forest Glen,,  43.414354, -80.478868,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1771,1771,Forest Glen,,  43.414051, -80.478810,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1772,1772,Forest Glen,,  43.413890, -80.478750,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1773,1773,Strasburg / Old Country,,  43.410869, -80.476219,,,0,,1

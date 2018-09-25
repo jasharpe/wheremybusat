@@ -76,5 +76,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 9983,9983,Rt 14 and 7 Evening Special,3,,,http://www.grt.ca/en/routesschedules/industrial_specials.asp
 9941,9941,Exam Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
 9942,9942,Exam Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
+9802,9802,College Shuttle,3,,,http://www.grt.ca/en/routesschedules/busschedule.asp
 9841,9841,Exam Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
 9922,9922,Exam Special,3,,,http://www.grt.ca/en/routesschedules/schoolspecials.asp
