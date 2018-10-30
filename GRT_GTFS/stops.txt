@@ -858,6 +858,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1933,1933,Lackner / Keewatin,,  43.464871, -80.436652,,,0,,1
 1935,1935,Victoria / Frederick,,  43.466295, -80.457952,,,0,,1
 1936,1936,Victoria / River,,  43.464277, -80.464003,,,0,,1
+1937,1937,Victoria / River,,  43.464405, -80.464389,,,0,,1
 1939,1939,Ottawa / Weber,,  43.444239, -80.466672,,,0,,1
 1940,1940,Ottawa / Franklin,,  43.448606, -80.451334,,,0,,1
 1941,1941,Bridge / Bridle,,  43.485339, -80.488595,,,0,,1
@@ -905,6 +906,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1984,1984,Erb / Gateview,,  43.450834, -80.557832,,,0,,1
 1985,1985,Gateview / Westvale,,  43.450049, -80.557613,,,0,,1
 1986,1986,Westvale / Heather Hill,,  43.448493, -80.558367,,,0,,1
+1987,1987,Victoria / Edna,,  43.460814, -80.474929,,,0,,1
 1988,1988,Westvale / Edenvalley,,  43.445863, -80.560152,,,0,,1
 1989,1989,Victoria / Natchez,,  43.469229, -80.448953,,,0,,1
 1990,1990,Old Zeller / Zeller,,  43.454120, -80.411792,,,0,,1
@@ -1108,6 +1110,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2205,2205,Hillcrest / Highland,,  43.356260, -80.333148,,,0,,1
 2206,2206,Hillcrest / Churchill,,  43.353752, -80.332299,,,0,,1
 2207,2207,Churchill / Westgate,,  43.353885, -80.330521,,,0,,1
+2208,2208,Churchill / Forest,,  43.354718, -80.326699,,,0,,1
+2209,2209,Churchill / Barrie,,  43.354710, -80.325341,,,0,,1
 2212,2212,Main / Mill,,  43.358817, -80.313276,,,0,,1
 2213,2213,Main / Bruce,,  43.356919, -80.307683,,,0,,1
 2214,2214,Main / Peck,,  43.356557, -80.304454,,,0,,1
@@ -1122,7 +1126,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2225,2225,Gatehouse / Mcnichol,,  43.343164, -80.279167,,,0,,1
 2226,2226,Gatehouse / Wheeler,,  43.341307, -80.280274,,,0,,1
 2227,2227,Gatehouse / Flockhart,,  43.341583, -80.282627,,,0,,1
-2228,2228,Gatehouse / Myers,,  43.343717, -80.284107,,,0,,1
 2229,2229,Myers / Clover,,  43.343787, -80.284926,,,0,,1
 2230,2230,Myers / Elgin,,  43.342683, -80.291485,,,0,,1
 2231,2231,Myers / Greenbrier,,  43.342240, -80.294069,,,0,,1
@@ -1715,6 +1718,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2998,2998,Activa / Periwinkle,,  43.402051, -80.512244,,,0,,1
 2999,2999,Activa / Sweet William,,  43.402565, -80.510264,,,0,,1
 3000,3000,Max Becker / Copper Leaf,,  43.403375, -80.508109,,,0,,1
+3001,3001,Max Becker / Commonwealth,,  43.404139, -80.503496,,,0,,1
 3002,3002,Max Becker / Fischer-Hallman,,  43.405720, -80.500088,,,0,,1
 3004,3004,Block Line / Westmount,,  43.411260, -80.499078,,,0,,1
 3005,3005,Tillsley / Westmount,,  43.408986, -80.498047,,,0,,1
@@ -2455,12 +2459,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4039,4039,King / Weber,,  43.513992, -80.557162,,,0,,1
 4040,4040,King / Weber,,  43.514195, -80.557017,,,0,,1
 4042,4042,Northfield / Davenport,,  43.503132, -80.528994,,,0,,1
+4043,4043,Northfield / Davenport,,  43.503641, -80.528290,,,0,,1
 4044,4044,Blackberry Northfield,,  43.516788, -80.513942,,,0,,1
 4045,4045,Blackberry Northfield,,  43.516562, -80.514077,,,0,,1
 4046,4046,University / Auburn,,  43.497418, -80.491808,,,0,,1
 4047,4047,University / Auburn,,  43.497927, -80.491842,,,0,,1
 4049,4049,University / Lincoln,,  43.483660, -80.507701,,,0,,1
 4050,4050,Bridge / Northfield,,  43.510908, -80.520092,,,0,,1
+4051,4051,Bridge / Northfield,,  43.511055, -80.520808,,,0,,1
 4052,4052,University / Lincoln,,  43.483163, -80.508213,,,0,,1
 4053,4053,Westmount / Erb,,  43.459679, -80.537098,,,0,,1
 4054,4054,University / Bridge,,  43.489225, -80.494564,,,0,,1
@@ -2496,7 +2502,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4084,4084,Erbsville / Path To Wild Ginger,,  43.469040, -80.591047,,,0,,1
 4085,4085,Erbsville / Path To Wild Ginger,,  43.469153, -80.590861,,,0,,1
 4086,4086,Erbsville / White Elm,,  43.466457, -80.586099,,,0,,1
-4087,4087,Erbsville / Brandenburg,,  43.459613, -80.578425,,,0,,1
 4088,4088,Erbsville / Cornridge,,  43.460339, -80.578861,,,0,,1
 4089,4089,King / High Crest,,  43.535182, -80.554343,,,0,,1
 4090,4090,King / High Crest,,  43.535225, -80.554207,,,0,,1
@@ -2520,8 +2525,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5027,5027,Jamieson / Franklin,,  43.418320, -80.310214,,,0,,1
 5064,5064,Munch / Sekura,,  43.383040, -80.318116,,,0,, 
 5065,5065,Elgin / Munch,,  43.384420, -80.312428,,,0,, 
-5066,5066,Victoria / Indiana,,  43.460316, -80.476691,,,0,,1
-5067,5067,River / Victoria,,  43.463799, -80.464290,,,0,,1
 5068,5068,Munch / Sekura,,  43.383162, -80.318238,,,0,, 
 5069,5069,Jamieson / Townline,,  43.424845, -80.285186,,,0,,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
@@ -2562,21 +2565,21 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7038,7038,Snyders / 500 Block,,  43.407226, -80.646279,,,0,,1
 7039,7039,Snyders / 500 Block,,  43.407136, -80.645915,,,0,,1
 7040,7040,Highland / Trussler,,  43.420881, -80.559194,,,0,,1
-7060,7060,Cedarwoods Cres.,,  43.427170, -80.439684,,,0,,1
+7060,7060,46 Cedarwoods Cres,,  43.427170, -80.439684,,,0,,1
 7061,7061,Kingsbury Medical Centre,,  43.428828, -80.435497,,,0,,1
 7062,7062,Sunbeam Centre,,  43.429314, -80.439944,,,0,,1
 7063,7063,Trinity Village,,  43.429522, -80.441356,,,0,,1
-7064,7064,Freeport Health Centre,,  43.425691, -80.410937,,,0,,1
+7064,7064,Grand River Hospital - Freeport Campus,,  43.425691, -80.410937,,,0,,1
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
 place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
 place_BORD,,Borden Station,,  43.442267, -80.474793,,,1,,
 place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
-place_CML,,Conestoga Mall,,  43.498065, -80.528707,,,1,,
+place_CML,,Conestoga Station,,  43.498065, -80.528707,,,1,,
 place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
 place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
-place_FVM,,Fairview Park,,  43.423075, -80.441140,,,1,,
+place_FVM,,Fairway Station,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
 place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
@@ -2588,6 +2591,6 @@ place_MILL,,Mill Station,,  43.434799, -80.479477,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
 place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
-place_SPW,,Sportsworld,,  43.409919, -80.392925,,,1,,
+place_SPW,,Sportsworld Station,,  43.409919, -80.392925,,,1,,
 place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
