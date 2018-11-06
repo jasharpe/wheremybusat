@@ -740,7 +740,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1799,1799,Trillium / Washburn,,  43.401485, -80.485648,,,0,,1
 1800,1800,Mcintyre / Trillium,,  43.403288, -80.484262,,,0,,1
 1801,1801,Mcintyre / 200 Block,,  43.402747, -80.480043,,,0,,1
-1802,1802,Mcintyre / Mcbrine,,  43.403057, -80.476867,,,0,,1
+1802,1802,Mcintyre / Mcbrine,,  43.403441, -80.476311,,,0,,1
 1803,1803,Mcintyre / Strasburg,,  43.404466, -80.474063,,,0,,1
 1804,1804,Strasburg / Mcintyre,,  43.404175, -80.473436,,,0,,1
 1805,1805,Strasburg / Trillium,,  43.401749, -80.468579,,,0,,1
@@ -2564,6 +2564,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7062,7062,Sunbeam Centre,,  43.429314, -80.439944,,,0,,1
 7063,7063,Trinity Village,,  43.429522, -80.441356,,,0,,1
 7064,7064,Grand River Hospital - Freeport Campus,,  43.425691, -80.410937,,,0,,1
+7065,7065,J. H. Lodge,,  43.427708, -80.303675,,,0,,1
+7066,7066,W. G. Johnson Ctr.,,  43.430743, -80.306120,,,0,,1
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
 place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
 place_BORD,,Borden Station,,  43.442267, -80.474793,,,1,,
