@@ -56,6 +56,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 204,204,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
 205,205,iXpress,3,000000,a6ce38,http://www.grt.ca/en/routesSchedules/ixpress.asp
 901,901,Flex Trinity-Freeport,3,2e3092,ffffff,http://www.grt.ca/en/schedules-maps/901-flex-trinity-freeport.aspx
+902,902,Flex Hespeler Village,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/902-flex-hespeler-village.aspx
 8881,8881,Oktoberfest Concordia Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
 8882,8882,Oktoberfest Bingeman's Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
 8883,8883,Oktoberfest Queensmount Shuttle,3,1ca2df,ffffff,http://www.grt.ca/en/riderprograms/oktoberfest.asp
