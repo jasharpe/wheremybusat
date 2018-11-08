@@ -260,7 +260,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1286,1286,Weber / Hickory,,  43.479037, -80.520591,,,0,,1
 1287,1287,Maple Grove / Saltsman,,  43.421727, -80.383558,,,0,,1
 1288,1288,Maple Grove / Cherry Blossom,,  43.417147, -80.386798,,,0,,1
-1289,1289,Laurel / Eagle,,  43.403319, -80.355467,,,0,,1
+1289,1289,Eagle / Laurel,,  43.403495, -80.354723,,,0,,1
 1290,1290,Eagle / Arlington,,  43.403974, -80.351903,,,0,,1
 1291,1291,Fisher Mills / Scott,,  43.435349, -80.320880,,,0,,1
 1292,1292,Charles / Water,,  43.450966, -80.495495,,,0,,1
@@ -1121,7 +1121,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2219,2219,Franklin / Morning Calm,,  43.351487, -80.289618,,,0,,1
 2220,2220,Champlain / Franklin,,  43.348314, -80.287619,,,0,,1
 2221,2221,Champlain / Carlos,,  43.349186, -80.284611,,,0,,1
-2222,2222,Lisbon Pines / Champlain,,  43.349543, -80.281213,,,0,,1
 2225,2225,Gatehouse / Mcnichol,,  43.343164, -80.279167,,,0,,1
 2226,2226,Gatehouse / Wheeler,,  43.341307, -80.280274,,,0,,1
 2227,2227,Gatehouse / Flockhart,,  43.341583, -80.282627,,,0,,1
@@ -1477,8 +1476,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
-2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
-2719,2719,Courtland / Kent,,  43.438748, -80.480285,,,0,,1
 2721,2721,Courtland / Grenville,,  43.437439, -80.478095,,,0,,1
 2722,2722,Courtland / Sydney,,  43.435822, -80.475275,,,0,,1
 2724,2724,Courtland / Carwood,,  43.433075, -80.472407,,,0,,1
@@ -1569,7 +1566,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2828,2828,Greenbrook / Graystone,,  43.427957, -80.507822,,,0,,1
 2829,2829,Highland / Ruby,,  43.440145, -80.495959,,,0,,1
 2830,2830,Highland / Ruby,,  43.440287, -80.496021,,,0,,1
-2832,2832,Conestoga College - Waterloo Campus,,  43.479211, -80.516867,,,0,,1
+2832,2832,Conestoga College - Waterloo Campus,,  43.478989, -80.517392,,,0,,1
 2833,2833,Weber / Marshall,,  43.475036, -80.517444,,,0,,1
 2834,2834,Weber / Noecker,,  43.473518, -80.516195,,,0,,1
 2835,2835,Weber / Lincoln,,  43.471140, -80.513902,,,0,,1
