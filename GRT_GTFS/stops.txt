@@ -295,7 +295,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1322,1322,Industrial / Bishop,,  43.394785, -80.329244,,,0,,1
 1323,1323,Industrial / 1300 Block,,  43.396499, -80.329768,,,0,,1
 1324,1324,Industrial / 900S Block,,  43.402381, -80.331580,,,0,,1
-1325,1325,Pinebush Station,,  43.407797, -80.328623,,,0,,1
+1325,1325,Eagle / Hespeler,,  43.407797, -80.328623,,,0,,1
 1326,1326,Pinebush / Conestoga,,  43.409041, -80.321561,,,0,,1
 1327,1327,Pinebush / High Ridge,,  43.409912, -80.316911,,,0,,1
 1328,1328,Bishop / 1500 Block,,  43.397357, -80.309169,,,0,,1
@@ -510,6 +510,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1546,1546,Franklin / Turnbull,,  43.403633, -80.306002,,,0,,1
 1547,1547,Franklin / Sheldon,,  43.405672, -80.306634,,,0,,1
 1549,1549,Franklin / Pinebush,,  43.410408, -80.308087,,,0,,1
+1550,1550,Franklin / Jamieson,,  43.417300, -80.310256,,,0,,1
 1551,1551,Fairway Station,,  43.423211, -80.441337,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 1552,1552,Fairway Station,,  43.423103, -80.441189,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 1553,1553,Fairway Station,,  43.423089, -80.440850,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
@@ -815,6 +816,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1875,1875,Weber / Wilfred,,  43.436279, -80.453054,,,0,,1
 1876,1876,Weber / Ross,,  43.437125, -80.454739,,,0,,1
 1877,1877,Montgomery / Weber,,  43.437738, -80.458750,,,0,,1
+1878,1878,King / Montgomery,,  43.437502, -80.460247,,,0,,1
+1880,1880,King / Rockway Centre,,  43.439836, -80.466293,,,0,,1
+1881,1881,King / Sydney,,  43.441157, -80.469717,,,0,,1
 1882,1882,King / Ottawa,,  43.442123, -80.472069,,,0,,1
 1883,1883,King / Borden,,  43.442777, -80.473497,,,0,,1
 1884,1884,King / Stirling,,  43.444179, -80.476735,,,0,,1
@@ -1121,6 +1125,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2219,2219,Franklin / Morning Calm,,  43.351487, -80.289618,,,0,,1
 2220,2220,Champlain / Franklin,,  43.348314, -80.287619,,,0,,1
 2221,2221,Champlain / Carlos,,  43.349186, -80.284611,,,0,,1
+2222,2222,Lisbon Pines / Champlain,,  43.349543, -80.281213,,,0,,1
+2223,2223,Lisbon Pines / Santa Maria,,  43.346452, -80.280830,,,0,,1
+2224,2224,Lisbon Pines / Myers,,  43.344855, -80.280269,,,0,,1
 2225,2225,Gatehouse / Mcnichol,,  43.343164, -80.279167,,,0,,1
 2226,2226,Gatehouse / Wheeler,,  43.341307, -80.280274,,,0,,1
 2227,2227,Gatehouse / Flockhart,,  43.341583, -80.282627,,,0,,1
@@ -1371,6 +1378,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2565,2565,King / Cameron,,  43.446089, -80.480920,,,0,,1
 2567,2567,King / Stirling,,  43.444298, -80.477216,,,0,,1
 2568,2568,King / Borden,,  43.442842, -80.473916,,,0,,1
+2569,2569,King / Ottawa,,  43.441942, -80.471885,,,0,,1
+2570,2570,King / Sydney,,  43.440958, -80.469521,,,0,,1
+2571,2571,King / Rockway Centre,,  43.439755, -80.466381,,,0,,1
+2572,2572,King / Rockway Gardens,,  43.437861, -80.461850,,,0,,1
 2573,2573,First / Eckert,,  43.434540, -80.456579,,,0,,1
 2575,2575,Fourth / Kingsway,,  43.434243, -80.452813,,,0,,1
 2576,2576,Fourth / Connaught,,  43.431361, -80.454606,,,0,,1
@@ -1400,6 +1411,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2603,2603,Fourth / Kingsway,,  43.434422, -80.452613,,,0,,1
 2605,2605,First / Eckert,,  43.434353, -80.456889,,,0,,1
 2606,2606,Eckert / Dixon,,  43.434625, -80.459210,,,0,,1
+2609,2609,Montgomery / Weber,,  43.438051, -80.458339,,,0,,1
 2610,2610,Weber / Wilfred,,  43.436390, -80.453621,,,0,,1
 2611,2611,Weber / Dellroy,,  43.435577, -80.451145,,,0,,1
 2612,2612,Weber / Franklin,,  43.434307, -80.447400,,,0,,1
@@ -1478,6 +1490,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
+2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
+2719,2719,Courtland / Kent,,  43.438748, -80.480285,,,0,,1
 2721,2721,Courtland / Grenville,,  43.437439, -80.478095,,,0,,1
 2722,2722,Courtland / Sydney,,  43.435822, -80.475275,,,0,,1
 2724,2724,Courtland / Carwood,,  43.433075, -80.472407,,,0,,1
@@ -2123,7 +2137,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3595,3595,New Bedford / Eastbridge,,  43.511072, -80.500925,,,0,,1
 3598,3598,New Bedford / Starboard,,  43.510664, -80.504442,,,0,,1
 3599,3599,New Bedford / Chesapeake,,  43.510066, -80.505672,,,0,,1
-3600,3600,Pinebush Station,,  43.408051, -80.327116,,,0,,1
+3600,3600,Pinebush /Hespeler,,  43.408051, -80.327116,,,0,,1
 3605,3605,Kumpf / Randall,,  43.504295, -80.544686,,,0,,1
 3606,3606,Weber / Erb,,  43.468616, -80.511153,,,0,,1
 3607,3607,Bleams / Bullock,,  43.411068, -80.456924,,,0,,2
