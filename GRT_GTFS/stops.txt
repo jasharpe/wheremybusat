@@ -1,5 +1,5 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
-1000,1000,Frederick Station,,  43.449665, -80.487205,,,0,place_FRED,1
+1000,1000,Frederick Station,,  43.449665, -80.487205,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 1001,1001,Frederick / Irvin,,  43.452326, -80.484192,,,0,,1
 1002,1002,Frederick / Otto,,  43.452995, -80.482913,,,0,,1
 1003,1003,Frederick / Samuel,,  43.454826, -80.479511,,,0,,1
@@ -40,7 +40,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1043,1043,Fairway / King,,  43.427546, -80.432883,,,0,,1
 1044,1044,Fairway / Wabanaki,,  43.423306, -80.436230,,,0,,1
 1045,1045,Fairway / Fairview Park,,  43.421823, -80.439089,,,0,,1
-1046,1046,Fairway Station,,  43.422831, -80.440846,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_FVM,1
+1046,1046,Fairway Station,,  43.422831, -80.440846,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 1047,1047,Fairway / Highway 8,,  43.424022, -80.434552,,,0,,2
 1048,1048,Fairway / King,,  43.428883, -80.431858,,,0,,1
 1049,1049,Fairway / Morgan,,  43.430448, -80.431658,,,0,,1
@@ -50,16 +50,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1053,1053,Fairway / Fairway Cres.,,  43.441445, -80.417826,,,0,,1
 1054,1054,Bishop / 900 Block,,  43.393628, -80.332411,,,0,,1
 1057,1057,Ottawa / Lackner,,  43.456410, -80.432057,,,0,,1
-1058,1058,Cambridge Centre Station,,  43.392529, -80.322482,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+1058,1058,Cambridge Centre Station,,  43.392529, -80.322482,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 1059,1059,Oldfield / Jadestone,,  43.452388, -80.430785,,,0,,1
 1060,1060,Oldfield / Drumoak,,  43.450771, -80.429873,,,0,,1
 1061,1061,Oldfield / Springmount,,  43.448874, -80.426888,,,0,,1
 1062,1062,Oldfield / Lackner,,  43.449797, -80.424073,,,0,,1
-1063,1063,Cambridge Centre Station,,  43.392495, -80.322734,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
-1064,1064,Cambridge Centre Station,,  43.392858, -80.322707,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
-1065,1065,Cambridge Centre Station,,  43.392901, -80.322464,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
-1066,1066,Cambridge Centre Station,,  43.392958, -80.322822,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
-1067,1067,Cambridge Centre Station,,  43.393002, -80.322530,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+1063,1063,Cambridge Centre Station,,  43.392495, -80.322734,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+1064,1064,Cambridge Centre Station,,  43.392858, -80.322707,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+1065,1065,Cambridge Centre Station,,  43.392901, -80.322464,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+1066,1066,Cambridge Centre Station,,  43.392958, -80.322822,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+1067,1067,Cambridge Centre Station,,  43.393002, -80.322530,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 1068,1068,River / Bradley,,  43.445866, -80.441338,,,0,,1
 1069,1069,River / Conway,,  43.447185, -80.442154,,,0,,1
 1070,1070,River / Stanley Park Mall,,  43.449523, -80.443344,,,0,,1
@@ -77,8 +77,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1084,1084,Frederick / Gordon,,  43.454783, -80.479894,,,0,,1
 1085,1085,Frederick / Lancaster,,  43.453506, -80.482377,,,0,,1
 1086,1086,Frederick / Irvin,,  43.452399, -80.484438,,,0,,1
-1088,1088,Frederick Station,,  43.449417, -80.487668,,,0,place_FRED,1
-1089,1089,Queen Station,,  43.448576, -80.488354,,,0,,1
+1088,1088,Frederick Station,,  43.449417, -80.487668,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
+1089,1089,Queen Station,,  43.448576, -80.488354,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1090,1090,University / Seagram,,  43.469279, -80.538619,,,0,,1
 1091,1091,Union / Weber,,  43.465072, -80.506287,,,0,,1
 1092,1092,Union / Weber,,  43.465173, -80.505466,,,0,,1
@@ -111,14 +111,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1120,1120,Columbia / Village 1,,  43.473163, -80.550483,,,0,,1
 1121,1121,Chesapeake / Seawind,,  43.510993, -80.513805,,,0,,1
 1122,1122,U.W. - B.C. Matthews Hall,,  43.474187, -80.545443,,,0,,1
-1123,1123,University Of Waterloo Station,,  43.472642, -80.541207,,,0,,1
+1123,1123,University Of Waterloo Station,,  43.472642, -80.541207,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1124,1124,U.W. - Engineering,,  43.469382, -80.539409,,,0,,1
-1125,1125,Conestoga Station,,  43.498025, -80.528566,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-1126,1126,Conestoga Station,,  43.498289, -80.529109,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-1127,1127,Conestoga Station,,  43.498036, -80.528999,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-1128,1128,Conestoga Station,,  43.498071, -80.528838,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-1129,1129,Conestoga Station,,  43.498070, -80.528418,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-1130,1130,Conestoga Station,,  43.498035, -80.528777,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+1125,1125,Conestoga Station,,  43.498025, -80.528566,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+1126,1126,Conestoga Station,,  43.498289, -80.529109,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+1127,1127,Conestoga Station,,  43.498036, -80.528999,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+1128,1128,Conestoga Station,,  43.498071, -80.528838,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+1129,1129,Conestoga Station,,  43.498070, -80.528418,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+1130,1130,Conestoga Station,,  43.498035, -80.528777,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 1131,1131,Northfield / King,,  43.501574, -80.534051,,,0,,1
 1132,1132,Northfield / Colby,,  43.500382, -80.537431,,,0,,1
 1133,1133,Chesapeake / Seawind,,  43.510669, -80.513894,,,0,,1
@@ -234,8 +234,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1253,1253,Queen / Shepherd,,  43.422567, -80.325157,,,0,,1
 1254,1254,Queen / Shepherd,,  43.423246, -80.324235,,,0,,1
 1255,1255,Kumpf / Northfield,,  43.498599, -80.542687,,,0,place_KNF,1
-1256,1256,Northfield Station,,  43.497816, -80.544335,,,0,place_NORT,1
-1257,1257,Northfield Station,,  43.497645, -80.544040,,,0,place_NORT,1
+1256,1256,Northfield Station,,  43.497816, -80.544335,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
+1257,1257,Northfield Station,,  43.497645, -80.544040,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
 1258,1258,Franklin / Thomas,,  43.424341, -80.310053,,,0,,1
 1259,1259,Franklin / Edward,,  43.427023, -80.309849,,,0,,1
 1265,1265,Winston / Cooper,,  43.422128, -80.292845,,,0,,1
@@ -243,7 +243,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1267,1267,Winston / Karl,,  43.421761, -80.301929,,,0,,1
 1268,1268,Winston / Gunn,,  43.421371, -80.304453,,,0,,1
 1269,1269,Winston / Westbury,,  43.421738, -80.307093,,,0,,1
-1270,1270,Willis Way Station,,  43.462101, -80.523304,,,0,place_WWAY,1
+1270,1270,Willis Way Station,,  43.462101, -80.523304,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_WWAY,1
 1273,1273,Charles / Water,,  43.450800, -80.495420,,,0,,1
 1274,1274,Queen / Rooshill,,  43.424285, -80.323334,,,0,,1
 1275,1275,Bishop / Conestoga,,  43.395893, -80.318348,,,0,,1
@@ -345,7 +345,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1372,1372,Saginaw / Fairgreen,,  43.389892, -80.288305,,,0,,1
 1373,1373,Saginaw / Stonecairn,,  43.390437, -80.292016,,,0,,1
 1374,1374,Saginaw / Cowan,,  43.389725, -80.296321,,,0,,1
-1376,1376,Queen Station,,  43.448610, -80.488850,,,0,place_QUEE,1
+1376,1376,Queen Station,,  43.448610, -80.488850,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1378,1378,Elgin / Franklin,,  43.391386, -80.302957,,,0,,1
 1379,1379,Elgin / Bushnell,,  43.391115, -80.308615,,,0,,1
 1380,1380,Elgin / Glenbrook,,  43.388964, -80.311763,,,0,,1
@@ -353,13 +353,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1382,1382,Munch / Kovac,,  43.384013, -80.313646,,,0,,1
 1383,1383,Munch / Sekura,,  43.383192, -80.317803,,,0,,1
 1384,1384,Hespeler / Munch,,  43.383323, -80.320222,,,0,,1
-1385,1385,Queen Station,,  43.448033, -80.487779,,,0,place_QUEE,1
+1385,1385,Queen Station,,  43.448033, -80.487779,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1386,1386,Charles / Stirling,,  43.443929, -80.478414,,,0,,1
 1387,1387,Charles / Stirling,,  43.443771, -80.478679,,,0,,1
-1388,1388,Borden Station,,  43.442372, -80.474700,,,0,place_BORD,1
-1389,1389,Borden Station,,  43.442117, -80.474730,,,0,place_BORD,1
-1390,1390,Borden Station,,  43.442344, -80.474310,,,0,place_BORD,1
-1391,1391,Borden Station,,  43.442298, -80.474109,,,0,place_BORD,1
+1388,1388,Borden Station,,  43.442372, -80.474700,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
+1389,1389,Borden Station,,  43.442117, -80.474730,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
+1390,1390,Borden Station,,  43.442344, -80.474310,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
+1391,1391,Borden Station,,  43.442298, -80.474109,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 1392,1392,Dunbar / Hespeler,,  43.390424, -80.324106,,,0,,1
 1393,1393,Dunbar / Briarwood,,  43.390007, -80.326691,,,0,,1
 1394,1394,Dunbar / Daleview,,  43.389354, -80.328921,,,0,,1
@@ -402,13 +402,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1431,1431,Langs / Walter,,  43.398847, -80.340263,,,0,,1
 1432,1432,Langs / Fairview Mennonite,,  43.398429, -80.342639,,,0,,1
 1433,1433,Concession / Winterhalt,,  43.398697, -80.345464,,,0,,1
-1434,1434,Mill Station,,  43.434554, -80.478754,,,0,place_MILL,1
+1434,1434,Mill Station,,  43.434554, -80.478754,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 1435,1435,336 Eagle,,  43.401250, -80.360651,,,0,,1
 1436,1436,Eagle / William,,  43.400069, -80.362034,,,0,,1
 1437,1437,Eagle / King,,  43.398296, -80.363707,,,0,,1
 1438,1438,Eagle / Hamilton,,  43.396433, -80.365492,,,0,,1
 1439,1439,Eagle / Sherring,,  43.394499, -80.367488,,,0,,1
-1440,1440,Mill Station,,  43.433962, -80.478631,,,0,place_MILL,1
+1440,1440,Mill Station,,  43.433962, -80.478631,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 1441,1441,Lowther / Vine,,  43.390940, -80.359030,,,0,,1
 1442,1442,Lowther / Hamilton,,  43.392534, -80.357519,,,0,,1
 1443,1443,King / Montrose,,  43.391074, -80.349238,,,0,,1
@@ -475,16 +475,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1508,1508,Concession / Scrimger,,  43.355844, -80.301216,,,0,,1
 1509,1509,Concession / Peck,,  43.355376, -80.304097,,,0,,1
 1510,1510,Concession / Cameron,,  43.354863, -80.307126,,,0,,1
-1511,1511,Ainslie Terminal,,  43.357170, -80.313529,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1512,1512,Ainslie Terminal,,  43.357332, -80.313503,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1514,1514,Ainslie Terminal,,  43.357656, -80.313462,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1516,1516,Ainslie Terminal,,  43.357617, -80.312981,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1517,1517,Ainslie Terminal,,  43.357580, -80.312759,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1518,1518,Ainslie Terminal,,  43.357400, -80.312823,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1519,1519,Ainslie Terminal,,  43.357275, -80.312960,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1520,1520,Ainslie Terminal,,  43.357123, -80.313085,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1521,1521,Ainslie Terminal,,  43.357015, -80.313198,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1522,1522,Ainslie Terminal,,  43.356963, -80.313494,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1511,1511,Ainslie Terminal,,  43.357170, -80.313529,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1512,1512,Ainslie Terminal,,  43.357332, -80.313503,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1514,1514,Ainslie Terminal,,  43.357656, -80.313462,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1516,1516,Ainslie Terminal,,  43.357617, -80.312981,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1517,1517,Ainslie Terminal,,  43.357580, -80.312759,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1518,1518,Ainslie Terminal,,  43.357400, -80.312823,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1519,1519,Ainslie Terminal,,  43.357275, -80.312960,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1520,1520,Ainslie Terminal,,  43.357123, -80.313085,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1521,1521,Ainslie Terminal,,  43.357015, -80.313198,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+1522,1522,Ainslie Terminal,,  43.356963, -80.313494,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1523,1523,Ainslie / Walnut,,  43.354938, -80.314075,,,0,,1
 1524,1524,Concession / Cameron,,  43.354735, -80.307313,,,0,,1
 1525,1525,Concession / Peck,,  43.355293, -80.303913,,,0,,1
@@ -511,14 +511,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1547,1547,Franklin / Sheldon,,  43.405672, -80.306634,,,0,,1
 1549,1549,Franklin / Pinebush,,  43.410408, -80.308087,,,0,,1
 1550,1550,Franklin / Jamieson,,  43.417300, -80.310256,,,0,,1
-1551,1551,Fairway Station,,  43.423211, -80.441337,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-1552,1552,Fairway Station,,  43.423103, -80.441189,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-1553,1553,Fairway Station,,  43.423089, -80.440850,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-1554,1554,Fairway Station,,  43.423012, -80.441141,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-1555,1555,Fairway Station,,  43.423121, -80.441288,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-1556,1556,Fairway Station,,  43.423239, -80.441435,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-1557,1557,Fairway Station,,  43.422912, -80.440982,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-1558,1558,Fairway Station,,  43.423328, -80.441237,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1551,1551,Fairway Station,,  43.423211, -80.441337,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1552,1552,Fairway Station,,  43.423103, -80.441189,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1553,1553,Fairway Station,,  43.423089, -80.440850,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1554,1554,Fairway Station,,  43.423012, -80.441141,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1555,1555,Fairway Station,,  43.423121, -80.441288,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1556,1556,Fairway Station,,  43.423239, -80.441435,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1557,1557,Fairway Station,,  43.422912, -80.440982,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+1558,1558,Fairway Station,,  43.423328, -80.441237,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 1559,1559,Kingsway / Wilson,,  43.423057, -80.442932,,,0,,1
 1560,1560,385 Fairway,,  43.421344, -80.440674,,,0,,1
 1561,1561,Fairway / King,,  43.428236, -80.432234,,,0,,1
@@ -529,10 +529,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1566,1566,King / Riverbank,,  43.419574, -80.409178,,,0,,1
 1567,1567,King / Deer Ridge,,  43.410620, -80.399816,,,0,,1
 1568,1568,Heldmann / King,,  43.408459, -80.396355,,,0,,1
-1569,1569,Sportsworld Station,,  43.409414, -80.393072,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
-1570,1570,Sportsworld Station,,  43.410034, -80.393275,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
-1571,1571,Sportsworld Station,,  43.410281, -80.393101,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
-1572,1572,Sportsworld Station,,  43.410186, -80.392578,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
+1569,1569,Sportsworld Station,,  43.409414, -80.393072,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
+1570,1570,Sportsworld Station,,  43.410034, -80.393275,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
+1571,1571,Sportsworld Station,,  43.410281, -80.393101,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
+1572,1572,Sportsworld Station,,  43.410186, -80.392578,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
 1573,1573,Gateway Park / Sportsworld,,  43.407820, -80.391372,,,0,,1
 1574,1574,Tu Lane / Gateway Park,,  43.406260, -80.389177,,,0,,1
 1575,1575,Shantz Hill / Preston Pkwy,,  43.399640, -80.375548,,,0,,1
@@ -550,7 +550,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1587,1587,King / Westminster,,  43.395617, -80.358067,,,0,,1
 1588,1588,King / Lowther,,  43.394179, -80.355292,,,0,,1
 1589,1589,King / Dolph,,  43.392959, -80.352959,,,0,,1
-1590,1590,Sportsworld Station,,  43.409699, -80.392846,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
+1590,1590,Sportsworld Station,,  43.409699, -80.392846,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
 1591,1591,King/Bishop (Southbound),,  43.389789, -80.346621,,,0,,1
 1592,1592,King / Brower,,  43.388732, -80.344447,,,0,,1
 1593,1593,King / Blue Heron,,  43.387685, -80.342347,,,0,,1
@@ -560,7 +560,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1597,1597,Cambridge Memorial Hospital,,  43.378432, -80.327424,,,0,,1
 1598,1598,Coronation / Islandview,,  43.376903, -80.324812,,,0,,1
 1599,1599,Coronation / Wright,,  43.374757, -80.321157,,,0,,1
-1600,1600,Delta Station,,  43.372890, -80.318037,,,0,,1
+1600,1600,Delta Station,,  43.372890, -80.318037,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1601,1601,Dundas / Hopeton,,  43.370454, -80.313935,,,0,,1
 1602,1602,Dundas / Cambridge,,  43.367389, -80.308860,,,0,,1
 1603,1603,Dundas / Beverly,,  43.365897, -80.306272,,,0,,1
@@ -572,7 +572,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1609,1609,Dundas / Cambridge,,  43.367542, -80.308734,,,0,,1
 1610,1610,Dundas / Roxboro,,  43.370590, -80.313946,,,0,,1
 1611,1611,Dundas / Jarvis,,  43.372207, -80.316528,,,0,,1
-1612,1612,Delta Station,,  43.373751, -80.318968,,,0,,1
+1612,1612,Delta Station,,  43.373751, -80.318968,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1613,1613,Coronation / Goldie,,  43.375527, -80.321988,,,0,,1
 1614,1614,Coronation / Oliver,,  43.377875, -80.325933,,,0,,1
 1615,1615,Cambridge Memorial Hospital,,  43.379683, -80.328904,,,0,,1
@@ -627,7 +627,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1667,1667,Stanley Park Mall,,  43.448905, -80.444079,,,0,place_SPM,1
 1668,1668,Stanley Park Mall,,  43.448931, -80.443844,,,0,place_SPM,1
 1671,1671,Ottawa / Mcgee,,  43.453799, -80.435311,,,0,,1
-1676,1676,Sunrise Centre Station,,  43.413517, -80.517444,,,0,place_SRC,1
+1676,1676,Sunrise Centre Station,,  43.413517, -80.517444,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
 1678,1678,Lackner / Victoria,,  43.470895, -80.440663,,,0,,1
 1680,1680,Natchez / Rothsay,,  43.468143, -80.448749,,,0,,1
 1681,1681,Natchez / Matthew,,  43.465638, -80.446472,,,0,,1
@@ -638,6 +638,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1690,1690,Ottawa / Mcgee,,  43.453987, -80.435504,,,0,,1
 1693,1693,River / Rennie,,  43.442929, -80.439116,,,0,,1
 1694,1694,River / Old Chicopee,,  43.438956, -80.433209,,,0,,1
+1695,1695,Westmount / Path To Williamsburg,,  43.415690, -80.500690,,,0,,1
+1696,1696,Westmount / Path To Williamsburg,,  43.415673, -80.500961,,,0,,1
 1697,1697,Wilson / Fairway,,  43.420553, -80.442745,,,0,,1
 1698,1698,Wilson / Webster,,  43.416229, -80.442389,,,0,,1
 1699,1699,805 Wilson,,  43.413456, -80.442489,,,0,,1
@@ -705,14 +707,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1762,1762,Wilson / 800 Block,,  43.413464, -80.442316,,,0,,1
 1763,1763,Wilson / Goodrich,,  43.415400, -80.442273,,,0,,1
 1764,1764,Wilson / Fairway,,  43.420786, -80.442557,,,0,,1
-1765,1765,Forest Glen,,  43.414213, -80.478849,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1766,1766,Forest Glen,,  43.414114, -80.478896,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1767,1767,Forest Glen,,  43.414259, -80.478957,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1768,1768,Forest Glen,,  43.414457, -80.479029,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1769,1769,Forest Glen,,  43.413955, -80.478827,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1770,1770,Forest Glen,,  43.414354, -80.478868,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1771,1771,Forest Glen,,  43.414051, -80.478810,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
-1772,1772,Forest Glen,,  43.413890, -80.478750,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1765,1765,Forest Glen,,  43.414213, -80.478849,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1766,1766,Forest Glen,,  43.414114, -80.478896,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1767,1767,Forest Glen,,  43.414259, -80.478957,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1768,1768,Forest Glen,,  43.414457, -80.479029,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1769,1769,Forest Glen,,  43.413955, -80.478827,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1770,1770,Forest Glen,,  43.414354, -80.478868,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1771,1771,Forest Glen,,  43.414051, -80.478810,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
+1772,1772,Forest Glen,,  43.413890, -80.478750,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FGP,1
 1773,1773,Strasburg / Old Country,,  43.410869, -80.476219,,,0,,1
 1774,1774,Strasburg / Bleams,,  43.407398, -80.475150,,,0,,1
 1776,1776,Strasburg / Shoemaker,,  43.405621, -80.474412,,,0,,1
@@ -825,16 +827,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1885,1885,King / Pandora,,  43.445188, -80.478765,,,0,,1
 1886,1886,King / Cameron,,  43.446079, -80.480636,,,0,,1
 1887,1887,King / Cedar,,  43.447344, -80.483579,,,0,,1
-1893,1893,Central Station,,  43.452855, -80.497931,,,0,,1
+1893,1893,Central Station,,  43.452855, -80.497931,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1896,1896,King / Wellington,,  43.454544, -80.503257,,,0,,1
 1897,1897,King / Agnes,,  43.455072, -80.504801,,,0,,1
 1898,1898,King / Central Fresh Market,,  43.455989, -80.507723,,,0,,1
-1900,1900,Grand River Hospital Station,,  43.457081, -80.511110,,,0,place_GRH,1
-1901,1901,Central Station,,  43.452610, -80.497623,,,0,,1
+1900,1900,Grand River Hospital Station,,  43.457081, -80.511110,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1
+1901,1901,Central Station,,  43.452610, -80.497623,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1902,1902,King / Union,,  43.458468, -80.515351,,,0,,1
 1903,1903,Victoria / Margaret,,  43.456228, -80.489186,,,0,,1
 1904,1904,Allen Station,,  43.460277, -80.518880,,,0,,1
-1907,1907,Waterloo Public Square Station,,  43.464678, -80.522063,,,0,place_KWW,1
+1907,1907,Waterloo Public Square Station,,  43.464678, -80.522063,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_KWW,1
 1909,1909,King / Bridgeport,,  43.467892, -80.523002,,,0,,1
 1910,1910,King / Elgin,,  43.470100, -80.523579,,,0,,1
 1911,1911,King / Marshall,,  43.472470, -80.524054,,,0,,1
@@ -882,7 +884,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1956,1956,Bridgeport / Peppler,,  43.468114, -80.520256,,,0,,1
 1957,1957,King / Bridgeport,,  43.467332, -80.523081,,,0,place_KWW,1
 1959,1959,King / William,,  43.461682, -80.521531,,,0,,1
-1960,1960,Willis Way Station,,  43.462148, -80.523192,,,0,place_WWAY,1
+1960,1960,Willis Way Station,,  43.462148, -80.523192,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_WWAY,1
 1961,1961,Erb / Father David Bauer,,  43.464131, -80.525999,,,0,,1
 1962,1962,Erb / Wells,,  43.463213, -80.528132,,,0,,1
 1963,1963,Erb / Avondale,,  43.462258, -80.530328,,,0,,1
@@ -948,7 +950,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2023,2023,Bridge / Bridle Trail,,  43.485412, -80.488414,,,0,,1
 2024,2024,Block Line / Fallowfield,,  43.418728, -80.466868,,,0,,1
 2025,2025,Block Line / St. Marys High School,,  43.419994, -80.464732,,,0,,1
-2026,2026,Block Line Station,,  43.423602, -80.463395,,,0,place_BLIN,1
+2026,2026,Block Line Station,,  43.423602, -80.463395,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
 2027,2027,Hayward / Courtland,,  43.426411, -80.466746,,,0,,1
 2028,2028,Fairway / Pebblecreek,,  43.446700, -80.409043,,,0,,1
 2029,2029,Fairway / 800S Block,,  43.444422, -80.412478,,,0,,1
@@ -1136,7 +1138,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2229,2229,Myers / Clover,,  43.343787, -80.284926,,,0,,1
 2230,2230,Myers / Elgin,,  43.342683, -80.291485,,,0,,1
 2231,2231,Myers / Greenbrier,,  43.342240, -80.294069,,,0,,1
-2232,2232,Fairway Station,,  43.423294, -80.441181,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_FVM,1
+2232,2232,Fairway Station,,  43.423294, -80.441181,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 2233,2233,Christopher / Myers,,  43.341462, -80.300814,,,0,,1
 2234,2234,Christopher / Tutton,,  43.343928, -80.300687,,,0,,1
 2235,2235,Champlain / Christopher,,  43.346338, -80.300141,,,0,,1
@@ -1355,29 +1357,29 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2532,2532,King / Hickory,,  43.478347, -80.525517,,,0,,1
 2533,2533,King / University,,  43.475428, -80.524983,,,0,place_KUN,1
 2535,2535,King / Central,,  43.469804, -80.523742,,,0,,1
-2536,2536,Allen Station,,  43.460267, -80.519377,,,0,,1
+2536,2536,Allen Station,,  43.460267, -80.519377,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 2538,2538,King / Union,,  43.458269, -80.515241,,,0,,1
-2540,2540,Grand River Hospital Station,,  43.456842, -80.511113,,,0,place_GRH,1
+2540,2540,Grand River Hospital Station,,  43.456842, -80.511113,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1
 2542,2542,King / Central Fresh Market,,  43.455954, -80.508272,,,0,,1
 2543,2543,King / Agnes,,  43.455019, -80.505380,,,0,,1
 2544,2544,King / Wellington,,  43.454391, -80.503209,,,0,,1
-2545,2545,Charles Terminal,,  43.449492, -80.492768,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2546,2546,Charles Terminal,,  43.449410, -80.492559,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2547,2547,Charles Terminal,,  43.449146, -80.491931,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2548,2548,Charles Terminal,,  43.449028, -80.491685,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2549,2549,Charles Terminal,,  43.449074, -80.491870,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2550,2550,Charles Terminal,,  43.449262, -80.492323,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2551,2551,Charles Terminal,,  43.449169, -80.492080,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2552,2552,Charles Terminal,,  43.449401, -80.492683,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2553,2553,Charles Terminal,,  43.449538, -80.492978,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2554,2554,Charles Terminal,,  43.449246, -80.492190,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2555,2555,Charles Terminal,,  43.449003, -80.492216,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2556,2556,Charles Terminal,,  43.449085, -80.492463,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2557,2557,Charles Terminal,,  43.449385, -80.493128,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2558,2558,Charles Terminal,,  43.449230, -80.492672,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2559,2559,Charles Terminal,,  43.449076, -80.492315,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2560,2560,Charles Terminal,,  43.448975, -80.492068,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2561,2561,Frederick Station,,  43.449249, -80.487976,,,0,place_FRED,1
+2545,2545,Charles Terminal,,  43.449492, -80.492768,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2546,2546,Charles Terminal,,  43.449410, -80.492559,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2547,2547,Charles Terminal,,  43.449146, -80.491931,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2548,2548,Charles Terminal,,  43.449028, -80.491685,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2549,2549,Charles Terminal,,  43.449074, -80.491870,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2550,2550,Charles Terminal,,  43.449262, -80.492323,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2551,2551,Charles Terminal,,  43.449169, -80.492080,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2552,2552,Charles Terminal,,  43.449401, -80.492683,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2553,2553,Charles Terminal,,  43.449538, -80.492978,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2554,2554,Charles Terminal,,  43.449246, -80.492190,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2555,2555,Charles Terminal,,  43.449003, -80.492216,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2556,2556,Charles Terminal,,  43.449085, -80.492463,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2557,2557,Charles Terminal,,  43.449385, -80.493128,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2558,2558,Charles Terminal,,  43.449230, -80.492672,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2559,2559,Charles Terminal,,  43.449076, -80.492315,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2560,2560,Charles Terminal,,  43.448975, -80.492068,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2561,2561,Frederick Station,,  43.449249, -80.487976,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 2562,2562,King / Queen,,  43.449864, -80.489391,,,0,,1
 2563,2563,Weber / East,,  43.444603, -80.468013,,,0,,1
 2564,2564,King / Cedar,,  43.447425, -80.483591,,,0,,1
@@ -1489,9 +1491,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2705,2705,Queen / Schneider,,  43.444565, -80.494453,,,0,,1
 2706,2706,Queen / Courtland,,  43.445640, -80.493344,,,0,,1
 2707,2707,Queen / Courtland,,  43.446698, -80.492273,,,0,,1
-2709,2709,Charles Terminal,,  43.449240, -80.492820,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2710,2710,Charles Terminal,,  43.449339, -80.492918,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
-2711,2711,Charles Terminal,,  43.448857, -80.491822,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2709,2709,Charles Terminal,,  43.449240, -80.492820,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2710,2710,Charles Terminal,,  43.449339, -80.492918,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
+2711,2711,Charles Terminal,,  43.448857, -80.491822,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
 2713,2713,Benton / Church,,  43.447469, -80.489411,,,0,place_QUEE,1
 2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
@@ -1658,14 +1660,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2908,2908,Ottawa / Imperial,,  43.429289, -80.481336,,,0,,1
 2909,2909,Ottawa / 400 Block,,  43.430421, -80.480701,,,0,,1
 2910,2910,Ottawa / Hoffman,,  43.431444, -80.479500,,,0,,1
-2911,2911,Mill Station,,  43.434321, -80.479069,,,0,place_MILL,1
+2911,2911,Mill Station,,  43.434321, -80.479069,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 2912,2912,Mill / Borden,,  43.435212, -80.483052,,,0,,1
 2913,2913,Mill / Heiman,,  43.435836, -80.485654,,,0,,1
 2914,2914,Stirling / Mill,,  43.437813, -80.487176,,,0,,1
 2915,2915,Stirling / Courtland,,  43.440981, -80.484375,,,0,,1
 2919,2919,Charles / Cameron,,  43.445248, -80.481208,,,0,,1
-2920,2920,Kitchener Market Station,,  43.446425, -80.483624,,,0,,1
-2924,2924,Kitchener Market Station,,  43.446282, -80.483798,,,0,,1
+2920,2920,Kitchener Market Station,,  43.446425, -80.483624,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+2924,2924,Kitchener Market Station,,  43.446282, -80.483798,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 2925,2925,Charles / Pandora,,  43.444439, -80.480077,,,0,,1
 2927,2927,Stirling / Kaufman Pk,,  43.442812, -80.481084,,,0,,1
 2928,2928,Stirling / Courtland,,  43.441520, -80.484098,,,0,,1
@@ -1673,7 +1675,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2930,2930,Mill / Heiman,,  43.436100, -80.486097,,,0,,1
 2931,2931,Mill / Borden,,  43.435068, -80.482905,,,0,,1
 2932,2932,Mill / 400 Block,,  43.434604, -80.479944,,,0,,1
-2933,2933,Mill Station,,  43.434168, -80.479021,,,0,place_MILL,1
+2933,2933,Mill Station,,  43.434168, -80.479021,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 2934,2934,Ottawa / Hoffman,,  43.431964, -80.479534,,,0,,1
 2935,2935,Ottawa / Kehl,,  43.429704, -80.481592,,,0,,1
 2937,2937,Ottawa / Alpine,,  43.425096, -80.484077,,,0,,1
@@ -1895,7 +1897,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3224,3224,Victoria / Park,,  43.448220, -80.502604,,,0,,1
 3225,3225,Victoria / Michael,,  43.449296, -80.501446,,,0,,1
 3227,3227,Victoria / Joseph,,  43.450873, -80.499678,,,0,,1
-3228,3228,Fairway Station,,  43.422976, -80.441018,,http://www.grt.ca/en/travelwithus/terminalsstops.asp,0,place_FVM,1
+3228,3228,Fairway Station,,  43.422976, -80.441018,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3229,3229,Ottawa / Strasburg,,  43.422932, -80.487332,,,0,,1
 3237,3237,Union / Lucan,,  43.463028, -80.511915,,,0,,1
 3238,3238,Union / Herbert,,  43.460436, -80.514346,,,0,,1
@@ -2274,9 +2276,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3794,3794,Princess / Westcliff,,  43.370400, -80.344558,,,0,,1
 3795,3795,Bismark / Blossomfield,,  43.369261, -80.340683,,,0,,1
 3796,3796,Bismark / Devils Creek,,  43.370565, -80.337225,,,0,,1
-3798,3798,Conestoga Station,,  43.498181, -80.529283,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-3799,3799,Conestoga Station,,  43.498071, -80.528653,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-3800,3800,Conestoga Station,,  43.498415, -80.529132,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+3798,3798,Conestoga Station,,  43.498181, -80.529283,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+3799,3799,Conestoga Station,,  43.498071, -80.528653,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+3800,3800,Conestoga Station,,  43.498415, -80.529132,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 3801,3801,Conestoga College / Pinnacle,,  43.385896, -80.412394,,,0,,1
 3802,3802,Conestoga College / Pinnacle,,  43.385484, -80.412867,,,0,,1
 3803,3803,Conestoga College Residence,,  43.384395, -80.411236,,,0,,1
@@ -2344,7 +2346,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3878,3878,695 Bishop,,  43.393044, -80.336350,,,0,,1
 3879,3879,University / Westvale,,  43.440892, -80.548781,,,0,,1
 3880,3880,University / Portsmouth,,  43.439230, -80.554021,,,0,,1
-3881,3881,The Boardwalk Station,,  43.435489, -80.560757,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
+3881,3881,The Boardwalk Station,,  43.435489, -80.560757,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 3882,3882,Davenport / Conestoga Mall,,  43.498340, -80.524049,,,0,,1
 3884,3884,Arthur / Rail Tracks,,  43.561598, -80.558679,,,0,,1
 3885,3885,Arthur / Rail Tracks,,  43.561130, -80.558683,,,0,,1
@@ -2367,7 +2369,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3905,3905,Ira Needles / Erb,,  43.446092, -80.570729,,,0,,1
 3906,3906,Ira Needles / Erb,,  43.445416, -80.570480,,,0,,1
 3907,3907,Keats Way / Fischer-Hallman,,  43.458261, -80.557528,,,0,,1
-3908,3908,The Boardwalk Station,,  43.435157, -80.560442,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
+3908,3908,The Boardwalk Station,,  43.435157, -80.560442,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 3909,3909,Westmount / Highland,,  43.436134, -80.514615,,,0,,1
 3910,3910,Westmount / Victoria,,  43.439826, -80.521073,,,0,,1
 3911,3911,Westmount / Brybeck,,  43.443686, -80.522476,,,0,,1
@@ -2438,16 +2440,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3997,3997,Robert Ferrie / Forest Creek,,  43.378469, -80.441681,,,0,,1
 3998,3998,Doon South / 440S Block,,  43.379826, -80.432354,,,0,,1
 3999,3999,Doon Mills / Woodsmere,,  43.383044, -80.428792,,,0,,1
-4000,4000,The Boardwalk Station,,  43.435732, -80.560692,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
-4001,4001,The Boardwalk Station,,  43.435392, -80.560344,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
-4002,4002,The Boardwalk Station,,  43.435186, -80.560761,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
-4003,4003,The Boardwalk Station,,  43.435439, -80.561018,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
-4005,4005,Conestoga Station,,  43.498398, -80.529367,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+4000,4000,The Boardwalk Station,,  43.435732, -80.560692,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
+4001,4001,The Boardwalk Station,,  43.435392, -80.560344,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
+4002,4002,The Boardwalk Station,,  43.435186, -80.560761,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
+4003,4003,The Boardwalk Station,,  43.435439, -80.561018,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
+4005,4005,Conestoga Station,,  43.498398, -80.529367,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 4011,4011,Centennial / Forwell,,  43.471842, -80.433607,,,0,,1
 4012,4012,Columbia / Erbsville,,  43.461946, -80.581186,,,0,,1
 4013,4013,Columbia / Cavendish,,  43.463893, -80.576576,,,0,,1
 4014,4014,Laurelwood / Blue Beech,,  43.470290, -80.594731,,,0,,1
-4015,4015,Waterloo Public Square Station,,  43.463941, -80.522184,,,0,place_KWS,1
+4015,4015,Waterloo Public Square Station,,  43.463941, -80.522184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_KWS,1
 4016,4016,Bridge / Chesapeake,,  43.509082, -80.517909,,,0,,1
 4017,4017,Columbia / Salzburg,,  43.460368, -80.582848,,,0,,1
 4018,4018,Columbia / Salzburg,,  43.460465, -80.582531,,,0,,1
@@ -2472,6 +2474,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4038,4038,Bridge / Chesapeake,,  43.508988, -80.518125,,,0,,1
 4039,4039,King / Weber,,  43.513992, -80.557162,,,0,,1
 4040,4040,King / Weber,,  43.514195, -80.557017,,,0,,1
+4041,4041,695 Saginaw Pkwy,,  43.392267, -80.279695,,,0,,1
 4042,4042,Northfield / Davenport,,  43.503132, -80.528994,,,0,,1
 4043,4043,Northfield / Davenport,,  43.503641, -80.528290,,,0,,1
 4044,4044,Blackberry Northfield,,  43.516788, -80.513942,,,0,,1
@@ -2522,6 +2525,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4090,4090,King / High Crest,,  43.535225, -80.554207,,,0,,1
 4091,4091,Ottawa / Elmsdale,,  43.421836, -80.493895,,,0,,1
 4092,4092,Ottawa / Elmsdale,,  43.421665, -80.493616,,,0,,1
+4093,4093,Can-Amera / Path To Lena,,  43.392907, -80.308976,,,0,,1
 4094,4094,Ottawa / Westmount,,  43.420389, -80.501241,,,0,,1
 4095,4095,Ottawa / Fischer-Hallman,,  43.417604, -80.510393,,,0,,1
 4096,4096,Ottawa / Fischer-Hallman,,  43.416364, -80.511539,,,0,,1
@@ -2529,11 +2533,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4098,4098,Ottawa / River,,  43.450940, -80.443771,,,0,,1
 4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1
 4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1
+4108,4108,Townline / Cambridge Gurdwara,,  43.400424, -80.274613,,,0,,1
 5000,5000,Water / Joseph,,  43.449856, -80.495662,,,0,,1
+5001,5001,Frederick Station,,  43.448909, -80.486913,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 5005,5005,Water / King,,  43.451514, -80.494579,,,0,,1
 5006,5006,Water / King,,  43.451504, -80.494734,,,0,,1
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
-5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,,0,place_SRC,1
+5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
 5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
 5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
 5024,5024,Jamieson / Franklin,,  43.418171, -80.309915,,,0,,1
@@ -2542,16 +2548,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5065,5065,Elgin / Munch,,  43.384420, -80.312428,,,0,, 
 5068,5068,Munch / Sekura,,  43.383162, -80.318238,,,0,, 
 5069,5069,Jamieson / Townline,,  43.424845, -80.285186,,,0,,1
-6019,6019,Pinebush Station,,  43.407581, -80.328185,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
-6021,6021,Can-Amera Station,,  43.385250, -80.321055,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6022,6022,Delta Station,,  43.373714, -80.318833,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6023,6023,Pinebush Station,,  43.407203, -80.328043,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6101,6101,Ainslie Terminal,,  43.357642, -80.313444,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-6102,6102,Delta Station,,  43.372830, -80.318223,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6103,6103,Can-Amera Station,,  43.386523, -80.321010,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6104,6104,Cambridge Centre Station,,  43.392708, -80.322961,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
-6105,6105,Pinebush Station,,  43.407749, -80.327774,,http://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6019,6019,Pinebush Station,,  43.407581, -80.328185,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+6021,6021,Can-Amera Station,,  43.385250, -80.321055,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6022,6022,Delta Station,,  43.373714, -80.318833,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6023,6023,Pinebush Station,,  43.407203, -80.328043,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6101,6101,Ainslie Terminal,,  43.357642, -80.313444,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
+6102,6102,Delta Station,,  43.372830, -80.318223,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6103,6103,Can-Amera Station,,  43.386523, -80.321010,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6104,6104,Cambridge Centre Station,,  43.392708, -80.322961,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
+6105,6105,Pinebush Station,,  43.407749, -80.327774,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 7000,7000,Snyders / Notre Dame,,  43.413404, -80.606216,,,0,,1
 7001,7001,Snyders / Notre Dame,,  43.413341, -80.605695,,,0,,1
 7002,7002,Snyders / Forler,,  43.405625, -80.656739,,,0,,1
