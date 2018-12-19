@@ -29,11 +29,11 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 53,53,Franklin,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 54,54,Lisbon Pines,3,00ffff,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 55,55,St. Andrews,3,9900cc,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-56,56,Dunbar,3,6633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+56,56,Dunbar,3,006633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 57,57,Blair,3,ff6600,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 58,58,Elmwood,3,663333,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 59,59,Christopher,3,ff00ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-60,60,Northview Acres,3,3399,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+60,60,Northview Acres,3,003399,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 61,61,Fountain,3,00aaac,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 62,62,Woodside,3,405980,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 63,63,Champlain,3,ffb200,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
