@@ -199,7 +199,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1211,1211,Highland / Westheights,,  43.425154, -80.543771,,,0,,1
 1212,1212,Kraus / Northfield,,  43.501473, -80.530618,,,0,,1
 1213,1213,Columbia / Ladyslipper,,  43.449676, -80.586500,,,0,,1
-1214,1214,Columbia / Ladyslipper,,  43.449369, -80.586771,,,0,,1
 1215,1215,Mcmurray / Northland,,  43.508940, -80.528472,,,0,,1
 1216,1216,Mcmurray / Bathurst,,  43.511001, -80.530760,,,0,,1
 1217,1217,Bathurst / Rankin,,  43.510239, -80.533952,,,0,,1
@@ -1445,6 +1444,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2639,2639,East / Cameron,,  43.451003, -80.471595,,,0,,1
 2645,2645,East / Cameron,,  43.450497, -80.471462,,,0,,1
 2646,2646,East / Stirling,,  43.448445, -80.470116,,,0,,1
+2649,2649,Weber / Fairview,,  43.446823, -80.475909,,,0,,1
+2651,2651,Weber / Cameron,,  43.447951, -80.478433,,,0,,1
+2653,2653,Weber / Cedar,,  43.449288, -80.481400,,,0,,1
 2654,2654,Margaret / Queen,,  43.454683, -80.485741,,,0,,1
 2656,2656,Margaret / Victoria,,  43.456787, -80.489220,,,0,,1
 2657,2657,Margaret / Wellington,,  43.458991, -80.490600,,,0,,1
@@ -1578,7 +1580,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2813,2813,Davenport / Kingscourt,,  43.497047, -80.520608,,,0,,1
 2814,2814,Davenport / Kidsability Centre,,  43.497479, -80.518478,,,0,,1
 2815,2815,Path To Redfox,,  43.496504, -80.515777,,,0,,1
-2817,2817,Lexington / Lexington,,  43.493005, -80.512391,,,0,,1
+2817,2817,Lexington / Davenport,,  43.493005, -80.512391,,,0,,1
 2819,2819,Lexington / Lee,,  43.496575, -80.507192,,,0,,1
 2820,2820,Highland / Spadina,,  43.438686, -80.493070,,,0,,1
 2821,2821,Lee / Dunvegan,,  43.493241, -80.504449,,,0,,1
@@ -1601,6 +1603,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2840,2840,Margaret / Victoria,,  43.455957, -80.488833,,,0,,1
 2841,2841,Margaret / Queen,,  43.454539, -80.485669,,,0,,1
 2842,2842,Weber / Frederick,,  43.451390, -80.486338,,,0,,1
+2843,2843,Weber / Cedar,,  43.449071, -80.481290,,,0,,1
+2844,2844,Weber / Madison,,  43.448516, -80.480059,,,0,,1
+2845,2845,Weber / Fairview,,  43.446960, -80.476526,,,0,,1
+2847,2847,Weber / Borden,,  43.445530, -80.470940,,,0,,1
 2848,2848,Weber / Onward,,  43.445129, -80.469880,,,0,,1
 2850,2850,Ottawa / Highway 7,,  43.445441, -80.463414,,,0,,1
 2851,2851,Ottawa / Nottingham,,  43.447695, -80.458228,,,0,,1
@@ -1893,7 +1899,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3219,3219,Victoria / Paulander,,  43.440585, -80.517434,,,0,,1
 3220,3220,Victoria / Lawrence,,  43.441969, -80.514692,,,0,,1
 3221,3221,Victoria / Patricia,,  43.444337, -80.508259,,,0,,1
-3222,3222,Victoria / West,,  43.444879, -80.506549,,,0,,1
+3222,3222,Victoria / Iron Horse Trail,,  43.444879, -80.506549,,,0,,1
 3224,3224,Victoria / Park,,  43.448220, -80.502604,,,0,,1
 3225,3225,Victoria / Michael,,  43.449296, -80.501446,,,0,,1
 3227,3227,Victoria / Joseph,,  43.450873, -80.499678,,,0,,1
@@ -2124,7 +2130,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3563,3563,Fountain / Preston,,  43.390563, -80.375028,,,0,,1
 3564,3564,Victoria / Belmont,,  43.443287, -80.511233,,,0,,1
 3565,3565,Victoria / West,,  43.446088, -80.505019,,,0,,1
-3566,3566,280 Victoria St S,,  43.445068, -80.506585,,,0,,1
+3566,3566,Victoria / Iron Horse Trail,,  43.445068, -80.506585,,,0,,1
 3568,3568,Fairway / Sims Estate,,  43.439812, -80.420634,,,0,,1
 3570,3570,Fairway / Briarmeadow,,  43.439831, -80.420930,,,0,,1
 3571,3571,Centennial / Victoria,,  43.475260, -80.429210,,,0,,1
