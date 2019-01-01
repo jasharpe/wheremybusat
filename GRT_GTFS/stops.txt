@@ -1570,7 +1570,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2808,2808,Davenport / Kingscourt,,  43.497121, -80.521140,,,0,,1
 2809,2809,Kraus / Conestogo,,  43.500217, -80.529489,,,0,,1
 2810,2810,Kraus / Northfield,,  43.501771, -80.530640,,,0,,1
-2811,2811,Davenport / Conestoga Mall,,  43.499146, -80.525131,,,0,,1
+2811,2811,Davenport / Old Abbey,,  43.499146, -80.525131,,,0,,1
 2812,2812,Davenport / Contestoga Mall,,  43.497337, -80.523265,,,0,,1
 2813,2813,Davenport / Kingscourt,,  43.497047, -80.520608,,,0,,1
 2814,2814,Davenport / Kidsability Centre,,  43.497479, -80.518478,,,0,,1
@@ -2593,6 +2593,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7065,7065,Mulberry / Jacob Hespeler Lodge,,  43.427708, -80.303675,,,0,,1
 7066,7066,Kribs / W. G. Johnson Centre,,  43.430743, -80.306120,,,0,,1
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
+place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
 place_BORD,,Borden Station,,  43.442267, -80.474793,,,1,,
 place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
@@ -2604,6 +2605,8 @@ place_FRED,,Frederick Station,,  43.449176, -80.487665,,,1,,
 place_FVM,,Fairway Station,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHM,,Highland Hills,,  43.430516, -80.525421,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
 place_KUN,,King/University,,  43.476139, -80.524978,,,1,,
 place_KWS,,King/Waterloo Square,,  43.463861, -80.522150,,,1,,
 place_KWW,,King/Willis Way,,  43.463903, -80.521875,,,1,,
@@ -2611,13 +2614,10 @@ place_MILL,,Mill Station,,  43.434799, -80.479477,,,1,,
 place_NORT,,Northfield Station,,  43.497002, -80.543001,,,1,,
 place_PSN,,Parkside/Northfield,,  43.496888, -80.545815,,,1,,
 place_QUEE,,Queen Station,,  43.448919, -80.490015,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld Station,,  43.409919, -80.392925,,,1,,
 place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_WWAY,,Willis Way Station,,  43.462566, -80.523816,,,1,,
-place_KNF,,Kumpf/Northfield,,  43.499817, -80.541775,,,1,,
-place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
