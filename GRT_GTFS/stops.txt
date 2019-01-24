@@ -1356,7 +1356,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2535,2535,King / Central,,  43.469804, -80.523742,,,0,,1
 2536,2536,Allen Station,,  43.460267, -80.519377,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 2538,2538,King / Union,,  43.458269, -80.515241,,,0,,1
-2540,2540,Grand River Hospital Station,,  43.456842, -80.511113,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1
+2540,2540,Grand River Hospital Station,,  43.457075, -80.511800,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1
 2542,2542,King / Central Fresh Market,,  43.455954, -80.508272,,,0,,1
 2543,2543,King / Agnes,,  43.455019, -80.505380,,,0,,1
 2544,2544,King / Wellington,,  43.454391, -80.503209,,,0,,1
