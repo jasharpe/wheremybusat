@@ -451,7 +451,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1484,1484,Franklin / Holiday Inn Dr.,,  43.418386, -80.310761,,,0,,1
 1485,1485,Franklin / Pinebush,,  43.411113, -80.308486,,,0,,1
 1486,1486,580 Hespeler Rd.,,  43.403211, -80.326735,,,0,,1
-1487,1487,Franklin / Sheldon,,  43.405859, -80.306988,,,0,,1
+1487,1487,Franklin / Sheldon,,  43.405527, -80.307058,,,0,,1
 1488,1488,Franklin / Turnbull,,  43.403472, -80.306103,,,0,,1
 1490,1490,Franklin / Bishop,,  43.399158, -80.304770,,,0,,1
 1491,1491,Franklin / Elgin,,  43.391193, -80.302193,,,0,,1
@@ -2595,7 +2595,6 @@ place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CENT,,Central Station,,  43.452830, -80.498170,,,1,,
 place_CML,,Conestoga Station,,  43.498150, -80.529220,,,1,,
 place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
-place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FGP,,Forest Glen,,  43.414159, -80.478883,,,1,,
 place_FRED,,Frederick Station,,  43.449176, -80.487665,,,1,,
 place_FVM,,Fairway Station,,  43.423075, -80.441140,,,1,,
@@ -2614,3 +2613,4 @@ place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_WPSQ,,Waterloo Public Square Station,,  43.464250, -80.522130,,,1,,
 place_WWAY,,Willis Way Station,,  43.462566, -80.523816,,,1,,
+place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
