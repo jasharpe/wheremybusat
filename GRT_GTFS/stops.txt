@@ -1348,10 +1348,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2526,2526,Columbia / King,,  43.481709, -80.526381,,,0,,1
 2527,2527,Regina / Columbia,,  43.480919, -80.524767,,,0,,1
 2528,2528,Regina / Hickory,,  43.478702, -80.524302,,,0,,1
-2529,2529,Hickory / King,,  43.478184, -80.525184,,,0,,1
+2529,2529,Hickory / King,,  43.478184, -80.525184,,,0,place_KUN,1
 2530,2530,Ring Rd. / U.W. - Quantum Nano Centre,,  43.470719, -80.544470,,,0,,1
 2531,2531,Columbia / University Of Waterloo,,  43.474512, -80.547288,,,0,,1
-2532,2532,King / Hickory,,  43.478347, -80.525517,,,0,,1
+2532,2532,King / Hickory,,  43.478347, -80.525517,,,0,place_KUN,1
 2533,2533,King / University Ave. (South Side),,  43.475428, -80.524983,,,0,place_KUN,1
 2535,2535,King / Central,,  43.469804, -80.523742,,,0,,1
 2536,2536,Allen Station,,  43.460267, -80.519377,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
@@ -2535,6 +2535,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5000,5000,Water / Joseph,,  43.449856, -80.495662,,,0,,1
 5001,5001,Frederick Station,,  43.448909, -80.486913,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 5002,5002,Queen / Tannery,,  43.431737, -80.309693,,,0,,1
+5003,5003,Myrtle / James,,  43.365627, -80.321835,,,0,,1
+5004,5004,Regina / University Ave.,,  43.476102, -80.523666,,,0,,1
 5005,5005,Water / King,,  43.451514, -80.494579,,,0,,1
 5006,5006,Water / King,,  43.451504, -80.494734,,,0,,1
 5007,5007,Regina / Elgin,,  43.470036, -80.522377,,,0,,1
@@ -2547,6 +2549,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5014,5014,Sunrise Centre Station,,  43.412921, -80.517062,,,0,,1
 5015,5015,Water / Weber,,  43.454098, -80.492863,,,0,,1
 5016,5016,Water / Francis,,  43.453916, -80.493221,,,0,,1
+5018,5018,University Ave. / King (East Side),,  43.476371, -80.524735,,,0,,1
 5060,5060,Regina / Young,,  43.468529, -80.521969,,,0,,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
