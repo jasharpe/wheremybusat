@@ -607,7 +607,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1644,1644,King / Hofstetter,,  43.425748, -80.422584,,,0,,1
 1645,1645,3189 King St. E.,,  43.426758, -80.426590,,,0,,1
 1646,1646,King / Fairway,,  43.428266, -80.431097,,,0,,1
-1647,1647,Morrison / Grand River Hospital – Freeport,,  43.426025, -80.413402,,,0,,1
+1647,1647,Morrison / Grand River Hospital - Freeport Campus,,  43.426025, -80.413402,,,0,,1
 1648,1648,Morrison / Grand River Blvd.,,  43.427849, -80.414460,,,0,,1
 1649,1649,Morrison / Path To Morrison Park,,  43.429984, -80.416379,,,0,,1
 1650,1650,Morrison / Grand River Blvd.,,  43.432091, -80.414604,,,0,,1
@@ -1537,7 +1537,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2785,2785,University Ave. / King,,  43.475826, -80.525450,,,0,place_KUN,1
 2786,2786,University Ave. / Regina,,  43.476663, -80.523280,,,0,,1
 2787,2787,University Ave. / Weber,,  43.477642, -80.520527,,,0,,1
-2788,2788,University Ave. / Conestoga College – Waterloo,,  43.479299, -80.516198,,,0,,1
+2788,2788,University Ave. / Conestoga College - Waterloo,,  43.479299, -80.516198,,,0,,1
 2793,2793,Lincoln / Mayfield,,  43.479191, -80.507766,,,0,,1
 2794,2794,Lincoln / Bluevale,,  43.482010, -80.505814,,,0,,1
 2795,2795,Lincoln / University Ave.,,  43.483323, -80.507621,,,0,,1
@@ -2518,6 +2518,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5024,5024,Mausser / Lorne,,  43.434382, -80.493218,,,0,,1
 5027,5027,Mausser / Lorne,,  43.434612, -80.492990,,,0,,1
 5028,5028,Mausser / Stirling,,  43.433908, -80.495755,,,0,,1
+5029,5029,Queenston / Westminster,,  43.394973, -80.359388,,,0,,1
+5030,5030,Queenston / Lowther,,  43.393549, -80.356667,,,0,,1
+5031,5031,Dolph / King,,  43.393024, -80.353233,,,0,,1
+5032,5032,Duke / Lowther,,  43.395267, -80.354600,,,0,,1
+5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,1
+5034,5034,Waterloo St. / King,,  43.397371, -80.361015,,,0,,1
 5052,5052,Hoffman / Highland,,  43.430282, -80.487515,,,0,,1
 5053,5053,Highland / Hoffman,,  43.430597, -80.487545,,,0,place_MILL,1
 5060,5060,Regina / Young,,  43.468529, -80.521969,,,0,,1
