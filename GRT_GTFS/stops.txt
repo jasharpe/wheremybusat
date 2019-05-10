@@ -463,7 +463,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1503,1503,Franklin / Hilltop,,  43.364746, -80.291895,,,0,,1
 1504,1504,Franklin / Mclaren,,  43.361247, -80.290248,,,0,,1
 1505,1505,Main / South Cambridge Centre,,  43.357898, -80.289679,,,0,,1
-1506,1506,Main / Alexander,,  43.357140, -80.293797,,,0,,1
+1506,1506,Main / Dundas,,  43.357321, -80.292951,,,0,,1
 1507,1507,Main / Elgin,,  43.356592, -80.296802,,,0,,1
 1508,1508,Concession / Scrimger,,  43.355844, -80.301216,,,0,,1
 1509,1509,Concession / Peck,,  43.355376, -80.304097,,,0,,1
@@ -674,7 +674,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1740,1740,Green Valley / Mill Park,,  43.395970, -80.426078,,,0,,1
 1741,1741,Green Valley / Arrowhead,,  43.395539, -80.428304,,,0,,1
 1742,1742,Green Valley / Pioneer,,  43.396105, -80.429756,,,0,,1
-1743,1743,Pioneer / Homer Watson,,  43.395646, -80.431637,,,0,,1
 1744,1744,Pioneer / Pioneer Park Plaza,,  43.394279, -80.433663,,,0,,1
 1745,1745,Pioneer / Bechtel,,  43.393529, -80.436893,,,0,,1
 1746,1746,Pioneer / Bechtel,,  43.393656, -80.436990,,,0,,1
@@ -821,6 +820,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1910,1910,King / Elgin,,  43.470100, -80.523579,,,0,,1
 1911,1911,King / James,,  43.472470, -80.524054,,,0,,1
 1912,1912,Victoria / Margaret,,  43.456550, -80.488844,,,0,,1
+1913,1913,King / University Ave.,,  43.476039, -80.524793,,,0,place_KUN,1
 1914,1914,King / Hickory,,  43.477724, -80.525163,,,0,place_KUN,1
 1915,1915,King / Columbia,,  43.481798, -80.526009,,,0,,1
 1916,1916,King / Weber,,  43.484988, -80.526677,,,0,,1
@@ -1355,7 +1355,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2568,2568,King / Borden,,  43.442842, -80.473916,,,0,,1
 2569,2569,King / Ottawa,,  43.441942, -80.471885,,,0,,1
 2570,2570,King / Sydney,,  43.440958, -80.469521,,,0,,1
-2571,2571,King / Rockway Centre,,  43.439755, -80.466381,,,0,,1
 2572,2572,King / Rockway Gardens,,  43.437861, -80.461850,,,0,,1
 2573,2573,First / Eckert,,  43.434540, -80.456579,,,0,,1
 2575,2575,Fourth / Kingsway,,  43.434243, -80.452813,,,0,,1
@@ -2256,9 +2255,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3858,3858,Dunbar / Industrial,,  43.389280, -80.328699,,,0,,1
 3860,3860,Avenue / Path To Thunderbird,,  43.378733, -80.308558,,,0,,1
 3861,3861,Cedar / St Andrews,,  43.352325, -80.323961,,,0,,1
-3862,3862,Cedar / Grand,,  43.353242, -80.317621,,,0,,1
-3863,3863,Cedar / Grand,,  43.353425, -80.318075,,,0,,1
-3864,3864,Cedar / St Andrews,,  43.352573, -80.323317,,,0,,1
 3871,3871,Brooklyne / Glen,,  43.377132, -80.313316,,,0,,1
 3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,1
 3877,3877,965 Bishop St. N.,,  43.393268, -80.334656,,,0,,1
@@ -2489,6 +2485,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5052,5052,Hoffman / Highland,,  43.430282, -80.487515,,,0,,1
 5053,5053,Highland / Hoffman,,  43.430597, -80.487545,,,0,place_MILL,1
 5060,5060,Regina / Young,,  43.468529, -80.521969,,,0,,1
+5061,5061,Elgin / King,,  43.470213, -80.523464,,,0,,1
+5062,5062,Elgin / Regina,,  43.470214, -80.522649,,,0,,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6021,6021,Can-Amera Station,,  43.385250, -80.321055,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
