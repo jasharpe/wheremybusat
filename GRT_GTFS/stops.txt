@@ -75,7 +75,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1083,1083,Union / Devitt,,  43.463615, -80.509811,,,0,,1
 1084,1084,Frederick / Gordon,,  43.454783, -80.479894,,,0,,1
 1085,1085,Frederick / Lancaster,,  43.453506, -80.482377,,,0,,1
-1088,1088,Frederick Station,,  43.449417, -80.487668,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 1089,1089,Queen Station,,  43.448576, -80.488354,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1090,1090,University Ave. / University Of Waterloo,,  43.469279, -80.538619,,,0,,1
 1091,1091,Union / Weber,,  43.465072, -80.506287,,,0,,1
@@ -1617,7 +1616,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2913,2913,Mill / Heiman,,  43.435836, -80.485654,,,0,,1
 2914,2914,Stirling / Mill,,  43.437813, -80.487176,,,0,,1
 2915,2915,Stirling / Courtland,,  43.440981, -80.484375,,,0,,1
-2916,2916,Stirling / Kaufman Park,,  43.442960, -80.480162,,,0,,1
 2919,2919,Charles / Cameron Heights Collegiate Institute,,  43.445248, -80.481208,,,0,,1
 2920,2920,Kitchener Market Station,,  43.446425, -80.483624,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 2924,2924,Kitchener Market Station,,  43.446282, -80.483798,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
@@ -2255,6 +2253,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3858,3858,Dunbar / Industrial,,  43.389280, -80.328699,,,0,,1
 3860,3860,Avenue / Path To Thunderbird,,  43.378733, -80.308558,,,0,,1
 3861,3861,Cedar / St Andrews,,  43.352325, -80.323961,,,0,,1
+3863,3863,Cedar / Grand,,  43.353425, -80.318075,,,0,,1
+3864,3864,Cedar / St Andrews,,  43.352573, -80.323317,,,0,,1
 3871,3871,Brooklyne / Glen,,  43.377132, -80.313316,,,0,,1
 3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,1
 3877,3877,965 Bishop St. N.,,  43.393268, -80.334656,,,0,,1
@@ -2453,12 +2453,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5001,5001,Frederick Station,,  43.448909, -80.486913,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 5002,5002,Queen / Tannery,,  43.431737, -80.309693,,,0,,1
 5003,5003,Myrtle / James,,  43.365627, -80.321835,,,0,,1
-5004,5004,Regina / University Ave.,,  43.476102, -80.523666,,,0,,1
 5005,5005,Water / King,,  43.451514, -80.494579,,,0,,1
 5006,5006,Water / King,,  43.451504, -80.494734,,,0,,1
 5007,5007,Regina / Elgin,,  43.470036, -80.522377,,,0,,1
 5008,5008,Regina / Marshall,,  43.472686, -80.522373,,,0,,1
-5009,5009,Regina / Marshall,,  43.473276, -80.522730,,,0,,1
 5010,5010,Regina / Elgin,,  43.470360, -80.522584,,,0,,1
 5011,5011,Joseph / Water,,  43.449690, -80.495803,,,0,,1
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
@@ -2474,19 +2472,16 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5024,5024,Mausser / Lorne,,  43.434382, -80.493218,,,0,,1
 5027,5027,Mausser / Lorne,,  43.434612, -80.492990,,,0,,1
 5028,5028,Mausser / Stirling,,  43.433908, -80.495755,,,0,,1
-5029,5029,Queenston / Westminster,,  43.394973, -80.359388,,,0,,1
-5030,5030,Queenston / Lowther,,  43.393549, -80.356667,,,0,,1
 5031,5031,Queenston / Dolph,,  43.392397, -80.354488,,,0,,1
 5032,5032,Duke / Lowther,,  43.395267, -80.354600,,,0,,1
 5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,1
 5034,5034,Waterloo St. / King,,  43.397371, -80.361015,,,0,,1
-5035,5035,Queenston / Montrose,,  43.390529, -80.350676,,,0,,1
+5035,5035,Queenston / Union,,  43.391268, -80.352172,,,0,,1
 5036,5036,Weber / Queen,,  43.452155, -80.487883,,,0,,1
 5052,5052,Hoffman / Highland,,  43.430282, -80.487515,,,0,,1
 5053,5053,Highland / Hoffman,,  43.430597, -80.487545,,,0,place_MILL,1
 5060,5060,Regina / Young,,  43.468529, -80.521969,,,0,,1
 5061,5061,Elgin / King,,  43.470213, -80.523464,,,0,,1
-5062,5062,Elgin / Regina,,  43.470214, -80.522649,,,0,,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6021,6021,Can-Amera Station,,  43.385250, -80.321055,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
