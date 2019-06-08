@@ -1,6 +1,6 @@
 route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_url
 1,1,Queen-River,3,80298f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-2,2,Forest Heights,3,fcb94c,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
+2,2,Stirling,3,fcb94c,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 3,3,Ottawa South,3,f05a71,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 4,4,Glasgow,3,806950,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 5,5,Erb,3,008fd4,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -14,13 +14,16 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 13,13,Laurelwood,3,ffca04,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 14,14,Waterloo Industrial,3,496e6d,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 16,16,Strasburg,3,86ac51,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+19,19,Hazel,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 20,20,Victoria-Frederick,3,c7a0ca,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 21,21,Elmira,3,a6ce38,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 22,22,Laurentian West,3,756fb3,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 23,23,Idlewood,3,f6adcd,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 26,26,Trillium,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 27,27,Chicopee,3,f58245,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+28,28,Franklin North,3,ff00ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 29,29,Keats Way,3,a54686,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+30,30,Ring Road,3,ff6633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 31,31,Columbia,3,aaa575,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 33,33,Huron,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 34,34,Bingemans,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -28,7 +31,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 52,52,Coronation,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 53,53,Franklin,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 54,54,Lisbon Pines,3,00ffff,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
-55,55,St. Andrews,3,9900cc,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+55,55,St Andrews,3,9900cc,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 56,56,Dunbar,3,006633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 57,57,Blair,3,ff6600,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 58,58,Elmwood,3,663333,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -55,6 +58,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 203,203,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
 204,204,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
 205,205,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+301,301,ION,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
+302,302,ION Bus,3,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 901,901,Flex Trinity-Freeport,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
 902,902,Flex Hespeler Village,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
 8881,8881,Oktoberfest Concordia Shuttle,3,1ca2df,ffffff,https://www.grt.ca/en/fares-passes/oktoberfest.aspx
