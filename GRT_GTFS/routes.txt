@@ -2,18 +2,17 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 1,1,Queen-River,3,80298f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 2,2,Stirling,3,fcb94c,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 3,3,Ottawa South,3,f05a71,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-4,4,Glasgow,3,806950,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+4,4,Glasgow-Margaret,3,806950,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 5,5,Erb,3,008fd4,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-6,6,Bridge,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-7,7,Mainline,3,ed1c24,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-8,8,University/Fairway,3,00a550,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+6,6,Bridge-Courtland,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+7,7,King,3,ed1c24,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+8,8,Weber,3,00a550,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 9,9,Lakeshore,3,f7931d,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 10,10,Pioneer,3,0071bb,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-11,11,Country Hills,3,135887,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 12,12,Westmount,3,ec008b,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 13,13,Laurelwood,3,ffca04,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
-14,14,Waterloo Industrial,3,496e6d,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-16,16,Strasburg,3,86ac51,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+14,14,Bathurst,3,496e6d,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+16,16,Strasburg-Belmont,3,86ac51,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 19,19,Hazel,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 20,20,Victoria-Frederick,3,c7a0ca,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 21,21,Elmira,3,a6ce38,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -22,8 +21,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 26,26,Trillium,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 27,27,Chicopee,3,f58245,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 28,28,Franklin North,3,ff00ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-29,29,Keats Way,3,a54686,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-30,30,Ring Road,3,ff6633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+29,29,Keats-University,3,a54686,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 31,31,Columbia,3,aaa575,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 33,33,Huron,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 34,34,Bingemans,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -47,12 +45,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 75,75,Saginaw,3,ff6633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 76,76,Doon South,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 77,77,Wilmot,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-91,91,Late Night Loop,3,,,https://www.grt.ca/en/schedules-maps/late-night-service.aspx
-92,92,University Loop,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
 110,110,College Express,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
-111,111,College Express,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
-116,116,College Express,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
-200,200,iXpress,3,005aa7,fdbc3b,https://www.grt.ca/en/schedules-maps/schedules.aspx
 201,201,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
 202,202,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
 203,203,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -62,27 +55,3 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 302,302,ION Bus,3,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 901,901,Flex Trinity-Freeport,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
 902,902,Flex Hespeler Village,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
-8881,8881,Oktoberfest Concordia Shuttle,3,1ca2df,ffffff,https://www.grt.ca/en/fares-passes/oktoberfest.aspx
-8882,8882,Oktoberfest Bingeman's Shuttle,3,1ca2df,ffffff,https://www.grt.ca/en/fares-passes/oktoberfest.aspx
-8883,8883,Oktoberfest Queensmount Shuttle,3,1ca2df,ffffff,https://www.grt.ca/en/fares-passes/oktoberfest.aspx
-8884,8884,Oktoberfest Chicopee Shuttle,3,1ca2df,ffffff,https://www.grt.ca/en/fares-passes/oktoberfest.aspx
-9801,9801,Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9851,9851,GCI Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9901,9901,Huron Heights Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9903,9903,UW-Lakeshore/SMH-Fairway Express Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9904,9904,Rt 7 Eastwood Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9931,9931,Huron Industrial Special,3,,,http://www.grt.ca/en/routesschedules/industrial_specials.asp
-9932,9932,Northfield Industrial Special,3,,,http://www.grt.ca/en/routesschedules/industrial_specials.asp
-9951,9951,HHS-FGP/SMH-Fairway Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9952,9952,ECI-F1 Express Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9953,9953,ECI-F2 Express Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9954,9954,ECI-F3 Express Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9961,9961,ECI-King East Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9963,9963,ECI-Downtown 1 Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9964,9964,ECI-Downtown 2 Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9983,9983,Rt 14 and 7 Evening Special,3,,,http://www.grt.ca/en/routesschedules/industrial_specials.asp
-9941,9941,Exam Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9942,9942,Exam Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9802,9802,College Shuttle,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
-9841,9841,Exam Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
-9922,9922,Exam Special,3,,,https://www.grt.ca/en/schedules-maps/school-service.aspx
