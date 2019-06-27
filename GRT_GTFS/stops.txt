@@ -1442,7 +1442,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2705,2705,Queen / Schneider,,  43.444565, -80.494453,,,0,,1
 2706,2706,Queen / Courtland (West Side),,  43.445640, -80.493344,,,0,,1
 2713,2713,Benton / Church,,  43.447469, -80.489411,,,0,place_QUEE,1
-2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
