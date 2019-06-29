@@ -701,7 +701,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1822,1822,Black Walnut / Pioneer,,  43.391354, -80.450680,,,0,,1
 1823,1823,Bechtel / Doon Village,,  43.391950, -80.439932,,,0,,1
 1824,1824,Pioneer / Pioneer Park Plaza,,  43.393894, -80.434234,,,0,,1
-1825,1825,Old Carriage / Old Carriage Ct.,,  43.392085, -80.432597,,,0,,1
 1826,1826,100 Old Carriage Dr.,,  43.391303, -80.431098,,,0,,1
 1827,1827,Old Carriage / Homer Watson,,  43.390945, -80.427854,,,0,,1
 1828,1828,Old Carriage / Homer Watson,,  43.391018, -80.428051,,,0,,1
@@ -2255,7 +2254,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3967,3967,Pinebush / Conestoga,,  43.409213, -80.322118,,,0,,1
 3968,3968,Pinebush / Struck,,  43.410398, -80.315485,,,0,,1
 3970,3970,Pinebush / Wayne,,  43.411442, -80.309769,,,0,,1
-3971,3971,Pinebush / Balmoral,,  43.412825, -80.301278,,,0,,1
+3971,3971,Pinebush / Balmoral,,  43.412621, -80.302518,,,0,,1
 3972,3972,Pinebush / Fleming,,  43.413894, -80.295016,,,0,,1
 3973,3973,Pinebush / Tyler,,  43.415289, -80.287601,,,0,,1
 3974,3974,520 Thompson Dr.,,  43.413406, -80.285750,,,0,,1
