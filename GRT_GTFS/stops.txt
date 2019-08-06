@@ -1746,6 +1746,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3248,3248,Glasgow / Dunbar,,  43.450570, -80.520903,,,0,,1
 3249,3249,Glasgow / Westmount,,  43.449580, -80.523678,,,0,,1
 3250,3250,Glasgow / Aberdeen,,  43.448548, -80.526726,,,0,,1
+3251,3251,Inwood / Glasgow,,  43.447370, -80.528257,,,0,,1
+3252,3252,Inwood / Westwood,,  43.445497, -80.527034,,,0,,1
+3253,3253,Westwood / Westwood Cres.,,  43.445138, -80.529583,,,0,,1
+3254,3254,Westwood / Knell,,  43.444939, -80.531648,,,0,,1
 3255,3255,Westwood / Huntington,,  43.444116, -80.532791,,,0,,1
 3256,3256,Westwood / Gallarno,,  43.442505, -80.535164,,,0,,1
 3257,3257,Westwood / Dayman,,  43.441892, -80.537307,,,0,,1
@@ -1757,6 +1761,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3266,3266,Westwood / Glasgow,,  43.443398, -80.540051,,,0,,1
 3267,3267,Westwood / Dayman,,  43.441699, -80.538630,,,0,,1
 3268,3268,Westwood / Gallarno,,  43.442264, -80.535685,,,0,,1
+3269,3269,Westwood / Fernwood,,  43.445000, -80.531153,,,0,,1
+3270,3270,Westwood / Westwood Cres.,,  43.445058, -80.529756,,,0,,1
+3271,3271,Westwood / Inwood,,  43.445192, -80.527395,,,0,,1
+3272,3272,Inwood / Glasgow,,  43.447714, -80.528462,,,0,,1
 3273,3273,Glasgow / Aberdeen,,  43.448306, -80.527111,,,0,,1
 3274,3274,Glasgow / Westmount,,  43.449374, -80.523988,,,0,,1
 3275,3275,Glasgow / Dunbar,,  43.450513, -80.520729,,,0,,1
@@ -2458,10 +2466,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7009,7009,Waterloo St. / Christner,,  43.396590, -80.705159,,,0,,1
 7010,7010,Waterloo St. / Christner,,  43.397171, -80.704310,,,0,,1
 7011,7011,Waterloo St. / Forrest,,  43.387628, -80.711347,,,0,,1
+7016,7016,Waterloo St. / Wilmot Family Resource Centre,,  43.381433, -80.714770,,,0,,1
 7017,7017,Waterloo St. / Wilmot Family Resource Centre,,  43.381577, -80.714466,,,0,,1
+7018,7018,Waterloo St. / Huron,,  43.377642, -80.713867,,,0,,1
 7019,7019,Waterloo St. / Huron,,  43.377812, -80.713874,,,0,,1
+7020,7020,Huron / Union,,  43.378162, -80.711623,,,0,,1
 7021,7021,Huron / Union,,  43.378307, -80.711842,,,0,,1
+7022,7022,Peel / Boullee,,  43.376548, -80.707796,,,0,,1
 7023,7023,Peel / Boullee,,  43.376813, -80.707800,,,0,,1
+7024,7024,Peel / Bleams,,  43.373590, -80.704708,,,0,,1
 7025,7025,Peel / Bleams,,  43.373523, -80.704447,,,0,,1
 7033,7033,Mackays No Frills New Hamburg,,  43.370367, -80.703937,,,0,,1
 7035,7035,Waterloo St. / Victoria,,  43.387798, -80.710968,,,0,,1
@@ -2469,7 +2482,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7038,7038,560 Snyders Rd. E.,,  43.407226, -80.646279,,,0,,1
 7039,7039,560 Snyders Rd. E.,,  43.407136, -80.645915,,,0,,1
 7040,7040,Highland / Trussler,,  43.420881, -80.559194,,,0,,1
-7045,7045,Arnold / Waterloo St.,,  43.382132, -80.713764,,,0,,1
+7041,7041,Kitchener Gurdwara,,  43.417566, -80.580515,,,0,,1
 7060,7060,46 Cedarwoods Cres.,,  43.427170, -80.439684,,,0,,1
 7062,7062,Sunbeam Centre,,  43.429314, -80.439944,,,0,,1
 7063,7063,Trinity Village,,  43.429522, -80.441356,,,0,,1
@@ -2494,10 +2507,10 @@ place_MILL,,Mill Station,,  43.434010, -80.478750,,,1,,
 place_NORT,,Northfield Station,,  43.497280, -80.543351,,,1,,
 place_QUEE,,Queen Station,,  43.448919, -80.490015,,,1,,
 place_RTEC,,Research & Technology Station,,  43.481592, -80.545299,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
 place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld Station,,  43.409919, -80.392925,,,1,,
 place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_UWAT,,University of Waterloo Station,,  43.474895, -80.538382,,,1,,
 place_WPSQ,,Waterloo Public Square Station,,  43.464250, -80.522130,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
