@@ -25,6 +25,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 31,31,Columbia,3,aaa575,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 33,33,Huron,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 34,34,Bingemans,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+36,36,Thomas Slee,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+50,50,Dundas,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 51,51,Hespeler,3,ff0000,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 52,52,Coronation,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 53,53,Franklin,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -46,12 +48,15 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 76,76,Doon South,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 77,77,Wilmot,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 110,110,College Express,3,,,https://www.grt.ca/en/schedules-maps/schedules.aspx
-201,201,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
-202,202,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
-203,203,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
-204,204,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
-205,205,iXpress,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+201,201,iXpress Fischer-Hallman,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+202,202,iXpress University,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+203,203,iXpress Maple Grove,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+204,204,iXpress Highland-Victoria,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+205,205,iXpress Ottawa,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
+206,206,iXpress Coronation,3,000000,a6ce38,https://www.grt.ca/en/schedules-maps/schedules.aspx
 301,301,ION,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 302,302,ION Bus,3,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 901,901,Flex Trinity-Freeport,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
 902,902,Flex Hespeler Village,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
+9801,9801,Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
+9851,9851,GCI Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
