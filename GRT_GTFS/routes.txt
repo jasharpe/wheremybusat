@@ -25,8 +25,8 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 31,31,Columbia,3,aaa575,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 33,33,Huron,3,5a2a00,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 34,34,Bingemans,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-36,36,Thomas Slee,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-50,50,Dundas,3,91268f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+36,36,Thomas Slee,3,1ca2df,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+50,50,Dundas,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 51,51,Hespeler,3,ff0000,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 52,52,Coronation,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 53,53,Franklin,3,00ff00,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx

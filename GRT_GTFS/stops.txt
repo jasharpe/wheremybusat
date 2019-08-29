@@ -2566,6 +2566,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5001,5001,Max Becker / Activa,,  43.406207, -80.512600,,,0,,1
 5002,5002,Bridlewreath / Activa,,  43.403060, -80.515709,,,0,,1
 5003,5003,Myrtle / James,,  43.365627, -80.321835,,,0,,1
+5004,5004,Conestoga College Temporary Station,,  43.390184, -80.408245,,,0,place_CCD,1
 5007,5007,Regina / Elgin,,  43.470036, -80.522377,,,0,,1
 5009,5009,Fischer-Hallman / Columbia,,  43.468285, -80.566597,,,0,,1
 5010,5010,Regina / Elgin,,  43.470360, -80.522584,,,0,,1
