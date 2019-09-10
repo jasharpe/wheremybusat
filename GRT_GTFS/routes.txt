@@ -39,7 +39,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 59,59,Christopher,3,ff00ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 60,60,Northview Acres,3,003399,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 61,61,Fountain,3,00aaac,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
-62,62,Woodside,3,405980,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 63,63,Champlain,3,ffb200,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 64,64,Langs,3,cc0000,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 67,67,Lovell Industrial,3,6600ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
@@ -58,6 +57,5 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 301,301,ION,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 302,302,ION Bus,3,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 901,901,Flex Trinity-Freeport,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
-902,902,Flex Hespeler Village,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
 9801,9801,Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
 9851,9851,GCI Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
