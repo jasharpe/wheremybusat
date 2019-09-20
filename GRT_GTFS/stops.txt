@@ -26,6 +26,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1026,1026,Oldfield / Batterswood,,  43.450825, -80.429724,,,0,,1
 1027,1027,Oldfield / Casey,,  43.453000, -80.430717,,,0,,1
 1028,1028,Block Line / Kingswood,,  43.417682, -80.473346,,,0,,1
+1029,1029,Cooper / Queen,,  43.432338, -80.308223,,,0,,1
 1030,1030,Ottawa / Heritage,,  43.454922, -80.433087,,,0,,1
 1031,1031,Franklin / Green Gate,,  43.356365, -80.285888,,,0,,1
 1032,1032,Lennox Lewis / Activa Sportsplex,,  43.422910, -80.468877,,,0,,1
@@ -823,6 +824,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1980,1980,Erbsville / Brandenburg,,  43.451329, -80.572188,,,0,,1
 1981,1981,Erbsville / Chablis,,  43.450035, -80.572765,,,0,,1
 1982,1982,Queen / Woodside,,  43.441701, -80.497316,,,0,,1
+1983,1983,Erb / Erbsville Crt,,  43.448019, -80.566044,,,0,,1
 1984,1984,Erb / Gateview,,  43.450834, -80.557832,,,0,,1
 1985,1985,Gateview / Westvale,,  43.450049, -80.557613,,,0,,1
 1986,1986,Westvale / Heather Hill,,  43.448493, -80.558367,,,0,,1
@@ -2029,6 +2031,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3682,3682,Hazel / Wilfrid Laurier University,,  43.475344, -80.528333,,,0,,1
 3683,3683,University Ave. / University Of Waterloo,,  43.468939, -80.539140,,,0,,1
 3685,3685,Erbsville / Westside Marketplace,,  43.447900, -80.572632,,,0,,1
+3687,3687,Erb / Erbsville,,  43.448332, -80.565666,,,0,,1
 3689,3689,Erbsville / Westside Marketplace,,  43.447999, -80.572483,,,0,,1
 3690,3690,Erbsville / Royal Beech,,  43.451364, -80.571865,,,0,,1
 3691,3691,Erbsville / Path To Erbsville Ct.,,  43.453282, -80.571927,,,0,,1
