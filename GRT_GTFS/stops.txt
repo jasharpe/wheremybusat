@@ -846,6 +846,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2002,2002,Erb / Avondale,,  43.462480, -80.529448,,,0,,1
 2003,2003,Erb / Euclid,,  43.463193, -80.527786,,,0,,1
 2004,2004,Erb / Father David Bauer,,  43.463913, -80.526100,,,0,,1
+2005,2005,Bishop / Conestoga,,  43.396209, -80.316736,,,0,,1
 2006,2006,Erb / Hughes,,  43.465198, -80.521812,,,0,,1
 2007,2007,Erb / Willow,,  43.465728, -80.518124,,,0,,1
 2008,2008,Old Zeller / Fairway,,  43.448364, -80.404791,,,0,,1
