@@ -57,5 +57,6 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 301,301,ION,0,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 302,302,ION Bus,3,006bb7,ffffff,https://www.grt.ca/en/ion-light-rail.aspx
 901,901,Flex Trinity-Freeport,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/flexible-transit.aspx
+8881,8881,Oktoberferst Lot 42 Shuttle,3,2e3092,ffffff,https://www.grt.ca/en/fares-passes/oktoberfest.aspx
 9801,9801,Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
 9851,9851,GCI Special,3,2e3092,ffffff,https://www.grt.ca/en/schedules-maps/school-service.aspx
