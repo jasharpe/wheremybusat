@@ -736,6 +736,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1885,1885,King / Pandora,,  43.445188, -80.478765,,,0,,1
 1886,1886,King / Cameron,,  43.446079, -80.480636,,,0,,1
 1887,1887,King / Kitchener Market,,  43.447344, -80.483579,,,0,,1
+1888,1888,Frederick Station,,  43.449135, -80.487370,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
+1889,1889,King / Queen,,  43.449708, -80.488700,,,0,,1
+1890,1890,King / Ontario,,  43.450437, -80.490610,,,0,,1
+1891,1891,King / College,,  43.451504, -80.493728,,,0,,1
+1892,1892,King / Francis,,  43.452289, -80.496119,,,0,,1
 1893,1893,Central Station,,  43.452855, -80.497931,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1896,1896,King / Wellington,,  43.454544, -80.503257,,,0,,1
 1897,1897,King / Agnes,,  43.455072, -80.504801,,,0,,1
@@ -866,7 +871,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2025,2025,Block Line / St Marys High School,,  43.419994, -80.464732,,,0,,1
 2026,2026,Block Line Station,,  43.423602, -80.463395,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
 2027,2027,Hayward / Courtland,,  43.426411, -80.466746,,,0,,1
-2028,2028,Fairway / Pebblecreek,,  43.446700, -80.409043,,,0,,1
+2028,2028,Fairway / Pebblecreek,,  43.446700, -80.409043,,,0,,2
 2029,2029,870 Fairway Rd. N.,,  43.444734, -80.411900,,,0,,1
 2030,2030,Fairway / Chicopee Public School,,  43.444533, -80.412611,,,0,,1
 2031,2031,Fairway / Upper Mercer,,  43.446676, -80.408596,,,0,,1
@@ -1230,6 +1235,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2454,2454,Wellington / King,,  43.454507, -80.502924,,,0,,1
 2455,2455,551 Parkside Dr.,,  43.494485, -80.544509,,,0,,1
 2456,2456,Weber / Parkside,,  43.492707, -80.544091,,,0,,1
+2457,2457,King / Water,,  43.451734, -80.494752,,,0,,1
+2458,2458,King / Gaukel,,  43.451158, -80.492903,,,0,,1
 2459,2459,Weber / Young,,  43.453281, -80.490450,,,0,,1
 2460,2460,Weber / Parkside,,  43.492922, -80.544273,,,0,,1
 2462,2462,Weber / Wellington,,  43.456966, -80.495042,,,0,,1
@@ -1302,6 +1309,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2542,2542,King / Kitchener Collegiate Institute,,  43.455954, -80.508272,,,0,,1
 2543,2543,King / Agnes,,  43.455019, -80.505380,,,0,,1
 2544,2544,King / Wellington,,  43.454391, -80.503209,,,0,,1
+2561,2561,Frederick Station,,  43.449249, -80.487976,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
+2562,2562,King / Queen,,  43.449864, -80.489391,,,0,,1
 2563,2563,Weber / East,,  43.444603, -80.468013,,,0,,1
 2564,2564,King / Kitchener Market,,  43.447425, -80.483591,,,0,,1
 2565,2565,King / Cameron,,  43.446089, -80.480920,,,0,,1
@@ -1905,7 +1914,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3495,3495,Fairway Station,,  43.421447, -80.441669,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3497,3497,Fairway Station,,  43.421754, -80.441590,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3498,3498,Fairway Station,,  43.421930, -80.441631,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3499,3499,Fairway Station,,  43.422106, -80.441683,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3500,3500,Westheights / Path To Brook Green,,  43.422346, -80.529181,,,0,,1
 3501,3501,Westheights / Path To Brook Green,,  43.422100, -80.529435,,,0,,1
 3502,3502,Fischer-Hallman / Path To Bush Clover,,  43.410383, -80.504799,,,0,,1
@@ -2380,7 +2388,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,1
 5009,5009,Fischer-Hallman / Columbia,,  43.468285, -80.566597,,,0,,1
 5010,5010,Regina / Elgin,,  43.470360, -80.522584,,,0,,1
-5011,5011,Frederick Station,,  43.448909, -80.486863,,,0,place_FRED,1
 5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,1
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
 5014,5014,Fairway / Wabanaki,,  43.422375, -80.437303,,,0,,1
