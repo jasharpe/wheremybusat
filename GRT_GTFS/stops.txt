@@ -834,7 +834,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1997,1997,Erb / Amos,,  43.455232, -80.545313,,,0,,1
 1998,1998,Erb / Mcdougall,,  43.456551, -80.541867,,,0,,1
 1999,1999,Erb / Westmount,,  43.459482, -80.536283,,,0,,1
-2000,2000,Erb / Dietz,,  43.460687, -80.533603,,,0,,1
+2000,2000,Erb / Dietz,,  43.460687, -80.533603,,,0,,2
 2001,2001,Erb / Roslin,,  43.461481, -80.531731,,,0,,1
 2002,2002,Erb / Avondale,,  43.462480, -80.529448,,,0,,1
 2003,2003,Erb / Euclid,,  43.463193, -80.527786,,,0,,1
@@ -1578,6 +1578,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2956,2956,Activa / Donnenwerth,,  43.403076, -80.509803,,,0,,1
 2957,2957,Activa / Periwinkle,,  43.402195, -80.512107,,,0,,1
 2958,2958,Activa / Henhoeffer,,  43.402821, -80.515264,,,0,,1
+2959,2959,Activa / Snowdrop,,  43.402877, -80.517943,,,0,,1
 2965,2965,Wilderness / Pine Martin,,  43.410613, -80.513905,,,0,,1
 2966,2966,Wilderness / Activa,,  43.410256, -80.510523,,,0,,1
 2967,2967,Franklin / Weber,,  43.434212, -80.448118,,,0,,1
@@ -1599,6 +1600,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2987,2987,Activa / Wilderness,,  43.410452, -80.510040,,,0,,1
 2988,2988,Wilderness / Mountain Mint,,  43.410730, -80.513879,,,0,,1
 2989,2989,Wilderness / Grey Fox,,  43.411809, -80.515847,,,0,,1
+2995,2995,Activa / Isaiah,,  43.403372, -80.520137,,,0,,1
+2996,2996,Activa / Snowdrop,,  43.402742, -80.518068,,,0,,1
 2997,2997,Activa / Reistview,,  43.402475, -80.514451,,,0,,1
 2998,2998,Activa / Periwinkle,,  43.402051, -80.512244,,,0,,1
 2999,2999,Activa / Sweet William,,  43.402565, -80.510264,,,0,,1
@@ -2111,10 +2114,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3809,3809,Sawmill / Parkside,,  43.544793, -80.550855,,,0,,1
 3810,3810,Arthur / Union,,  43.576841, -80.563039,,,0,,1
 3811,3811,Arthur / Earl Martin,,  43.580927, -80.562452,,,0,,1
-3812,3812,Arthur / South Field,,  43.584050, -80.562095,,,0,,1
-3813,3813,Arthur / Oriole,,  43.589045, -80.561439,,,0,,1
-3814,3814,Arthur / Brubacher,,  43.594525, -80.560718,,,0,,1
-3815,3815,Arthur / Park,,  43.596693, -80.560095,,,0,,1
+3812,3812,Arthur / South Field,,  43.584050, -80.562095,,,0,,2
+3813,3813,Arthur / Oriole,,  43.589045, -80.561439,,,0,,2
+3814,3814,Arthur / Brubacher,,  43.594525, -80.560718,,,0,,2
+3815,3815,Arthur / Park,,  43.596693, -80.560095,,,0,,2
 3816,3816,Arthur / Wyatt,,  43.597959, -80.559169,,,0,,1
 3817,3817,Arthur / Church,,  43.599333, -80.558143,,,0,,1
 3818,3818,Church / Walker,,  43.600215, -80.559988,,,0,,1
@@ -2123,9 +2126,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3821,3821,Snyder / Woolwich Memorial Centre,,  43.595688, -80.563889,,,0,,1
 3822,3822,Snyder / Second,,  43.593404, -80.564195,,,0,,1
 3823,3823,First / Snyder,,  43.592339, -80.563385,,,0,,1
-3824,3824,Arthur / Howard,,  43.589432, -80.561561,,,0,,1
+3824,3824,Arthur / Howard,,  43.589432, -80.561561,,,0,,2
 3825,3825,Arthur / Whipporwill,,  43.584474, -80.562265,,,0,,1
-3826,3826,Arthur / South Parkwood,,  43.580784, -80.562788,,,0,,1
+3826,3826,Arthur / South Parkwood,,  43.580784, -80.562788,,,0,,2
 3827,3827,Arthur / Listowel,,  43.577283, -80.563222,,,0,,1
 3828,3828,Sawmill / Parkside,,  43.544066, -80.549090,,,0,,1
 3829,3829,King / Front,,  43.540598, -80.553475,,,0,,1
@@ -2166,7 +2169,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3869,3869,Research & Technology Station,,  43.481734, -80.546100,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
 3870,3870,Hagey / Frank Tompa,,  43.477515, -80.548406,,,0,,1
 3871,3871,Brooklyne / Glen,,  43.377132, -80.313316,,,0,,1
-3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,1
+3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,2
 3877,3877,965 Bishop St. N.,,  43.393268, -80.334656,,,0,,1
 3878,3878,690 Bishop St. N.,,  43.393044, -80.336350,,,0,,1
 3879,3879,University Ave. / Westvale,,  43.440892, -80.548781,,,0,,1
@@ -2370,9 +2373,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4107,4107,King / Fairway,,  43.428144, -80.431430,,,0,,1
 4108,4108,Townline / Cambridge Gurdwara,,  43.400424, -80.274613,,,0,,1
 4109,4109,3227 King St. E.,,  43.426390, -80.425444,,,0,,1
-5000,5000,Activa / Max Becker,,  43.406433, -80.512688,,,0,,1
-5001,5001,Max Becker / Activa,,  43.406207, -80.512600,,,0,,1
-5002,5002,Bridlewreath / Activa,,  43.403060, -80.515709,,,0,,1
 5003,5003,Myrtle / James,,  43.365627, -80.321835,,,0,,1
 5004,5004,Conestoga College Temporary Station,,  43.390184, -80.408245,,,0,place_CCD,1
 5005,5005,George / Park Hill,,  43.362653, -80.318864,,,0,,1
@@ -2380,6 +2380,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,1
 5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,1
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
+5019,5019,Activa / David Bergey,,  43.405284, -80.518164,,,0,,1
+5020,5020,Activa / Berry Moss,,  43.405325, -80.516926,,,0,,1
 5021,5021,Activa / Bush Clover,,  43.410059, -80.509930,,,0,,1
 5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,1
 5023,5023,639 Stirling Ave. S. (Temporary Stop),,  43.432833, -80.496008,,,0,,1
