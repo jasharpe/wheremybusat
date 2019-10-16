@@ -1090,9 +1090,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2305,2305,Rittenhouse / Erinbrook,,  43.409520, -80.487094,,,0,,1
 2306,2306,Rittenhouse / Path To Rittenhouse Park,,  43.408002, -80.491372,,,0,,1
 2307,2307,Rittenhouse / Erinbrook,,  43.407850, -80.496183,,,0,,1
-2309,2309,Stirling / Highland,,  43.436367, -80.490810,,,0,,1
 2310,2310,Cherry Blossom / Barnes,,  43.415728, -80.384565,,,0,,1
-2311,2311,Stirling / Highland,,  43.436426, -80.490972,,,0,,1
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,1
 2313,2313,Bishop / Mary,,  43.392515, -80.339491,,,0,,1
 2316,2316,Loblaws Distribution Centre,,  43.429058, -80.379026,,,0,,1
@@ -1172,8 +1170,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2398,2398,Homer Watson / Bleams,,  43.410267, -80.461582,,,0,,1
 2399,2399,Beasley / Homer Watson,,  43.402018, -80.457601,,,0,,1
 2400,2400,Krug / Becker,,  43.454294, -80.467711,,,0,,1
-2401,2401,Highland / Stirling,,  43.436632, -80.491305,,,0,,1
-2402,2402,Highland / Stirling,,  43.435979, -80.491015,,,0,,1
 2403,2403,Krug / East,,  43.452687, -80.472558,,,0,,1
 2404,2404,Krug / Lydia,,  43.451932, -80.474752,,,0,,1
 2405,2405,Krug / Samuel,,  43.451043, -80.477306,,,0,,1
@@ -1492,7 +1488,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2815,2815,Davenport / Path To Redfox,,  43.496504, -80.515777,,,0,,1
 2817,2817,Lexington / Davenport,,  43.493005, -80.512391,,,0,,1
 2819,2819,Lexington / Lee,,  43.496575, -80.507192,,,0,,1
-2820,2820,Highland / Spadina,,  43.438686, -80.493070,,,0,,1
 2821,2821,Lee / Dunvegan,,  43.493241, -80.504449,,,0,,1
 2822,2822,Westheights / Autumn Hill,,  43.420425, -80.529522,,,0,,1
 2824,2824,Westheights / Path To Trailview Park,,  43.424542, -80.530073,,,0,,1
@@ -1641,6 +1636,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3056,3056,Hoffman / Kehl,,  43.431411, -80.484703,,,0,,1
 3057,3057,Hoffman / Highland,,  43.430557, -80.487082,,,0,,1
 3058,3058,Highland / Heiman,,  43.432933, -80.488817,,,0,,1
+3059,3059,Heiman / Kehl (Temporary Stop),,  43.434332, -80.487309,,,0,,1
+3060,3060,Heiman / Mill (Temporary Stop),,  43.435422, -80.485695,,,0,,1
+3061,3061,Heiman / Kehl (Temporary Stop),,  43.434574, -80.487147,,,0,,1
+3062,3062,Heiman / Highland (Temporary Stop),,  43.433465, -80.489010,,,0,,1
 3063,3063,Hoffman / Highland,,  43.430529, -80.486873,,,0,,1
 3064,3064,Hoffman / Kehl,,  43.431250, -80.484927,,,0,,1
 3065,3065,Hoffman / Meinzinger,,  43.431969, -80.482697,,,0,,1
@@ -1666,7 +1665,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3098,3098,Greenbrook / Forest Hill,,  43.428528, -80.502679,,,0,,1
 3099,3099,Greenbrook / Lakeside,,  43.428891, -80.499118,,,0,,1
 3100,3100,Greenbrook / Stirling,,  43.429510, -80.496666,,,0,,1
-3105,3105,Highland / Spadina,,  43.438669, -80.492822,,,0,,1
+3102,3102,Stirling / Mausser,,  43.433667, -80.495952,,,0,,1
 3110,3110,Victoria / Joseph,,  43.450558, -80.500278,,,0,,1
 3111,3111,Victoria / Bramm,,  43.449512, -80.501432,,,0,,1
 3112,3112,Victoria / Henry,,  43.447800, -80.503312,,,0,,1
@@ -2397,15 +2396,17 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,1
 5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,1
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
+5015,5015,Spadina / Highland (Temporary Stop),,  43.438943, -80.492758,,,0,,1
+5016,5016,Spadina / Highland (Temporary Stop),,  43.438855, -80.492426,,,0,,1
 5019,5019,Activa / David Bergey,,  43.405284, -80.518164,,,0,,1
 5020,5020,Activa / Berry Moss,,  43.405325, -80.516926,,,0,,1
 5021,5021,Activa / Bush Clover,,  43.410059, -80.509930,,,0,,1
 5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,1
-5023,5023,639 Stirling Ave. S. (Temporary Stop),,  43.432833, -80.496008,,,0,,1
 5024,5024,Mausser / Lorne (Temporary Stop),,  43.434382, -80.493218,,,0,,1
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,1
 5026,5026,Columbia / Laurel Trail (U.W. Station),,  43.476114, -80.542722,,,0,place_UWAT,1
 5027,5027,Mausser / Lorne (Temporary Stop),,  43.434612, -80.492990,,,0,,1
+5028,5028,Mausser / Stirling (Temporary Stop),,  43.433908, -80.495755,,,0,,1
 5029,5029,Queenston / Westminster,,  43.394973, -80.359388,,,0,,1
 5030,5030,Queenston / Lowther,,  43.393549, -80.356667,,,0,,1
 5031,5031,Queenston / Dolph,,  43.392397, -80.354488,,,0,,1
