@@ -20,6 +20,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1019,1019,River / Bradley,,  43.445723, -80.441426,,,0,,1
 1020,1020,Maple Grove / Boxwood,,  43.427063, -80.364376,,,0,,1
 1021,1021,Maple Grove / Boxwood,,  43.426855, -80.363843,,,0,,1
+1022,1022,Huron / Strasburg,,  43.392897, -80.465131,,,0,,1
 1023,1023,Victoria / Margaret,,  43.456329, -80.489504,,,0,,1
 1025,1025,Block Line / Country Hill,,  43.417036, -80.476022,,,0,,1
 1026,1026,Oldfield / Batterswood,,  43.450825, -80.429724,,,0,,1
@@ -200,7 +201,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1236,1236,Queen / Harvey,,  43.429874, -80.313783,,,0,,1
 1237,1237,Queen / Hungerford,,  43.433437, -80.307355,,,0,,1
 1238,1238,Queen / Panabaker,,  43.435815, -80.304634,,,0,,1
-1239,1239,River / Melran,,  43.439147, -80.301655,,,0,,1
+1239,1239,Melran / River,,  43.439658, -80.300909,,,0,,1
 1240,1240,Melran / Mccormick,,  43.438698, -80.298917,,,0,,1
 1241,1241,Melran / Alderson,,  43.440100, -80.295515,,,0,,1
 1242,1242,Mcmeeken / Werstine,,  43.438110, -80.294030,,,0,,1
@@ -667,6 +668,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1806,1806,Strasburg / Battler,,  43.398637, -80.467544,,,0,,1
 1807,1807,Strasburg / Huron Heights Secondary School,,  43.394623, -80.467950,,,0,place_HHS,1
 1808,1808,Strasburg / Huron,,  43.392592, -80.466782,,,0,,1
+1809,1809,Battler / Old Huron,,  43.395961, -80.461443,,,0,,1
+1810,1810,Old Huron / Maxwell,,  43.397206, -80.457937,,,0,,1
+1811,1811,Biehn / Carlyle,,  43.396014, -80.455503,,,0,,1
+1812,1812,Biehn / Maxwell,,  43.394394, -80.455555,,,0,,1
 1820,1820,Black Walnut / Biehn,,  43.393131, -80.455158,,,0,,1
 1821,1821,Black Walnut / Black Walnut Pl.,,  43.392519, -80.453361,,,0,,1
 1822,1822,Black Walnut / Pioneer,,  43.391354, -80.450680,,,0,,1
@@ -681,6 +686,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1832,1832,Black Walnut / Pioneer,,  43.391510, -80.451185,,,0,,1
 1833,1833,Black Walnut / Carlyle,,  43.392791, -80.453581,,,0,,1
 1834,1834,Black Walnut / Biehn,,  43.393249, -80.455269,,,0,,1
+1835,1835,Biehn / Carlyle,,  43.395473, -80.455372,,,0,,1
+1836,1836,Biehn / Old Huron,,  43.397159, -80.455629,,,0,,1
+1837,1837,Old Huron / Maxwell,,  43.397260, -80.458134,,,0,,1
+1838,1838,Old Huron / Battler,,  43.395921, -80.460579,,,0,,1
+1839,1839,Huron / Strasburg,,  43.392641, -80.465720,,,0,,1
 1840,1840,Strasburg / Huron Heights Secondary School,,  43.394875, -80.467849,,,0,place_HHS,1
 1841,1841,Strasburg / Battler,,  43.398699, -80.467297,,,0,,1
 1842,1842,Strasburg / Trillium,,  43.400944, -80.467870,,,0,,1
@@ -1564,6 +1574,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2931,2931,Mill / Borden,,  43.435068, -80.482905,,,0,,1
 2932,2932,409 Mill St.,,  43.434604, -80.479944,,,0,,1
 2933,2933,Mill Station,,  43.434168, -80.479021,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
+2934,2934,Ottawa / Hoffman,,  43.431964, -80.479534,,,0,,1
 2935,2935,Ottawa / Kehl,,  43.429704, -80.481592,,,0,,1
 2936,2936,Ottawa / King,,  43.442091, -80.471602,,,0,,1
 2937,2937,Ottawa / Alpine,,  43.425096, -80.484077,,,0,,1
@@ -1997,7 +2008,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3599,3599,New Bedford / Chesapeake,,  43.510066, -80.505672,,,0,,1
 3600,3600,Pinebush Station (East Side),,  43.408051, -80.327116,,,0,,1
 3606,3606,Weber / Erb,,  43.468616, -80.511153,,,0,,1
-3607,3607,Bleams / Bullock,,  43.411068, -80.456924,,,0,,1
+3607,3607,Bleams / Fallowfield,,  43.411068, -80.456924,,,0,,1
 3608,3608,Bleams / Fallowfield,,  43.411009, -80.457802,,,0,,1
 3609,3609,Coronation / Highland,,  43.382533, -80.334317,,,0,,1
 3612,3612,Langlaw / Schroeder,,  43.336574, -80.301092,,,0,,1
@@ -2162,6 +2173,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3839,3839,Arthur / Scotch Line,,  43.567084, -80.561475,,,0,,1
 3840,3840,Arthur / Gerrat,,  43.554066, -80.555243,,,0,,1
 3841,3841,King / Lobsinger,,  43.515438, -80.557593,,,0,,1
+3843,3843,Huron / Templewood,,  43.394100, -80.464602,,,0,,1
+3844,3844,Huron / Templewood,,  43.394542, -80.464012,,,0,,1
 3845,3845,Conestoga / Conestoga Transit Garage,,  43.394522, -80.316689,,,0,,1
 3847,3847,610 King St. N.,,  43.503583, -80.535698,,,0,,1
 3848,3848,600 King St. N.,,  43.503430, -80.535123,,,0,,1
@@ -2503,7 +2516,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7064,7064,Grand River Hospital - Freeport Campus,,  43.425691, -80.410937,,,0,,1
 7137,7137,Toyota Cambridge Gate 2,,  43.419436, -80.375590,,,0,,1
 7139,7139,Toyota Cambridge Gate 1,,  43.416679, -80.374048,,,0,,1
-8008,8008,Lot 42 - Oktoberfesthaus,,  43.429205, -80.474991,,,0,,1
 place_ALEN,,Allen Station,,  43.460097, -80.518856,,,1,,
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
 place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
