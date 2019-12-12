@@ -1,5 +1,4 @@
 route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_url
-0,0,301R ION Shuttle,3,80298f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 1,1,Queen-River,3,80298f,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 2,2,Stirling,3,fcb94c,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 3,3,Ottawa South,3,f05a71,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
