@@ -336,7 +336,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1372,1372,Saginaw / Fairgreen,,  43.389892, -80.288305,,,0,,2
 1373,1373,Saginaw / Stonecairn,,  43.390437, -80.292016,,,0,,1
 1374,1374,Saginaw / Cowan,,  43.389725, -80.296321,,,0,,2
-1375,1375,Frederick Station,,  43.450472, -80.486959,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 1376,1376,Queen Station,,  43.448610, -80.488850,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1377,1377,Queen Station,,  43.448145, -80.488374,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1378,1378,Elgin / Franklin,,  43.391386, -80.302957,,,0,,1
@@ -1063,7 +1062,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2221,2221,Champlain / Carlos,,  43.349186, -80.284611,,,0,,2
 2222,2222,Lisbon Pines / Champlain,,  43.349543, -80.281213,,,0,,2
 2223,2223,Lisbon Pines / Santa Maria,,  43.346452, -80.280830,,,0,,2
-2224,2224,Lisbon Pines / Myers,,  43.344855, -80.280269,,,0,,2
 2225,2225,Gatehouse / Mcnichol,,  43.343164, -80.279167,,,0,,2
 2226,2226,Gatehouse / Wheeler,,  43.341307, -80.280274,,,0,,2
 2227,2227,Gatehouse / Flockhart,,  43.341583, -80.282627,,,0,,2
@@ -1471,7 +1469,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2705,2705,Queen / Schneider,,  43.444565, -80.494453,,,0,,1
 2706,2706,Queen / Courtland,,  43.445640, -80.493344,,,0,,1
 2713,2713,Benton / Church,,  43.447469, -80.489411,,,0,place_QUEE,1
-2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
@@ -1672,11 +1669,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2987,2987,Activa / Wilderness,,  43.410452, -80.510040,,,0,,1
 2988,2988,Wilderness / Mountain Mint,,  43.410730, -80.513879,,,0,,2
 2989,2989,Wilderness / Grey Fox,,  43.411809, -80.515847,,,0,,2
-2990,2990,Ottawa / International,,  43.412574, -80.517780,,,0,,1
 2991,2991,Ottawa / Path To Wake Robin,,  43.411960, -80.519440,,,0,,1
 2992,2992,David Bergey / Ottawa,,  43.410450, -80.522243,,,0,,2
 2993,2993,David Bergey / Peach Blossom,,  43.406780, -80.518876,,,0,,2
-2994,2994,David Bergey / Activa,,  43.405391, -80.518454,,,0,,1
 2995,2995,Activa / Isaiah,,  43.403372, -80.520137,,,0,,2
 2996,2996,Activa / Snowdrop,,  43.402742, -80.518068,,,0,,1
 2997,2997,Activa / Reistview,,  43.402475, -80.514451,,,0,,1
@@ -2471,8 +2466,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4099,4099,Bridgeport Rd. / Albert,,  43.467471, -80.524761,,,0,,1
 4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1
 4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1
-4102,4102,Maple Grove / Compass,,  43.431138, -80.345255,,,0,,1
-4103,4103,Maple Grove / Compass,,  43.430960, -80.345038,,,0,,1
 4104,4104,Preston Pkwy. / Shantz Hill,,  43.399339, -80.375470,,,0,,2
 4105,4105,Southwood / St Andrews,,  43.344460, -80.331306,,,0,,1
 4106,4106,St Andrews / Stanley,,  43.346403, -80.328768,,,0,,1
@@ -2489,6 +2482,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5019,5019,Activa / David Bergey,,  43.405284, -80.518164,,,0,,2
 5020,5020,Activa / Berry Moss,,  43.405325, -80.516926,,,0,,2
 5021,5021,Activa / Bush Clover,,  43.410059, -80.509930,,,0,,2
+5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,2
 5024,5024,Mausser / Lorne (Temporary Stop),,  43.434382, -80.493218,,,0,,2
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,2
 5026,5026,Columbia / Laurel Trail (U.W. Station),,  43.476114, -80.542722,,,0,place_UWAT,2
