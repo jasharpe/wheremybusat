@@ -40,7 +40,7 @@ route_id,route_short_name,route_long_name,route_type,route_color,route_text_colo
 61,61,Fountain,3,00aaac,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 63,63,Champlain,3,ffb200,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 64,64,Langs,3,cc0000,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
-67,67,Lovell Industrial,3,6600ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
+67,67,Eagle-Pinebush,3,6600ff,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 72,72,Boxwood Flex,3,a15641,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx
 73,73,Northlake,3,00adef,000000,https://www.grt.ca/en/schedules-maps/schedules.aspx
 75,75,Saginaw,3,ff6633,ffffff,https://www.grt.ca/en/schedules-maps/schedules.aspx

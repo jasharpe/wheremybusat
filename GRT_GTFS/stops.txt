@@ -496,7 +496,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1536,1536,Clyde / Grand River Conservation Authority,,  43.373410, -80.286387,,,0,,2
 1537,1537,Clyde / Bluerock,,  43.372564, -80.290681,,,0,,2
 1538,1538,Franklin / Clyde,,  43.371672, -80.295449,,,0,,2
-1540,1540,Franklin / Avenue,,  43.381107, -80.299186,,,0,,2
+1540,1540,Franklin / Avenue,,  43.379161, -80.298390,,,0,,1
 1541,1541,Franklin / Robson,,  43.385241, -80.300805,,,0,,2
 1542,1542,Franklin / Saginaw,,  43.392355, -80.302303,,,0,,1
 1543,1543,Franklin / Lindsay,,  43.396334, -80.303653,,,0,,1
@@ -901,8 +901,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2030,2030,Fairway / Chicopee Public School,,  43.444533, -80.412611,,,0,,1
 2031,2031,Fairway / Upper Mercer,,  43.446676, -80.408596,,,0,,2
 2032,2032,Old Zeller / Fairway,,  43.448450, -80.404614,,,0,,1
-2033,2033,Old Zeller / Watervale,,  43.451165, -80.406603,,,0,,1
-2034,2034,Old Zeller / Eden Oak,,  43.453644, -80.408093,,,0,,1
+2033,2033,Old Zeller / Watervale,,  43.451165, -80.406603,,,0,,2
+2034,2034,Old Zeller / Eden Oak,,  43.453644, -80.408093,,,0,,2
 2035,2035,University Ave. / Lexington,,  43.504588, -80.496587,,,0,,1
 2036,2036,Old Zeller / Zeller,,  43.454047, -80.412095,,,0,,1
 2037,2037,Zeller / Brookmead,,  43.453797, -80.415028,,,0,,2
@@ -1705,10 +1705,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3056,3056,Hoffman / Kehl,,  43.431411, -80.484703,,,0,,1
 3057,3057,Hoffman / Highland,,  43.430557, -80.487082,,,0,,1
 3058,3058,Highland / Heiman,,  43.432933, -80.488817,,,0,,1
-3059,3059,Heiman / Kehl (Temporary Stop),,  43.434332, -80.487309,,,0,,1
-3060,3060,Heiman / Mill (Temporary Stop),,  43.435422, -80.485695,,,0,,1
-3061,3061,Heiman / Kehl (Temporary Stop),,  43.434574, -80.487147,,,0,,1
-3062,3062,Heiman / Highland (Temporary Stop),,  43.433465, -80.489010,,,0,,1
 3063,3063,Hoffman / Highland,,  43.430529, -80.486873,,,0,,1
 3064,3064,Hoffman / Kehl,,  43.431250, -80.484927,,,0,,1
 3065,3065,Hoffman / Meinzinger,,  43.431969, -80.482697,,,0,,1
@@ -2466,6 +2462,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4099,4099,Bridgeport Rd. / Albert,,  43.467471, -80.524761,,,0,,1
 4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1
 4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1
+4103,4103,Maple Grove / Compass,,  43.430960, -80.345038,,,0,,1
 4104,4104,Preston Pkwy. / Shantz Hill,,  43.399339, -80.375470,,,0,,2
 4105,4105,Southwood / St Andrews,,  43.344460, -80.331306,,,0,,1
 4106,4106,St Andrews / Stanley,,  43.346403, -80.328768,,,0,,1
@@ -2477,17 +2474,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,2
 5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,2
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
-5015,5015,Spadina / Highland (Temporary Stop),,  43.438943, -80.492758,,,0,,2
-5016,5016,Spadina / Highland (Temporary Stop),,  43.438855, -80.492426,,,0,,2
-5019,5019,Activa / David Bergey,,  43.405284, -80.518164,,,0,,2
-5020,5020,Activa / Berry Moss,,  43.405325, -80.516926,,,0,,2
-5021,5021,Activa / Bush Clover,,  43.410059, -80.509930,,,0,,2
 5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,2
-5024,5024,Mausser / Lorne (Temporary Stop),,  43.434382, -80.493218,,,0,,2
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,2
 5026,5026,Columbia / Laurel Trail (U.W. Station),,  43.476114, -80.542722,,,0,place_UWAT,2
-5027,5027,Mausser / Lorne (Temporary Stop),,  43.434612, -80.492990,,,0,,2
-5028,5028,Mausser / Stirling (Temporary Stop),,  43.433908, -80.495755,,,0,,2
 5029,5029,Queenston / Westminster,,  43.394973, -80.359388,,,0,,2
 5030,5030,Queenston / Lowther,,  43.393549, -80.356667,,,0,,2
 5031,5031,Queenston / Dolph,,  43.392397, -80.354488,,,0,,2
@@ -2495,9 +2484,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,2
 5035,5035,Queenston / Union,,  43.391268, -80.352172,,,0,,2
 5037,5037,Sunrise Centre Station,,  43.414439, -80.517504,,,0,place_SRC,1
-5040,5040,Broadview / Weber,,  43.435255, -80.449414,,,0,,2
-5041,5041,Broadview / Prospect,,  43.436421, -80.448561,,,0,,2
-5042,5042,Kenneth / Franklin,,  43.441510, -80.447277,,,0,,2
 5046,5046,Weber / Albert,,  43.491860, -80.537468,,,0,,2
 5047,5047,Blythwood / Hazel,,  43.485888, -80.537406,,,0,,2
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
@@ -2547,34 +2533,34 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6123,6123,Conestoga Station,,  43.498272, -80.529596,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 7000,7000,Snyders / Notre Dame,,  43.413404, -80.606216,,,0,,1
 7001,7001,Snyders / Notre Dame,,  43.413341, -80.605695,,,0,,1
-7002,7002,Snyders / Forler,,  43.405625, -80.656739,,,0,,1
-7003,7003,Snyders / Forler,,  43.405559, -80.656092,,,0,,1
-7004,7004,Snyders / Brubacher,,  43.404701, -80.662960,,,0,,1
-7005,7005,Snyders / Coachmans,,  43.404489, -80.663303,,,0,,1
+7002,7002,Snyders / Forler,,  43.405625, -80.656739,,,0,,2
+7003,7003,Snyders / Forler,,  43.405559, -80.656092,,,0,,2
+7004,7004,Snyders / Brubacher,,  43.404701, -80.662960,,,0,,2
+7005,7005,Snyders / Coachmans,,  43.404489, -80.663303,,,0,,2
 7006,7006,Snyders / Mill,,  43.403452, -80.671385,,,0,,1
-7007,7007,Snyders / Foundry,,  43.403611, -80.669199,,,0,,1
-7008,7008,Waterloo-Oxford District Secondary School,,  43.401234, -80.687378,,,0,,1
-7009,7009,Waterloo St. / Christner,,  43.396590, -80.705159,,,0,,1
-7010,7010,Waterloo St. / Christner,,  43.397171, -80.704310,,,0,,1
-7011,7011,Waterloo St. / Forrest,,  43.387628, -80.711347,,,0,,1
-7016,7016,Waterloo St. / Wilmot Family Resource Centre,,  43.381433, -80.714770,,,0,,1
-7017,7017,Waterloo St. / Wilmot Family Resource Centre,,  43.381577, -80.714466,,,0,,1
-7018,7018,Waterloo St. / Huron,,  43.377642, -80.713867,,,0,,1
-7019,7019,Waterloo St. / Huron,,  43.377812, -80.713874,,,0,,1
+7007,7007,Snyders / Foundry,,  43.403611, -80.669199,,,0,,2
+7008,7008,Waterloo-Oxford District Secondary School,,  43.401234, -80.687378,,,0,,2
+7009,7009,Waterloo St. / Christner,,  43.396590, -80.705159,,,0,,2
+7010,7010,Waterloo St. / Christner,,  43.397171, -80.704310,,,0,,2
+7011,7011,Waterloo St. / Forrest,,  43.387628, -80.711347,,,0,,2
+7016,7016,Waterloo St. / Wilmot Family Resource Centre,,  43.381433, -80.714770,,,0,,2
+7017,7017,Waterloo St. / Wilmot Family Resource Centre,,  43.381577, -80.714466,,,0,,2
+7018,7018,Waterloo St. / Huron,,  43.377642, -80.713867,,,0,,2
+7019,7019,Waterloo St. / Huron,,  43.377812, -80.713874,,,0,,2
 7020,7020,Huron / Union,,  43.378162, -80.711623,,,0,,1
 7021,7021,Huron / Union,,  43.378307, -80.711842,,,0,,1
-7022,7022,Peel / Boullee,,  43.376548, -80.707796,,,0,,1
-7023,7023,Peel / Boullee,,  43.376813, -80.707800,,,0,,1
-7024,7024,Peel / Bleams,,  43.373590, -80.704708,,,0,,1
-7025,7025,Peel / Bleams,,  43.373523, -80.704447,,,0,,1
+7022,7022,Peel / Boullee,,  43.376548, -80.707796,,,0,,2
+7023,7023,Peel / Boullee,,  43.376813, -80.707800,,,0,,2
+7024,7024,Peel / Bleams,,  43.373590, -80.704708,,,0,,2
+7025,7025,Peel / Bleams,,  43.373523, -80.704447,,,0,,2
 7033,7033,Mackays No Frills New Hamburg,,  43.370367, -80.703937,,,0,,1
-7035,7035,Waterloo St. / Victoria,,  43.387798, -80.710968,,,0,,1
-7037,7037,Highland / Trussler,,  43.421315, -80.558582,,,0,,1
-7038,7038,560 Snyders Rd. E.,,  43.407226, -80.646279,,,0,,1
-7039,7039,560 Snyders Rd. E.,,  43.407136, -80.645915,,,0,,1
-7040,7040,Highland / Trussler,,  43.420881, -80.559194,,,0,,1
-7041,7041,Kitchener Gurdwara,,  43.417566, -80.580515,,,0,,1
-7060,7060,46 Cedarwoods Cres.,,  43.427170, -80.439684,,,0,,1
+7035,7035,Waterloo St. / Victoria,,  43.387798, -80.710968,,,0,,2
+7037,7037,Highland / Trussler,,  43.421315, -80.558582,,,0,,2
+7038,7038,560 Snyders Rd. E.,,  43.407226, -80.646279,,,0,,2
+7039,7039,560 Snyders Rd. E.,,  43.407136, -80.645915,,,0,,2
+7040,7040,Highland / Trussler,,  43.420881, -80.559194,,,0,,2
+7041,7041,Kitchener Gurdwara,,  43.417566, -80.580515,,,0,,2
+7060,7060,46 Cedarwoods Cres.,,  43.427170, -80.439684,,,0,,2
 7061,7061,Kingsbury Medical Centre,,  43.428828, -80.435497,,,0,,1
 7062,7062,Sunbeam Centre,,  43.429314, -80.439944,,,0,,1
 7063,7063,Trinity Village,,  43.429522, -80.441356,,,0,,1
@@ -2582,7 +2568,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7137,7137,Toyota Cambridge Gate 2,,  43.419436, -80.375590,,,0,,1
 7138,7138,Heroux Devtek / Goddard,,  43.425350, -80.358281,,,0,,1
 7139,7139,Toyota Cambridge Gate 1,,  43.416679, -80.374048,,,0,,1
-7140,7140,Maple Grove / Speedsville,,  43.428792, -80.356067,,,0,,1
+7140,7140,Maple Grove / Speedsville,,  43.428792, -80.356067,,,0,,2
 place_ALEN,,Allen Station,,  43.460097, -80.518856,,,1,,
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
 place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
@@ -2594,17 +2580,17 @@ place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FRED,,Frederick Station,,  43.449176, -80.487665,,,1,,
 place_FVM,,Fairway Station,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
-place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
 place_KMAR,,Kitchener Market Station,,  43.446340, -80.483690,,,1,,
 place_KUN,,King/University,,  43.476140, -80.524970,,,1,,
 place_MILL,,Mill Station,,  43.434010, -80.478750,,,1,,
 place_NORT,,Northfield Station,,  43.497280, -80.543351,,,1,,
 place_QUEE,,Queen Station,,  43.448919, -80.490015,,,1,,
 place_RTEC,,Research & Technology Station,,  43.481592, -80.545299,,,1,,
-place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
-place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
 place_SPW,,Sportsworld Station,,  43.409919, -80.392925,,,1,,
 place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_UWAT,,University of Waterloo Station,,  43.474895, -80.538382,,,1,,
 place_WPSQ,,Waterloo Public Square Station,,  43.464250, -80.522130,,,1,,
+place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
+place_SPM,,Stanley Park,,  43.448916, -80.444425,,,1,,
+place_SMH,,St. Mary's High School,,  43.420000, -80.465320,,,1,,
