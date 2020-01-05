@@ -495,7 +495,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1535,1535,Dobbie / Clyde,,  43.373206, -80.285341,,,0,,2
 1536,1536,Clyde / Grand River Conservation Authority,,  43.373410, -80.286387,,,0,,2
 1537,1537,Clyde / Bluerock,,  43.372564, -80.290681,,,0,,2
-1538,1538,Franklin / Clyde,,  43.371672, -80.295449,,,0,,2
 1540,1540,Franklin / Avenue,,  43.379161, -80.298390,,,0,,1
 1541,1541,Franklin / Robson,,  43.385241, -80.300805,,,0,,2
 1542,1542,Franklin / Saginaw,,  43.392355, -80.302303,,,0,,1
@@ -1205,12 +1204,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2384,2384,Ottawa / Old Chicopee,,  43.452164, -80.440172,,,0,,1
 2385,2385,Trillium / Beasley,,  43.401812, -80.459872,,,0,,2
 2386,2386,Beasley / Homer Watson,,  43.401790, -80.457719,,,0,,1
-2387,2387,Homer Watson / Bleams,,  43.410449, -80.461418,,,0,,2
 2389,2389,Confederation / Lorraine,,  43.460341, -80.442367,,,0,,1
 2390,2390,Grand Ridge / Cedar,,  43.348819, -80.341531,,,0,,2
 2391,2391,Grand Ridge / Harwood,,  43.346244, -80.339619,,,0,,2
 2392,2392,Grand Ridge / Wedgewood,,  43.342956, -80.337841,,,0,,2
-2393,2393,Eagle / King,,  43.398783, -80.363043,,,0,,1
 2394,2394,Lorraine / Birkshire,,  43.457762, -80.448843,,,0,,1
 2395,2395,Krug / River,,  43.458329, -80.458306,,,0,,1
 2396,2396,Krug / Sherwood,,  43.457495, -80.460934,,,0,,1
@@ -1517,8 +1514,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2786,2786,University Ave. / Regina,,  43.476663, -80.523280,,,0,,1
 2787,2787,University Ave. / Weber,,  43.477642, -80.520527,,,0,,1
 2788,2788,University Ave. / Conestoga College - Waterloo,,  43.479299, -80.516198,,,0,,1
-2789,2789,Eagle / William,,  43.400036, -80.361878,,,0,,1
-2790,2790,Eagle / Path To Westminster,,  43.401893, -80.359626,,,0,,1
 2791,2791,Eagle / Providence,,  43.405675, -80.341443,,,0,,1
 2792,2792,Eagle / Industrial,,  43.407018, -80.333546,,,0,,1
 2793,2793,Lincoln / Mayfield,,  43.479191, -80.507766,,,0,,1
@@ -1592,7 +1587,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2888,2888,Block Line / Laurentian,,  43.412766, -80.491494,,,0,,1
 2898,2898,Ottawa / Pinedale,,  43.419848, -80.504677,,,0,,1
 2899,2899,Coronation / Oliver,,  43.377713, -80.326172,,,0,,2
-2900,2900,Coronation / Goldie,,  43.375428, -80.322311,,,0,,2
 2901,2901,Ottawa / Howland,,  43.420969, -80.497577,,,0,,1
 2902,2902,Elmsdale / Ottawa,,  43.422179, -80.494170,,,0,,1
 2903,2903,Elmsdale / Chandler,,  43.424036, -80.496675,,,0,,1
@@ -2156,7 +2150,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3737,3737,Parkvale / Woodbine,,  43.388897, -80.485718,,,0,,1
 3738,3738,Woodbine / Sophia,,  43.386649, -80.484588,,,0,,1
 3739,3739,Woodbine / Huron,,  43.383529, -80.483417,,,0,,1
-3742,3742,Fountain / Comdev Soccer Dome,,  43.409289, -80.373226,,,0,,1
 3743,3743,William / Caroline,,  43.461080, -80.521894,,,0,,1
 3744,3744,Wellington / Weber,,  43.457111, -80.495053,,,0,,2
 3745,3745,Conservation / Waterton,,  43.491411, -80.577977,,,0,,2
@@ -2269,7 +2262,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3882,3882,Davenport / Conestoga Mall,,  43.498340, -80.524049,,,0,,1
 3884,3884,728 Arthur St. S.,,  43.561598, -80.558679,,,0,,1
 3885,3885,728 Arthur St. S.,,  43.561130, -80.558683,,,0,,1
-3887,3887,Phillip / Columbia,,  43.476409, -80.539399,,,0,,1
 3888,3888,Conestoga College Cambridge Campus,,  43.385284, -80.398103,,,0,,1
 3890,3890,Fischer-Hallman / Columbia,,  43.467368, -80.565646,,,0,,1
 3891,3891,Fischer-Hallman / Highland,,  43.431587, -80.525376,,,0,,1
@@ -2309,14 +2301,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3930,3930,Jamieson / Townline,,  43.424957, -80.285721,,,0,,2
 3931,3931,Jamieson / Lardner,,  43.423526, -80.287294,,,0,,2
 3932,3932,Jamieson / Patton,,  43.421787, -80.288574,,,0,,2
-3934,3934,Fountain / Marmel,,  43.403758, -80.369990,,,0,,1
 3935,3935,Cherry Blossom / Fountain,,  43.412811, -80.375104,,,0,,1
 3936,3936,Cherry Blossom / Saltsman,,  43.414206, -80.379932,,,0,,1
 3937,3937,Cherry Blossom / Barnes,,  43.415805, -80.384201,,,0,,2
 3939,3939,Maple Grove / Cherry Blossom,,  43.416532, -80.387183,,,0,,1
 3940,3940,Cherry Blossom / Saltsman,,  43.414008, -80.379971,,,0,,2
-3941,3941,Fountain / Comdev Soccer Field,,  43.408685, -80.373207,,,0,,2
-3942,3942,Fountain / Marmel,,  43.403834, -80.370293,,,0,,2
 3943,3943,University Ave. / Phillip,,  43.472149, -80.535716,,,0,,1
 3945,3945,University Ave. / Sunview,,  43.473390, -80.532245,,,0,,1
 3949,3949,Laurelwood / Fischer-Hallman,,  43.474796, -80.572541,,,0,,1
@@ -2470,18 +2459,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4108,4108,Townline / Cambridge Gurdwara,,  43.400424, -80.274613,,,0,,1
 4109,4109,3227 King St. E.,,  43.426390, -80.425444,,,0,,1
 4110,4110,King / Grand River Hospital - Freeport Campus,,  43.423359, -80.411406,,,0,,2
-5006,5006,Duke / Waterloo St.,,  43.398132, -80.359989,,,0,,2
-5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,2
 5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,2
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
 5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,2
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,2
 5026,5026,Columbia / Laurel Trail (U.W. Station),,  43.476114, -80.542722,,,0,place_UWAT,2
-5029,5029,Queenston / Westminster,,  43.394973, -80.359388,,,0,,2
-5030,5030,Queenston / Lowther,,  43.393549, -80.356667,,,0,,2
 5031,5031,Queenston / Dolph,,  43.392397, -80.354488,,,0,,2
-5032,5032,Duke / Lowther,,  43.395267, -80.354600,,,0,,2
-5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,2
 5035,5035,Queenston / Union,,  43.391268, -80.352172,,,0,,2
 5037,5037,Sunrise Centre Station,,  43.414439, -80.517504,,,0,place_SRC,1
 5046,5046,Weber / Albert,,  43.491860, -80.537468,,,0,,2
@@ -2566,9 +2549,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 7063,7063,Trinity Village,,  43.429522, -80.441356,,,0,,1
 7064,7064,Grand River Hospital - Freeport Campus,,  43.425691, -80.410937,,,0,,1
 7137,7137,Toyota Cambridge Gate 2,,  43.419436, -80.375590,,,0,,1
-7138,7138,Heroux Devtek / Goddard,,  43.425350, -80.358281,,,0,,1
 7139,7139,Toyota Cambridge Gate 1,,  43.416679, -80.374048,,,0,,1
-7140,7140,Maple Grove / Speedsville,,  43.428792, -80.356067,,,0,,2
 place_ALEN,,Allen Station,,  43.460097, -80.518856,,,1,,
 place_AST,,Ainslie Terminal,,  43.357455, -80.313250,,,1,,
 place_BLIN,,Block Line Station,,  43.422375, -80.462152,,,1,,
