@@ -2321,6 +2321,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3957,3957,Doon South / Forest Edge,,  43.383026, -80.426978,,,0,,2
 3958,3958,Doon South / Winding Wood,,  43.384623, -80.425975,,,0,,2
 3959,3959,Doon South / Windrush,,  43.387304, -80.423554,,,0,,2
+3960,3960,330 Pinebush Rd.,,  43.413264, -80.298614,,,0,,1
 3961,3961,Doon Village / Anvil,,  43.390701, -80.438660,,,0,,2
 3962,3962,Doon Mills / Apple Ridge,,  43.387065, -80.435220,,,0,,2
 3963,3963,Doon Mills / Pine Valley,,  43.386094, -80.431849,,,0,,2
