@@ -1833,8 +1833,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3263,3263,Churchill / Berkley,,  43.354803, -80.327370,,,0,,2
 3264,3264,University Ave. / Path To Countrystone Pl.,,  43.440020, -80.551149,,,0,,2
 3265,3265,University Ave. / Resurrection C. S. S.,,  43.441176, -80.547371,,,0,,1
-3266,3266,Westwood / Glasgow,,  43.443398, -80.540051,,,0,,1
-3267,3267,Westwood / Dayman,,  43.441699, -80.538630,,,0,,1
+3266,3266,Westwood / Glasgow,,  43.442708, -80.539548,,,0,,1
 3268,3268,Westwood / Gallarno,,  43.442264, -80.535685,,,0,,1
 3269,3269,Westwood / Fernwood,,  43.445000, -80.531153,,,0,,1
 3270,3270,Westwood / Westwood Cres.,,  43.445058, -80.529756,,,0,,1
