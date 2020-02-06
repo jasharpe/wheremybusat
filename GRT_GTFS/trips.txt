@@ -1342,22 +1342,22 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 19,19-Holiday1-5-20WINT-0000001,1997322,B-Northfield Station,0,266088,190029,1,1
 19,19-Holiday1-5-20WINT-0000001,1997323,B-Northfield Station,0,266117,190029,1,1
 19,19-Holiday1-5-20WINT-0000001,1997324,B-Northfield Station,0,266087,190029,1,1
-19,19-Holiday1-5-20WINT-0000001,1997325,University of Waterloo - Nano,1,266087,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997326,University of Waterloo - Nano,1,266087,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997327,University of Waterloo - Nano,1,266088,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997328,University of Waterloo - Nano,1,266117,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997329,University of Waterloo - Nano,1,266088,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997330,University of Waterloo - Nano,1,266117,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997331,University of Waterloo - Nano,1,266087,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997332,University of Waterloo - Nano,1,266088,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997333,University of Waterloo - Nano,1,266117,190031,1,1
-19,19-Holiday1-5-20WINT-0000001,1997334,University of Waterloo - Nano,1,266087,190032,1,1
-19,19-Holiday1-5-20WINT-0000001,1997335,University of Waterloo - Nano,1,266088,190032,1,1
-19,19-Holiday1-5-20WINT-0000001,1997336,University of Waterloo - Nano,1,266117,190032,1,1
-19,19-Holiday1-5-20WINT-0000001,1997337,University of Waterloo - Nano,1,266087,190032,1,1
-19,19-Holiday1-5-20WINT-0000001,1997338,University of Waterloo - Nano,1,266088,190032,1,1
-19,19-Holiday1-5-20WINT-0000001,1997339,University of Waterloo - Nano,1,266117,190032,1,1
-19,19-Holiday1-5-20WINT-0000001,1997340,University of Waterloo - Nano,1,266087,190032,1,1
+19,19-Holiday1-5-20WINT-0000001,1997325,University of Waterloo - Nano,1,266087,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997326,University of Waterloo - Nano,1,266087,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997327,University of Waterloo - Nano,1,266088,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997328,University of Waterloo - Nano,1,266117,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997329,University of Waterloo - Nano,1,266088,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997330,University of Waterloo - Nano,1,266117,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997331,University of Waterloo - Nano,1,266087,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997332,University of Waterloo - Nano,1,266088,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997333,University of Waterloo - Nano,1,266117,190040,1,1
+19,19-Holiday1-5-20WINT-0000001,1997334,University of Waterloo - Nano,1,266087,190041,1,1
+19,19-Holiday1-5-20WINT-0000001,1997335,University of Waterloo - Nano,1,266088,190041,1,1
+19,19-Holiday1-5-20WINT-0000001,1997336,University of Waterloo - Nano,1,266117,190041,1,1
+19,19-Holiday1-5-20WINT-0000001,1997337,University of Waterloo - Nano,1,266087,190041,1,1
+19,19-Holiday1-5-20WINT-0000001,1997338,University of Waterloo - Nano,1,266088,190041,1,1
+19,19-Holiday1-5-20WINT-0000001,1997339,University of Waterloo - Nano,1,266117,190041,1,1
+19,19-Holiday1-5-20WINT-0000001,1997340,University of Waterloo - Nano,1,266087,190041,1,1
 19,19-Saturday-3-20WINT-0000010,1992333,B-Northfield Station,0,265912,190029,1,1
 19,19-Saturday-3-20WINT-0000010,1992334,B-Northfield Station,0,265911,190029,1,1
 19,19-Saturday-3-20WINT-0000010,1992335,A-St. Jacobs Market,0,265910,190030,1,1
@@ -1390,49 +1390,49 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 19,19-Saturday-3-20WINT-0000010,1992362,B-Northfield Station,0,265914,190029,1,1
 19,19-Saturday-3-20WINT-0000010,1992363,A-St. Jacobs Market,0,265911,190030,1,1
 19,19-Saturday-3-20WINT-0000010,1992364,B-Northfield Station,0,265910,190029,1,1
-19,19-Saturday-3-20WINT-0000010,1992365,University of Waterloo - Nano,1,265909,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992366,University of Waterloo - Nano,1,265914,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992367,University of Waterloo - Nano,1,265911,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992368,University of Waterloo - Nano,1,265910,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992369,University of Waterloo - Nano,1,265913,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992370,University of Waterloo - Nano,1,265912,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992371,University of Waterloo - Nano,1,265914,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992372,University of Waterloo - Nano,1,265911,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992373,University of Waterloo - Nano,1,265910,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992374,University of Waterloo - Nano,1,265909,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992375,University of Waterloo - Nano,1,265913,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992376,University of Waterloo - Nano,1,265912,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992377,University of Waterloo - Nano,1,265914,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992378,University of Waterloo - Nano,1,265911,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992379,University of Waterloo - Nano,1,265910,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992380,University of Waterloo - Nano,1,265909,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992381,University of Waterloo - Nano,1,265913,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992382,University of Waterloo - Nano,1,265912,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992383,University of Waterloo - Nano,1,265914,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992384,University of Waterloo - Nano,1,265911,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992385,University of Waterloo - Nano,1,265910,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992386,University of Waterloo - Nano,1,265909,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992387,University of Waterloo - Nano,1,265913,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992388,University of Waterloo - Nano,1,265912,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992389,University of Waterloo - Nano,1,265914,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992390,University of Waterloo - Nano,1,265911,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992391,University of Waterloo - Nano,1,265910,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992392,University of Waterloo - Nano,1,265909,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992393,University of Waterloo - Nano,1,265913,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992394,University of Waterloo - Nano,1,265912,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992395,University of Waterloo - Nano,1,265914,190032,1,1
-19,19-Saturday-3-20WINT-0000010,1992396,University of Waterloo - Nano,1,265911,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992397,University of Waterloo - Nano,1,265910,190032,1,1
+19,19-Saturday-3-20WINT-0000010,1992365,University of Waterloo - Nano,1,265909,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992366,University of Waterloo - Nano,1,265914,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992367,University of Waterloo - Nano,1,265911,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992368,University of Waterloo - Nano,1,265910,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992369,University of Waterloo - Nano,1,265913,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992370,University of Waterloo - Nano,1,265912,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992371,University of Waterloo - Nano,1,265914,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992372,University of Waterloo - Nano,1,265911,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992373,University of Waterloo - Nano,1,265910,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992374,University of Waterloo - Nano,1,265909,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992375,University of Waterloo - Nano,1,265913,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992376,University of Waterloo - Nano,1,265912,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992377,University of Waterloo - Nano,1,265914,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992378,University of Waterloo - Nano,1,265911,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992379,University of Waterloo - Nano,1,265910,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992380,University of Waterloo - Nano,1,265909,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992381,University of Waterloo - Nano,1,265913,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992382,University of Waterloo - Nano,1,265912,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992383,University of Waterloo - Nano,1,265914,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992384,University of Waterloo - Nano,1,265911,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992385,University of Waterloo - Nano,1,265910,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992386,University of Waterloo - Nano,1,265909,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992387,University of Waterloo - Nano,1,265913,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992388,University of Waterloo - Nano,1,265912,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992389,University of Waterloo - Nano,1,265914,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992390,University of Waterloo - Nano,1,265911,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992391,University of Waterloo - Nano,1,265910,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992392,University of Waterloo - Nano,1,265909,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992393,University of Waterloo - Nano,1,265913,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992394,University of Waterloo - Nano,1,265912,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992395,University of Waterloo - Nano,1,265914,190041,1,1
+19,19-Saturday-3-20WINT-0000010,1992396,University of Waterloo - Nano,1,265911,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992397,University of Waterloo - Nano,1,265910,190041,1,1
 19,19-Saturday-3-20WINT-0000010,1992398,A-St. Jacobs Market,0,265909,190030,1,1
 19,19-Saturday-3-20WINT-0000010,1992399,B-Northfield Station,0,265913,190029,1,1
-19,19-Saturday-3-20WINT-0000010,1992400,University of Waterloo - Nano,1,265909,190031,1,1
-19,19-Saturday-3-20WINT-0000010,1992401,University of Waterloo - Nano,1,265913,190032,1,1
+19,19-Saturday-3-20WINT-0000010,1992400,University of Waterloo - Nano,1,265909,190040,1,1
+19,19-Saturday-3-20WINT-0000010,1992401,University of Waterloo - Nano,1,265913,190041,1,1
 19,19-Saturday-3-20WINT-0000010,1992402,A-St. Jacobs Market,0,265912,190030,1,1
-19,19-Saturday-3-20WINT-0000010,1992403,University of Waterloo - Nano,1,265912,190031,1,1
+19,19-Saturday-3-20WINT-0000010,1992403,University of Waterloo - Nano,1,265912,190040,1,1
 19,19-Saturday-3-20WINT-0000010,1992404,A-St. Jacobs Market,0,265914,190030,1,1
 19,19-Saturday-3-20WINT-0000010,1992405,Parkside/Northfield,0,265909,190010,1,1
 19,19-Saturday-3-20WINT-0000010,1992406,B-Northfield Station,0,265914,190029,1,1
-19,19-Saturday-3-20WINT-0000010,1992407,University of Waterloo - Nano,1,265914,190032,1,1
+19,19-Saturday-3-20WINT-0000010,1992407,University of Waterloo - Nano,1,265914,190041,1,1
 19,19-Sunday-3-20WINT-0000001,1994355,B-Northfield Station,0,266053,190029,1,1
 19,19-Sunday-3-20WINT-0000001,1994356,B-Northfield Station,0,266054,190029,1,1
 19,19-Sunday-3-20WINT-0000001,1994357,A-St. Jacobs Market,0,266055,190030,1,1
@@ -1465,38 +1465,38 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 19,19-Sunday-3-20WINT-0000001,1994384,B-Northfield Station,0,266057,190029,1,1
 19,19-Sunday-3-20WINT-0000001,1994385,A-St. Jacobs Market,0,266054,190030,1,1
 19,19-Sunday-3-20WINT-0000001,1994386,B-Northfield Station,0,266055,190029,1,1
-19,19-Sunday-3-20WINT-0000001,1994387,University of Waterloo - Nano,1,266055,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994388,University of Waterloo - Nano,1,266054,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994389,University of Waterloo - Nano,1,266055,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994390,University of Waterloo - Nano,1,266053,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994391,University of Waterloo - Nano,1,266052,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994392,University of Waterloo - Nano,1,266056,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994393,University of Waterloo - Nano,1,266057,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994394,University of Waterloo - Nano,1,266054,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994395,University of Waterloo - Nano,1,266053,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994396,University of Waterloo - Nano,1,266052,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994397,University of Waterloo - Nano,1,266056,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994398,University of Waterloo - Nano,1,266057,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994399,University of Waterloo - Nano,1,266054,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994400,University of Waterloo - Nano,1,266055,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994401,University of Waterloo - Nano,1,266053,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994402,University of Waterloo - Nano,1,266052,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994403,University of Waterloo - Nano,1,267561,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994404,University of Waterloo - Nano,1,266057,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994405,University of Waterloo - Nano,1,266054,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994406,University of Waterloo - Nano,1,266055,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994407,University of Waterloo - Nano,1,266053,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994408,University of Waterloo - Nano,1,266052,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994409,University of Waterloo - Nano,1,267561,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994410,University of Waterloo - Nano,1,266057,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994411,University of Waterloo - Nano,1,266054,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994412,University of Waterloo - Nano,1,266055,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994413,University of Waterloo - Nano,1,266053,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994414,University of Waterloo - Nano,1,266052,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994415,University of Waterloo - Nano,1,267561,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994416,University of Waterloo - Nano,1,266057,190032,1,1
-19,19-Sunday-3-20WINT-0000001,1994417,University of Waterloo - Nano,1,266054,190031,1,1
-19,19-Sunday-3-20WINT-0000001,1994418,University of Waterloo - Nano,1,266055,190032,1,1
+19,19-Sunday-3-20WINT-0000001,1994387,University of Waterloo - Nano,1,266055,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994388,University of Waterloo - Nano,1,266054,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994389,University of Waterloo - Nano,1,266055,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994390,University of Waterloo - Nano,1,266053,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994391,University of Waterloo - Nano,1,266052,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994392,University of Waterloo - Nano,1,266056,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994393,University of Waterloo - Nano,1,266057,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994394,University of Waterloo - Nano,1,266054,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994395,University of Waterloo - Nano,1,266053,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994396,University of Waterloo - Nano,1,266052,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994397,University of Waterloo - Nano,1,266056,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994398,University of Waterloo - Nano,1,266057,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994399,University of Waterloo - Nano,1,266054,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994400,University of Waterloo - Nano,1,266055,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994401,University of Waterloo - Nano,1,266053,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994402,University of Waterloo - Nano,1,266052,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994403,University of Waterloo - Nano,1,267561,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994404,University of Waterloo - Nano,1,266057,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994405,University of Waterloo - Nano,1,266054,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994406,University of Waterloo - Nano,1,266055,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994407,University of Waterloo - Nano,1,266053,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994408,University of Waterloo - Nano,1,266052,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994409,University of Waterloo - Nano,1,267561,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994410,University of Waterloo - Nano,1,266057,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994411,University of Waterloo - Nano,1,266054,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994412,University of Waterloo - Nano,1,266055,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994413,University of Waterloo - Nano,1,266053,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994414,University of Waterloo - Nano,1,266052,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994415,University of Waterloo - Nano,1,267561,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994416,University of Waterloo - Nano,1,266057,190041,1,1
+19,19-Sunday-3-20WINT-0000001,1994417,University of Waterloo - Nano,1,266054,190040,1,1
+19,19-Sunday-3-20WINT-0000001,1994418,University of Waterloo - Nano,1,266055,190041,1,1
 19,19-Weekday-8-20WINT-1111100,1985610,B-Northfield Station,0,266898,190029,1,1
 19,19-Weekday-8-20WINT-1111100,1985611,B-Northfield Station,0,266925,190029,1,1
 19,19-Weekday-8-20WINT-1111100,1985612,B-Northfield Station,0,266902,190029,1,1
@@ -1547,56 +1547,56 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 19,19-Weekday-8-20WINT-1111100,1985657,A-St. Jacobs Market,0,266901,190030,1,1
 19,19-Weekday-8-20WINT-1111100,1985658,A-St. Jacobs Market,0,266924,190030,1,1
 19,19-Weekday-8-20WINT-1111100,1985659,A-St. Jacobs Market,0,266898,190030,1,1
-19,19-Weekday-8-20WINT-1111100,1985660,University of Waterloo - Nano,1,265470,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985661,University of Waterloo - Nano,1,265469,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985662,University of Waterloo - Nano,1,265475,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985663,University of Waterloo - Nano,1,266889,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985664,University of Waterloo - Nano,1,266897,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985665,University of Waterloo - Nano,1,266926,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985666,University of Waterloo - Nano,1,265470,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985667,University of Waterloo - Nano,1,265469,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985668,University of Waterloo - Nano,1,266930,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985669,University of Waterloo - Nano,1,266889,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985670,University of Waterloo - Nano,1,266897,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985671,University of Waterloo - Nano,1,266926,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985672,University of Waterloo - Nano,1,265470,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985673,University of Waterloo - Nano,1,265469,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985674,University of Waterloo - Nano,1,266930,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985675,University of Waterloo - Nano,1,266889,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985676,University of Waterloo - Nano,1,266897,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985677,University of Waterloo - Nano,1,266926,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985678,University of Waterloo - Nano,1,265470,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985679,University of Waterloo - Nano,1,265469,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985680,University of Waterloo - Nano,1,266930,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985681,University of Waterloo - Nano,1,266909,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985682,University of Waterloo - Nano,1,266901,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985683,University of Waterloo - Nano,1,266924,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985684,University of Waterloo - Nano,1,266898,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985685,University of Waterloo - Nano,1,266925,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985686,University of Waterloo - Nano,1,266902,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985687,University of Waterloo - Nano,1,265471,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985688,University of Waterloo - Nano,1,266901,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985689,University of Waterloo - Nano,1,266924,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985690,University of Waterloo - Nano,1,266898,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985691,University of Waterloo - Nano,1,266925,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985692,University of Waterloo - Nano,1,266902,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985693,University of Waterloo - Nano,1,265471,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985694,University of Waterloo - Nano,1,266901,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985695,University of Waterloo - Nano,1,266924,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985696,University of Waterloo - Nano,1,266898,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985697,University of Waterloo - Nano,1,266925,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985698,University of Waterloo - Nano,1,266902,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985699,University of Waterloo - Nano,1,265471,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985700,University of Waterloo - Nano,1,266901,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985701,University of Waterloo - Nano,1,266924,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985702,University of Waterloo - Nano,1,266898,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985703,University of Waterloo - Nano,1,266925,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985704,University of Waterloo - Nano,1,266902,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985705,University of Waterloo - Nano,1,265471,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985706,University of Waterloo - Nano,1,266889,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985707,University of Waterloo - Nano,1,266897,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985708,University of Waterloo - Nano,1,266898,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985709,University of Waterloo - Nano,1,266926,190032,1,1
+19,19-Weekday-8-20WINT-1111100,1985660,University of Waterloo - Nano,1,265470,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985661,University of Waterloo - Nano,1,265469,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985662,University of Waterloo - Nano,1,265475,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985663,University of Waterloo - Nano,1,266889,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985664,University of Waterloo - Nano,1,266897,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985665,University of Waterloo - Nano,1,266926,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985666,University of Waterloo - Nano,1,265470,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985667,University of Waterloo - Nano,1,265469,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985668,University of Waterloo - Nano,1,266930,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985669,University of Waterloo - Nano,1,266889,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985670,University of Waterloo - Nano,1,266897,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985671,University of Waterloo - Nano,1,266926,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985672,University of Waterloo - Nano,1,265470,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985673,University of Waterloo - Nano,1,265469,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985674,University of Waterloo - Nano,1,266930,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985675,University of Waterloo - Nano,1,266889,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985676,University of Waterloo - Nano,1,266897,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985677,University of Waterloo - Nano,1,266926,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985678,University of Waterloo - Nano,1,265470,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985679,University of Waterloo - Nano,1,265469,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985680,University of Waterloo - Nano,1,266930,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985681,University of Waterloo - Nano,1,266909,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985682,University of Waterloo - Nano,1,266901,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985683,University of Waterloo - Nano,1,266924,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985684,University of Waterloo - Nano,1,266898,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985685,University of Waterloo - Nano,1,266925,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985686,University of Waterloo - Nano,1,266902,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985687,University of Waterloo - Nano,1,265471,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985688,University of Waterloo - Nano,1,266901,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985689,University of Waterloo - Nano,1,266924,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985690,University of Waterloo - Nano,1,266898,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985691,University of Waterloo - Nano,1,266925,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985692,University of Waterloo - Nano,1,266902,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985693,University of Waterloo - Nano,1,265471,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985694,University of Waterloo - Nano,1,266901,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985695,University of Waterloo - Nano,1,266924,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985696,University of Waterloo - Nano,1,266898,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985697,University of Waterloo - Nano,1,266925,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985698,University of Waterloo - Nano,1,266902,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985699,University of Waterloo - Nano,1,265471,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985700,University of Waterloo - Nano,1,266901,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985701,University of Waterloo - Nano,1,266924,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985702,University of Waterloo - Nano,1,266898,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985703,University of Waterloo - Nano,1,266925,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985704,University of Waterloo - Nano,1,266902,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985705,University of Waterloo - Nano,1,265471,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985706,University of Waterloo - Nano,1,266889,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985707,University of Waterloo - Nano,1,266897,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985708,University of Waterloo - Nano,1,266898,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985709,University of Waterloo - Nano,1,266926,190041,1,1
 19,19-Weekday-8-20WINT-1111100,1985710,B-Northfield Station,0,265470,190029,1,1
 19,19-Weekday-8-20WINT-1111100,1985711,B-Northfield Station,0,265469,190029,1,1
 19,19-Weekday-8-20WINT-1111100,1985712,B-Northfield Station,0,266930,190029,1,1
@@ -1616,24 +1616,24 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 19,19-Weekday-8-20WINT-1111100,1985726,A-St. Jacobs Market,0,266901,190030,1,1
 19,19-Weekday-8-20WINT-1111100,1985727,B-Northfield Station,0,266926,190029,1,1
 19,19-Weekday-8-20WINT-1111100,1985728,A-St. Jacobs Market,0,265470,190030,1,1
-19,19-Weekday-8-20WINT-1111100,1985729,University of Waterloo - Nano,1,266925,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985730,University of Waterloo - Nano,1,266902,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985731,University of Waterloo - Nano,1,265471,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985732,University of Waterloo - Nano,1,266889,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985733,University of Waterloo - Nano,1,266898,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985734,University of Waterloo - Nano,1,266925,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985735,University of Waterloo - Nano,1,266930,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985736,University of Waterloo - Nano,1,266909,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985737,University of Waterloo - Nano,1,266901,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985738,University of Waterloo - Nano,1,266926,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985739,University of Waterloo - Nano,1,265470,190031,1,1
-19,19-Weekday-8-20WINT-1111100,1985740,University of Waterloo - Nano,1,265470,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985741,University of Waterloo - Nano,1,265469,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985742,University of Waterloo - Nano,1,266930,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985743,University of Waterloo - Nano,1,266909,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985744,University of Waterloo - Nano,1,266901,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985745,University of Waterloo - Nano,1,266926,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985746,University of Waterloo - Nano,1,265470,190032,1,1
+19,19-Weekday-8-20WINT-1111100,1985729,University of Waterloo - Nano,1,266925,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985730,University of Waterloo - Nano,1,266902,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985731,University of Waterloo - Nano,1,265471,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985732,University of Waterloo - Nano,1,266889,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985733,University of Waterloo - Nano,1,266898,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985734,University of Waterloo - Nano,1,266925,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985735,University of Waterloo - Nano,1,266930,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985736,University of Waterloo - Nano,1,266909,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985737,University of Waterloo - Nano,1,266901,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985738,University of Waterloo - Nano,1,266926,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985739,University of Waterloo - Nano,1,265470,190040,1,1
+19,19-Weekday-8-20WINT-1111100,1985740,University of Waterloo - Nano,1,265470,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985741,University of Waterloo - Nano,1,265469,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985742,University of Waterloo - Nano,1,266930,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985743,University of Waterloo - Nano,1,266909,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985744,University of Waterloo - Nano,1,266901,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985745,University of Waterloo - Nano,1,266926,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985746,University of Waterloo - Nano,1,265470,190041,1,1
 19,19-Weekday-8-20WINT-1111100,1985747,University of Waterloo - Nano,1,266908,190033,1,1
 19,19-Weekday-8-20WINT-1111100,1985748,University of Waterloo - Nano,1,266928,190033,1,1
 19,19-Weekday-8-20WINT-1111100,1985749,University of Waterloo - Nano,1,266908,190033,1,1
@@ -1644,10 +1644,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 19,19-Weekday-8-20WINT-1111100,1985754,University of Waterloo - Nano,1,266928,190033,1,1
 19,19-Weekday-8-20WINT-1111100,1985755,University of Waterloo - Nano,1,266928,190033,1,1
 19,19-Weekday-8-20WINT-1111100,1985757,University of Waterloo - Nano,1,266908,190033,1,1
-19,19-Weekday-8-20WINT-1111100,1985758,University of Waterloo - Nano,1,265469,190032,1,1
-19,19-Weekday-8-20WINT-1111100,1985759,University of Waterloo - Nano,1,266925,190032,1,1
+19,19-Weekday-8-20WINT-1111100,1985758,University of Waterloo - Nano,1,265469,190041,1,1
+19,19-Weekday-8-20WINT-1111100,1985759,University of Waterloo - Nano,1,266925,190041,1,1
 19,19-Weekday-8-20WINT-1111100,1985760,Parkside/Northfield,0,266926,190005,1,1
-19,19-Weekday-8-20WINT-1111100,1985761,University of Waterloo - Nano,1,265469,190032,1,1
+19,19-Weekday-8-20WINT-1111100,1985761,University of Waterloo - Nano,1,265469,190041,1,1
 19,19-Weekday-8-20WINT-1111100,1985762,B-Northfield Station,0,265469,190029,1,1
 19,19-Weekday-8-20WINT-1111100,1985763,University of Waterloo - Nano,1,266930,190033,1,1
 19,19-Weekday-8-20WINT-1111100,1985764,University of Waterloo - Nano,1,267140,190033,1,1
@@ -7062,31 +7062,31 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 4,4-Weekday-3-20WINT-1111100,1989932,The Boardwalk Station,1,265399,40015,1,1
 4,4-Weekday-3-20WINT-1111100,1989933,The Boardwalk Station,1,265583,40015,1,1
 4,4-Weekday-3-20WINT-1111100,1989934,The Boardwalk Station,1,265486,40015,1,1
-50,50-Weekday-3-20WINT-1111100,1987797,Franklin/Green Gate,1,265517,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987798,Franklin/Green Gate,1,265516,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987799,Franklin/Green Gate,1,265515,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987800,Franklin/Green Gate,1,265518,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987801,Franklin/Green Gate,1,265517,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987802,Franklin/Green Gate,1,265516,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987803,Franklin/Green Gate,1,265515,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987804,Franklin/Green Gate,1,265518,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987805,Franklin/Green Gate,1,265517,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987806,Franklin/Green Gate,1,265516,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987807,Franklin/Green Gate,1,265515,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987808,Franklin/Green Gate,1,265518,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987809,Franklin/Green Gate,1,265517,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987810,Franklin/Green Gate,1,265516,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987811,Franklin/Green Gate,1,265515,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987812,Franklin/Green Gate,1,265518,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987813,Franklin/Green Gate,1,265517,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987814,Franklin/Green Gate,1,265516,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987815,Franklin/Green Gate,1,265515,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987816,Franklin/Green Gate,1,265518,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987817,Franklin/Green Gate,1,265517,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987818,Franklin/Green Gate,1,265516,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987819,Franklin/Green Gate,1,265515,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987820,Franklin/Green Gate,1,265518,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987821,Franklin/Green Gate,1,265517,500011,1,1
+50,50-Weekday-3-20WINT-1111100,1987797,Franklin/Green Gate,1,265517,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987798,Franklin/Green Gate,1,265516,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987799,Franklin/Green Gate,1,265515,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987800,Franklin/Green Gate,1,265518,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987801,Franklin/Green Gate,1,265517,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987802,Franklin/Green Gate,1,265516,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987803,Franklin/Green Gate,1,265515,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987804,Franklin/Green Gate,1,265518,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987805,Franklin/Green Gate,1,265517,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987806,Franklin/Green Gate,1,265516,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987807,Franklin/Green Gate,1,265515,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987808,Franklin/Green Gate,1,265518,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987809,Franklin/Green Gate,1,265517,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987810,Franklin/Green Gate,1,265516,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987811,Franklin/Green Gate,1,265515,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987812,Franklin/Green Gate,1,265518,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987813,Franklin/Green Gate,1,265517,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987814,Franklin/Green Gate,1,265516,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987815,Franklin/Green Gate,1,265515,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987816,Franklin/Green Gate,1,265518,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987817,Franklin/Green Gate,1,265517,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987818,Franklin/Green Gate,1,265516,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987819,Franklin/Green Gate,1,265515,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987820,Franklin/Green Gate,1,265518,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987821,Franklin/Green Gate,1,265517,500003,1,1
 50,50-Weekday-3-20WINT-1111100,1987822,Cambridge Centre Station,0,265517,500012,1,1
 50,50-Weekday-3-20WINT-1111100,1987823,Cambridge Centre Station,0,265518,500012,1,1
 50,50-Weekday-3-20WINT-1111100,1987824,Cambridge Centre Station,0,265517,500012,1,1
@@ -7112,13 +7112,13 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 50,50-Weekday-3-20WINT-1111100,1987844,Cambridge Centre Station,0,265517,500012,1,1
 50,50-Weekday-3-20WINT-1111100,1987845,Cambridge Centre Station,0,265516,500012,1,1
 50,50-Weekday-3-20WINT-1111100,1987846,Cambridge Centre Station,0,265515,500012,1,1
-50,50-Weekday-3-20WINT-1111100,1987847,Franklin/Green Gate,1,265516,500011,1,1
+50,50-Weekday-3-20WINT-1111100,1987847,Franklin/Green Gate,1,265516,500003,1,1
 50,50-Weekday-3-20WINT-1111100,1987848,Cambridge Centre Station,0,265516,500012,1,1
-50,50-Weekday-3-20WINT-1111100,1987849,Franklin/Green Gate,1,265518,500011,1,1
-50,50-Weekday-3-20WINT-1111100,1987850,Franklin/Green Gate,1,265516,500011,1,1
+50,50-Weekday-3-20WINT-1111100,1987849,Franklin/Green Gate,1,265518,500003,1,1
+50,50-Weekday-3-20WINT-1111100,1987850,Franklin/Green Gate,1,265516,500003,1,1
 50,50-Weekday-3-20WINT-1111100,1987851,Cambridge Centre Station,0,265518,500012,1,1
 50,50-Weekday-3-20WINT-1111100,1987852,Cambridge Centre Station,0,265516,500012,1,1
-50,50-Weekday-3-20WINT-1111100,1987853,Franklin/Green Gate,1,265518,500011,1,1
+50,50-Weekday-3-20WINT-1111100,1987853,Franklin/Green Gate,1,265518,500003,1,1
 50,50-Weekday-3-20WINT-1111100,1987854,Cambridge Centre Station,0,265518,500012,1,1
 51,51-Holiday1-1-20WINT-0000001,1997072,Ainslie Terminal,0,266120,510042,1,1
 51,51-Holiday1-1-20WINT-0000001,1997073,Ainslie Terminal,0,266119,510042,1,1
@@ -8068,84 +8068,84 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 57,57-Weekday-6-20WINT-1111100,1987793,Ainslie Terminal,0,265520,570037,1,1
 57,57-Weekday-6-20WINT-1111100,1987794,Ainslie Terminal,0,265520,570037,1,1
 57,57-Weekday-6-20WINT-1111100,1987795,Ainslie Terminal,0,265520,570037,1,1
-58,58-Holiday1-1-20WINT-0000001,1997148,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997149,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997150,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997151,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997152,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997153,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997154,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997155,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997156,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997157,,0,266118,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997158,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997159,,0,266118,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997160,,0,266121,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997161,,0,266118,580001,1,1
-58,58-Holiday1-1-20WINT-0000001,1997162,,0,266121,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992896,,0,265889,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992897,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992898,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992899,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992900,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992901,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992902,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992903,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992904,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992905,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992906,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992907,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992908,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992909,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992910,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992911,,0,265883,580001,1,1
-58,58-Saturday-1-20WINT-0000010,1992912,,0,265889,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994561,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994562,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994563,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994564,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994565,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994566,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994567,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994568,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994569,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994570,,0,266036,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994571,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994572,,0,266036,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994573,,0,266038,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994574,,0,266036,580001,1,1
-58,58-Sunday-1-20WINT-0000001,1994575,,0,266038,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987534,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987535,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987536,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987537,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987538,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987539,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987540,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987541,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987542,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987543,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987544,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987545,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987546,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987547,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987548,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987549,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987550,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987551,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987552,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987553,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987554,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987555,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987556,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987557,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987558,,0,265523,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987559,,0,265522,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987560,,0,265519,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987561,,0,265519,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987562,,0,267435,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987563,,0,267435,580001,1,1
-58,58-Weekday-1-20WINT-1111100,1987564,,0,265519,580001,1,1
+58,58-Holiday1-1-20WINT-0000001,1997148,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997149,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997150,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997151,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997152,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997153,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997154,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997155,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997156,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997157,,0,266118,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997158,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997159,,0,266118,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997160,,0,266121,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997161,,0,266118,580009,1,1
+58,58-Holiday1-1-20WINT-0000001,1997162,,0,266121,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992896,,0,265889,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992897,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992898,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992899,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992900,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992901,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992902,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992903,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992904,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992905,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992906,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992907,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992908,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992909,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992910,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992911,,0,265883,580009,1,1
+58,58-Saturday-1-20WINT-0000010,1992912,,0,265889,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994561,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994562,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994563,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994564,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994565,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994566,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994567,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994568,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994569,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994570,,0,266036,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994571,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994572,,0,266036,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994573,,0,266038,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994574,,0,266036,580009,1,1
+58,58-Sunday-1-20WINT-0000001,1994575,,0,266038,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987534,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987535,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987536,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987537,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987538,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987539,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987540,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987541,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987542,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987543,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987544,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987545,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987546,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987547,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987548,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987549,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987550,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987551,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987552,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987553,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987554,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987555,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987556,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987557,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987558,,0,265523,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987559,,0,265522,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987560,,0,265519,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987561,,0,265519,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987562,,0,267435,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987563,,0,267435,580009,1,1
+58,58-Weekday-1-20WINT-1111100,1987564,,0,265519,580009,1,1
 59,59-Holiday1-1-20WINT-0000001,1997163,,0,266125,590011,1,1
 59,59-Holiday1-1-20WINT-0000001,1997164,,0,266125,590011,1,1
 59,59-Holiday1-1-20WINT-0000001,1997165,,0,266125,590011,1,1
