@@ -531,7 +531,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1594,1594,Coronation / Oriole,,  43.385668, -80.339283,,,0,,1
 1595,1595,Coronation / Blue Heron,,  43.383615, -80.336132,,,0,,1
 1596,1596,720 Coronation Blvd.,,  43.380659, -80.331140,,,0,,2
-1597,1597,Coronation / Cambridge Memorial Hospital,,  43.378432, -80.327424,,,0,,1
+1597,1597,Coronation / Cambridge Memorial Hospital,,  43.379350, -80.329054,,,0,,1
 1600,1600,Delta Station,,  43.372890, -80.318037,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1601,1601,Dundas / Hopeton,,  43.370454, -80.313935,,,0,,1
 1602,1602,Dundas / Cambridge St.,,  43.367389, -80.308860,,,0,,1
@@ -1081,7 +1081,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2245,2245,Grand / South Square,,  43.358501, -80.317624,,,0,,1
 2246,2246,St Andrews / George,,  43.356541, -80.318213,,,0,,2
 2249,2249,Cedar / Westgate Centre,,  43.351556, -80.329362,,,0,,1
-2250,2250,Southwood / Southwood Secondary School,,  43.349759, -80.336217,,,0,,1
+2250,2250,Southwood / Cedar,,  43.349759, -80.336217,,,0,,1
 2254,2254,Grand Ridge / Mark,,  43.341554, -80.335961,,,0,,2
 2255,2255,Grand Ridge / St Andrews,,  43.340733, -80.334144,,,0,,2
 2256,2256,Grand Ridge / Stirling Macgregor,,  43.338886, -80.332413,,,0,,2
@@ -1732,7 +1732,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3103,3103,Stirling / Lorne,,  43.435332, -80.493789,,,0,,1
 3105,3105,Highland / Spadina,,  43.438669, -80.492822,,,0,,1
 3110,3110,Victoria / Joseph,,  43.450558, -80.500278,,,0,,1
-3111,3111,Victoria / Bramm,,  43.449512, -80.501432,,,0,,1
+3111,3111,Victoria / Bramm,,  43.449144, -80.501832,,,0,,1
 3112,3112,Victoria / Henry,,  43.447800, -80.503312,,,0,,1
 3113,3113,Victoria / Patricia,,  43.444330, -80.508729,,,0,,1
 3114,3114,Victoria / Belmont,,  43.443013, -80.512298,,,0,,1
@@ -2309,7 +2309,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3937,3937,Cherry Blossom / Barnes,,  43.415805, -80.384201,,,0,,2
 3939,3939,Maple Grove / Cherry Blossom,,  43.416532, -80.387183,,,0,,1
 3940,3940,Cherry Blossom / Saltsman,,  43.414008, -80.379971,,,0,,2
-3941,3941,Fountain / Comdev Soccer Field,,  43.408685, -80.373207,,,0,,2
+3941,3941,Fountain / Comdev Soccer Dome,,  43.408685, -80.373207,,,0,,2
 3942,3942,Fountain / Marmel,,  43.403834, -80.370293,,,0,,2
 3943,3943,University Ave. / Phillip,,  43.472149, -80.535716,,,0,,1
 3945,3945,University Ave. / Sunview,,  43.473390, -80.532245,,,0,,1
