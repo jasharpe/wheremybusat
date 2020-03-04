@@ -1,5 +1,5 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
-1000,1000,Frederick Station,,  43.449665, -80.487205,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
+1000,1000,Frederick Station (Frederick / King),,  43.449665, -80.487205,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 1001,1001,Frederick / Region Of Waterloo Headquarters,,  43.452326, -80.484192,,,0,,1
 1002,1002,Frederick / Otto,,  43.452995, -80.482913,,,0,,1
 1003,1003,Frederick / Samuel,,  43.454826, -80.479511,,,0,,1
@@ -78,8 +78,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1084,1084,Frederick / Gordon,,  43.454783, -80.479894,,,0,,1
 1085,1085,Frederick / Lancaster,,  43.453506, -80.482377,,,0,,1
 1086,1086,Frederick / Region Of Waterloo Headquarters,,  43.452399, -80.484438,,,0,,1
-1088,1088,Frederick Station,,  43.449417, -80.487668,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
-1089,1089,Queen Station,,  43.448576, -80.488354,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
+1088,1088,Frederick Station (Frederick / King),,  43.449417, -80.487668,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
+1089,1089,Queen Station (Benton / Charles),,  43.448576, -80.488354,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1090,1090,University Ave. / University Of Waterloo,,  43.469279, -80.538619,,,0,,1
 1092,1092,Union / Weber,,  43.465173, -80.505466,,,0,,1
 1093,1093,Columbia / Phillip,,  43.476816, -80.540812,,,0,,1
@@ -335,8 +335,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1372,1372,Saginaw / Fairgreen,,  43.389892, -80.288305,,,0,,2
 1373,1373,Saginaw / Stonecairn,,  43.390437, -80.292016,,,0,,1
 1374,1374,Saginaw / Cowan,,  43.389725, -80.296321,,,0,,2
-1376,1376,Queen Station,,  43.448610, -80.488850,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
-1377,1377,Queen Station,,  43.448145, -80.488374,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
+1376,1376,Queen Station (Charles / Benton),,  43.448610, -80.488850,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
+1377,1377,Queen Station (Benton / Charles),,  43.448145, -80.488374,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1378,1378,Elgin / Franklin,,  43.391386, -80.302957,,,0,,1
 1379,1379,Elgin / Bushnell,,  43.391115, -80.308615,,,0,,1
 1380,1380,Elgin / Steeles,,  43.388964, -80.311763,,,0,,2
@@ -344,7 +344,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1382,1382,Munch / Kovac,,  43.384013, -80.313646,,,0,,2
 1383,1383,Munch / Sekura,,  43.383192, -80.317803,,,0,,2
 1384,1384,Hespeler Rd. / Munch,,  43.383323, -80.320222,,,0,,1
-1385,1385,Queen Station,,  43.448033, -80.487779,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
+1385,1385,Queen Station (Charles / Benton),,  43.448033, -80.487779,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1386,1386,Charles / Stirling,,  43.443929, -80.478414,,,0,,1
 1387,1387,Charles / Stirling,,  43.443771, -80.478679,,,0,,1
 1388,1388,Borden Station,,  43.442372, -80.474700,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
@@ -759,7 +759,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1885,1885,King / Pandora,,  43.445188, -80.478765,,,0,,1
 1886,1886,King / Cameron,,  43.446079, -80.480636,,,0,,1
 1887,1887,King / Kitchener Market,,  43.447344, -80.483579,,,0,,1
-1888,1888,Frederick Station,,  43.449135, -80.487370,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
+1888,1888,Frederick Station (King / Frederick),,  43.449135, -80.487370,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 1889,1889,King / Queen,,  43.449708, -80.488700,,,0,,1
 1890,1890,King / Ontario,,  43.450437, -80.490610,,,0,,1
 1891,1891,King / College,,  43.451504, -80.493728,,,0,,1
@@ -1343,7 +1343,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2542,2542,King / Kitchener Collegiate Institute,,  43.455954, -80.508272,,,0,,1
 2543,2543,King / Agnes,,  43.455019, -80.505380,,,0,,1
 2544,2544,King / Wellington,,  43.454391, -80.503209,,,0,,1
-2561,2561,Frederick Station,,  43.449249, -80.487976,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
+2561,2561,Frederick Station (King / Benton),,  43.449249, -80.487976,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 2562,2562,King / Queen,,  43.449864, -80.489391,,,0,,1
 2563,2563,Weber / East,,  43.444603, -80.468013,,,0,,1
 2564,2564,King / Kitchener Market,,  43.447425, -80.483591,,,0,,1
@@ -1361,7 +1361,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2576,2576,Fourth / Connaught,,  43.431361, -80.454606,,,0,,1
 2577,2577,Connaught / Sixth,,  43.430569, -80.452809,,,0,,1
 2578,2578,Connaught / Franklin,,  43.429875, -80.450628,,,0,,1
-2579,2579,Queen Station,,  43.448338, -80.487879,,,0,place_QUEE,1
+2579,2579,Queen Station (Charles / Benton),,  43.448338, -80.487879,,,0,place_QUEE,1
 2580,2580,Connaught / Woodhaven,,  43.428522, -80.446378,,,0,,1
 2581,2581,Traynor / Connaught,,  43.427821, -80.444902,,,0,,1
 2582,2582,Greenfield / Traynor,,  43.425582, -80.445478,,,0,,1
@@ -1942,13 +1942,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3439,3439,Wellington / Patrick,,  43.462161, -80.480627,,,0,,2
 3440,3440,809 Wellington St. N.,,  43.463990, -80.475276,,,0,,2
 3441,3441,Shirley / Riverbend,,  43.466985, -80.466516,,,0,,1
-3442,3442,60 Shirley Ave.,,  43.467673, -80.463252,,,0,,1
+3442,3442,68 Shirley Ave.,,  43.467673, -80.463252,,,0,,1
 3443,3443,Chesapeake / Pleasant Bay,,  43.511471, -80.509929,,,0,,2
 3444,3444,Pinery / Lake Louise,,  43.492457, -80.582369,,,0,,2
 3445,3445,Fischer-Hallman / Columbia,,  43.467189, -80.565956,,,0,,1
 3446,3446,Erbsville / Keats Way,,  43.455760, -80.574332,,,0,,2
 3447,3447,200 Shirley Ave.,,  43.468788, -80.459587,,,0,,1
-3449,3449,270 Shirley Ave.,,  43.469850, -80.456589,,,0,,1
+3449,3449,274 Shirley Ave.,,  43.469850, -80.456589,,,0,,1
 3451,3451,Erbsville / Keats Way,,  43.455883, -80.574134,,,0,,1
 3452,3452,Erbsville / Leighland,,  43.457927, -80.576381,,,0,,2
 3453,3453,Erbsville / Columbia,,  43.462432, -80.581177,,,0,,1
@@ -1969,7 +1969,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3469,3469,Driftwood / Westheights,,  43.419151, -80.539098,,,0,,2
 3470,3470,Westheights / Driftwood,,  43.418528, -80.534506,,,0,,1
 3471,3471,Westheights / Driftwood,,  43.418479, -80.535375,,,0,,2
-3472,3472,Mcgarry / Meadowbrook,,  43.420690, -80.525090,,,0,,2
+3472,3472,Mcgarry / Meadowbrook,,  43.420578, -80.525416,,,0,,2
 3473,3473,Ira Needles / Penelope,,  43.417608, -80.552960,,,0,,1
 3474,3474,Block Line / St Marys High School,,  43.420062, -80.465066,,,0,place_SMH,1
 3476,3476,Ira Needles / Penelope,,  43.418388, -80.552656,,,0,,1
@@ -1995,9 +1995,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3501,3501,Westheights / Path To Brook Green,,  43.422100, -80.529435,,,0,,2
 3502,3502,Fischer-Hallman / Path To Bush Clover,,  43.410383, -80.504799,,,0,,2
 3503,3503,Fischer-Hallman / Max Becker,,  43.405635, -80.499295,,,0,,2
-3504,3504,Fischer-Hallman / Rockwood,,  43.403859, -80.497501,,,0,, 
+3504,3504,Fischer-Hallman / Rockwood,,  43.403859, -80.497501,,,0,,2
 3505,3505,Fischer-Hallman / Bleams,,  43.402431, -80.496903,,,0,,2
-3506,3506,Fischer-Hallman / Williamsburg Cemetery,,  43.389817, -80.491257,,,0,, 
+3506,3506,Fischer-Hallman / Fischer-Hallman,,  43.389817, -80.491257,,,0,,2
 3507,3507,Oldfield / Brierdale,,  43.449105, -80.426568,,,0,,2
 3508,3508,Pinebush Station,,  43.408311, -80.327284,,,0,,1
 3509,3509,Eagle / Industrial,,  43.407286, -80.333039,,,0,,2
@@ -2097,9 +2097,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3663,3663,University Ave. / Countrystone,,  43.437509, -80.558402,,,0,,1
 3664,3664,University Ave. / Countrystone Park,,  43.438930, -80.554386,,,0,,1
 3665,3665,University Ave. / Pastern,,  43.491948, -80.490954,,,0,,1
-3666,3666,Fischer-Hallman / Portuguese Club,,  43.389530, -80.490931,,,0,, 
+3666,3666,Fischer-Hallman / Portuguese Club,,  43.389530, -80.490931,,,0,,1
 3667,3667,Fischer-Hallman / Bleams,,  43.402251, -80.496634,,,0,,2
-3668,3668,Fischer-Hallman / Rockwood,,  43.404086, -80.497331,,,0,, 
+3668,3668,Fischer-Hallman / Rockwood,,  43.404086, -80.497331,,,0,,1
 3669,3669,Fischer-Hallman / Cotton Grass,,  43.408337, -80.502069,,,0,,2
 3670,3670,Fischer-Hallman / Path To Bush Clover,,  43.410782, -80.504961,,,0,,2
 3671,3671,University Ave. / Pastern,,  43.491851, -80.491288,,,0,,1
@@ -2256,7 +2256,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3870,3870,Hagey / Frank Tompa,,  43.477515, -80.548406,,,0,,2
 3871,3871,Brooklyne / Glen,,  43.377132, -80.313316,,,0,,2
 3873,3873,Arthur / First,,  43.592563, -80.560931,,,0,,2
-3877,3877,965 Bishop St. N.,,  43.393268, -80.334656,,,0,,1
+3877,3877,690 Bishop St. N.,,  43.392839, -80.336776,,,0,,1
 3878,3878,690 Bishop St. N.,,  43.393044, -80.336350,,,0,,1
 3879,3879,University Ave. / Westvale,,  43.440892, -80.548781,,,0,,1
 3880,3880,University Ave. / Portsmouth,,  43.439230, -80.554021,,,0,,1
