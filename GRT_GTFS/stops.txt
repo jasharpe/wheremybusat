@@ -2474,7 +2474,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
 6003,6003,Research & Technology Station,,  43.481605, -80.545184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
 6004,6004,University Of Waterloo Station,,  43.473353, -80.541402,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_UWAT,1
-6005,6005,Laurier-Waterloo Park Station,,  43.468853, -80.534442,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6005,6005,Laurier-Waterloo Park Station,,  43.468853, -80.534442,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1
 6006,6006,Willis Way Station,,  43.462149, -80.523369,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6007,6007,Allen Station,,  43.459829, -80.518388,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_ALEN,1
 6008,6008,Grand River Hospital Station,,  43.457268, -80.512070,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1
@@ -2485,7 +2485,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6013,6013,Borden Station,,  43.442387, -80.475368,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 6014,6014,Mill Station,,  43.433638, -80.477960,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 6015,6015,Block Line Station,,  43.422733, -80.463085,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
-6016,6016,Fairway Station,,  43.422295, -80.441812,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6016,6016,Fairway Station,,  43.422295, -80.441812,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 6017,6017,Sportsworld Station,,  43.410252, -80.393138,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
@@ -2499,7 +2499,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6104,6104,Cambridge Centre Station,,  43.392708, -80.322961,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6105,6105,Pinebush Station,,  43.407749, -80.327774,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6107,6107,Sportsworld Station,,  43.410002, -80.393307,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
-6108,6108,Fairway Station,,  43.422355, -80.441840,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6108,6108,Fairway Station,,  43.422355, -80.441840,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 6109,6109,Block Line Station,,  43.422825, -80.462926,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
 6110,6110,Mill Station,,  43.433656, -80.477913,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 6111,6111,Borden Station,,  43.442419, -80.475361,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
@@ -2510,7 +2510,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6116,6116,Grand River Hospital Station,,  43.457300, -80.512034,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1
 6117,6117,Allen Station,,  43.459849, -80.518345,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_ALEN,1
 6118,6118,Waterloo Public Square Station,,  43.464142, -80.523000,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_WPSQ,1
-6119,6119,Laurier-Waterloo Park Station,,  43.468879, -80.534397,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
+6119,6119,Laurier-Waterloo Park Station,,  43.468879, -80.534397,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1
 6120,6120,University Of Waterloo Station,,  43.473404, -80.541294,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_UWAT,1
 6121,6121,Research & Technology Station,,  43.481608, -80.545128,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
 6122,6122,Northfield Station,,  43.497206, -80.543177,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
@@ -2565,6 +2565,7 @@ place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
 place_HHS,,Huron Heights SS,,  43.394121, -80.466436,,,1,,
 place_KMAR,,Kitchener Market Station,,  43.446340, -80.483690,,,1,,
 place_KUN,,King/University,,  43.476140, -80.524970,,,1,,
+place_LWP,,Laurier-Waterloo Park Station,,  43.470927, -80.531805,,,1,,
 place_MILL,,Mill Station,,  43.434010, -80.478750,,,1,,
 place_NORT,,Northfield Station,,  43.497280, -80.543351,,,1,,
 place_QUEE,,Queen Station,,  43.448919, -80.490015,,,1,,
