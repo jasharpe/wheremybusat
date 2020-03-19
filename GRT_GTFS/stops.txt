@@ -335,6 +335,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1372,1372,Saginaw / Fairgreen,,  43.389892, -80.288305,,,0,,2
 1373,1373,Saginaw / Stonecairn,,  43.390437, -80.292016,,,0,,1
 1374,1374,Saginaw / Cowan,,  43.389725, -80.296321,,,0,,2
+1375,1375,Frederick Station (Frederick / Duke),,  43.450472, -80.486959,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 1376,1376,Queen Station (Charles / Benton),,  43.448610, -80.488850,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1377,1377,Queen Station (Benton / Charles),,  43.448145, -80.488374,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_QUEE,1
 1378,1378,Elgin / Franklin,,  43.391386, -80.302957,,,0,,1
