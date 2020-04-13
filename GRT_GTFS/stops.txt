@@ -414,7 +414,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1452,1452,Dunbar / Biscayne,,  43.388736, -80.331051,,,0,,2
 1453,1453,Dunbar / Briarwood,,  43.389917, -80.326680,,,0,,2
 1454,1454,Dunbar / Hespeler Rd.,,  43.390343, -80.324070,,,0,,1
-1455,1455,King / Westminster,,  43.396070, -80.358569,,,0,,1
 1456,1456,Smartcentres Cambridge - North,,  43.411698, -80.323622,,,0,,1
 1457,1457,Smartcentres Cambridge - South,,  43.410245, -80.322910,,,0,,1
 1458,1458,Block Line Station,,  43.422098, -80.462311,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
@@ -522,8 +521,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1580,1580,Preston Pkwy. / Woods,,  43.391880, -80.377492,,,0,,1
 1584,1584,King / Fountain,,  43.399817, -80.368446,,,0,,1
 1585,1585,King / Eagle,,  43.398523, -80.363680,,,0,,1
-1586,1586,King / Waterloo,,  43.397255, -80.361199,,,0,,1
-1587,1587,King / Westminster,,  43.395617, -80.358067,,,0,,1
 1588,1588,King / Lowther,,  43.394179, -80.355292,,,0,,1
 1589,1589,King / Dolph,,  43.392959, -80.352959,,,0,,1
 1590,1590,Sportsworld Station,,  43.409699, -80.392846,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
@@ -558,8 +555,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1622,1622,King / Bishop,,  43.389969, -80.346607,,,0,,1
 1623,1623,King / Montrose,,  43.391736, -80.350132,,,0,,2
 1624,1624,King / Dolph,,  43.393175, -80.352919,,,0,,1
-1625,1625,King / Lowther,,  43.394623, -80.355781,,,0,,1
-1626,1626,King / Waterloo,,  43.397454, -80.361246,,,0,,1
 1627,1627,King / Eagle,,  43.398860, -80.363884,,,0,,1
 1628,1628,King / Fountain,,  43.399950, -80.368012,,,0,,1
 1630,1630,Preston Pkwy. / Fountain,,  43.390986, -80.375501,,,0,,2
@@ -1279,8 +1274,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2456,2456,Weber / Parkside,,  43.492707, -80.544091,,,0,,1
 2457,2457,King / Water,,  43.451734, -80.494752,,,0,,1
 2458,2458,King / Gaukel,,  43.451158, -80.492903,,,0,,1
-2459,2459,Weber / Young,,  43.453281, -80.490450,,,0,,1
-2460,2460,Weber / Parkside,,  43.492922, -80.544273,,,0,,2
 2462,2462,Weber / Wellington,,  43.456966, -80.495042,,,0,,1
 2463,2463,Weber / Wilhelm,,  43.458895, -80.496771,,,0,,1
 2464,2464,Weber / Guelph,,  43.461263, -80.499468,,,0,,1
@@ -1473,7 +1466,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2705,2705,Queen / Schneider,,  43.444565, -80.494453,,,0,,1
 2706,2706,Queen / Courtland,,  43.445640, -80.493344,,,0,,1
 2713,2713,Benton / Church,,  43.447469, -80.489411,,,0,place_QUEE,1
-2714,2714,Benton / Courtland,,  43.445954, -80.491031,,,0,,1
 2715,2715,Courtland / Peter,,  43.444101, -80.489415,,,0,,1
 2716,2716,Courtland / Madison,,  43.442304, -80.486304,,,0,,1
 2718,2718,Courtland / Palmer,,  43.439828, -80.482139,,,0,,1
@@ -2480,9 +2472,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5006,5006,Duke / Waterloo St.,,  43.398132, -80.359989,,,0,,2
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,2
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
-5019,5019,Activa / David Bergey,,  43.405284, -80.518164,,,0,,2
-5020,5020,Activa / Berry Moss,,  43.405325, -80.516926,,,0,,2
-5021,5021,Activa / Bush Clover,,  43.410059, -80.509930,,,0,,2
 5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,2
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,2
 5026,5026,Columbia / Laurel Trail (U.W. Station),,  43.476114, -80.542722,,,0,place_UWAT,2
@@ -2493,10 +2482,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,2
 5035,5035,Queenston / Union,,  43.391268, -80.352172,,,0,,2
 5037,5037,Sunrise Centre Station,,  43.414439, -80.517504,,,0,place_SRC,1
-5038,5038,Manitou / Cayuga,,  43.401433, -80.447841,,,0,,2
-5046,5046,Weber / Albert,,  43.491860, -80.537468,,,0,,2
-5047,5047,Blythwood / Hazel,,  43.485888, -80.537406,,,0,,2
-5049,5049,Frederick Station,,  43.450346, -80.487229,,,0,place_FRED,2
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
 6003,6003,Research & Technology Station,,  43.481605, -80.545184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
