@@ -21,6 +21,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1019,1019,River / Bradley,,  43.445723, -80.441426,,,0,,2
 1020,1020,Maple Grove / Boxwood,,  43.427063, -80.364376,,,0,,1
 1021,1021,Maple Grove / Boxwood,,  43.426855, -80.363843,,,0,,1
+1022,1022,Huron / Strasburg,,  43.392897, -80.465131,,,0,,1
 1023,1023,Victoria / Margaret,,  43.456329, -80.489504,,,0,,1
 1025,1025,Block Line / Country Hill,,  43.417036, -80.476022,,,0,,1
 1026,1026,Oldfield / Batterswood,,  43.450825, -80.429724,,,0,,2
@@ -347,7 +348,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1386,1386,Charles / Stirling,,  43.443929, -80.478414,,,0,,1
 1387,1387,Charles / Stirling,,  43.443771, -80.478679,,,0,,1
 1388,1388,Borden Station,,  43.442372, -80.474700,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
-1389,1389,Borden Station,,  43.442117, -80.474730,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 1390,1390,Borden Station,,  43.442344, -80.474310,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 1391,1391,Borden Station,,  43.442298, -80.474109,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 1392,1392,Dunbar / Hespeler Rd.,,  43.390424, -80.324106,,,0,,1
@@ -683,6 +683,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1806,1806,Strasburg / Battler,,  43.398637, -80.467544,,,0,,2
 1807,1807,Strasburg / Huron Heights Secondary School,,  43.394623, -80.467950,,,0,place_HHS,1
 1808,1808,Strasburg / Huron,,  43.392592, -80.466782,,,0,,1
+1809,1809,Battler / Old Huron,,  43.395961, -80.461443,,,0,,1
+1810,1810,Old Huron / Maxwell,,  43.397206, -80.457937,,,0,,2
+1811,1811,Biehn / Carlyle,,  43.396014, -80.455503,,,0,,2
+1812,1812,Biehn / Maxwell,,  43.394394, -80.455555,,,0,,2
 1820,1820,Black Walnut / Biehn,,  43.393131, -80.455158,,,0,,1
 1821,1821,Black Walnut / Black Walnut Pl.,,  43.392519, -80.453361,,,0,,1
 1822,1822,Black Walnut / Pioneer,,  43.391354, -80.450680,,,0,,1
@@ -697,6 +701,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1832,1832,Black Walnut / Pioneer,,  43.391510, -80.451185,,,0,,1
 1833,1833,Black Walnut / Carlyle,,  43.392791, -80.453581,,,0,,1
 1834,1834,Black Walnut / Biehn,,  43.393249, -80.455269,,,0,,1
+1835,1835,Biehn / Carlyle,,  43.395473, -80.455372,,,0,,1
+1836,1836,Biehn / Old Huron,,  43.397159, -80.455629,,,0,,1
+1837,1837,Old Huron / Maxwell,,  43.397260, -80.458134,,,0,,1
+1838,1838,Old Huron / Battler,,  43.395921, -80.460579,,,0,,2
+1839,1839,Huron / Strasburg,,  43.392641, -80.465720,,,0,,1
 1840,1840,Strasburg / Huron Heights Secondary School,,  43.394875, -80.467849,,,0,place_HHS,1
 1841,1841,Strasburg / Battler,,  43.398699, -80.467297,,,0,,2
 1842,1842,Strasburg / Trillium,,  43.400944, -80.467870,,,0,,2
@@ -1116,9 +1125,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2306,2306,Rittenhouse / Path To Rittenhouse Park,,  43.408002, -80.491372,,,0,,1
 2307,2307,Rittenhouse / Erinbrook,,  43.407850, -80.496183,,,0,,1
 2308,2308,Conestoga College Blvd. / Homer Watson,,  43.387470, -80.411959,,,0,,1
-2309,2309,Stirling / Highland,,  43.436367, -80.490810,,,0,,2
 2310,2310,Cherry Blossom / Barnes,,  43.415728, -80.384565,,,0,,2
-2311,2311,Stirling / Highland,,  43.436426, -80.490972,,,0,,2
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,2
 2313,2313,Bishop / Mary,,  43.392515, -80.339491,,,0,,1
 2316,2316,Loblaws Distribution Centre,,  43.429058, -80.379026,,,0,,2
@@ -1327,7 +1334,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2542,2542,King / Kitchener Collegiate Institute,,  43.455954, -80.508272,,,0,,1
 2543,2543,King / Agnes,,  43.455019, -80.505380,,,0,,1
 2544,2544,King / Wellington,,  43.454391, -80.503209,,,0,,1
-2548,2548,Charles Terminal,,  43.449028, -80.491685,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
 2561,2561,Frederick Station (King / Benton),,  43.449249, -80.487976,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 2562,2562,King / Queen,,  43.449864, -80.489391,,,0,,1
 2563,2563,Weber / East,,  43.444603, -80.468013,,,0,,1
@@ -1583,10 +1589,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2906,2906,Ottawa / Strasburg,,  43.422929, -80.486739,,,0,,1
 2907,2907,Ottawa / Alpine,,  43.425108, -80.483636,,,0,,1
 2908,2908,Ottawa / Imperial,,  43.429289, -80.481336,,,0,,1
-2910,2910,Ottawa / Hoffman,,  43.431444, -80.479500,,,0,,1
-2911,2911,Mill Station,,  43.434321, -80.479069,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
-2912,2912,Mill / Borden,,  43.435212, -80.483052,,,0,,2
-2913,2913,Mill / Heiman,,  43.435836, -80.485654,,,0,,2
 2914,2914,Stirling / Mill,,  43.437813, -80.487176,,,0,,1
 2915,2915,Stirling / Courtland,,  43.440981, -80.484375,,,0,,1
 2916,2916,Stirling / Kaufman Park,,  43.442282, -80.482022,,,0,,1
@@ -1603,11 +1605,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2927,2927,Stirling / Kaufman Park,,  43.442812, -80.481084,,,0,,1
 2928,2928,Stirling / Courtland,,  43.441520, -80.484098,,,0,,1
 2929,2929,Stirling / Mill,,  43.438399, -80.486905,,,0,,1
-2930,2930,Mill / Heiman,,  43.436100, -80.486097,,,0,,2
-2931,2931,Mill / Borden,,  43.435068, -80.482905,,,0,,1
-2932,2932,409 Mill St.,,  43.434604, -80.479944,,,0,,1
-2933,2933,Mill Station,,  43.434168, -80.479021,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
-2934,2934,Ottawa / Hoffman,,  43.431964, -80.479534,,,0,,1
 2935,2935,Ottawa / Kehl,,  43.429704, -80.481592,,,0,,1
 2936,2936,Ottawa / King,,  43.442091, -80.471602,,,0,,2
 2937,2937,Ottawa / Alpine,,  43.425096, -80.484077,,,0,,1
@@ -1678,13 +1675,13 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3052,3052,Alpine / Ottawa,,  43.424975, -80.483090,,,0,,1
 3053,3053,Alpine / Ottawa,,  43.425295, -80.482965,,,0,,1
 3054,3054,Hoffman / Ottawa,,  43.431903, -80.480004,,,0,,1
-3055,3055,Hoffman / Meinzinger,,  43.432077, -80.482671,,,0,,1
+3055,3055,Hoffman / Meinzinger,,  43.432077, -80.482671,,,0,place_MILL,1
 3056,3056,Hoffman / Kehl,,  43.431411, -80.484703,,,0,,1
 3057,3057,Hoffman / Highland,,  43.430557, -80.487082,,,0,,1
 3058,3058,Highland / Heiman,,  43.432933, -80.488817,,,0,,1
 3063,3063,Hoffman / Highland,,  43.430529, -80.486873,,,0,,1
 3064,3064,Hoffman / Kehl,,  43.431250, -80.484927,,,0,,1
-3065,3065,Hoffman / Meinzinger,,  43.431969, -80.482697,,,0,,1
+3065,3065,Hoffman / Meinzinger,,  43.431969, -80.482697,,,0,place_MILL,1
 3067,3067,Hoffman / Ottawa,,  43.431785, -80.479770,,,0,,1
 3069,3069,Queen / Schneider,,  43.444727, -80.494526,,,0,,1
 3075,3075,Stirling / Lorne,,  43.435298, -80.494098,,,0,,1
@@ -1953,7 +1950,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3481,3481,Fairway / Thaler,,  43.432507, -80.429862,,,0,,1
 3482,3482,Queens / Fischer-Hallman,,  43.428482, -80.523992,,,0,,1
 3485,3485,Ira Needles / Highland Marketplace,,  43.425611, -80.552824,,,0,,1
-3486,3486,Fairway Station,,  43.422380, -80.441166,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3487,3487,Ira Needles / Highland Marketplace,,  43.425822, -80.552635,,,0,,1
 3488,3488,Fairway Station,,  43.422421, -80.441808,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3489,3489,Fairway Station,,  43.422469, -80.441514,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
@@ -2189,6 +2185,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3839,3839,Arthur / Scotch Line,,  43.567084, -80.561475,,,0,,1
 3840,3840,Arthur / Gerrat,,  43.554066, -80.555243,,,0,,1
 3841,3841,King / Lobsinger,,  43.515438, -80.557593,,,0,,2
+3843,3843,Huron / Templewood,,  43.394100, -80.464602,,,0,,2
+3844,3844,Huron / Templewood,,  43.394542, -80.464012,,,0,,1
 3845,3845,Conestoga / Conestoga Transit Garage,,  43.394522, -80.316689,,,0,,1
 3847,3847,610 King St. N.,,  43.503583, -80.535698,,,0,,2
 3848,3848,600 King St. N.,,  43.503430, -80.535123,,,0,,2
@@ -2324,8 +2322,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4003,4003,The Boardwalk Station,,  43.435439, -80.561018,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 4004,4004,Conestoga Station,,  43.498127, -80.529572,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 4005,4005,Conestoga Station,,  43.498398, -80.529367,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
-4006,4006,Laurier-Waterloo Park Station,,  43.468874, -80.535118,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1
-4007,4007,Laurier-Waterloo Park Station,,  43.469332, -80.534647,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1
 4008,4008,120 Northfield Dr. E.,,  43.507160, -80.524215,,,0,,1
 4009,4009,120 Northfield Dr. E.,,  43.506941, -80.524598,,,0,,1
 4011,4011,Centennial / Forwell,,  43.471842, -80.433607,,,0,,2
@@ -2433,6 +2429,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5015,5015,Seabrook / Valencia (Temporary Stop),,  43.387483, -80.488232,,,0,,1
 5016,5016,Seabrook / Corsica (Temporary Stop),,  43.387299, -80.488607,,,0,,1
 5017,5017,Franklin / Avenue (Temporary Stop),,  43.381070, -80.299440,,,0,,1
+5018,5018,Highland / Stirling (Temporary Stop),,  43.436422, -80.491330,,,0,,1
 5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,2
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,2
 5026,5026,Columbia / Laurel Trail (U.W. Station),,  43.476114, -80.542722,,,0,place_UWAT,2
@@ -2532,7 +2529,6 @@ place_BORD,,Borden Station,,  43.442267, -80.474793,,,1,,
 place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CML,,Conestoga Station,,  43.498150, -80.529220,,,1,,
-place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
 place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FRED,,Frederick Station,,  43.449176, -80.487665,,,1,,
 place_FVM,,Fairway Station,,  43.423075, -80.441140,,,1,,
