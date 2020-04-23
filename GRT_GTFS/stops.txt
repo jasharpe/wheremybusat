@@ -1201,7 +1201,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2390,2390,Grand Ridge / Cedar,,  43.348819, -80.341531,,,0,,2
 2391,2391,Grand Ridge / Harwood,,  43.346244, -80.339619,,,0,,2
 2392,2392,Grand Ridge / Wedgewood,,  43.342956, -80.337841,,,0,,2
-2393,2393,Eagle / King,,  43.398783, -80.363043,,,0,,1
 2394,2394,Lorraine / Birkshire,,  43.457762, -80.448843,,,0,,1
 2395,2395,Krug / River,,  43.458329, -80.458306,,,0,,1
 2396,2396,Krug / Sherwood,,  43.457495, -80.460934,,,0,,1
@@ -1507,8 +1506,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2786,2786,University Ave. / Regina,,  43.476663, -80.523280,,,0,,1
 2787,2787,University Ave. / Weber,,  43.477642, -80.520527,,,0,,1
 2788,2788,University Ave. / Conestoga College - Waterloo,,  43.479299, -80.516198,,,0,,1
-2789,2789,Eagle / William,,  43.400036, -80.361878,,,0,,1
-2790,2790,Eagle / Path To Westminster,,  43.401893, -80.359626,,,0,,1
 2791,2791,Eagle / Providence,,  43.405675, -80.341443,,,0,,1
 2792,2792,Eagle / Industrial,,  43.407018, -80.333546,,,0,,1
 2793,2793,Lincoln / Mayfield,,  43.479191, -80.507766,,,0,,1
@@ -2108,7 +2105,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3735,3735,Parkvale / Woodbine,,  43.389316, -80.478812,,,0,,1
 3736,3736,Parkvale / Parkvale Park,,  43.389546, -80.482008,,,0,,1
 3737,3737,Parkvale / Woodbine,,  43.388897, -80.485718,,,0,,1
-3742,3742,Fountain / Comdev Soccer Dome,,  43.409289, -80.373226,,,0,,1
 3743,3743,William / Caroline,,  43.461080, -80.521894,,,0,,1
 3744,3744,Wellington / Weber,,  43.457111, -80.495053,,,0,,2
 3745,3745,Conservation / Waterton,,  43.491411, -80.577977,,,0,,2
@@ -2260,14 +2256,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3930,3930,Jamieson / Townline,,  43.424957, -80.285721,,,0,,2
 3931,3931,Jamieson / Lardner,,  43.423526, -80.287294,,,0,,2
 3932,3932,Jamieson / Patton,,  43.421787, -80.288574,,,0,,2
-3934,3934,Fountain / Marmel,,  43.403758, -80.369990,,,0,,1
 3935,3935,Cherry Blossom / Fountain,,  43.412811, -80.375104,,,0,,1
 3936,3936,Cherry Blossom / Saltsman,,  43.414206, -80.379932,,,0,,1
 3937,3937,Cherry Blossom / Barnes,,  43.415805, -80.384201,,,0,,2
 3939,3939,Maple Grove / Cherry Blossom,,  43.416532, -80.387183,,,0,,1
 3940,3940,Cherry Blossom / Saltsman,,  43.414008, -80.379971,,,0,,2
-3941,3941,Fountain / Comdev Soccer Dome,,  43.408685, -80.373207,,,0,,2
-3942,3942,Fountain / Marmel,,  43.403834, -80.370293,,,0,,2
 3943,3943,University Ave. / Phillip,,  43.472149, -80.535716,,,0,,1
 3945,3945,University Ave. / Sunview,,  43.473390, -80.532245,,,0,,1
 3949,3949,Laurelwood / Fischer-Hallman,,  43.474796, -80.572541,,,0,,1
@@ -2425,6 +2418,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5003,5003,Duke / Scott (Temporary Stop),,  43.449486, -80.484922,,,0,,1
 5006,5006,Duke / Waterloo St.,,  43.398132, -80.359989,,,0,,2
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,2
+5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,2
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
 5015,5015,Seabrook / Valencia (Temporary Stop),,  43.387483, -80.488232,,,0,,1
 5016,5016,Seabrook / Corsica (Temporary Stop),,  43.387299, -80.488607,,,0,,1
