@@ -466,7 +466,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1510,1510,Concession / Cameron,,  43.354863, -80.307126,,,0,,1
 1511,1511,Ainslie Terminal,,  43.357170, -80.313529,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1512,1512,Ainslie Terminal,,  43.357332, -80.313503,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
-1514,1514,Ainslie Terminal,,  43.357656, -80.313462,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1516,1516,Ainslie Terminal,,  43.357617, -80.312981,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1517,1517,Ainslie Terminal,,  43.357580, -80.312759,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 1518,1518,Ainslie Terminal,,  43.357400, -80.312823,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
@@ -1943,7 +1942,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3482,3482,Queens / Fischer-Hallman,,  43.428482, -80.523992,,,0,,1
 3485,3485,Ira Needles / Highland Marketplace,,  43.425611, -80.552824,,,0,,1
 3487,3487,Ira Needles / Highland Marketplace,,  43.425822, -80.552635,,,0,,1
-3488,3488,Fairway Station,,  43.422421, -80.441808,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3489,3489,Fairway Station,,  43.422469, -80.441514,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3490,3490,Fairway Station,,  43.422513, -80.441244,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3491,3491,Fairway Station,,  43.422557, -80.440987,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
