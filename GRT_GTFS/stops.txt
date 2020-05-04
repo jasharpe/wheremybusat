@@ -420,12 +420,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1462,1462,Hespeler Rd. / Jaffray,,  43.377238, -80.319018,,,0,,1
 1463,1463,Block Line Station,,  43.423325, -80.463465,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
 1464,1464,Water / Galt Collegiate Institute,,  43.369809, -80.317472,,,0,,1
-1465,1465,Ainslie / Simcoe,,  43.364802, -80.314381,,,0,,1
-1466,1466,Ainslie / Park Hill,,  43.362703, -80.314158,,,0,,1
-1467,1467,Ainslie / Dickson,,  43.359981, -80.313683,,,0,,1
 1468,1468,Ainslie / Dickson,,  43.360322, -80.313494,,,0,,1
-1469,1469,Ainslie / Colborne,,  43.361889, -80.313525,,,0,,2
-1470,1470,Ainslie / Park Hill,,  43.363684, -80.314085,,,0,,1
 1471,1471,Ainslie / Simcoe,,  43.365560, -80.314570,,,0,,1
 1472,1472,Water / Galt Collegiate Institute,,  43.368698, -80.316892,,,0,,1
 1473,1473,Water / Dayton,,  43.370638, -80.317549,,,0,,1
@@ -706,7 +701,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1840,1840,Strasburg / Huron Heights Secondary School,,  43.394875, -80.467849,,,0,place_HHS,1
 1841,1841,Strasburg / Battler,,  43.398699, -80.467297,,,0,,2
 1842,1842,Strasburg / Trillium,,  43.400944, -80.467870,,,0,,2
-1843,1843,1455 Strasburg Rd.,,  43.402653, -80.469423,,,0,,2
 1844,1844,Strasburg / Mcintyre,,  43.404554, -80.473618,,,0,,1
 1845,1845,Strasburg / Shoemaker,,  43.405981, -80.474384,,,0,,1
 1846,1846,Bleams / Century Hill,,  43.408893, -80.465614,,,0,,1
@@ -756,7 +750,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1892,1892,King / Francis,,  43.452289, -80.496119,,,0,,1
 1893,1893,Central Station,,  43.452855, -80.497931,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1894,1894,Duke / Francis,,  43.453296, -80.495375,,,0,,1
-1895,1895,Duke / Heit,,  43.453598, -80.495363,,,0,,1
+1895,1895,Duke / Francis,,  43.453598, -80.495363,,,0,,1
 1896,1896,King / Wellington,,  43.454544, -80.503257,,,0,,1
 1897,1897,King / Agnes,,  43.455072, -80.504801,,,0,,1
 1898,1898,King / Kitchener Collegiate Institute,,  43.455989, -80.507723,,,0,,1
@@ -765,6 +759,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1901,1901,Central Station,,  43.452610, -80.497623,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1902,1902,King / Union,,  43.458468, -80.515351,,,0,,1
 1903,1903,Victoria / Margaret,,  43.456228, -80.489186,,,0,,1
+1904,1904,Allen Station,,  43.460277, -80.518880,,,0,place_ALEN,1
 1905,1905,Vanier / Shelley,,  43.424372, -80.459509,,,0,,1
 1906,1906,Shelley / Courtland,,  43.421693, -80.459357,,,0,,1
 1907,1907,Waterloo Public Square Station,,  43.464678, -80.522063,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_WPSQ,1
@@ -1386,10 +1381,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2621,2621,King / Fairway,,  43.428907, -80.433217,,,0,,1
 2622,2622,King / Morgan,,  43.429511, -80.435175,,,0,,1
 2623,2623,Weber / Highway 8,,  43.430611, -80.437216,,,0,,1
-2624,2624,Franklin / Prospect,,  43.436070, -80.446878,,,0,,1
-2625,2625,Franklin / Shuh,,  43.437874, -80.445798,,,0,,1
-2626,2626,Franklin / Trafalgar,,  43.440146, -80.446383,,,0,,1
-2627,2627,Franklin / Kenneth,,  43.441229, -80.446855,,,0,,1
 2628,2628,Franklin / Dalewood,,  43.443232, -80.447714,,,0,,2
 2629,2629,Franklin / Bradley,,  43.444658, -80.448344,,,0,,1
 2630,2630,Franklin / Dreger,,  43.446482, -80.449477,,,0,,1
@@ -1553,9 +1544,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2855,2855,Franklin / Bradley,,  43.444587, -80.448481,,,0,,1
 2856,2856,Franklin / Dalewood,,  43.443359, -80.447948,,,0,,1
 2857,2857,Franklin / Kenneth,,  43.441753, -80.447246,,,0,,1
-2858,2858,Franklin / Trafalgar,,  43.439750, -80.446375,,,0,,1
-2859,2859,Franklin / Shuh,,  43.437866, -80.445959,,,0,,1
-2860,2860,Franklin / Prospect,,  43.435891, -80.447077,,,0,,2
 2861,2861,Weber / Kinzie,,  43.431916, -80.438921,,,0,,1
 2862,2862,King / Kingsbury,,  43.429258, -80.434881,,,0,,1
 2863,2863,Strasburg / Strasburg Transit Garage,,  43.425349, -80.490289,,,0,,1
@@ -2427,6 +2415,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,2
 5035,5035,Queenston / Union,,  43.391268, -80.352172,,,0,,2
 5037,5037,Sunrise Centre Station,,  43.414439, -80.517504,,,0,place_SRC,1
+5040,5040,Broadview / Weber,,  43.435255, -80.449414,,,0,,2
+5041,5041,Broadview / Prospect,,  43.436421, -80.448561,,,0,,2
+5042,5042,Kenneth / Franklin,,  43.441510, -80.447277,,,0,,2
 5049,5049,Frederick Station (Duke / Frederick),,  43.450346, -80.487229,,,0,place_FRED,2
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
