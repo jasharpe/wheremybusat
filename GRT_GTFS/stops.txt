@@ -346,6 +346,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1386,1386,Charles / Stirling,,  43.443929, -80.478414,,,0,,1
 1387,1387,Charles / Stirling,,  43.443771, -80.478679,,,0,,1
 1388,1388,Borden Station,,  43.442372, -80.474700,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
+1389,1389,Borden Station,,  43.442117, -80.474730,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 1390,1390,Borden Station,,  43.442344, -80.474310,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 1391,1391,Borden Station,,  43.442298, -80.474109,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 1392,1392,Dunbar / Hespeler Rd.,,  43.390424, -80.324106,,,0,,1
@@ -420,7 +421,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1462,1462,Hespeler Rd. / Jaffray,,  43.377238, -80.319018,,,0,,1
 1463,1463,Block Line Station,,  43.423325, -80.463465,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
 1464,1464,Water / Galt Collegiate Institute,,  43.369809, -80.317472,,,0,,1
-1468,1468,Ainslie / Dickson,,  43.360322, -80.313494,,,0,,1
 1471,1471,Ainslie / Simcoe,,  43.365560, -80.314570,,,0,,1
 1472,1472,Water / Galt Collegiate Institute,,  43.368698, -80.316892,,,0,,1
 1473,1473,Water / Dayton,,  43.370638, -80.317549,,,0,,1
@@ -788,6 +788,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1931,1931,University Ave. / Lexington,,  43.504291, -80.496639,,,0,,1
 1932,1932,Lackner / Keewatin,,  43.464899, -80.436915,,,0,,1
 1933,1933,Lackner / Keewatin,,  43.464871, -80.436652,,,0,,1
+1934,1934,King / Union,,  43.458793, -80.516305,,,0,,1
 1935,1935,Victoria / Frederick,,  43.466295, -80.457952,,,0,,1
 1936,1936,Victoria / River,,  43.464277, -80.464003,,,0,,1
 1937,1937,Victoria / River,,  43.464405, -80.464389,,,0,,1
@@ -1323,6 +1324,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2542,2542,King / Kitchener Collegiate Institute,,  43.455954, -80.508272,,,0,,1
 2543,2543,King / Agnes,,  43.455019, -80.505380,,,0,,1
 2544,2544,King / Wellington,,  43.454391, -80.503209,,,0,,1
+2548,2548,Charles Terminal,,  43.449028, -80.491685,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CST,1
 2561,2561,Frederick Station (King / Benton),,  43.449249, -80.487976,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 2562,2562,King / Queen,,  43.449864, -80.489391,,,0,,1
 2563,2563,Weber / East,,  43.444603, -80.468013,,,0,,1
@@ -1800,6 +1802,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3278,3278,Glasgow / York,,  43.452933, -80.513887,,,0,,1
 3279,3279,Park / Grand River Hospital,,  43.454676, -80.510796,,,0,place_GRH,1
 3280,3280,Langs / Shannon,,  43.399211, -80.338296,,,0,,1
+3281,3281,Union / Park,,  43.457445, -80.516048,,,0,,1
 3283,3283,Union / Mary,,  43.459447, -80.514849,,,0,,1
 3284,3284,Union / Herbert,,  43.460597, -80.514110,,,0,,1
 3285,3285,Union / Lucan,,  43.462660, -80.512351,,,0,,2
@@ -1929,6 +1932,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3481,3481,Fairway / Thaler,,  43.432507, -80.429862,,,0,,1
 3482,3482,Queens / Fischer-Hallman,,  43.428482, -80.523992,,,0,,1
 3485,3485,Ira Needles / Highland Marketplace,,  43.425611, -80.552824,,,0,,1
+3486,3486,Fairway Station,,  43.422380, -80.441166,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3487,3487,Ira Needles / Highland Marketplace,,  43.425822, -80.552635,,,0,,1
 3489,3489,Fairway Station,,  43.422469, -80.441514,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
 3490,3490,Fairway Station,,  43.422513, -80.441244,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
@@ -2296,6 +2300,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4003,4003,The Boardwalk Station,,  43.435439, -80.561018,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_TBW,1
 4004,4004,Conestoga Station,,  43.498127, -80.529572,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 4005,4005,Conestoga Station,,  43.498398, -80.529367,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
+4006,4006,Laurier-Waterloo Park Station,,  43.468874, -80.535118,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1
+4007,4007,Laurier-Waterloo Park Station,,  43.469332, -80.534647,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1
 4008,4008,120 Northfield Dr. E.,,  43.507160, -80.524215,,,0,,1
 4009,4009,120 Northfield Dr. E.,,  43.506941, -80.524598,,,0,,1
 4011,4011,Centennial / Forwell,,  43.471842, -80.433607,,,0,,2
@@ -2526,3 +2532,4 @@ place_SRC,,Sunrise Centre,,  43.414665, -80.516827,,,1,,
 place_TBW,,The Boardwalk,,  43.435323, -80.560706,,,1,,
 place_UWAT,,University of Waterloo Station,,  43.474895, -80.538382,,,1,,
 place_WPSQ,,Waterloo Public Square Station,,  43.464250, -80.522130,,,1,,
+place_CST,,Charles Terminal,,  43.449337, -80.492437,,,1,,
