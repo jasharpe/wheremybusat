@@ -258,6 +258,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1296,1296,Fisher Mills / Scott,,  43.435358, -80.319992,,,0,,1
 1297,1297,Holiday Inn Dr. / Jacob Hespeler Secondary School,,  43.417323, -80.315479,,,0,,1
 1298,1298,Holiday Inn Dr. / Franklin,,  43.417983, -80.311422,,,0,,1
+1299,1299,Tannery / Queen,,  43.431584, -80.309254,,,0,,1
 1300,1300,Guelph / Sheffield,,  43.434443, -80.311532,,,0,,1
 1301,1301,Fisher Mills / Fearnwood,,  43.436422, -80.314836,,,0,,2
 1302,1302,Scott / Fisher Mills,,  43.435742, -80.320425,,,0,,1
@@ -267,6 +268,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1306,1306,Poplar / Dawn,,  43.445412, -80.316203,,,0,,1
 1307,1307,Guelph / Fisher Mills,,  43.436950, -80.312171,,,0,,1
 1308,1308,Guelph / Sheffield,,  43.434913, -80.311724,,,0,,1
+1309,1309,Adam / Tannery,,  43.430480, -80.309761,,,0,,1
 1310,1310,Franklin / Shamrock,,  43.429102, -80.309653,,,0,,1
 1311,1311,Bishop / Franklin,,  43.398085, -80.305136,,,0,,1
 1312,1312,Franklin / Thomas,,  43.424333, -80.310213,,,0,,1
@@ -399,7 +401,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1440,1440,Mill Station,,  43.433962, -80.478631,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 1441,1441,Lowther / Vine,,  43.390940, -80.359030,,,0,,2
 1442,1442,Lowther / Hamilton,,  43.392534, -80.357519,,,0,,2
-1443,1443,King / Montrose,,  43.391074, -80.349238,,,0,,2
 1444,1444,Bishop / Duke,,  43.390526, -80.346379,,,0,,1
 1445,1445,Bishop / Pineview,,  43.391622, -80.344256,,,0,,1
 1446,1446,Fairview / Bishop,,  43.391752, -80.341921,,,0,,2
@@ -509,8 +510,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1580,1580,Preston Pkwy. / Woods,,  43.391880, -80.377492,,,0,,1
 1584,1584,King / Fountain,,  43.399817, -80.368446,,,0,,1
 1585,1585,King / Eagle,,  43.398523, -80.363680,,,0,,1
-1588,1588,King / Lowther,,  43.394179, -80.355292,,,0,,1
-1589,1589,King / Dolph,,  43.392959, -80.352959,,,0,,1
 1590,1590,Sportsworld Station,,  43.409699, -80.392846,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
 1591,1591,King / Bishop,,  43.389789, -80.346621,,,0,,1
 1592,1592,King / Brower,,  43.388732, -80.344447,,,0,,2
@@ -541,8 +540,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1620,1620,King / Concession,,  43.387911, -80.342518,,,0,,1
 1621,1621,King / Brower,,  43.388776, -80.344225,,,0,,2
 1622,1622,King / Bishop,,  43.389969, -80.346607,,,0,,1
-1623,1623,King / Montrose,,  43.391736, -80.350132,,,0,,2
-1624,1624,King / Dolph,,  43.393175, -80.352919,,,0,,1
 1627,1627,King / Eagle,,  43.398860, -80.363884,,,0,,1
 1628,1628,King / Fountain,,  43.399950, -80.368012,,,0,,1
 1630,1630,Preston Pkwy. / Fountain,,  43.390986, -80.375501,,,0,,2
@@ -732,7 +729,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1874,1874,Weber / Euler,,  43.435603, -80.450984,,,0,,1
 1875,1875,Weber / Wilfred,,  43.436279, -80.453054,,,0,,1
 1876,1876,Weber / Ross,,  43.437125, -80.454739,,,0,,1
-1877,1877,Montgomery / Weber (Temporary Stop),,  43.437745, -80.458740,,,0,,1
 1878,1878,King / Montgomery,,  43.437502, -80.460247,,,0,,1
 1879,1879,Kitchener City Hall Station,,  43.452332, -80.491737,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 1880,1880,King / Rockway Centre,,  43.439836, -80.466293,,,0,,1
@@ -1116,12 +1112,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2306,2306,Rittenhouse / Path To Rittenhouse Park,,  43.408002, -80.491372,,,0,,1
 2307,2307,Rittenhouse / Erinbrook,,  43.407850, -80.496183,,,0,,1
 2308,2308,Conestoga College Blvd. / Homer Watson,,  43.387470, -80.411959,,,0,,1
-2310,2310,Cherry Blossom / Barnes,,  43.415728, -80.384565,,,0,,2
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,2
 2313,2313,Bishop / Mary,,  43.392515, -80.339491,,,0,,1
 2316,2316,Loblaws Distribution Centre,,  43.429058, -80.379026,,,0,,2
 2317,2317,Maple Grove / Fountain (West Side),,  43.423989, -80.381074,,,0,,1
-2318,2318,Maple Grove / Cherry Blossom,,  43.416556, -80.387604,,,0,,1
 2319,2319,Weber / Queen,,  43.451861, -80.487051,,,0,,1
 2320,2320,Queen / Kitchener Central Library,,  43.453209, -80.486397,,,0,,1
 2321,2321,Glenmorris / Second,,  43.345887, -80.321762,,,0,,1
@@ -1188,6 +1182,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2384,2384,Ottawa / Old Chicopee,,  43.452164, -80.440172,,,0,,1
 2385,2385,Trillium / Beasley,,  43.401812, -80.459872,,,0,,2
 2386,2386,Beasley / Homer Watson,,  43.401790, -80.457719,,,0,,1
+2387,2387,Homer Watson / Bleams,,  43.410449, -80.461418,,,0,,2
 2389,2389,Confederation / Lorraine,,  43.460341, -80.442367,,,0,,1
 2390,2390,Grand Ridge / Cedar,,  43.348819, -80.341531,,,0,,2
 2391,2391,Grand Ridge / Harwood,,  43.346244, -80.339619,,,0,,2
@@ -1329,6 +1324,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2562,2562,King / Queen,,  43.449864, -80.489391,,,0,,1
 2564,2564,King / Kitchener Market,,  43.447425, -80.483591,,,0,,1
 2565,2565,King / Cameron,,  43.446089, -80.480920,,,0,,1
+2566,2566,Weber / Ottawa,,  43.444182, -80.467540,,,0,,1
 2567,2567,King / Stirling,,  43.444298, -80.477216,,,0,,1
 2568,2568,King / Borden,,  43.442842, -80.473916,,,0,,1
 2569,2569,King / Ottawa,,  43.441942, -80.471885,,,0,,1
@@ -1367,12 +1363,15 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2606,2606,Eckert / Dixon,,  43.434625, -80.459210,,,0,,2
 2607,2607,Blair / Park Hill,,  43.362683, -80.321516,,,0,,2
 2608,2608,Park Hill / George,,  43.362703, -80.319062,,,0,,2
-2609,2609,Montgomery / Weber (Temporary Stop),,  43.438057, -80.458337,,,0,,1
 2610,2610,Weber / Wilfred,,  43.436390, -80.453621,,,0,,1
 2611,2611,Weber / Dellroy,,  43.435577, -80.451145,,,0,,1
 2612,2612,Weber / Franklin,,  43.434307, -80.447400,,,0,,1
 2613,2613,Weber / Arlington,,  43.433346, -80.444073,,,0,,1
 2614,2614,Weber / Fergus,,  43.433315, -80.441392,,,0,,1
+2615,2615,Weber / Jackson,,  43.440099, -80.462746,,,0,,2
+2616,2616,Weber / Sheldon,,  43.442252, -80.465138,,,0,,2
+2617,2617,Weber / Sheldon,,  43.442115, -80.465219,,,0,,2
+2618,2618,Weber / Jackson,,  43.439900, -80.462807,,,0,,2
 2619,2619,163 Thaler Ave.,,  43.434084, -80.431290,,,0,,1
 2620,2620,George / Blair,,  43.360932, -80.318788,,,0,,2
 2621,2621,King / Fairway,,  43.428907, -80.433217,,,0,,1
@@ -1394,7 +1393,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2649,2649,Weber / Fairview,,  43.446823, -80.475909,,,0,,1
 2650,2650,Eagle / Concession,,  43.404763, -80.346940,,,0,,2
 2651,2651,Weber / Cameron,,  43.447951, -80.478433,,,0,,1
-2653,2653,Weber / Cedar,,  43.449288, -80.481400,,,0,,1
 2654,2654,Margaret / Centre In The Square,,  43.454683, -80.485741,,,0,,1
 2656,2656,Margaret / Victoria,,  43.456787, -80.489220,,,0,,1
 2657,2657,Margaret / Wellington,,  43.458991, -80.490600,,,0,,1
@@ -1531,6 +1529,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2841,2841,Margaret / Centre In The Square,,  43.454539, -80.485669,,,0,,1
 2842,2842,Weber / Frederick,,  43.451390, -80.486338,,,0,,1
 2845,2845,Weber / Fairview,,  43.446960, -80.476526,,,0,,1
+2847,2847,Weber / Borden,,  43.445530, -80.470940,,,0,,1
+2848,2848,Weber / Onward,,  43.445129, -80.469880,,,0,,1
 2850,2850,Ottawa / Highway 7,,  43.445441, -80.463414,,,0,,1
 2851,2851,Ottawa / Nottingham,,  43.447695, -80.458228,,,0,,1
 2853,2853,Franklin / Ottawa,,  43.448208, -80.450697,,,0,,1
@@ -1990,6 +1990,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3573,3573,Forwell / Victoria,,  43.473136, -80.436785,,,0,,2
 3574,3574,River / Gibson,,  43.455042, -80.446977,,,0,,1
 3575,3575,Frederick / Weber,,  43.451182, -80.486142,,,0,,1
+3576,3576,Weber / Eastwood Collegiate Institute,,  43.438918, -80.460691,,,0,place_ECI,2
 3578,3578,Krug / Lancaster,,  43.449699, -80.480828,,,0,,1
 3579,3579,King / Pandora,,  43.445207, -80.479099,,,0,,1
 3581,3581,King / Ezra,,  43.472318, -80.524278,,,0,,1
@@ -2067,6 +2068,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3709,3709,Parkvale / Woodbine,,  43.389371, -80.479204,,,0,,1
 3710,3710,Parkvale / Featherstone,,  43.388824, -80.476194,,,0,,1
 3711,3711,Parkvale / Huron,,  43.389472, -80.472553,,,0,,1
+3715,3715,Weber / Eastwood Collegiate Institute,,  43.439272, -80.461306,,,0,place_ECI,2
 3724,3724,820 Trillium Dr.,,  43.399551, -80.484158,,,0,,2
 3725,3725,900 Fairway Rd. N.,,  43.442508, -80.415816,,,0,,1
 3726,3726,Fairway / Lackner,,  43.442892, -80.415629,,,0,,2
@@ -2233,7 +2235,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3932,3932,Jamieson / Patton,,  43.421787, -80.288574,,,0,,2
 3935,3935,Cherry Blossom / Fountain,,  43.412811, -80.375104,,,0,,1
 3936,3936,Cherry Blossom / Saltsman,,  43.414206, -80.379932,,,0,,1
-3937,3937,Cherry Blossom / Barnes,,  43.415805, -80.384201,,,0,,2
 3939,3939,Maple Grove / Cherry Blossom,,  43.416532, -80.387183,,,0,,1
 3940,3940,Cherry Blossom / Saltsman,,  43.414008, -80.379971,,,0,,2
 3943,3943,University Ave. / Phillip,,  43.472149, -80.535716,,,0,,1
@@ -2394,9 +2395,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4110,4110,King / Grand River Hospital - Freeport Campus,,  43.423359, -80.411406,,,0,,2
 5003,5003,Duke / Scott (Temporary Stop),,  43.449486, -80.484922,,,0,,2
 5004,5004,Weber / Borden (Temporary Stop),,  43.445961, -80.471598,,,0,,2
-5005,5005,Weber / Borden (Temporary Stop),,  43.445746, -80.471582,,,0,,2
 5006,5006,Duke / Waterloo St.,,  43.398132, -80.359989,,,0,,2
+5007,5007,Maple Grove / Cherry Blossom (Temporary Stop),,  43.417164, -80.387212,,,0,,1
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,2
+5009,5009,Duke / Montrose (Temporary Stop),,  43.392247, -80.348583,,,0,,1
+5010,5010,Duke / Anne (Temporary Stop),,  43.393551, -80.351194,,,0,,1
 5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,2
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
 5015,5015,Seabrook / Valencia (Temporary Stop),,  43.387483, -80.488232,,,0,,2
@@ -2407,7 +2410,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,2
 5026,5026,Columbia / Laurel Trail (U.W. Station),,  43.476114, -80.542722,,,0,place_UWAT,2
 5029,5029,Queenston / Westminster,,  43.394973, -80.359388,,,0,,2
-5030,5030,Queenston / Lowther,,  43.393549, -80.356667,,,0,,2
+5030,5030,Queenston / Lowther,,  43.393414, -80.356403,,,0,,2
 5031,5031,Queenston / Dolph,,  43.392397, -80.354488,,,0,,2
 5032,5032,Duke / Lowther,,  43.395267, -80.354600,,,0,,2
 5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,2
@@ -2505,6 +2508,7 @@ place_BORD,,Borden Station,,  43.442267, -80.474793,,,1,,
 place_CBC,,Cambridge Centre Station,,  43.392920, -80.322606,,,1,,
 place_CCD,,Conestoga College Doon,,  43.390371, -80.403560,,,1,,
 place_CML,,Conestoga Station,,  43.498150, -80.529220,,,1,,
+place_ECI,,Eastwood CI,,  43.439090, -80.460999,,,1,,
 place_FRED,,Frederick Station,,  43.449176, -80.487665,,,1,,
 place_FVM,,Fairway Station,,  43.423075, -80.441140,,,1,,
 place_GRH,,Grand River Hospital Station,,  43.457000, -80.511135,,,1,,
