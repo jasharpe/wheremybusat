@@ -1086,10 +1086,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2306,2306,Rittenhouse / Path To Rittenhouse Park,,  43.408002, -80.491372,,,0,,1
 2307,2307,Rittenhouse / Erinbrook,,  43.407850, -80.496183,,,0,,1
 2308,2308,Conestoga College Blvd. / Homer Watson,,  43.387470, -80.411959,,,0,,1
+2310,2310,Cherry Blossom / Barnes,,  43.415728, -80.384565,,,0,,2
 2312,2312,Cherry Blossom / Fountain,,  43.412631, -80.375130,,,0,,2
 2313,2313,Bishop / Mary,,  43.392515, -80.339491,,,0,,1
 2316,2316,Loblaws Distribution Centre,,  43.429058, -80.379026,,,0,,2
 2317,2317,Maple Grove / Fountain (West Side),,  43.423989, -80.381074,,,0,,1
+2318,2318,Maple Grove / Cherry Blossom,,  43.416556, -80.387604,,,0,,1
 2319,2319,Weber / Queen,,  43.451861, -80.487051,,,0,,1
 2320,2320,Queen / Kitchener Central Library,,  43.453209, -80.486397,,,0,,1
 2327,2327,Bishop / Mary,,  43.392407, -80.339159,,,0,,1
@@ -1231,8 +1233,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2480,2480,Morrison / Grand River Hospital - Freeport Campus,,  43.426065, -80.413528,,,0,,1
 2481,2481,River / King,,  43.425651, -80.419258,,,0,,2
 2482,2482,Dundas / Chalmers,,  43.362947, -80.301336,,,0,,1
-2483,2483,Dundas / Elgin,,  43.360871, -80.297875,,,0,,2
-2484,2484,Dundas / Monroe,,  43.359158, -80.295071,,,0,,1
 2485,2485,Dundas / Main,,  43.357128, -80.291809,,,0,,2
 2486,2486,Dundas / Franklin,,  43.355095, -80.288415,,,0,,2
 2487,2487,Green Gate / Ferncliffe,,  43.356637, -80.282256,,,0,,2
@@ -1260,7 +1260,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2514,2514,Columbia / Lester,,  43.477964, -80.537440,,,0,,1
 2515,2515,Ring Rd. / U.W. - South Campus Hall,,  43.468593, -80.540280,,,0,,1
 2516,2516,Ring Rd. / U.W. - Environment 3,,  43.467787, -80.543587,,,0,,1
-2518,2518,Ring Rd. / U.W. - University Club,,  43.472730, -80.547989,,,0,,1
 2521,2521,Columbia / Phillip,,  43.476804, -80.540193,,,0,,1
 2522,2522,Columbia / Lester,,  43.477855, -80.537267,,,0,,1
 2523,2523,Columbia / Albert,,  43.478541, -80.535333,,,0,,1
@@ -1564,9 +1563,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2972,2972,Fischer-Hallman / Forest Heights C. I.,,  43.425789, -80.521245,,,0,,1
 2975,2975,Fitzgerald / Chester,,  43.352617, -80.282734,,,0,,1
 2976,2976,Dundas / Franklin,,  43.354563, -80.286956,,,0,,1
-2977,2977,Dundas / Main,,  43.357238, -80.291567,,,0,,2
-2978,2978,Dundas / Monroe,,  43.359382, -80.295194,,,0,,2
-2979,2979,Dundas / Elgin,,  43.361154, -80.298069,,,0,,2
 2980,2980,Dundas / Maple Bush,,  43.353479, -80.285296,,,0,,2
 2981,2981,Fischer-Hallman / Queens,,  43.428211, -80.523413,,,0,,1
 2982,2982,Fischer-Hallman / Forest Heights C. I.,,  43.426160, -80.521786,,,0,,1
@@ -2174,6 +2170,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3932,3932,Jamieson / Patton,,  43.421787, -80.288574,,,0,,2
 3935,3935,Cherry Blossom / Fountain,,  43.412811, -80.375104,,,0,,1
 3936,3936,Cherry Blossom / Saltsman,,  43.414206, -80.379932,,,0,,1
+3937,3937,Cherry Blossom / Barnes,,  43.415805, -80.384201,,,0,,2
 3939,3939,Maple Grove / Cherry Blossom,,  43.416532, -80.387183,,,0,,1
 3940,3940,Cherry Blossom / Saltsman,,  43.414008, -80.379971,,,0,,2
 3943,3943,University Ave. / Phillip,,  43.472149, -80.535716,,,0,,1
@@ -2320,7 +2317,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5004,5004,Weber / Borden (Temporary Stop),,  43.445961, -80.471598,,,0,,2
 5005,5005,Weber / Borden (Temporary Stop),,  43.445746, -80.471582,,,0,,2
 5006,5006,Duke / Waterloo St.,,  43.398132, -80.359989,,,0,,2
-5007,5007,Maple Grove / Cherry Blossom (Temporary Stop),,  43.417164, -80.387212,,,0,,1
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,2
 5009,5009,Duke / Montrose (Temporary Stop),,  43.392247, -80.348583,,,0,,1
 5010,5010,Duke / Dolph (Temporary Stop),,  43.394055, -80.351974,,,0,,1
@@ -2344,6 +2340,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5041,5041,Broadview / Prospect,,  43.436421, -80.448561,,,0,,2
 5042,5042,Franklin / Ross (Temporary Stop),,  43.442383, -80.447276,,,0,,2
 5049,5049,Frederick Station (Duke / Frederick),,  43.450346, -80.487229,,,0,place_FRED,2
+5050,5050,Dundas / Elgin (Temporary Stop),,  43.361767, -80.299356,,,0,,1
+5051,5051,Elgin / Dundas (Temporary Stop),,  43.360236, -80.297851,,,0,,1
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
 6003,6003,Research & Technology Station,,  43.481605, -80.545184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
