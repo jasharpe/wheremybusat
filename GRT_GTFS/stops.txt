@@ -150,6 +150,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1165,1165,King / University Ave. (North Side),,  43.476319, -80.525075,,,0,place_KUN,1
 1166,1166,University Ave. / King,,  43.476025, -80.525782,,,0,place_KUN,1
 1167,1167,Hazel / Wilfrid Laurier University,,  43.475513, -80.528259,,,0,,1
+1168,1168,Hazel / Hickory,,  43.477880, -80.530034,,,0,,1
 1169,1169,90 Vondrau Dr.,,  43.431713, -80.375538,,,0,,2
 1170,1170,Conestoga / Lena,,  43.392440, -80.315306,,,0,,1
 1171,1171,Hazel / Columbia,,  43.479569, -80.531344,,,0,,1
@@ -157,9 +158,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1173,1173,Hazel / Smallwood,,  43.483094, -80.534309,,,0,,1
 1174,1174,Hazel / Blythwood,,  43.485671, -80.537294,,,0,,1
 1175,1175,Hazel / Albert,,  43.485734, -80.539433,,,0,,1
-1176,1176,Albert / Greenbrier,,  43.488146, -80.541394,,,0,,2
-1177,1177,Albert / Longwood,,  43.490541, -80.539174,,,0,,1
-1178,1178,Weber / Albert,,  43.492038, -80.537641,,,0,,1
 1180,1180,Ira Needles / Highland,,  43.423466, -80.552844,,,0,,1
 1181,1181,Cedarbrae / Mount Anne,,  43.490028, -80.546104,,,0,,2
 1182,1182,Cedarbrae / Sprucehill,,  43.489819, -80.547738,,,0,,2
@@ -441,7 +439,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1490,1490,Franklin / Bishop,,  43.399158, -80.304770,,,0,,1
 1491,1491,Franklin / Elgin,,  43.391193, -80.302193,,,0,,2
 1492,1492,Franklin / Glamis,,  43.385586, -80.301196,,,0,,1
-1493,1493,Franklin / Path To The Greenway,,  43.383275, -80.300259,,,0,,1
 1496,1496,Clyde / Franklin,,  43.371608, -80.293274,,,0,,1
 1497,1497,Clyde / Bluerock,,  43.372534, -80.290212,,,0,,1
 1498,1498,Clyde / Grand River Conservation Authority,,  43.373136, -80.287082,,,0,,1
@@ -481,9 +478,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1535,1535,Dobbie / Clyde,,  43.373206, -80.285341,,,0,,2
 1536,1536,Clyde / Grand River Conservation Authority,,  43.373410, -80.286387,,,0,,2
 1537,1537,Clyde / Bluerock,,  43.372564, -80.290681,,,0,,2
-1538,1538,Franklin / Clyde,,  43.371672, -80.295449,,,0,,2
-1540,1540,Franklin / Avenue,,  43.379161, -80.298390,,,0,,1
-1541,1541,Franklin / Robson,,  43.385241, -80.300805,,,0,,2
 1542,1542,Franklin / Saginaw,,  43.392355, -80.302303,,,0,,1
 1543,1543,Franklin / Lindsay,,  43.396334, -80.303653,,,0,,1
 1544,1544,Franklin / Bishop,,  43.398923, -80.304463,,,0,,1
@@ -744,8 +738,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1891,1891,King / College,,  43.451504, -80.493728,,,0,,1
 1892,1892,King / Francis,,  43.452289, -80.496119,,,0,,1
 1893,1893,Central Station,,  43.452855, -80.497931,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-1894,1894,Duke / Francis,,  43.453296, -80.495375,,,0,,1
-1895,1895,Duke / Francis,,  43.453598, -80.495363,,,0,,1
+1894,1894,Duke / Francis,,  43.453598, -80.495363,,,0,,1
+1895,1895,Duke / Francis,,  43.453296, -80.495375,,,0,,1
 1896,1896,King / Wellington,,  43.454544, -80.503257,,,0,,1
 1897,1897,King / Agnes,,  43.455072, -80.504801,,,0,,1
 1898,1898,King / Kitchener Collegiate Institute,,  43.455989, -80.507723,,,0,,1
@@ -2324,7 +2318,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
 5015,5015,Seabrook / Valencia (Temporary Stop),,  43.387483, -80.488232,,,0,,2
 5016,5016,Seabrook / Corsica (Temporary Stop),,  43.387299, -80.488607,,,0,,2
-5017,5017,Franklin / Avenue (Temporary Stop),,  43.381070, -80.299440,,,0,,2
 5018,5018,Highland / Stirling (Temporary Stop),,  43.436422, -80.491330,,,0,,2
 5022,5022,Benton / St George,,  43.446580, -80.490320,,,0,place_FRED,2
 5025,5025,Columbia / Laurel Trail (U.W. Station),,  43.475694, -80.543283,,,0,place_UWAT,2
@@ -2342,6 +2335,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5049,5049,Frederick Station (Duke / Frederick),,  43.450346, -80.487229,,,0,place_FRED,2
 5050,5050,Dundas / Elgin (Temporary Stop),,  43.361767, -80.299356,,,0,,1
 5051,5051,Elgin / Dundas (Temporary Stop),,  43.360236, -80.297851,,,0,,1
+5052,5052,651 Albert St. (Temporary Stop),,  43.490955, -80.538585,,,0,,1
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
 6003,6003,Research & Technology Station,,  43.481605, -80.545184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
