@@ -417,6 +417,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1462,1462,Hespeler Rd. / Jaffray,,  43.377238, -80.319018,,,0,,1
 1463,1463,Block Line Station,,  43.423325, -80.463465,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
 1464,1464,Water / Galt Collegiate Institute,,  43.369809, -80.317472,,,0,,1
+1465,1465,Ainslie / Simcoe,,  43.364802, -80.314381,,,0,,1
+1466,1466,Ainslie / Park Hill,,  43.362703, -80.314158,,,0,,1
+1467,1467,Ainslie / Dickson,,  43.359981, -80.313683,,,0,,1
+1468,1468,Ainslie / Dickson,,  43.360322, -80.313494,,,0,,1
+1469,1469,Ainslie / Colborne,,  43.361889, -80.313525,,,0,,2
+1470,1470,Ainslie / Park Hill,,  43.363684, -80.314085,,,0,,1
 1471,1471,Ainslie / Simcoe,,  43.365560, -80.314570,,,0,,1
 1472,1472,Water / Galt Collegiate Institute,,  43.368698, -80.316892,,,0,,1
 1473,1473,Water / Dayton,,  43.370638, -80.317549,,,0,,1
