@@ -755,8 +755,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1902,1902,King / Union,,  43.458468, -80.515351,,,0,,1
 1903,1903,Victoria / Margaret,,  43.456228, -80.489186,,,0,,1
 1904,1904,Allen Station,,  43.460277, -80.518880,,,0,place_ALEN,1
-1905,1905,Vanier / Shelley,,  43.424372, -80.459509,,,0,,1
-1906,1906,Shelley / Courtland,,  43.421693, -80.459357,,,0,,1
+1905,1905,Vanier / Shelley,,  43.424372, -80.459509,,,0,,2
+1906,1906,Shelley / Courtland,,  43.421693, -80.459357,,,0,,2
 1907,1907,Waterloo Public Square Station,,  43.464678, -80.522063,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_WPSQ,1
 1909,1909,King / Bridgeport Rd.,,  43.467892, -80.523002,,,0,,1
 1910,1910,King / Elgin,,  43.470100, -80.523579,,,0,,1
@@ -831,9 +831,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1980,1980,Erbsville / Brandenburg,,  43.451329, -80.572188,,,0,,1
 1981,1981,Erbsville / Chablis,,  43.450035, -80.572765,,,0,,2
 1982,1982,Queen / Woodside,,  43.441701, -80.497316,,,0,,1
-1983,1983,Erb / Erbsville Ct.,,  43.448019, -80.566044,,,0,,1
-1984,1984,Erb / Gateview,,  43.450834, -80.557832,,,0,,2
-1985,1985,Gateview / Westvale,,  43.450049, -80.557613,,,0,,2
 1986,1986,Westvale / Heather Hill,,  43.448493, -80.558367,,,0,,2
 1987,1987,Victoria / Edna,,  43.460814, -80.474929,,,0,,1
 1988,1988,Westvale / Edenvalley,,  43.445863, -80.560152,,,0,,2
@@ -1334,6 +1331,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2621,2621,King / Fairway,,  43.428907, -80.433217,,,0,,1
 2622,2622,King / Morgan,,  43.429511, -80.435175,,,0,,1
 2623,2623,Weber / Highway 8,,  43.430611, -80.437216,,,0,,1
+2624,2624,Franklin / Prospect,,  43.436070, -80.446878,,,0,,1
+2625,2625,Franklin / Shuh,,  43.437874, -80.445798,,,0,,1
+2626,2626,Franklin / Trafalgar,,  43.440146, -80.446383,,,0,,1
+2627,2627,Franklin / Kenneth,,  43.441229, -80.446855,,,0,,1
 2628,2628,Franklin / Dalewood,,  43.443232, -80.447714,,,0,,2
 2629,2629,Franklin / Bradley,,  43.444658, -80.448344,,,0,,1
 2630,2630,Franklin / Dreger,,  43.446482, -80.449477,,,0,,1
@@ -1493,6 +1494,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2855,2855,Franklin / Bradley,,  43.444587, -80.448481,,,0,,1
 2856,2856,Franklin / Dalewood,,  43.443359, -80.447948,,,0,,1
 2857,2857,Franklin / Kenneth,,  43.441753, -80.447246,,,0,,1
+2858,2858,Franklin / Trafalgar,,  43.439750, -80.446375,,,0,,1
+2859,2859,Franklin / Shuh,,  43.437866, -80.445959,,,0,,1
+2860,2860,Franklin / Prospect,,  43.435891, -80.447077,,,0,,2
 2861,2861,Weber / Kinzie,,  43.431916, -80.438921,,,0,,1
 2862,2862,King / Kingsbury,,  43.429258, -80.434881,,,0,,1
 2863,2863,Strasburg / Strasburg Transit Garage,,  43.425349, -80.490289,,,0,,1
@@ -1988,7 +1992,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3682,3682,Hazel / Wilfrid Laurier University,,  43.475344, -80.528333,,,0,,1
 3683,3683,University Ave. / University Of Waterloo,,  43.468939, -80.539140,,,0,,1
 3685,3685,Erbsville / Westside Marketplace,,  43.447900, -80.572632,,,0,,1
-3687,3687,Erb / Erbsville Ct.,,  43.448332, -80.565666,,,0,,1
 3689,3689,Erbsville / Westside Marketplace,,  43.447999, -80.572483,,,0,,1
 3690,3690,Erbsville / Royal Beech,,  43.451364, -80.571865,,,0,,1
 3691,3691,Erbsville / Path To Erbsville Ct.,,  43.453282, -80.571927,,,0,,2
@@ -2176,7 +2179,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3943,3943,University Ave. / Phillip,,  43.472149, -80.535716,,,0,,1
 3945,3945,University Ave. / Sunview,,  43.473390, -80.532245,,,0,,1
 3949,3949,Laurelwood / Fischer-Hallman,,  43.474796, -80.572541,,,0,,1
-3960,3960,330 Pinebush Rd.,,  43.413264, -80.298614,,,0,,1
+3960,3960,330 Pinebush Rd.,,  43.413264, -80.298614,,,0,,2
 3967,3967,Pinebush / Conestoga,,  43.409213, -80.322118,,,0,,2
 3968,3968,Pinebush / Struck,,  43.410398, -80.315485,,,0,,2
 3970,3970,Pinebush / Wayne,,  43.411442, -80.309769,,,0,,2
@@ -2259,7 +2262,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4053,4053,Westmount / Erb,,  43.459679, -80.537098,,,0,,1
 4054,4054,University Ave. / Bridge,,  43.489225, -80.494564,,,0,,1
 4055,4055,University Ave. / Bridge,,  43.489495, -80.493411,,,0,,1
-4056,4056,Erb / Fischer-Hallman,,  43.452344, -80.554144,,,0,,1
 4057,4057,Lincoln / Weber,,  43.471269, -80.513586,,,0,,1
 4058,4058,Lincoln / Weber,,  43.471264, -80.513238,,,0,,1
 4059,4059,Lincoln / Ellis,,  43.474433, -80.509799,,,0,,1
@@ -2274,7 +2276,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4068,4068,Westvale / Thorndale,,  43.444077, -80.559561,,,0,,2
 4069,4069,Westvale / Edenvalley,,  43.446066, -80.560092,,,0,,2
 4070,4070,Westvale / Heather Hill,,  43.448411, -80.558220,,,0,,2
-4071,4071,Erb / Beechwood,,  43.451590, -80.556310,,,0,,2
 4072,4072,Columbia / King,,  43.481692, -80.527075,,,0,,1
 4073,4073,King / Columbia,,  43.482448, -80.526106,,,0,,1
 4074,4074,Hagey / University Of Waterloo,,  43.475116, -80.546437,,,0,,1
@@ -2318,7 +2319,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5005,5005,Weber / Borden (Temporary Stop),,  43.445746, -80.471582,,,0,,2
 5006,5006,Duke / Waterloo St.,,  43.398132, -80.359989,,,0,,2
 5008,5008,Queenston / Waterloo St.,,  43.396367, -80.362149,,,0,,2
-5009,5009,Duke / Montrose (Temporary Stop),,  43.392247, -80.348583,,,0,,1
+5009,5009,Duke / Montrose (Temporary Stop),,  43.392247, -80.348583,,,0,,2
 5010,5010,Duke / Dolph (Temporary Stop),,  43.394055, -80.351974,,,0,,1
 5012,5012,Speedsville / Eagle,,  43.404986, -80.347407,,,0,,2
 5013,5013,Sunrise Centre Station,,  43.414641, -80.517152,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SRC,1
@@ -2335,13 +2336,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5033,5033,Duke / Westminster,,  43.396696, -80.357361,,,0,,2
 5035,5035,Queenston / Union,,  43.391268, -80.352172,,,0,,2
 5037,5037,Sunrise Centre Station,,  43.414439, -80.517504,,,0,place_SRC,1
-5040,5040,Broadview / Weber,,  43.435255, -80.449414,,,0,,2
-5041,5041,Broadview / Prospect,,  43.436421, -80.448561,,,0,,2
-5042,5042,Franklin / Ross (Temporary Stop),,  43.442383, -80.447276,,,0,,2
 5049,5049,Frederick Station (Duke / Frederick),,  43.450346, -80.487229,,,0,place_FRED,2
 5050,5050,Dundas / Elgin (Temporary Stop),,  43.361767, -80.299356,,,0,,1
-5051,5051,Elgin / Dundas (Temporary Stop),,  43.360236, -80.297851,,,0,,1
-5052,5052,651 Albert St. (Temporary Stop),,  43.490955, -80.538585,,,0,,1
+5051,5051,Elgin / Dundas (Temporary Stop),,  43.360236, -80.297851,,,0,,2
+5052,5052,651 Albert St. (Temporary Stop),,  43.490955, -80.538585,,,0,,2
+5053,5053,Westvale / Gateview (Temporary Stop),,  43.450220, -80.557398,,,0,,2
+5054,5054,Westvale / Gateview (Temporary Stop),,  43.450722, -80.556193,,,0,,2
+5055,5055,Thorndale / Ira Needles (Temporary Stop),,  43.442069, -80.564931,,,0,,1
+5056,5056,Thorndale / Ira Needles (Temporary Stop),,  43.442084, -80.564491,,,0,,2
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
 6003,6003,Research & Technology Station,,  43.481605, -80.545184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
