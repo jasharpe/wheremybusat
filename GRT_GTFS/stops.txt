@@ -786,7 +786,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1935,1935,Victoria / Frederick,,  43.466295, -80.457952,,,0,,1
 1936,1936,Victoria / River,,  43.464277, -80.464003,,,0,,1
 1937,1937,Victoria / River,,  43.464405, -80.464389,,,0,,1
-1938,1938,Grand / Cedar,,  43.352914, -80.317390,,,0,,1
 1939,1939,Ottawa / Weber,,  43.444239, -80.466672,,,0,,1
 1940,1940,Ottawa / Franklin,,  43.448606, -80.451334,,,0,,1
 1941,1941,Bridge / Bridle,,  43.485339, -80.488595,,,0,,2
@@ -952,9 +951,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2123,2123,Mcnaughton / Oak,,  43.359968, -80.305649,,,0,,2
 2124,2124,Mcnaughton / Shade,,  43.360646, -80.307579,,,0,,1
 2125,2125,Main / Harris,,  43.358881, -80.310486,,,0,,1
-2127,2127,Crombie / Grand,,  43.350925, -80.317178,,,0,,1
-2128,2128,Middleton / Francis,,  43.348247, -80.318096,,,0,,1
-2129,2129,First / Caen,,  43.346889, -80.319777,,,0,,2
 2134,2134,Woodside / Victoria,,  43.350048, -80.329998,,,0,,2
 2136,2136,Woodside / Cedar,,  43.350626, -80.333679,,,0,,2
 2139,2139,Hillcrest / Churchill,,  43.354031, -80.332259,,,0,,1
@@ -1007,12 +1003,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2198,2198,Blair / Sherwood,,  43.367757, -80.328282,,,0,,2
 2199,2199,Blair / Grant,,  43.366723, -80.327047,,,0,,2
 2200,2200,Blair / James,,  43.363899, -80.322993,,,0,,2
-2206,2206,Hillcrest / Churchill,,  43.353752, -80.332299,,,0,,2
-2207,2207,Churchill / Westgate,,  43.353885, -80.330521,,,0,,1
-2208,2208,Churchill / Forest,,  43.354718, -80.326699,,,0,,1
-2209,2209,Churchill / Barrie,,  43.354710, -80.325341,,,0,,1
-2210,2210,Churchill / Lansdowne,,  43.354710, -80.321939,,,0,,1
-2211,2211,St Andrews / Grand,,  43.356503, -80.317905,,,0,,1
 2212,2212,Main / Mill,,  43.358817, -80.313276,,,0,,2
 2213,2213,Main / Bruce,,  43.356919, -80.307683,,,0,,2
 2214,2214,Main / Peck,,  43.356557, -80.304454,,,0,,2
@@ -1052,7 +1042,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2256,2256,Grand Ridge / Stirling Macgregor,,  43.338886, -80.332413,,,0,,2
 2257,2257,Grand Ridge / Oak Hill,,  43.336472, -80.330737,,,0,,2
 2267,2267,Cedar / Westgate Centre,,  43.351560, -80.328411,,,0,,1
-2268,2268,Grand / Queens Square,,  43.358590, -80.317499,,,0,,1
 2269,2269,Christopher / Elliott,,  43.354134, -80.302754,,,0,,2
 2270,2270,Christopher / South,,  43.352067, -80.301963,,,0,,2
 2271,2271,Ballantyne / East,,  43.350271, -80.302835,,,0,,2
@@ -1103,12 +1092,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2318,2318,Maple Grove / Cherry Blossom,,  43.416556, -80.387604,,,0,,1
 2319,2319,Weber / Queen,,  43.451861, -80.487051,,,0,,1
 2320,2320,Queen / Kitchener Central Library,,  43.453209, -80.486397,,,0,,1
-2321,2321,Glenmorris / Second,,  43.345887, -80.321762,,,0,,1
-2322,2322,Glenmorris / Third,,  43.344757, -80.321706,,,0,,1
-2323,2323,West River / Culham,,  43.341580, -80.321576,,,0,,1
-2324,2324,Grand Ridge / West River,,  43.337584, -80.321891,,,0,,1
-2325,2325,Grand Ridge / Inverness,,  43.336750, -80.329689,,,0,,2
-2326,2326,Grand Ridge / Stirling Macgregor,,  43.338742, -80.332224,,,0,,2
 2327,2327,Bishop / Mary,,  43.392407, -80.339159,,,0,,1
 2328,2328,Erinbrook / Rittenhouse,,  43.407847, -80.496442,,,0,,1
 2329,2329,Rittenhouse / Path To Erinbrook Park,,  43.407917, -80.491323,,,0,,1
@@ -1151,11 +1134,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2371,2371,Krug / Sherwood,,  43.457235, -80.461097,,,0,,1
 2372,2372,Krug / River,,  43.458318, -80.457824,,,0,,1
 2373,2373,Lorraine / Birkshire,,  43.457822, -80.448262,,,0,,1
-2374,2374,Grand Ridge / St Andrews,,  43.340687, -80.333682,,,0,,2
-2375,2375,Grand Ridge / Byton,,  43.341796, -80.336148,,,0,,2
-2376,2376,Grand Ridge / Wedgewood,,  43.343085, -80.337728,,,0,,2
-2377,2377,Grand Ridge / White Oak,,  43.346497, -80.339545,,,0,,2
-2378,2378,Grand Ridge / Cedar,,  43.348961, -80.341317,,,0,,2
 2379,2379,Old Chicopee / Ottawa,,  43.451770, -80.440420,,,0,,1
 2380,2380,Holborn / Old Chicopee,,  43.450537, -80.439679,,,0,,1
 2381,2381,Holborn / Stanley Park Mall,,  43.449185, -80.443052,,,0,,1
@@ -1634,12 +1612,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3065,3065,Hoffman / Meinzinger,,  43.431969, -80.482697,,,0,place_MILL,1
 3067,3067,Hoffman / Ottawa,,  43.431785, -80.479770,,,0,,1
 3069,3069,Queen / Schneider,,  43.444727, -80.494526,,,0,,1
-3077,3077,Kent / Sim,,  43.352672, -80.340890,,,0,,2
-3078,3078,Kent / Hillsboro,,  43.353991, -80.341044,,,0,,2
-3079,3079,Kent / Salisbury,,  43.355447, -80.341616,,,0,,2
-3080,3080,Salisbury / Murray,,  43.356608, -80.339343,,,0,,2
-3081,3081,Salisbury / Southgate,,  43.356447, -80.336801,,,0,,2
-3082,3082,Salisbury / Hillcrest,,  43.356884, -80.333683,,,0,,2
 3085,3085,Greenbrook / Forest Hill,,  43.428723, -80.501949,,,0,,2
 3086,3086,Westmount / Village,,  43.427771, -80.506552,,,0,,1
 3091,3091,Greenbrook / Birchcliff,,  43.424015, -80.512673,,,0,,1
