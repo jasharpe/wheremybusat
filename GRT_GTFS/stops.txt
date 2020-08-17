@@ -1,4 +1,4 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding,platform_code
 1000,1000,Frederick Station (Frederick / King),,  43.449665, -80.487205,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FRED,1
 1001,1001,Frederick / Region Of Waterloo Headquarters,,  43.452326, -80.484192,,,0,,1
 1002,1002,Frederick / Otto,,  43.452995, -80.482913,,,0,,1
@@ -765,6 +765,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1920,1920,Northfield / Wissler,,  43.505207, -80.525554,,,0,,1
 1921,1921,Victoria / Kitchener Rail Station,,  43.454957, -80.493641,,,0,,1
 1922,1922,Park / Union,,  43.456616, -80.515865,,,0,,2
+1923,1923,Victoria / Lancaster,,  43.458590, -80.482151,,,0,,1
 1924,1924,Victoria / Lancaster,,  43.458805, -80.482176,,,0,,1
 1925,1925,Bridge / Eastbridge,,  43.503574, -80.509199,,,0,,1
 1926,1926,Eastbridge / Cabot,,  43.504478, -80.505342,,,0,,2
@@ -967,9 +968,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2161,2161,Rich / Lincoln,,  43.358562, -80.302469,,,0,,2
 2162,2162,Pollock / Lincoln,,  43.357963, -80.301587,,,0,,1
 2163,2163,Pollock / Chalmers,,  43.358404, -80.300126,,,0,,2
-2164,2164,Pollock / Elgin,,  43.358885, -80.297788,,,0,,2
-2165,2165,Elgin / Dundas,,  43.360841, -80.298123,,,0,,1
-2166,2166,Elgin / Linnwood,,  43.362014, -80.298603,,,0,,2
 2167,2167,Elgin / Manchester,,  43.365029, -80.299840,,,0,,2
 2168,2168,Elgin / Marion,,  43.366555, -80.300439,,,0,,2
 2169,2169,Alison / Elgin,,  43.368166, -80.300334,,,0,,2
@@ -1131,7 +1129,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2356,2356,Weber / Randall,,  43.500607, -80.552903,,,0,,2
 2357,2357,Weber / Golden Eagle,,  43.498896, -80.551699,,,0,,2
 2358,2358,Queen / Kitchener Central Library,,  43.453380, -80.486346,,,0,,1
-2360,2360,Dundas / Gore,,  43.363172, -80.301452,,,0,,1
+2359,2359,Weber / Scott,,  43.450436, -80.484344,,,0,,1
 2361,2361,Krug / Samuel,,  43.450961, -80.477121,,,0,,2
 2362,2362,Krug / Lydia,,  43.451867, -80.474493,,,0,,1
 2363,2363,Krug / East,,  43.452650, -80.472287,,,0,,1
@@ -1242,7 +1240,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2479,2479,Morrison / Grand River Blvd.,,  43.428016, -80.414745,,,0,,2
 2480,2480,Morrison / Grand River Hospital - Freeport Campus,,  43.426065, -80.413528,,,0,,1
 2481,2481,River / King,,  43.425651, -80.419258,,,0,,2
-2482,2482,Dundas / Chalmers,,  43.362947, -80.301336,,,0,,1
 2485,2485,Dundas / Main,,  43.357128, -80.291809,,,0,,2
 2486,2486,Dundas / Franklin,,  43.355095, -80.288415,,,0,,2
 2487,2487,Green Gate / Ferncliffe,,  43.356637, -80.282256,,,0,,2
@@ -1360,6 +1357,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2649,2649,Weber / Fairview,,  43.446823, -80.475909,,,0,,1
 2650,2650,Eagle / Concession,,  43.404763, -80.346940,,,0,,2
 2651,2651,Weber / Cameron,,  43.447951, -80.478433,,,0,,1
+2653,2653,Weber / Cedar,,  43.449288, -80.481400,,,0,,1
 2654,2654,Margaret / Centre In The Square,,  43.454683, -80.485741,,,0,,1
 2656,2656,Margaret / Victoria,,  43.456787, -80.489220,,,0,,1
 2657,2657,Margaret / Wellington,,  43.458991, -80.490600,,,0,,1
@@ -1493,6 +1491,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2840,2840,Margaret / Victoria,,  43.455957, -80.488833,,,0,,1
 2841,2841,Margaret / Centre In The Square,,  43.454539, -80.485669,,,0,,1
 2842,2842,Weber / Frederick,,  43.451390, -80.486338,,,0,,1
+2843,2843,Weber / Cedar,,  43.449071, -80.481290,,,0,,1
+2844,2844,Weber / Madison,,  43.448516, -80.480059,,,0,,1
 2845,2845,Weber / Fairview,,  43.446960, -80.476526,,,0,,1
 2850,2850,Ottawa / Highway 7,,  43.445441, -80.463414,,,0,,1
 2851,2851,Ottawa / Nottingham,,  43.447695, -80.458228,,,0,,1
@@ -1875,14 +1875,14 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3482,3482,Queens / Fischer-Hallman,,  43.428482, -80.523992,,,0,,1
 3485,3485,Ira Needles / Highland Marketplace,,  43.425611, -80.552824,,,0,,1
 3487,3487,Ira Needles / Highland Marketplace,,  43.425822, -80.552635,,,0,,1
-3489,3489,Fairway Station,,  43.422469, -80.441514,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3490,3490,Fairway Station,,  43.422513, -80.441244,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3491,3491,Fairway Station,,  43.422557, -80.440987,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3492,3492,Fairway Station,,  43.421993, -80.441823,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3493,3493,Fairway Station,,  43.421803, -80.441781,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3497,3497,Fairway Station,,  43.421754, -80.441590,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3498,3498,Fairway Station,,  43.421930, -80.441631,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
-3499,3499,Fairway Station,,  43.422106, -80.441683,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+3489,3489,Fairway Station,,  43.422469, -80.441514,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,3
+3490,3490,Fairway Station,,  43.422513, -80.441244,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,3
+3491,3491,Fairway Station,,  43.422557, -80.440987,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,3
+3492,3492,Fairway Station,,  43.421993, -80.441823,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,4
+3493,3493,Fairway Station,,  43.421803, -80.441781,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,4
+3497,3497,Fairway Station,,  43.421754, -80.441590,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,5
+3498,3498,Fairway Station,,  43.421930, -80.441631,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,5
+3499,3499,Fairway Station,,  43.422106, -80.441683,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,5
 3500,3500,Westheights / Path To Brook Green,,  43.422346, -80.529181,,,0,,1
 3501,3501,Westheights / Path To Brook Green,,  43.422100, -80.529435,,,0,,2
 3503,3503,Fischer-Hallman / Max Becker,,  43.405635, -80.499295,,,0,,2
@@ -2321,7 +2321,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4108,4108,Townline / Cambridge Gurdwara,,  43.400424, -80.274613,,,0,,1
 4109,4109,3227 King St. E.,,  43.426390, -80.425444,,,0,,1
 4110,4110,King / Grand River Hospital - Freeport Campus,,  43.423359, -80.411406,,,0,,2
-5003,5003,Duke / Scott (Temporary Stop),,  43.449486, -80.484922,,,0,,2
 5004,5004,Weber / Borden (Temporary Stop),,  43.445961, -80.471598,,,0,,2
 5005,5005,Weber / Borden (Temporary Stop),,  43.445746, -80.471582,,,0,,2
 5006,5006,Duke / Waterloo St. (Temporary Stop),,  43.398132, -80.359989,,,0,,2
@@ -2340,9 +2339,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5032,5032,Duke / Lowther (Temporary Stop),,  43.395267, -80.354600,,,0,,2
 5033,5033,Duke / Westminster (Temporary Stop),,  43.396696, -80.357361,,,0,,2
 5035,5035,Queenston / Union (Temporary Stop),,  43.391268, -80.352172,,,0,,2
-5049,5049,Frederick Station (Duke / Frederick),,  43.450346, -80.487229,,,0,place_FRED,2
-5050,5050,Dundas / Elgin (Temporary Stop),,  43.361767, -80.299356,,,0,,1
-5051,5051,Elgin / Dundas (Temporary Stop),,  43.360236, -80.297851,,,0,,2
 5052,5052,651 Albert St. (Temporary Stop),,  43.490955, -80.538585,,,0,,2
 5053,5053,Westvale / Gateview (Temporary Stop),,  43.450220, -80.557398,,,0,,2
 5054,5054,Westvale / Gateview (Temporary Stop),,  43.450722, -80.556193,,,0,,2
@@ -2351,12 +2347,12 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5057,5057,Greenbrook / Lakeside (Temporary Stop),,  43.428947, -80.499159,,,0,,2
 5058,5058,Lakeside / Greenbrook (Temporary Stop),,  43.429060, -80.498988,,,0,,2
 5059,5059,Fischer-Hallman / Erb (Temporary Stop),,  43.452077, -80.553336,,,0,,2
-5061,5061,Victoria / Lancaster (Temporary Stop),,  43.458844, -80.481502,,,0,,2
 5062,5062,Bismark / Blair (Temporary Stop),,  43.370975, -80.332824,,,0,,2
 5063,5063,Blair / Leslie (Temporary Stop),,  43.374083, -80.336916,,,0,,2
 5064,5064,Bismark / Blair (Temporary Stop),,  43.370949, -80.332446,,,0,,2
 5065,5065,Mayfield / Lincoln (Temporary Stop),,  43.479552, -80.507871,,,0,,2
 5066,5066,King / Stirling (Temporary Stop),,  43.444195, -80.476962,,,0,,1
+5068,5068,Chalmers / Dundas (Temporary Stop),,  43.362871, -80.301627,,,0,,1
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1
 6003,6003,Research & Technology Station,,  43.481605, -80.545184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1
@@ -2372,21 +2368,21 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6013,6013,Borden Station,,  43.442387, -80.475368,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
 6014,6014,Mill Station,,  43.433638, -80.477960,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 6015,6015,Block Line Station,,  43.422733, -80.463085,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
-6016,6016,Fairway Station,,  43.422295, -80.441812,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+6016,6016,Fairway Station,,  43.422295, -80.441812,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,1
 6017,6017,Sportsworld Station,,  43.410252, -80.393138,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
 6019,6019,Pinebush Station,,  43.407581, -80.328185,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6020,6020,Cambridge Centre Station,,  43.392605, -80.322274,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6021,6021,Can-Amera Station,,  43.385250, -80.321055,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6022,6022,Delta Station,,  43.373714, -80.318833,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6023,6023,Pinebush Station,,  43.407203, -80.328043,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
-6024,6024,Fairway Station,,  43.422366, -80.442130,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+6024,6024,Fairway Station,,  43.422366, -80.442130,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,3
 6101,6101,Ainslie Terminal,,  43.357642, -80.313444,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_AST,1
 6102,6102,Delta Station,,  43.372830, -80.318223,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6103,6103,Can-Amera Station,,  43.386523, -80.321010,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6104,6104,Cambridge Centre Station,,  43.392708, -80.322961,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CBC,1
 6105,6105,Pinebush Station,,  43.407749, -80.327774,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1
 6107,6107,Sportsworld Station,,  43.410002, -80.393307,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1
-6108,6108,Fairway Station,,  43.422355, -80.441840,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1
+6108,6108,Fairway Station,,  43.422355, -80.441840,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_FVM,1,2
 6109,6109,Block Line Station,,  43.422825, -80.462926,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BLIN,1
 6110,6110,Mill Station,,  43.433656, -80.477913,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_MILL,1
 6111,6111,Borden Station,,  43.442419, -80.475361,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_BORD,1
