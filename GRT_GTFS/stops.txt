@@ -547,7 +547,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1620,1620,King / Concession,,  43.387911, -80.342518,,,0,,1,
 1621,1621,King / Brower,,  43.388776, -80.344225,,,0,,2,
 1622,1622,King / Bishop,,  43.389969, -80.346607,,,0,,1,
-1624,1624,King / Dolph,,  43.393175, -80.352919,,,0,,1,
 1627,1627,King / Eagle,,  43.398860, -80.363884,,,0,,1,
 1628,1628,King / Fountain,,  43.399950, -80.368012,,,0,,1,
 1630,1630,Preston Pkwy. / Fountain,,  43.390986, -80.375501,,,0,,2,
@@ -2020,7 +2019,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3663,3663,University Ave. / Countrystone,,  43.437509, -80.558402,,,0,,1,
 3664,3664,University Ave. / Countrystone Park,,  43.438930, -80.554386,,,0,,1,
 3665,3665,University Ave. / Pastern,,  43.491948, -80.490954,,,0,,1,
-3667,3667,Fischer-Hallman / Bleams,,  43.402251, -80.496634,,,0,,2,
 3668,3668,Fischer-Hallman / Rockwood,,  43.404086, -80.497331,,,0,,1,
 3671,3671,University Ave. / Pastern,,  43.491851, -80.491288,,,0,,1,
 3672,3672,Bridge / University  Ave.,,  43.489713, -80.494137,,,0,,1,
@@ -2365,7 +2363,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4099,4099,Bridgeport Rd. / Albert,,  43.467471, -80.524761,,,0,,1,
 4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1,
 4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1,
-4102,4102,Maple Grove / Compass,,  43.431138, -80.345255,,,0,,1,
 4103,4103,Maple Grove / Compass,,  43.430960, -80.345038,,,0,,1,
 4104,4104,Preston Pkwy. / Shantz Hill,,  43.399339, -80.375470,,,0,,2,
 4105,4105,Southwood / St Andrews,,  43.344460, -80.331306,,,0,,1,
@@ -2407,6 +2404,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 5065,5065,Mayfield / Lincoln (Temporary Stop),,  43.479552, -80.507871,,,0,,2,
 5066,5066,King / Stirling (Temporary Stop),,  43.444195, -80.476962,,,0,,1,
 5068,5068,Chalmers / Dundas (Temporary Stop),,  43.362871, -80.301627,,,0,,1,
+5069,5069,Bishop / Duke (Temporary Stop),,  43.391288, -80.345839,,,0,,2,
 6001,6001,Conestoga Station,,  43.498294, -80.529518,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_CML,1,1
 6002,6002,Northfield Station,,  43.497187, -80.543229,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_NORT,1,1
 6003,6003,Research & Technology Station,,  43.481605, -80.545184,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_RTEC,1,1
