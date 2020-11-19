@@ -509,7 +509,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1572,1572,Sportsworld Station,,  43.410186, -80.392578,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_SPW,1,
 1573,1573,Gateway Park / Sportsworld,,  43.407820, -80.391372,,,0,,1,
 1574,1574,Tu Lane / Gateway Park,,  43.406260, -80.389177,,,0,,1,
-1575,1575,Shantz Hill / Preston Pkwy.,,  43.399640, -80.375548,,,0,,1,
 1576,1576,200 Preston Pkwy.,,  43.399359, -80.376860,,,0,,1,
 1577,1577,Preston Pkwy. / Linden,,  43.398527, -80.377980,,,0,,1,
 1578,1578,Preston Pkwy. / Parkview,,  43.396446, -80.377668,,,0,,1,
@@ -1404,8 +1403,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2649,2649,Weber / Fairview,,  43.446823, -80.475909,,,0,,1,
 2650,2650,Eagle / Concession,,  43.404763, -80.346940,,,0,,2,
 2651,2651,Weber / Cameron,,  43.447951, -80.478433,,,0,,1,
+2652,2652,Franklin / Timber Creek,,  43.373725, -80.296420,,,0,,1,
 2653,2653,Weber / Cedar,,  43.449288, -80.481400,,,0,,1,
 2654,2654,Margaret / Centre In The Square,,  43.454683, -80.485741,,,0,,1,
+2655,2655,Franklin / Millcreek,,  43.373665, -80.296585,,,0,,1,
 2656,2656,Margaret / Victoria,,  43.456787, -80.489220,,,0,,1,
 2657,2657,Margaret / Wellington,,  43.458991, -80.490600,,,0,,1,
 2658,2658,Margaret / Wilhelm,,  43.460746, -80.492575,,,0,,1,
@@ -1691,6 +1692,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3097,3097,Greenbrook / Westmount,,  43.428205, -80.507068,,,0,,2,
 3098,3098,Greenbrook / Forest Hill,,  43.428528, -80.502679,,,0,,1,
 3105,3105,Highland / Spadina,,  43.438669, -80.492822,,,0,,1,
+3110,3110,Victoria / Joseph,,  43.450558, -80.500278,,,0,,1,
+3111,3111,Victoria / Bramm,,  43.449144, -80.501832,,,0,,1,
 3112,3112,Victoria / Henry,,  43.447800, -80.503312,,,0,,1,
 3113,3113,Victoria / Patricia,,  43.444330, -80.508729,,,0,,1,
 3114,3114,Victoria / Belmont,,  43.443013, -80.512298,,,0,,1,
@@ -1761,7 +1764,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3220,3220,Victoria / Lawrence,,  43.441969, -80.514692,,,0,,1,
 3221,3221,Victoria / Patricia,,  43.444337, -80.508259,,,0,,1,
 3222,3222,Victoria / Iron Horse Trail,,  43.444879, -80.506549,,,0,,1,
+3225,3225,Victoria / Michael,,  43.449296, -80.501446,,,0,,1,
 3226,3226,Central Station,,  43.452622, -80.498131,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1,
+3227,3227,Victoria / Joseph,,  43.450873, -80.499678,,,0,,1,
 3229,3229,Ottawa / Strasburg,,  43.422932, -80.487332,,,0,,1,
 3237,3237,Union / Lucan,,  43.463028, -80.511915,,,0,,1,
 3238,3238,Union / Herbert,,  43.460436, -80.514346,,,0,,1,
@@ -2312,7 +2317,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4020,4020,Columbia / St Moritz,,  43.453118, -80.584285,,,0,,2,
 4021,4021,Columbia / Lucerne,,  43.457183, -80.582652,,,0,,2,
 4022,4022,Columbia / Zurich,,  43.457015, -80.582987,,,0,,2,
-4023,4023,Columbia / Sundew,,  43.449190, -80.590268,,,0,,2,
 4024,4024,Columbia / Bennington,,  43.465022, -80.573290,,,0,,1,
 4025,4025,450 Columbia St. W.,,  43.466501, -80.569081,,,0,,1,
 4026,4026,Columbia / Fischer-Hallman,,  43.467909, -80.565832,,,0,,1,
@@ -2389,7 +2393,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 4100,4100,Maple Grove / Beaverdale,,  43.434509, -80.336236,,,0,,1,
 4101,4101,Maple Grove / Beaverdale,,  43.434099, -80.336785,,,0,,1,
 4103,4103,Maple Grove / Compass,,  43.430960, -80.345038,,,0,,1,
-4104,4104,Preston Pkwy. / Shantz Hill,,  43.399339, -80.375470,,,0,,2,
+4104,4104,Shantz Hill / Preston Pkwy.,,  43.399242, -80.375072,,,0,,1,
 4105,4105,Southwood / St Andrews,,  43.344460, -80.331306,,,0,,1,
 4106,4106,St Andrews / Stanley,,  43.346403, -80.328768,,,0,,1,
 4107,4107,King / Fairway,,  43.428144, -80.431430,,,0,,2,
@@ -2431,7 +2435,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6004,6004,University Of Waterloo Station,,  43.473353, -80.541402,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_UWAT,1,1
 6005,6005,Laurier-Waterloo Park Station,,  43.468853, -80.534442,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1,1
 6006,6006,Willis Way Station,,  43.462149, -80.523369,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1,
-6007,6007,Allen Station,,  43.459829, -80.518388,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_ALEN,1,1
+6007,6007,Allen Station,,  43.459829, -80.518388,,https://www.grt.ca/en/about-grt/allen-station.aspx,0,place_ALEN,1,1
 6008,6008,Grand River Hospital Station,,  43.457268, -80.512070,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1,1
 6009,6009,Central Station,,  43.453080, -80.499172,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1,1
 6010,6010,Victoria Park Station,,  43.450181, -80.493688,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1,
@@ -2463,7 +2467,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6114,6114,Kitchener City Hall Station,,  43.451941, -80.490831,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1,
 6115,6115,Central Station,,  43.453262, -80.499049,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,,1,2
 6116,6116,Grand River Hospital Station,,  43.457300, -80.512034,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_GRH,1,2
-6117,6117,Allen Station,,  43.459849, -80.518345,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_ALEN,1,2
+6117,6117,Allen Station,,  43.459849, -80.518345,,https://www.grt.ca/en/about-grt/allen-station.aspx,0,place_ALEN,1,2
 6118,6118,Waterloo Public Square Station,,  43.464142, -80.523000,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_WPSQ,1,
 6119,6119,Laurier-Waterloo Park Station,,  43.468879, -80.534397,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_LWP,1,2
 6120,6120,University Of Waterloo Station,,  43.473404, -80.541294,,https://www.grt.ca/en/schedules-maps/terminals-and-stations.aspx,0,place_UWAT,1,2
